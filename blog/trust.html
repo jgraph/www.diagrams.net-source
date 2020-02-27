@@ -1,0 +1,30 @@
+---
+title: See how diagrams.net provides data security and privacy
+layout: category
+permalink: /blog/trust.html
+category: trust
+---
+<!-- Blog Listing Section -->
+
+      <ul>
+        {% for post in site.categories.trust %}
+          <article class="card shadow mb-5">
+            <div class="card-body p-5">
+              {% for category in post.categories %}
+              <a class="d-inline-block text-secondary font-weight-medium text-uppercase small mb-2" href="{{ site.url }}{{ site.baseurl }}blog/{{ category }}.html">{{ category | replace:'-',' ' }}</a>
+              {% unless forloop.last %} &nbsp; {% endunless %}{% endfor %}
+              <h2 class="h5 font-weight-medium">
+                <a href="{{ post.url}}">{{ post.title }}</a>
+              </h2>
+
+              <p>{{ post.excerpt }}</p>
+
+              <div class="media align-items-center pt-5">
+                <div class="media-body d-flex justify-content-end text-muted font-size-1 ml-2">
+                  {{ post.date | date_to_string }}
+                </div>
+              </div>
+            </div>
+          </article>
+        {% endfor %}
+      </ul>
