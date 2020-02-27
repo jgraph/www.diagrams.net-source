@@ -1,0 +1,11 @@
+name: diagrams.net site
+permalink: /blog/:slug
+
+url: ''
+baseurl: '/'
+
+
+collections:
+  - faq
+
+faq-categories: [Confluence Cloud, Confluence Server, Jira Cloud, Customisation, Shapes, Connectors, Plugins, Integrations, Export]
