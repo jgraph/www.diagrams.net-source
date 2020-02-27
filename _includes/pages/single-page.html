@@ -1,0 +1,84 @@
+<!-- ========== MAIN ========== -->
+<main id="content" role="main">
+  <!-- Article Description Section -->
+  <div class="container space-2 space-top-md-5 space-top-lg-4 space-bottom-lg-3">
+
+    <!-- Breadcrumbs Section -->
+    <div class="w-lg-60 mx-lg-auto">
+      <div class="mb-4">
+        <nav aria-label="breadcrumb">
+          <ol class="breadcrumb breadcrumb-no-gutter font-size-1">
+            <li class="breadcrumb-item"><a href="{{ site.url }}">Home</a></li>
+             {% assign crumbs = page.url | split: '/' %}
+               {% for crumb in crumbs offset: 1 %}
+                {% if forloop.last %}
+                    <li class="breadcrumb-item"><a class="current">{{ page.title }}</a></li>
+                {% else %}
+                    <li class="breadcrumb-item"><a href="{{ site.url }}{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">{{ crumb | replace:'-',' ' }}</a></li>
+                {% endif %}
+              {% endfor %}
+          </ol>
+        </nav>
+      </div>
+    </div>
+    <!-- End Breadcrumbs Section -->
+
+    <div class="w-lg-60 mx-lg-auto">
+      <div class="mb-4">
+        <h1 class="h2 font-weight-medium">{{ page.title }}</h1>
+      </div>
+
+      {{ content }}
+
+    </div>
+  </div>
+  <!-- End Article Description Section -->
+</main>
+<!-- ========== END MAIN ========== -->
+
+<!-- JS Global Compulsory -->
+<script src="../../assets/js/jquery.min.js"></script>
+<script src="../../assets/js/jquery-migrate.min.js"></script>
+<script src="../../assets/js/popper.min.js"></script>
+<script src="../../assets/js/bootstrap.min.js"></script>
+
+<!-- JS Implementing Plugins -->
+<script src="../../assets/js/hs.megamenu.js"></script>
+
+<!-- JS Front -->
+<script src="../../assets/js/hs.core.js"></script>
+<script src="../../assets/js/hs.header.js"></script>
+<script src="../../assets/js/hs.unfold.js"></script>
+<script src="../../assets/js/hs.focus-state.js"></script>
+<script src="../../assets/js/hs.show-animation.js"></script>
+
+<!-- JS Plugins Init. -->
+<script>
+  $(window).on('load', function () {
+    // initialization of HSMegaMenu component
+    $('.js-mega-menu').HSMegaMenu({
+      event: 'hover',
+      pageContainer: $('.container'),
+      breakpoint: 767.98,
+      hideTimeOut: 0
+    });
+  });
+
+  $(document).on('ready', function () {
+    // initialization of header
+    $.HSCore.components.HSHeader.init($('#header'));
+
+    // initialization of unfold component
+    $.HSCore.components.HSUnfold.init($('[data-unfold-target]'), {
+      afterOpen: function () {
+        $(this).find('input[type="search"]').focus();
+      }
+    });
+
+    // initialization of show animations
+    $.HSCore.components.HSShowAnimation.init('.js-animation-link');
+
+    // initialization of forms
+    $.HSCore.components.HSFocusState.init();
+  });
+</script>
