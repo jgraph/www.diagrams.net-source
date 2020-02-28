@@ -30,7 +30,7 @@ The current Atlassian specific web site at about.draw.io will move away from the
 
 ## What's next?
 
-We will be building our a new web site at [www.diagrams.net](https://www.diagrams.net) and this is focused on the core open source project and the reference implementation at [app.diagrams.net](https://app.digrams.net).
+We will be building our a new web site at [www.diagrams.net](https://www.diagrams.net) and this is focused on the core open source project and the reference implementation at [app.diagrams.net](https://app.diagrams.net).
 
 We are testing https://app.diagrams.net to check everything that works on the draw.io domain works there. Don't switch away from www.draw.io just yet.
 
