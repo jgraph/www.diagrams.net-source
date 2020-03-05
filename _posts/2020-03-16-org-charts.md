@@ -2,7 +2,7 @@
 layout: post
 author: diagrams.net
 slug: org-charts
-date: 2020-03-02 09:02:00
+date: 2020-03-16 09:02:00
 title: Use org charts to categorise data and show hierarchies
 tags: [org-charts]
 categories: [use-cases]
