@@ -1,5 +1,5 @@
 ---
-title: How to permanently load a plugin
+title: Permanently load a plugin using diagrams.net
 layout: page
 faq: true
 categories: [Plugins]

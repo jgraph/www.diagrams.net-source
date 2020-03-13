@@ -1,8 +1,8 @@
 ---
-title: How to load plugins by default in draw.io for Confluence Cloud
+title: Load plugins by default in draw.io for Confluence Cloud
 layout: page
 faq: true
-categories: [Confluence cloud, Customisation, Plugins]
+categories: [Confluence Cloud, Customisation, Plugins]
 ---
 
 An administrator can configure draw.io for Confluence Cloud to load one or more of the diagrams.net plugins by default. Then, whenever someone edits a diagram in that instance, they can use the plugin via the draw.io editor menu. Currently, only trusted plugins, developed by diagrams.net, are available for Confluence Cloud.

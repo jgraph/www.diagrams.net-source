@@ -1,11 +1,11 @@
 ---
-title: How to use custom fonts in draw.io for Confluence Cloud
+title: Use custom fonts in draw.io for Confluence Cloud
 layout: page
 faq: true
 categories: [Confluence Cloud, Customisation]
 ---
 
-The draw.io configuration in the Confluence Cloud administration section lets you specify the font(s) you want to see in the font list by default. You can also set up your own custom fonts, providing they are available publicly on the web.
+Edit the draw.io configuration in the Confluence Cloud administration section to specify the font(s) you want to see in the font list by default. You can also set up your own custom fonts, providing they are available publicly on the web.
 
 Just like [custom colours](/doc/faq/custom-colours-confluence-cloud.html), [shape libraries](/doc/faq/custom-libraries-confluence-cloud.html) and [templates](/doc/faq/custom-templates-confluence-cloud.html), custom fonts are configured using a [JSON](http://www.json.org/) (JavaScript Object Notation) string containing options and their values.
 
@@ -59,7 +59,7 @@ For _Google fonts_, instead of specifying the font family in the ``fontCss`` opt
 }
 ```
 
-### Using multiple curom fonts
+### Using multiple custom fonts
 
 Add all of the fonts in the fontCss value inside the double quotes, separated by semi-colons, and all on the one line.
 

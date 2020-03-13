@@ -1,5 +1,5 @@
 ---
-title: How to add a plugin to draw.io for Confluence Server
+title: Add a plugin to draw.io for Confluence Server
 layout: page
 faq: true
 categories: [Confluence Server, Plugins]

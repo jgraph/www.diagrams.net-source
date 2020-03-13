@@ -1,5 +1,5 @@
 ---
-title: How to use the explore plugin to step through your diagram
+title: Step through your diagram using the explore plugin
 layout: page
 faq: true
 categories: [Plugins, Confluence Cloud, Confluence Server]

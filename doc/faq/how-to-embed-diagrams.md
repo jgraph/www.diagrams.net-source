@@ -1,5 +1,5 @@
 ---
-title: How to embed a diagrams
+title: Generate code to embed a diagram in a webpage
 layout: page
 faq: true
 categories: [Integrations]

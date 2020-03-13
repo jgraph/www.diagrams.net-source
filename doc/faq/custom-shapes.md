@@ -1,5 +1,5 @@
 ---
-title: How to create custom shapes in diagrams.net using the text editor
+title: Create custom shapes in diagrams.net using the text editor
 layout: page
 faq: true
 categories: [Shapes]

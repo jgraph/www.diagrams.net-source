@@ -1,5 +1,5 @@
 ---
-title: How to reset or override connection points
+title: Reset or override connection points on a shape
 layout: page
 faq: true
 categories: [Shapes, Connectors]

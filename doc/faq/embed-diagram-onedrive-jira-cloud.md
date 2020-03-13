@@ -1,5 +1,5 @@
 ---
-title: How to embed a diagram from OneDrive into Jira Cloud
+title: Embed a diagram from OneDrive into Jira Cloud
 layout: page
 faq: true
 categories: [Jira Cloud]

@@ -1,5 +1,5 @@
 ---
-title: How to use the tags plugin
+title: Display or hide diagram elements using the tags plugin
 layout: page
 faq: true
 categories: [Plugins, Confluence Cloud, Confluence Server]

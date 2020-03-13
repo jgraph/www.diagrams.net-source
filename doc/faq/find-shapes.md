@@ -1,5 +1,5 @@
 ---
-title: How to find shapes based on their metadata or labels
+title: Find shapes in your diagram based on their metadata or labels
 layout: page
 faq: true
 categories: [Shapes]

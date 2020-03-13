@@ -1,5 +1,5 @@
 ---
-title: How to use the anonymize plugin to scramble all text in your diagram
+title: Scramble all text in your diagram with the anonymize plugin
 layout: page
 faq: true
 categories: [Plugins, Confluence Cloud, Confluence Server]

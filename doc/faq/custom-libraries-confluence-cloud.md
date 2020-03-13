@@ -1,5 +1,5 @@
 ---
-title: How to use custom libraries in Confluence Cloud
+title: Use custom libraries in Confluence Cloud
 layout: page
 faq: true
 categories: [Confluence Cloud, Customisation]

@@ -4,4 +4,8 @@ layout: page
 path: /doc/
 ---
 
-[Frequently Asked Questions](/doc/faq/)
+Also see our [FAQs organised into categories](/doc/faq/)
+
+
+### Confluence
+* [draw.io for Confluence Cloud](/doc/drawio-confluence-cloud.html)

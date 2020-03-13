@@ -1,5 +1,5 @@
 ---
-title: How to uninstall a plugin
+title: Uninstall a plugin from diagrams.net
 layout: page
 faq: true
 categories: [Plugins]

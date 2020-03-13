@@ -1,5 +1,5 @@
 ---
-title: How to use custom template diagrams in Confluence Cloud
+title: Set up custom template diagrams in Confluence Cloud
 layout: page
 faq: true
 categories: [Confluence Cloud, Customisation]

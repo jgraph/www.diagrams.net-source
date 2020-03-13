@@ -1,5 +1,5 @@
 ---
-title: How to use the properties plugin to see shape metadata
+title: See shape metadata with the properties plugin
 layout: page
 faq: true
 categories: [Plugins, Confluence Cloud, Confluence Server]

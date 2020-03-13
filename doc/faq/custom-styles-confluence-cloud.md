@@ -1,5 +1,5 @@
 ---
-title: How to set custom default styles for shapes and connectors
+title: Set custom default styles for shapes and connectors
 layout: page
 faq: true
 categories: [Confluence Cloud, Customisation]

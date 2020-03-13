@@ -1,5 +1,5 @@
 ---
-title: How to customise the draw.io interface
+title: Customise the draw.io interface
 layout: page
 faq: true
 categories: [Confluence Cloud, Customisation]

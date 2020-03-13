@@ -1,5 +1,5 @@
 ---
-title: How to use custom colours in Confluence Cloud
+title: Set custom colours in Confluence Cloud
 layout: page
 faq: true
 categories: [Confluence Cloud, Customisation]

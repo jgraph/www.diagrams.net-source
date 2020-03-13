@@ -1,5 +1,5 @@
 ---
-title: How to embed a diagram from OneDrive into Confluence Cloud
+title: Embed a diagram from OneDrive into Confluence Cloud
 layout: page
 faq: true
 categories: [Confluence Cloud]

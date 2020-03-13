@@ -1,5 +1,5 @@
 ---
-title: How to embed a diagram on Google Sites
+title: Embed a diagram on Google Sites
 layout: page
 faq: true
 categories: [Integrations]
