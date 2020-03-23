@@ -74,7 +74,7 @@ You can export your org chart to an image file (.png, .jpg, .svg) or HTML to emb
 If you want to share your diagram, you can publish it as a link or [export it as a URL](/blog/export-url.html). If it's not too complex, the entire diagram will be encoded in the link that is generated - no need to send files back and forth.
 
 
-## Auto-create an org charts
+## Auto-create org charts
 
 Large org charts can become out of date very quickly, especially if they have to be manually updated whenever staff leave or new staff join a company. With diagrams.net, you can create org charts quickly from text or CSV data exported from a employee management system (EMS).
 
