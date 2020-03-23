@@ -10,7 +10,7 @@ categories: [shortcuts]
 
 When you work with container shapes, dropping a shape over that container inserts that shape into that container. While this is useful for adding steps to a flow chart inside a flow lane (e.g. using the flow layout shape), you may not necessarily want to add the shape for the person responsible into the flow lane container, but instead overlay it.
 
-## How to overlay a shapes
+## How to overlay a shape
 
 1. Select and drag your shape to a position over a container shape.
 2. Press and hold the ``Alt`` key on Windows or the ``Option`` key on MacOS, then release the mouse button. You'll notice that the purple outline disappears when you press the key - this indicates that the shape you are holding won't be added to the container.
