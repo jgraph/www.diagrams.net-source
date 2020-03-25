@@ -16,7 +16,7 @@ We aim to provide free, high quality diagramming software for everyone, and disr
 
 **Secure and private:** The diagram editor runs in your browser so that your [diagram data stays only on your computer or mobile device](/blog/data-protection.html). You'll always be able to view and edit your diagram files with our free tool. Download the Desktop version to [diagram securely offline](/blog/diagrams-offline.html).
 
-**Rich libraries:** Think of a type of diagram - there is probably a shape library and a template diagram that will get your started quickly. Additional free clipart images are available when you search for a word in diagrams.net online.
+**Rich libraries:** Think of a type of diagram - there is probably a shape library and a template diagram that will get you started quickly. Additional free clipart images are available when you search for a word in diagrams.net online.
 
 <img src="/assets/img/blog/water-cycle.png" width="200" alt="Infographic of the water cycle created in diagrams.net"> &nbsp;  &nbsp;  <img src="/assets/img/blog/threat-modelling-process-flow2.png" width="400" alt="Threat modelling diagram using a custom shape library">
 

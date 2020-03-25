@@ -1,7 +1,7 @@
 ---
 layout: post
 author: diagrams.net
-slug: org-charts
+slug: network-diagrams
 date: 2020-03-30 09:10:00
 title: Network and infrastructure diagrams
 tags: [network diagrams, infrastructure diagrams, shape libraries]
