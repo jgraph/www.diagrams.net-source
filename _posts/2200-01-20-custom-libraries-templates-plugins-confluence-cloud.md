@@ -4,7 +4,7 @@ author: diagrams.net
 slug: custom-libraries-templates-plugins-confluence-cloud
 date: 2200-01-20 09:54:00
 title: Customise draw.io for Confluence Cloud
-tags: [features, Atlassian, customization]
+tags: [features, Atlassian, customisation]
 categories: [features]
 ---
 

@@ -44,7 +44,7 @@ Hierarchical visualisations of one component or asset in your infrastructure all
 
 Michael Henrikson developed a couple of custom libraries and explained [why he likes to use draw.io (diagrams.net) for threat modelling](https://michenriksen.com/blog/drawio-for-threat-modeling/). He has kindly given us permission to include his library in diagrams.net.
 
-The shapes used to create these diagrams are available in the threat modeling shape library.
+The shapes used to create these diagrams are now available in the threat modeling shape library.
 
 1. Click _More Shapes_ at the bottom of the left panel.
 2. Scroll down to the _Other_ section, enable the _Threat Modeling_ shape library, then click _Apply_.
