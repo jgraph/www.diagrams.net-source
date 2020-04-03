@@ -19,7 +19,7 @@ These plugins may not be production quality as some are developmental code, and 
 
 **Note:** You can only use these in the draw.io editor, and not when viewing a diagram.
 
-## Customize Confluence Cloud to load a draw.io plugin by default
+## Customise Confluence Cloud to load a draw.io plugin by default
 
 1. Go to the _draw.io Configuration_ tab in the _draw.io Configuration_ section of your Confluence Cloud settings.
 2. Add the [**plugin ID**](/doc/faq/plugins.html) you want to load by default to the ``plugins`` option in the JSON code. Add multiple plugins separated by a semicolon.
