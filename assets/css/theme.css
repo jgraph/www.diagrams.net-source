@@ -4241,10 +4241,14 @@ input[type="button"].btn-block {
 
 .tab-content > .tab-pane {
   display: none;
+  --ms-flex-direction: column;
+       flex-direction: column;
+  justify-content: center;
+  height: 453px;
 }
 
 .tab-content > .active {
-  display: block;
+  display: flex;
 }
 
 .navbar {
@@ -13056,7 +13060,6 @@ button:focus {
 .u-header__navbar-brand > img {
   padding-top: 0;
   padding-bottom: 0;
-  width: 9.375rem;
 }
 
 .u-header__navbar-brand-center {
@@ -13423,10 +13426,6 @@ button:focus {
   Nav Alignments
 ------------------------------------*/
 @media (min-width: 992px) {
-  .u-header__navbar-body,
-  .u-header__navbar-nav {
-    margin-left: auto;
-  }
   .u-header-left-aligned-nav .u-header__navbar-body,
   .u-header-left-aligned-nav .u-header__navbar-nav {
     margin-left: 0;
@@ -13472,6 +13471,10 @@ button:focus {
 }
 
 @media (min-width: 768px) {
+  .u-header__navbar-body,
+  .u-header__navbar-nav {
+    margin-left: auto;
+  }
   .u-header-center-aligned-nav.u-header--abs-top-sm .u-header__navbar-body,
   .u-header-center-aligned-nav.u-header--abs-top-sm .u-header__navbar-nav {
     margin-left: auto;
