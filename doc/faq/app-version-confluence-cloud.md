@@ -5,7 +5,7 @@ faq: true
 categories: [Confluence Cloud]
 ---
 
-As a Confluence Cloud administrator, you can check which version of the draw.io app is currently installed in your instance, and license the app.
+You can check which version of the draw.io app is currently installed in your instance, and license the app.
 
 1. While editing a draw.io diagram in your Confluence Cloud instance, select _Help > Support_ from the menu.
 <br /><img src="/assets/img/blog/drawio-help-support-confluence.png" width="400" alt="From withint the draw.io diagram editor, click on Help > Support">
