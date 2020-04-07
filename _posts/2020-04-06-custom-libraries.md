@@ -23,6 +23,18 @@ You can [add custom libraries to the draw.io for Confluence app](/doc/faq/custom
 
 <img src="/assets/img/blog/file-open-custom-library.png" width="400" alt="Open a custom shape library">
 
+## Load a custom library via a URL
+
+You can load a custom library hosted somewhere on the web by using a URL parameter when opening the diagrams.net editor. Add the ``clibs`` parameter and the address of the custom library with URL encoded characters.
+
+For example, to open the [templates.xml custom shape library](https://github.com/jgraph/drawio-libs/blob/master/libs/templates.xml), hosted on our GitHub, you would use the following URL:
+
+[``https://app.diagrams.net/?clibs=Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ftemplates.xml``](https://app.diagrams.net/?clibs=Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ftemplates.xml)
+
+If you want to only open that particular library, you can add a second parameter, ``libs=0`` to hide the default shape libraries:
+
+[``https://app.diagrams.net/?libs=0&clibs=Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ftemplates.xml``](https://app.diagrams.net/?libs=0&clibs=Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ftemplates.xml)
+
 ## Create your own custom shape library
 
 1. Click _File > New Library > …_ and select where you want to save your custom library file.
