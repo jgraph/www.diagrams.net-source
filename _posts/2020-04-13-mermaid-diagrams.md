@@ -142,15 +142,16 @@ sequenceDiagram
 
 ### Pie chart
 
-While you can build a pie chart manually diagrams.net, using the Mermaid syntax makes it very easy to get exactly the correct distribution of pie slices. In the Mermaid code, you can either use percentage values, or the actual value of each group.
+While you can build a pie chart manually diagrams.net, using the Mermaid syntax makes it very easy to get exactly the correct distribution of pie slices. In the Mermaid code, you can either use percentage values, or the actual value of each group. In the example below, you can see which days are the busiest for commits to the diagrams.net main repository on GitHub.
 
 ```
-pie title Pets in the UK
-	"Dogs" : 9900000
-	"Cats" : 10900000
-	"Rabbits" : 9000000
+pie title Commits to mxgraph2 on GitHub
+	"Sunday" : 4
+	"Monday" : 5
+	"Tuesday" : 7
+  "Wednesday" : 3
 ```
-<img src="/assets/img/blog/mermaid-pie-example.png" width="300" alt="The distribution of pets in the UK, inserted into diagrams.net using Mermaid syntax">
+<img src="/assets/img/blog/mermaid-pie-example.png" width="300" alt="Commits to the mxgraph2 GitHub repository per day, inserted into diagrams.net using Mermaid syntax">
 
 [_Open this example in diagrams.net_](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&page=4&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fmermaid-examples.drawio)
 
