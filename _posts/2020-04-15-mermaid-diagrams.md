@@ -2,20 +2,20 @@
 layout: post
 author: diagrams.net
 slug: mermaid-diagrams
-date: 2020-04-13 09:10:00
+date: 2020-04-15 09:10:00
 title: Use Mermaid syntax to create diagrams
 tags: [integrations,uml]
 categories: [integrations,features]
 ---
 
-Mermaid is a syntax similar to Markdown where you can use text to describe and automatically generate diagrams. With  Mermaid's Markdownish, you can generate flow charts, UML diagrams, pie charts, Gantt charts, and more.
+Mermaid is a syntax similar to Markdown where you can use text to describe and automatically generate diagrams. With  Mermaid's Markdown-inspired syntax, you can generate flow charts, UML diagrams, pie charts, Gantt charts, and more.
 
-Many developers prefer to describe their data structures and processes using text, avoiding the need to context switch. After documenting them in Markdownish text, you can then insert this into the diagrams.net editor to generate a diagram and lay it out automatically.
+Many developers prefer to describe their data structures and processes using text, avoiding the need to context switch. After documenting them in the Markdown-based text description, you can then insert this into the diagrams.net editor to generate a diagram and lay it out automatically.
 
 ## Insert a Mermaid diagram
 
 1. Click _Arrange > Insert > Advanced > Mermaid_.
-<br /><img src="/assets/img/blog/insert-mermaid-menu.png" width="600" alt="Click Arrange > Insert > Advanced > Mermaid to create a diagram from Mermaid Markdownish code">
+<br /><img src="/assets/img/blog/insert-mermaid-menu.png" width="600" alt="Click Arrange > Insert > Advanced > Mermaid to create a diagram from Mermaid Markdown-inspired code">
 2. Paste your text into the text box, then click _Insert_.
 <br /><img src="/assets/img/blog/mermaid-flowchart-example-code.png" width="400" alt="Paste the text in Mermaid syntax, then click Insert">
 
@@ -47,7 +47,7 @@ Diagrams are created by linking text labels using arrow connectors. You can choo
 |   | containers: ``loop``, ``alt``, ``opt`` | ``class`` |
 |  **Information** | comment: ``%%`` |  ``note`` |
 
-Look at the examples below to see how the Mermaid Markdownish syntax is used to define a variety of diagrams in text. Open these example Mermaid diagrams in diagrams.net.
+Look at the examples below to see how the Mermaid syntax is used to define a variety of diagrams in text. Open these example Mermaid diagrams in diagrams.net.
 
 ### Flowchart
 
@@ -86,7 +86,7 @@ gantt
 
 ### UML class diagram
 
-The following is how the simple class diagram template from diagrams.net would look in Mermaid Markdownish syntax.
+The following is how the simple class diagram template from diagrams.net would look in Mermaid syntax.
 
 ```
 classDiagram
