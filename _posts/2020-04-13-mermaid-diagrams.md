@@ -63,7 +63,7 @@ graph TD
 ```
 <img src="/assets/img/blog/mermaid-flowchart-example.png" width="300" alt="A flow chart example from Mermaid syntax">
 
-[_Open this example in diagrams.net_](https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fmermaid-examples.drawio)
+[_Open this example in diagrams.net_](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fmermaid-examples.drawio)
 
 ### Gantt chart
 
@@ -82,7 +82,7 @@ gantt
 ```
 <img src="/assets/img/blog/mermaid-gantt-example.png" width="600" alt="An example Gantt chart inserted from Mermaid code">
 
-[_Open this example in diagrams.net_](https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&page=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fmermaid-examples.drawio)
+[_Open this example in diagrams.net_](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&page=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fmermaid-examples.drawio)
 
 ### UML class diagram
 
@@ -118,7 +118,7 @@ classDiagram
 ```
 <img src="/assets/img/blog/mermaid-class-example.png" width="300" alt="The simple class example template from diagrams.net in Mermaid syntax">
 
-[_Open this example in diagrams.net_](https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&page=2&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fmermaid-examples.drawio)
+[_Open this example in diagrams.net_](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&page=2&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fmermaid-examples.drawio)
 
 ### UML sequence diagram
 
@@ -138,7 +138,7 @@ sequenceDiagram
 ```
 <img src="/assets/img/blog/mermaid-sequence-example.png" width="500" alt="A simple sequence diagram inserted using the Mermaid syntax">
 
-[_Open this example in diagrams.net_](https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&page=3&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fmermaid-examples.drawio)
+[_Open this example in diagrams.net_](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&page=3&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fmermaid-examples.drawio)
 
 ### Pie chart
 
@@ -152,6 +152,6 @@ pie title Pets in the UK
 ```
 <img src="/assets/img/blog/mermaid-pie-example.png" width="300" alt="The distribution of pets in the UK, inserted into diagrams.net using Mermaid syntax">
 
-[_Open this example in diagrams.net_](https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&page=4&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fmermaid-examples.drawio)
+[_Open this example in diagrams.net_](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&page=4&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fmermaid-examples.drawio)
 
 **Did you know:** Mermaid's syntax is similar to Graphviz DOT and PlantUML, both of which can be inserted into diagrams.net to create diagrams from a text description.
