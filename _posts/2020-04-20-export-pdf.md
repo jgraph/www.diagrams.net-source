@@ -2,7 +2,7 @@
 layout: post
 author: diagrams.net
 slug: export-pdf
-date: 2020-04-20 09:10:00
+date: 2020-04-22 09:10:00
 title: Export diagrams to PDF files
 tags: [export,features]
 categories: [features]
