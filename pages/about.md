@@ -32,4 +32,4 @@ Our mission statement is __“provide free, high quality diagramming software fo
 
 We're not passing moral judgement on anyone following other models. We're saying there are a number of software applications that pull in massive profits when they could be supplied far cheaper and the money saved spent on something that actually improves the world.
 
-Was is wrong with them is that companies end up becoming floor of salespeople ramming product down user's throats. That SaaS companies purposefully make it hard for users to get their data out and complex to convert that data to another format.
+What is wrong with them is that companies end up becoming floors of salespeople ramming product down user's throats. That SaaS companies purposefully make it hard for users to get their data out and complex to convert that data to another format.
