@@ -27,9 +27,3 @@ Our mission statement is __“provide free, high quality diagramming software fo
 * By allowing you to build on the software for free, not just use it. Replacement proprietary software with a single open source application isn't helpful, either. You can take the existing diagrams.net base and build for specific vertical markets, add and improve on features. Competition is good.
 
 * By picking one commercial ecosystem to charge for the application where the host product is pay-for and the profit margins greatest, and that was the Atlassian ecosystem. Note that you still control access to your data on Confluence and Jira, we don't resort to locking your data away, just because it's a commercial platform.
-
-###### What's wrong with the traditional software models?
-
-We're not passing moral judgement on anyone following other models. We're saying there are a number of software applications that pull in massive profits when they could be supplied far cheaper and the money saved spent on something that actually improves the world.
-
-What is wrong with them is that companies end up becoming floors of salespeople ramming product down user's throats. That SaaS companies purposefully make it hard for users to get their data out and complex to convert that data to another format.
