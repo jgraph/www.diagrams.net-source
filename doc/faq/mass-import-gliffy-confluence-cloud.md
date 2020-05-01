@@ -2,7 +2,7 @@
 title: Mass import Gliffy diagrams to draw.io in Confluence Cloud
 layout: page
 faq: true
-categories: [Confluence Cloud, Gliffy]
+categories: [Confluence Cloud, Gliffy, Import]
 ---
 
 As an administrator, you can convert all of the Gliffy diagrams in your Confluence Cloud instance into draw.io diagrams with one click.

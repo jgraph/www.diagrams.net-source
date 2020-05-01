@@ -2,7 +2,7 @@
 title: No .vsd file import in the Desktop app
 layout: page
 faq: true
-categories: [Desktop]
+categories: [Desktop, Import]
 ---
 
 The Desktop version of diagrams.net is a standalone application which does not send any data outside of your device.
