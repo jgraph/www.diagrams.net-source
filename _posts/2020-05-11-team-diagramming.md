@@ -1,0 +1,86 @@
+---
+layout: post
+author: diagrams.net
+slug: team-diagramming
+date: 2020-05-11 09:10:00
+title: Team diagramming in all departments
+tags: [features,Atlassian]
+categories: [use-cases,integrations]
+---
+
+All teams have their own unique needs and particular workflows. Integrating useful collaboration tools seamlessly into that workflow is the key to your team's success.
+
+## Integrate diagramming in your workflow
+
+Collaborate effectively on diagrams stored in various cloud platforms using [app.diagrams.net](https://app.diagrams.net). If you are working with external teams that use a different tool, [diagrams.net can also import diagrams in a wide range of formats](/blog/import-formats.html).
+
+Improve your team's productivity and keep all of your tools within the one workflow to minimise context switching and confusion. Instead of diagramming outside your main tools and workflow, install [draw.io for Confluence](https://marketplace.atlassian.com/apps/1210933/draw-io-diagrams-for-confluence?hosting=cloud&tab=overview) and [draw.io for Jira](https://marketplace.atlassian.com/apps/1211413/draw-io-diagrams-for-jira?hosting=cloud&tab=overview) from the [Atlassian Marketplace](https://www.atlassian.com/software/marketplace) and let your team collaborate on diagrams directly in the context of the relevant pages and issues.
+
+**Tip:** As an open source tool, [diagrams.net can also be integrated with a wide range of third-party applications and services](/integrations.html).
+
+## Use extensible and flexible tools
+
+[Customise diagrams.net](/doc/faq/diagram-editor-configuration.html) and the draw.io apps to make diagramming even easier. Set your own custom fonts, colour schemes, special shapes and shape libraries, templates and even configure the UI - make it easy for your team members to diagram quickly and in the same style.
+
+[See how you can customise draw.io for Confluence Cloud](/doc/drawio-confluence-cloud.html)
+
+## Diagrams for all teams
+
+Various types of diagrams are used by teams in all departments. Whether you are in IT, software development, HR or marketing, you most likely need to create diagrams regularly.  
+
+### Software teams: Smooth development, fewer bugs
+
+Diagrams ensure the process of designing and programming applications is smoother with fewer bugs, especially when team members are working on the same code base. You will be able to build, test and manage your software project with ease.
+
+[<img src="/assets/img/blog/gitflow-example.png" width="600" alt="An example gitflow diagram">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fgitflow-examples.drawio)
+
+There are a huge variety of diagrams that you can use in a software development team:
+
+* Document your development processes with [Gitflow diagrams](/blog/gitflow-diagram.html) to make sure all of your team members know on which branches they should develop.
+* Create UML diagrams of your existing code to see where changes and extensions will affect other code areas.
+* Mock up user interfaces and document infrastructures quickly and easily.
+* Diagram your testing processes to ensure a thorough test coverage, and let as few bugs as possible through to production.
+* Create diagrams quickly and easily from text with PlantUML and [Mermaid diagram](/blog/mermaid-diagrams.html) integrations.
+* Use diagrams to double check the security of your processes and data transfer with attack modelling.
+* ...
+
+<a href="https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&page=1&nav=1&title=threat-modelling.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fthreat-modelling.drawio"><img src="/assets/img/blog/threat-modelling-process-flow.png" width="600" alt="Example process flow diagram for threat modelling"></a>
+
+By integrating a diagramming tool into your existing applications and workflows, you can keep these diagrams in context and collaborate on them more easily with team members. Diagrams are useful tools to keep everyone on the same page throughout the software development lifecycle, from ideation through to code reviews and testing.
+
+While everyone can use [app.diagrams.net](https://app.diagrams.net) to view, edit and share diagrams, you can also diagram directly in the related Jira issues with the draw.io app.
+
+### Business teams: Diagrams for HR, marketing and management
+
+Business teams are increasingly moving to agile methodologies to keep up with the faster pace of hiring, product management, content creation, and marketing. Diagrams are used by everyone:
+
+<img src="/assets/img/blog/mermaid-gantt-example.png" width="600" alt="An example Gantt chart inserted from Mermaid code">
+
+* Track marketing campaigns, product launches and monitor projects with Gannt charts and Mermaid diagrams.
+* Onboard new team members with process flows and organisation charts.
+* Design and publish infographics.
+* Document content creation and release processes with BPMN diagrams.
+* Forecast and present results from CSV data.
+* Define a conference, office or even an apartment layout with a floor plan.
+
+[<img src="/assets/img/blog/floorplan-apartment-ground-floor.png" width="300" alt="A ground floor apartment floorplan created in diagrams.net">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Ffloorplan-apartment.drawio) [<img src="/assets/img/blog/floorplan-apartment-ground-floor.png" width="300" alt="The second floor of an apartment floorplan created in diagrams.net">]((https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Ffloorplan-apartment.drawio))
+
+diagrams.net has a large library of shapes and templates for all of these types of diagrams and more. You can either export your diagrams to PDF files or images for easy printing, or integrate diagrams.net with popular presentation software and cloud storage platforms.
+
+As everyone can access and use the open source tool at [app.diagrams.net](https://app.diagrams.net), you can collaborate on diagrams with external partners easily.  
+
+### IT teams: Infrastructure and asset tracking
+
+Export your infrastructure from your live cloud platform monitoring tools and import them into diagrams.net to save a snapshot of their current state, plan for upgrades and maintenance. Or create your own infrastructure diagrams to track your hardware assets and network information.
+
+Add these diagrams to their related Jira Service Desk issues using the draw.io app to keep all the necessary information in one place and make team communication easier.
+
+[<img src="/assets/img/blog/aws-iot-app-template.png" width="600" alt="An AWS template available in diagrams.net for IoTs device and apps, running on Amazon's cloud platform">](https://www.draw.io?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Untitled%20Diagram.drawio#R7V1bV9s6Gv01PJZl%2Be5HSKDTGboWq5wzPTMvLGGLxKe2lfpSoL%2F%2BSL4ltmQiSGwZEHTRWHYsWXtrS%2Fo%2B6fOJsYgfP6dws%2F6KAxSd6FrweGIsT3QdaJ5O%2FqMpT1WKC%2BwqYZWGQX3RNuEm%2FI2ab9apRRigrHNhjnGUh5tuoo%2BTBPl5Jw2mKX7oXnaPo26uG7hCTMKNDyM29XsY5Ov6KXRnm%2F4vFK7WTc7A9qozMWwurp8kW8MAP%2BwkGRcnxiLFOK8%2BxY8LFNHKa%2Bol%2BP%2Fy19e%2FNuF%2Ff17%2Bfal%2F%2FoT%2B%2Fdn9VN3s8iVfaR8hRUl%2B3FvX4P6CUVHX19n3G5KwiHAR1I%2BdPzV1ucFhkpd4WOfkH8lvoZ1Y5MyCHp3qVi%2Bhf%2Bx0EwB7RO%2FRTegfO90E0L896OUP%2BgXcSWCOOrfXevlrOwUk%2F4xzXORRmKBFy1yNJK5SGIQEpwWOcErSEpyQ2jtf53FEjgD5%2BLAOc3SzgT6t1QfS6kjaPU7yuu0AvTmuK57elXBvQz%2FHjyvaTE%2FhQ2aerlJcbMosv5DWwz17Sz7e%2BhTMWxjl9EZ5in%2BgpnAnukF%2BLylhzu%2FDKOoV%2BhdK85A0pbMoXNH755hmB%2BujCN2XdyRPEiarq%2FJoaWh16XlZBDBbo6B%2BpAjeoegc%2Bj9oQZOgl3XNS1IA9NhryHtaAWibJtE0hGOUp0%2Fke%2FVddMuo7vPUtHeX0oSmPGzlgcherQ%2FrHW1wrDoR1pq0am%2B%2FbXfkQ930XtAMDaapoYCoWH2Iojv8cLFNOC8rrK1InOZrvMIJjK4wBagk2d8oz59qRsEix10KoiQ4o9pKDvEGJVXKZUgLXdGtzxLLtM5tsz3TKKneo67ZIkfL%2FwrcSOcA0xV67jrb4gOcogjm4a9urjyk6q9eUzHbIYahdYhhOFZDjOYmGS5SH9Xf2yJOahI%2B7VxWq%2BRgTobudXMCTU5bClX33BKqfc7Xc8xUHBPnmDMJx0wABDl2LBJYTH%2BvWNGwoqr6vawQoY97IH0O6kxshfEBGLuCGDu6TIwdhfHrMXY00XbsycTYVRhPgLEzMF%2BYBmNPYXwAxqLDOdc4xnDupeN8AOzucI9MPqcY6DeWN1FSbVmjmPViZh1lMno4s%2BweswS%2B4rqTkBEohTuAh7poL3aowh3UiwHWjKxAFgfZEAXZlAqyoUCeAmRNKsimAnkCkF2pkw6grICHgGyKgnwUI%2FKLx4aa3XUvWN40s453bXYsS0sOGo%2FoFDyzj0GfvT4Ix9L6PoiK2aP5IIAyXh5CC1EnhCPVeAmU9VJ8bcKBTdq09W6TNj1Bt%2BJedbAdU1AdXtpPmVpPh4A5STelLK7yeGlpr2Ol0Xjlhm40co%2Blv9Ci%2BoFII9JjeYI9lly3ua4slQeA7Ar72%2BSCrCyVh4Asao52DzVi8fsB1%2Bj2A57GrNEbuydQRtBD%2BCNsH5Nq6daVEfQQkEUnqK7cnkAZQacA2TsU5AErp%2BH2ltJ6ztRdwbs2eI5OINF1ltWYQ5pKKFvlISCLzvwOdpUcBrKArfJD4%2BiJTu4k46hse5OseRvHMQU0rzu7051XGrGB6WqnOgCO4ZKPnmt2t%2FwZhjuSTZtZZGdMs%2BKzMdq%2FC56jxzD%2Fq8mHfP4fvSepxepo%2BVhnUR48NQfTu2ct4Y0iI%2B1XBL0BsCW6X5G10zfLDJtb6cy2tJHH0gZ4RwQ%2BkHn7CTXR5kRTAqEO9SJa2jSCqwYWL9hMO81CFvEN26x%2F0egumdJdYyy%2B6r1CT8RXAbN1l6O8IBU7fNwNFkHYdnF2sbxYdrmlN1zbue6y%2FGH4Wsd8kBMRAlhGu8ahRYUTE8JqSLIbEgJobs8VfbyYEKwVmu0lt6ANRRYZBk3TnMX5cgiMIeR2I5MADuKyQOzF9WjG%2FDsAmhqLX%2BNQOj56rHn5uSb34dEDvSYIbLYFTgsga95lo7QoAAcB1F3ZALKmWzYEigJwEEDD8yQDyJplLQWgaAdoNQvypcHHWmNtBd8wfGYHPrsxiciCz2TXPDoKvmdaX08%2BHdORDCC7ntFVAIq2P1f2%2BNPUGfg8Bd8wfF2Loyd79GmyFpc%2FwpxUm66RZ89PdLsMx3mXkk%2BrvK2aHWzLyzoApigLf8O7NihoNxwrhZIaDrPatHfCROrkh%2FOs43f%2BUVoiP5ldTNtwnruYS4rcafdnGBoDMTA4GJtjWWhM1kJzU9x9ygdw3gHX%2FlnQqMFlzX6qADsjFwB787g9OW9mkOHlbJjgcJigcZigj8YEgcWENFQw1x6%2FK9E907yk%2BtV79evxIuTanAoGo1Uwb7Fd1bQIS5OmqVzhFMX0XpusoP8HZYURGEJqg4ekLDSUcxlsPEN%2BjvKCnoVBuAkzSnVygKKwvigjHSu9BU0MiyzGQdmo4015yzDxwyAMitK6X9A%2FBCySPb06b7KmRzFcJZDmEoU%2FC3hKPv1Jz6MkjMu86SVhdfCLJMK4yv1nEWbkvwQTwtBQ3Bp6RKkf5jAPcUKzjCIY%2B7jJt7o4zMKmNGV24ab8Iv0Dy8eOyVPgpgJIcXJanmWVFZEIWt4wLcpyN3UX0txStEnRGpHBRlpWZZn4C0fFhhQIlUUv601DWUYPfTLW2CJQVkpB%2FtwXqxDSyxJa%2FIqpJKFIaTEuHn20yVFRAVbWK%2FZ9iPzyG36xCQOYV98ua2CT4jCgPK%2FQqpAoC%2BYX0QZWdUhvcn8f%2BiE9DlCG0uq6GEdVgWFV9WFZxVmLYxGfNgQjhN3l2Ku67iPo7X494I3%2FRhtx2Vrfa2LqHK%2BJafK8JmC0YRdvvabSCaUTSiek6UTfMgLaYHUdobB44wlgjSUUvDW%2FSiiUUCihmI1Q7CzD2S8UY72aw2TdGEoolFAooZiRUBieJywUo%2B0%2BsViHmRIKJRRKKGZkorCALW6jMMcSCl6gGSUUSiiUUMxGKGyDa8zkTz3GMmY2Pm0lFEoolFDMUygc0xEfURhjCQVve48SCiUUSihmIxSuLT71aDYqHF8oTCUUSiiUUMxZKDyX6x7ljyjGco9a7IK2Mz%2FHacaAlD2EcQTbNcO71dyg5ZMaQilFpr72srsS%2Bd6kvyfMCuU23Scsg5ss3C5wzHKYtmtUjREB6u3X5r8uvl331gHHGcslZbGL4f4kLZKBBhc5XXS4wElCVLquud7CbvJ7SbM%2BX6VEv9H2XLMOvAtJezl30XgAs3W7g7xpnFe0sV1j0ndQxTWWdzjPcTzYehnSDCyPbCMZ1M9Ls4TZpnrQ%2B%2FCRlqNaB4vSC9IjlMth6U2yNdzQL8SP5JE361P4kJmnRVbmNdZ6S2sgBkyrAl0rpckwzHFZgjmj2R3YRVTX8AlxGr9imDDDfJySEQ%2Fp5W9p93vbZi6Lcr3oGRzONbPKaTjHrsdZrCGhVfTRuxzd440HuF2ONVowCotdBfEV34XlPgd6Z137ju5GkQf%2B7qSeZjgOKPcjyJYHbsuPy4q69aOwZMV4LX4g1G59G9vpO8N4liteo2%2F3UhydVjbrM%2F%2BOYEp3skzT2TTEeWedTYwCWpRbFKN0hRL%2FSSLtesEXAbtXZ9LBjc16Xy%2F8NVZsez3bEK0%2FaQRzzQ7BTJ2z7xpMSTDWa3d2%2FUXx6wB%2BPZLLEiJnWfBDHs%2BcrpDpGs8SYE8qZazb5yNHCNuDH%2BiFAW46Alk7xG3WFm9%2BYPSenxNZjfmzGUaYXCPppPhxTKQx%2FF3a1K%2Bos%2BCYgk%2FOmWfnune2c24ZpuRGlW4nNKYoSwHSHSytc4YCdKJb%2FsyxW%2BB2ASmqYnl%2B8Wl56H736lP3qoiSboihuw%2FdcRG4Y87lvZ79mDuZn3YAzFqPW97esCHuDqWtrZ0ZhvMy2g4MZN4rbTNDmq6adtf0DBzeurdp%2Bclan1t%2BlgPpvt%2FwM8zRA43Cu9eheCiXPdNaXuov47J1Zmjn1ofhMtyEt6saEHmk1ruDBUJq09v5kexfsVlbd8vw%2FxB%2BZnQdQZ%2FMS5hT3%2FtNniIYc84rsk9P9h8VWJVHJ6uRefkAxBpz4Ox5824LrGOhaQt9hl9EMCNkuEEw9deqAcyhAaAKkqyE5DZD6a%2BQzk0l6b5jdE2BbcBRWeR2WPfG8imBMV5ylj9Np%2Bzm0iEnX0Zs8mOeex%2BG2EEJU3D3CjW3R2S4B4xTbedHnxnfWd%2FKTXGX%2BWl4R5cn9Yl9nWIfZRnmnDou5%2Fnm8qVmLYDDUPrNm8sjGN8F8Pa%2BSOo2LSsop9ZbYyKfn6xr5hv6WZTrVRU550XOQX11JhxBMKNlyfxlHT5Dg%2BXhcYYaTsx9ODHV6MF4nuuSZ4YO6x%2B7%2BHZFEi4b7VAyLFGG9SlHDrPj5jO%2BvwVeJWF%2B5AVF1ENrmY7pvUxmFw4wAPu%2Btfcqs35d9dICJ3v9RdW8uETTMvUZb981jqKn4w8HlJ96H083ZcXPhaUOYFfCTMtRjsfv%2Bw1J%2BIL%2FKAWV7nxUbumpWRri%2FNandT8XP54le2OU84zj7jpMNu3bYVW%2FP62eNnU%2FF6Y6QDv1ZmQ3YJ1slbR%2BK6IjS%2BvHWpmcFpE8ebRBbz8PRx6b92ZMQjOXdXfRfcmju7Q%2B1kbSoqxSaaRrBmvzVDqX9UANWUgXOK6DcbDnvlb7p6YwnqrZ0v5ZfQuULNb3LadgbtN8l%2FVsbUemRC9wQtD8ffxplKLv%2FsHpTvXPk7%2FSDQCuuF9rO80aXZrVxGv%2BEy%2Bga1r%2F9TKmbDazjisVnmfW4Xn2cMzUwak1uOpKPt84zqiJNhy%2FU7pNtOF4L%2B3sZ2incwedk%2B4%2Fdjm%2BJd4GHUXF901FowkaI42IQw6kK%2FgDsXy8xGlcx%2F9UmwjkDyIjAtLtfYuJ1CVSdDw5u7k963W6eER%2BFWb2Kw5QNIXAfviVUBPMZHqz8nlZVlkf0jcUwbyM7rx9af0CZkVpON2%2BxJ67kVHGGOH8QvPeI4XvI4Ty2xgmcIXicWPM7Z8pzU09PdYp9Q1lk%2Bwh5LNwwPz55lmYUfaRrjy9TXCO7jCWO17taqkBZE%2BWPNYzpTN0U%2BF%2B6hmF1t21bGmsjWXSYD8e619hQ6Uo9Gpk3G4vYDcNTRp6rH%2FBUugNxVN0erv2AE87p8WPtajbCj9B%2FAyL%2B%2BKZSfFjLdSOwk8QP4v%2FKsJJ8WMNva7CTxA%2F2%2BUFCp0WP9Y%2B6in8hiYPoBeA3%2BK%2B82VaAIcXnjNhRMg07CudhqnFa3Mwbrez4mE%2BS9npzpgbTc3rmBtd1qczrd2GtTcy%2FKX1uBmsIb%2BiNbxrLteOUnO6qXd8YVrf1MDGH29KtFtxzQj26BXXvq3huZrbir22X%2BwFeLv%2FPSy8juH15K7YwWIkr9J5L3WfwKRd%2Fr4%2FYyJK%2FPRpk6OgjK0nxsH3xCbW3DQX8esuJO2Jn80Jqj5xzfFehfzOxK%2Bmx5z4ynuvrFK%2Ft6F%2BM6QTay96E%2FJncaNnT1x3rK3mHQrgwMsN5dU6a2FRAvh2BHB2dGLtPW9CAE2DtRpMXHMCZoO3L38DbzqSVutAwOSg5G%2B28jc7OgkYU%2BZo%2BzM8dqHDxDUnYDh48%2FIHBkCSV%2BsCRgclf3OVv%2FnRScCaMsfRn2HLn%2F4CAdPB2xdAc26MFTA6KAGcrQDOjk4C1hQpAggMs7e4zpE%2B4hMwFbx9wXPmxlABM4MSvNkK3tzopAvYT%2BYheLrDe4HtxLUlYB5485JXATgnjgqYFpTkzVXy5kcnAZvJPCTPcqQLnoBB4O0LnjE3hgqYEpTgzVbwZkcnARvJPATPtmcwxhMwAbx9ybPnxlEBY4KSvNlK3mR0IocppvFd2nOf6VNXwYiMi38A)
+
+### Design teams: UX mockups for development and review
+
+Diagrams give you a competitive edge when your designers collaborate with your software development and engineering teams. Iterate on wireframes and mock-ups, review, approve and develop great user interfaces by using diagrams directly in context in your documentation workflow.
+
+The range of libraries and shapes that are available in diagrams.net let you place user interface elements in a variety of styles, from webpages to mobile applications on various platforms. Create your own custom shape assets to evaluate UX changes to existing applications quickly and easily.
+
+<img src="/assets/img/blog/bootstrap-template.png" width="600" alt="Bootstrap template for UX design and testing">
