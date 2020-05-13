@@ -4,17 +4,9 @@ layout: page
 permalink: /integrations.html
 ---
 
-At diagrams.net, being open source means anyone can take the project, deploy it, integrate it, and sell it.
+At diagrams.net, being open source means anyone can take the project, change it, deploy it and integrate it.
 
 In fact, the [free online diagrams.net](https://app.diagrams.net) tool has already been integrated into a wide variety of platforms, and is available to be deployed as a self-hosted docker application, or used as a stand-alone private diagramming application.
-
-## Secure diagramming
-Open source provides you with more robust security because flaws and security holes can't be hidden. Everyone can scrutinise the application code, stored publicly on Github.
-
-### Your diagram data stays private
-Your diagram data is stored in your browser while you are editing it, and at a location of your choice. If you choose a cloud host such as GOogle Drive, your diagram data is transmitted with end-to-end encryption. The diagrams.net application does not store your diagram data, and therefore eliminates the risk of security breaches.
-
-<img src="/assets/img/blog/threat-modelling-data-flow.png" width="400" alt="Threat modelling in diagrams.net with data flow diagrams">
 
 ### diagrams.net Desktop
 
@@ -36,7 +28,7 @@ diagrams.net is designed to be easy to configure and fast to deploy in a contain
 
 ### G Suite add-ons for Docs, Sheets and Slides
 
-Diagrams.net lets you [store your diagram files in Google Drive](https://app.diagrams.net/?mode=google) and [work with them in G Suite](https://gsuite.draw.io/). There are also add-ons available for [Docs](https://docsaddon.draw.io/), [Sheets](https://sheetsaddon.draw.io/) and [Slides](https://slidesaddon.draw.io/).
+Diagrams.net lets you [store your diagram files in Google Drive](https://app.diagrams.net/?mode=google) and [work with them in G Suite](https://gsuite.diagrams.net/). There are also add-ons available for [Docs](https://docsaddon.diagrams.net/), [Sheets](https://sheetsaddon.diagrams.net/) and [Slides](https://slidesaddon.diagrams.net/).
 
 <img src="/assets/img/blog/addon-google-docs-examples.png" width="400" alt="It's easy to embed diagrams in Google Docs">
 
@@ -44,23 +36,17 @@ Diagrams.net lets you [store your diagram files in Google Drive](https://app.dia
 
 ### Sharepoint, OneDrive and Office 365 integration
 
-diagrams.net works with [OneDrive and Sharepoint](https://app.diagrams.net/?mode=onedrive). An [Office 365 app](https://office.draw.io/) is available for Word, Powerpoint and Excel.
-
-### Diagramming in Quip
-
-All users in your Quip instance can add diagrams to pages and edit them, without switching contexts. The diagramming application and your data are both hosted within Quip. [See the Quip integration on our Github repository](https://github.com/jgraph/drawio-quip)
-
-<img src="/assets/img/blog/quip-integration.png" width="400" alt="Diagramming without changing contexts in Quip">
+diagrams.net works with [OneDrive and Sharepoint](https://app.diagrams.net/?mode=onedrive). An [Office 365 app](https://office.diagrams.net/) is available for Word, Powerpoint and Excel.
 
 ## 3rd-party Integrations
 
-The following integrations are not developed by the diagrams.net team.
+The following integrations are not directly provided by the diagrams.net team. The Atlassian integrations are built by us, but provider via an Atlassian partner.
+
+Most integrations use the name draw.io, the previous name for diagrams.net.
 
 ### Atlassian Confluence and Jira
 
-diagrams.net is available via the draw.io apps for Confluence and Jira, available via the Atlassian Marketplace for Cloud, Data Centre and Server. [draw.io for Confluence](https://marketplace.atlassian.com/apps/1214854/diagram-viewer-for-confluence-cloud) is the highest-rated app on the Atlassian Marketplace.
-
-_diagrams.net is currently funded via this third-party integration with Atlassian software - that's why we call diagrams.net commercial open-source._
+The draw.io apps for Confluence and Jira are available via the Atlassian Marketplace for Cloud, Data Centre and Server. [draw.io for Confluence](https://marketplace.atlassian.com/apps/1214854/diagram-viewer-for-confluence-cloud) is the highest-rated app on the Atlassian Marketplace.
 
 <img src="/assets/img/blog/embed-diagrams-confluence-cloud.png" width="400" alt="Embedded diagrams in draw.io for Confluence Cloud">
 
@@ -87,10 +73,5 @@ _diagrams.net is currently funded via this third-party integration with Atlassia
 * [**Samepage:**](https://www.samepage.io/draw-diagram-online) Develop diagrams, track tasks, share files, communicate and work on project content without leaving this team collaboration platform.
 * [**Sandstorm:**](https://oasis.sandstorm.io/grain/WiGZtvkCAHj54oX3h4a9Ra) Create personal/private instances of web apps and create diagrams via Sandstorm.io, an open source hosting platform.
 * **WordPress plugin:** [DrawIt!](https://wordpress.org/plugins/drawit/) by AssortedChips lets you create diagrams while editing your blog posts in WordPress.
+* [**VS Code:**](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio) Edit and manage diagrams directly inside VS Code.
 * [**XWiki:**](https://extensions.xwiki.org/xwiki/bin/view/Extension/Diagram%20Application) Create diagrams in XWiki, a lightweight wiki software by using the Diagram Application extension.
-
-Do you have an integration that isn't listed here? [Tell us about it](mailto:support@diagrams.net)
-
-## diagrams.net supported in Azure DevOps?
-
-[Vote up this feature in Microsoft’s developer community](https://developercommunity.visualstudio.com/idea/379598/wiki-enable-support-to-embedd-graphics-made-with-d.html) to be able to create and edit UML diagrams, flow charts and mockups and add them to your Azure boards and wikis.

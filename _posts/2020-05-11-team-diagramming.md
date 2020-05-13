@@ -2,7 +2,7 @@
 layout: post
 author: diagrams.net
 slug: team-diagramming
-date: 2020-05-11 09:10:00
+date: 2020-05-13 09:10:00
 title: Team diagramming in all departments
 tags: [features,Atlassian]
 categories: [use-cases,integrations]
