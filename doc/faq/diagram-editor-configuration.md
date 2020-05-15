@@ -1,5 +1,5 @@
 ---
-title: Configure draw.io
+title: Configure the diagrams.net and draw.io editor
 layout: page
 faq: true
 categories: [Confluence Server, Customisation]
@@ -52,7 +52,7 @@ The configuration is represented as a [JSON (JavaScript Object Notation) string]
 
 * ``defaultFonts``: An array of font family names in the format panel font drop-down list.
 
-* ``customFonts``: An array of font family names to be added before ``defaultFonts``. (9.2.4 and later).
+* ``customFonts``: An array of font family names to be added before ``defaultFonts`` (9.2.4 and later).
 <br />**Note:** Fonts must be installed on the server and all client devices, or be added using the ``fontCss`` option. (6.5.4 and later).
 <br /><img src="/assets/img/blog/custom-fonts-list-confluence-cloud.png" width="200" alt="Customise the fonts in diagrams.net">
 
@@ -72,13 +72,13 @@ The configuration is represented as a [JSON (JavaScript Object Notation) string]
 * ``defaultVertexStyle`` or ``defaultEdgeStyle``: Defines the initial default styles for vertices and edges (connectors). Note that the styles defined here are copied to the styles of new cells, for each cell. This means that these values override everything else that is inherited from other styles or themes (which may be supported at a later time). Therefore, it is recommended to use a minimal set of values for the default styles. To find the key/value pairs to be used, set the style in the application and find the key and value via _Edit Style_ (``Ctrl+E``) (6.5.2 and later).
 <br />For example, to assign a default ``fontFamily`` of ``Courier New`` to all edges and vertices (and override all other default styles), use ``{"defaultVertexStyle": {"fontFamily": "Courier New"}, "defaultEdgeStyle": {"fontFamily": "Courier New"}}``.
 
-* ``defaultLibraries``: Defines a semicolon-separated list of library keys (unique names) in a string to be initially displayed in the left panel (e,g. ``"general;uml;company-graphics"``). Possible keys include custom entry IDs from the libraries field, or [keys for the ``libs`` URL parameter](/doc/faq/supported-url-parameters.html) (6.5.2 and later). The default value is ``"general;uml;er;bpmn;flowchart;basic;arrows2"``.
+* ``defaultLibraries``: Defines a semicolon-separated list of library keys (unique names) in a string to be initially displayed in the left panel (e.g. ``"general;uml;company-graphics"``). Possible keys include custom entry IDs from the libraries field, or [keys for the ``libs`` URL parameter](/doc/faq/supported-url-parameters.html) (6.5.2 and later). The default value is ``"general;uml;er;bpmn;flowchart;basic;arrows2"``.
 
 * ``enabledLibraries``: Defines an array of strings of library keys which will be available in the _More Shapes_ dialog. If you define this as null, all libraries will be visible. If you leave the array empty, no libraries will be visible (e.g. ``["general", "uml"]``) (9.2.5 and later).
 
-* ``libraries``: Defines an array of objects that list additional libraries and sections in the left panel and the _More Shapes_ dialog, in the following format: ``[section1,...,sectionN]``, where:
-   * each ``section`` has the form ``{title: resource, entries: [entry1,...,entryN]}``,
-   * each ``entry`` has the form ``{id: string, preview: string, title: resource, desc: resource, libs: [lib1,..,libN]}``,
+* ``libraries``: Defines an array of objects that list additional libraries and sections in the left panel and the _More Shapes_ dialog, in the following format: ``[section1,...,sectionN]``. Where:
+   * each ``section`` has the form ``{title: resource, entries: [entry1,...,entryN]}``.
+   * each ``entry`` has the form ``{id: string, preview: string, title: resource, desc: resource, libs: [lib1,..,libN]}``.
    * each ``lib`` has the form ``{title: resource, url: string OR data: string, tags: string}``.
       * ``sections`` are used for the sections in the _More Shapes_ dialog.
       * ``entries`` are the entries for the sections and each entry may have one or more libraries associated. The ``id`` of each entry must be unique, ``preview`` is the URL of an image to be used as a preview and ``desc`` is used before or in place of the review as a description (pre-formatted text which supports linefeeds).
@@ -173,18 +173,18 @@ This configuration produces the following _More Shapes_ dialog when combined wit
 * ``forceSimpleViewer``: Forces simple diagram viewer for every diagram if set to ``true``. The default is ``false`` (8.4.0 and later).
 
 * ``defaultMacroParameters``: Defines overrides for default macro parameters using a JSON structure (9.2.5 and later).
-   * ``border``: A boolean. Shows border around viewer if set to true. Default is true.
-   * ``width``: An integer. Default width of the viewer. Default is blank.
-   * ``lightbox``: A boolean. Enables lightbox(large viewer) if set to true. Default is true.
-   * ``simpleViewer``: A boolean. Shows simple viewer if set to true. Default is false.
-   * ``toolbarStyle``: A string. Default is "top". Accepted values are :
-      * ``"top"`` : Shows toolbar above viewer element on mouse hover.
-      * ``"inline"`` : Shows toolbar inside viewer element on mouse hover.
-      * ``"hidden"`` : Hides toolbar.
-   * ``links``: A string. Default is "auto". Accepted values are :
-      * ``"auto"`` : Opens local links in current window and external links in a new window.
+   * ``border``: A boolean. Shows a border around the viewer if set to true, where the default is _true_.
+   * ``width``: An integer. The default width of the viewer, where the default is _blank_.
+   * ``lightbox``: A boolean. Enables the lightbox (large viewer) if set to _true_, where the default is _true_.
+   * ``simpleViewer``: A boolean. Shows the simple viewer if set to _true_ where the default is _false_.
+   * ``toolbarStyle``: A string. The default is _"top"_, and accepted values are:
+      * ``"top"`` : Shows the toolbar above viewer element on mouse hover.
+      * ``"inline"`` : Shows the toolbar inside the viewer element on mouse hover.
+      * ``"hidden"`` : Hides the toolbar.
+   * ``links``: A string. The default is _"auto"_ and accepted values are:
+      * ``"auto"`` : Opens local links in the current window and external links in a new window.
       * ``"blank"`` : Opens all links in a new window.
-      * ``"self"`` : Opens all links in current window.
+      * ``"self"`` : Opens all links in the current window.
 
 ## Additional options for Confluence Cloud
 
@@ -206,7 +206,7 @@ This configuration produces the following _More Shapes_ dialog when combined wit
 
 * ``password``: Protects access to the site configuration with an optional string (only site administrators are allowed access).
 
-* ``maxHistoryDays``: Specifies the number of days for which to keep the editing history. The default is ``14``. If the last edit is older than this number of days, the history is cleared when editing starts. (Use Preferences, Compress to do this manually.)
+* ``maxHistoryDays``: Specifies the number of days for which to keep the editing history. The default is ``14``. If the last edit is older than this number of days, the history is cleared when editing starts. Use _Preferences > Compress_ to do this manually.
 
 * ``debug``: Toggles the debug output in the browser console (``true`` or ``false``, where the default is ``false``).
 
