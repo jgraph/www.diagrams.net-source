@@ -1,5 +1,5 @@
 ---
-title: draw.io diagrams in Confluence Server when draw.io is not licensed
+title: What happens to draw.io diagrams in Confluence Server when draw.io is not licensed
 layout: page
 faq: true
 categories: [Confluence Server]
