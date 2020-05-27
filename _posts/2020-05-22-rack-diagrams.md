@@ -26,7 +26,7 @@ Alternatively, use the [``libs`` URL parameter](/doc/faq/supported-url-parameter
 
 First, add a cabinet shape to the drawing canvas. Some are numbered, others are numbered.
 * **Resize the cabinet**: drag the blue circles at the top or bottom. This automatically adds additional rack space.
-* **Reorder the numbered rack**: With the cabinet selected, expanded the properties section in the style tab of the right-hand format panel. There you will find a property ``Display Numbers``. The value allows to pick increasing or decreasing numbers up the rack.
+* **Reorder the numbered rack**: With the cabinet selected, expand the properties section in the style tab of the right-hand format panel. There you will find a property ``Display Numbers``. Change the value of this property to use increasing or decreasing numbers up the rack.
 
 ### Add shapes to the cabinet or rack
 
