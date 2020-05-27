@@ -2,7 +2,7 @@
 layout: post
 author: diagrams.net
 slug: rack-diagrams
-date: 2020-05-22 09:02:00
+date: 2020-05-27 08:02:00
 title: Create a rack diagram in diagrams.net
 tags: [rack-diagrams]
 categories: [use-cases]
@@ -26,7 +26,7 @@ Alternatively, use the [``libs`` URL parameter](/doc/faq/supported-url-parameter
 
 First, add a cabinet shape to the drawing canvas. Some are numbered, others are numbered.
 * **Resize the cabinet**: drag the blue circles at the top or bottom. This automatically adds additional rack space.
-* **Reorder the numbered rack**: Right-click on the shape and select _Edit Style_. Change the value of ``numDisp`` to ``descend``.
+* **Reorder the numbered rack**: With the cabinet selected, expanded the properties section in the style tab of the right-hand format panel. There you will find a property ``Display Numbers``. The value allows to pick increasing or decreasing numbers up the rack.
 
 ### Add shapes to the cabinet or rack
 
