@@ -2,7 +2,7 @@
 title: Generate code to embed a diagram in a webpage
 layout: page
 faq: true
-categories: [Integrations]
+categories: [Integrations, Features]
 ---
 
 You can easily save your diagram as an image or a SVG file, which you can embed in your website. Or you can embed HTML or an IFrame into your web page as described below.

@@ -2,7 +2,7 @@
 title: Find shapes in your diagram based on their metadata or labels
 layout: page
 faq: true
-categories: [Shapes]
+categories: [Shapes, Features]
 ---
 
 You can find shapes and connectors by searching for their metadata (shape properties) or labels.

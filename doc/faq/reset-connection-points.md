@@ -2,7 +2,7 @@
 title: Reset or override connection points on a shape
 layout: page
 faq: true
-categories: [Shapes, Connectors]
+categories: [Shapes, Connectors, Features]
 ---
 
 Connection points are the locations around a shape where connectors attach to. Hover over a non-selected shape and you'll see them as tiny crosses.

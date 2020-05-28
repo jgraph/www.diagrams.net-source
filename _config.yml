@@ -8,4 +8,4 @@ baseurl: '/'
 collections:
   - faq
 
-faq-categories: [Confluence Cloud, Confluence Server, Jira Cloud, Jira Server, Customisation, Shapes, Connectors, Plugins, Integrations, Export, Gliffy, Trust, Desktop, Import, Lucidchart]
+faq-categories: [Confluence Cloud, Confluence Server, Jira Cloud, Jira Server, Customisation, Shapes, Connectors, Plugins, Integrations, Export, Gliffy, Trust, Desktop, Import, Lucidchart, Features]

@@ -2,7 +2,7 @@
 title: Embed HTML
 layout: page
 faq: true
-categories: [Integrations, Customisation]
+categories: [Integrations, Customisation, Features]
 ---
 
 Use _File > Embed > HTML_ to generate HTML markup that you can then embed in a HTML page (or a service such as a blogging platform). The HTML markup requires a remote script to be loaded to render the diagram in the page. Embedded HTML supports pages, links, collapse/expand, layers, zoom, mathematical typesetting, and includes a built-in lightbox as well as displaying as a vector image that is suited for retina displays.
