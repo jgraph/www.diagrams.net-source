@@ -9,8 +9,6 @@ Custom templates can speed up diagramming and ensure users diagram with a consis
 
 Custom template libraries are stored in the draw.io Configuration in the Confluence Cloud administration settings. Administrators can organise custom templates into categories and make them available to their users whenever they create a new diagram.
 
-Custom template libraries are stored in the draw.io Configuration in the Confluence Cloud administration settings.
-
 ### Add a custom template diagram to Confluence Cloud
 
 1. Go to the Confluence Settings. In the _Atlassian Marketplace_ section on the left, click on _draw.io Configuration_.
