@@ -27,7 +27,7 @@ The diagram data itself is [embedded within the compressed text section of the P
   // Edits an image with drawio class on double click
   document.addEventListener('dblclick', function(evt)
   {
-    var url = 'https://app.diagrams.net/?embed=1&ui=atlas&spin=1&modified=unsavedChanges&proto=json';
+    var url = 'https://embed.diagrams.net/?embed=1&ui=atlas&spin=1&modified=unsavedChanges&proto=json';
     var source = evt.srcElement || evt.target;
 
     if (source.nodeName == 'IMG' && source.className == 'drawio')
