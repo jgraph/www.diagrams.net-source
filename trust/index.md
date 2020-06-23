@@ -10,7 +10,7 @@ These Terms and Conditions (“Terms”) cover all of the ways in which we commu
 
 JGraph Ltd may make changes to this privacy policy by giving 30 days notice of the changes in the [jgraph/security-privacy-legal GitHub repository](https://github.com/jgraph/security-privacy-legal) and on major social media accounts. If you don’t agree with the new Terms, you should unsubscribe, and stop using our services.
 
-## Legal documents and disclaimers for the draw.io plugins
+## Legal documents and disclaimers for the diagrams.net and draw.io plugins
 
 - [End User License Agreement for Atlassian Server draw.io plugins](https://github.com/jgraph/security-privacy-legal/tree/master/Licenses)
 - [Support and Service Level Agreement for the draw.io apps for Confluence and Jira Privacy](/trust/sla-atlassian.html)
@@ -26,7 +26,7 @@ We maintain various privacy and data security policies, as well as documented pr
 
 ### When you visit the our websites
 
-Like all web servers, our web server logs information about which pages you access, and information about your device (device or browser type and IP). These logs are kept for 12 months.
+Content on both the www.diagrams.net domain and the app on app.diagrams.net are both delivered via [Cloudflare](https://www.cloudflare.com/). Refer to the [Cloudflare privacy policy](https://www.cloudflare.com/privacypolicy/) for details of the information they may collect when using the sites. Diagrams.net servers do not access that information. The Cloudflare published DPA is available [here](https://www.cloudflare.com/media/pdf/cloudflare-customer-dpa.pdf).
 
 We do not use permanent or session cookies. We [do not use Google analytics](/blog/drawio-google-analytics.html) or tracking pixels.
 
@@ -89,15 +89,13 @@ If you want to access, review or delete your personal information and communicat
 
 ### Disclosure of your personal information
 
-We do not sell your personal information.
-
-As a rule, we don’t share your information with third parties, unless it is a) with your consent, or b) required by law (in response to an appropriate legal process). We will object to requests for information about people who use our site that we believe to be improper.
+We do not sell or share your personal information. We do not access or store your personal information.
 
 If we merge with another company such that your information will become subject to a different privacy policy, we’ll notify you before the transfer.
 
 ### Data security
 
-The diagrams.net application and all diagrams.net websites use HTTP over TLS1.2+ (which builds upon HTTP over SSL) to ensure communication between you and our servers is encrypted and secure.
+The diagrams.net application and all diagrams.net websites use HTTP over TLS1.2+ to ensure communication between you and our servers is encrypted and secure.
 
 ## Rights you grant us
 
