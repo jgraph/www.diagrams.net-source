@@ -8,11 +8,30 @@ tags: [features, handdrawn]
 categories: [features]
 ---
 
-We spent a couple of hours integrating [rough.js](https://roughjs.com/) to update our existing, and fairly limited, comic style, the result is pretty useful.
+A more relaxed and informal style for shapes, fills and lines is often used in infographics, teaching materials, maps and reports so that the diagrams are little less sterile and boring. The rough style adds a hand drawn shading options, rough outlines and connectors, and handwritten text labels.
 
-You can either select the shape(s) you want to roughen and click "rough" in the right-hand format panel, or you can add ["rough=1"](https://app.diagrams.net/?rough=1#R7Vxtc6o4FP41frwdXsTqx2q1d3ftbKftTnf2W4SjZAVCQ6h6f%2F0mEESML%2FhOZ%2Bk4CichQJ4nzzk5gTbMnj9%2Foih0n4kDXsPQnHnDfGwYRts0%2BbcwLFLDvdZMDROKndSk5YY3%2FAtSo55ZY%2BxAJG2piRHiMRwWjTYJArBZwYYoJbNitTHxnIIhRBNQDG828lTrB3aYK2%2FL0nL7T8ATNzuzrskSH2WVpSFykUNmBRPM2YAETF7iC1AfBRAwXvKM6BRow%2Bq7jIk7fWgYA%2F4Zi9p3E0ImHqAQR3c28bnZjniVwRj52BPdvNJQVzbET2f2G2aPEsLSLX%2FeA09AVYRhsKV02Q9UtFvigHDe%2Bfv9H%2Fz5%2B8vo830I3T5ynR%2BylS%2FkxbJ%2FX%2Fqvf3DLXy%2F86%2BO395%2F8h9%2BrNnx4f%2B%2FLfmOLDAzehaHYZGgkTF3bxZ4zRAsSs8ya7XU59EMcJNTRRVXixX6waokYokwSrqlxg8t8T5bNXMzgLUS2KJxxYqcteCiMcHLqR3EABTumEf6CV4jSdoQV5iEKHLkTEhwwoP0vSGEWNgHim7yp9NJ8bMvtMfa8HvEITW7YdBC0x3ZysZRMYaVES%2F5ka4MNyGcUkudLr09vLtvK2GzIs35kLDZFVyDbjSk8iRt%2FtLhBRT%2BDEiiD%2BYpJsuEJiA%2BMLngVWdqRpJdC0JS7s3xUte6lzV0ZUWY2oJAcJpNlyzn7%2BIYk4AFkNBQyKoQDh4uB3CWUuWRCAuT1c2s3tw4JCSWK%2FwJjC9nlKGakSK6j8G7ZbRiNj8KbkjhwwFnS%2Fhzo7xrdEYmpDTvq3UsdR3QCO9uTFQUKOxlGwUOMj8Oi%2Bp%2BbL6bCl14cMd44VYVqhn2PAyM6k1D8iyOCvFVJSK7N6vIPZ3dPu7MaFj%2Bux%2Ff1fJ9%2FRHXKeiTgsCGc9D6giM0gYreUsB0UHo%2FHhq1SOCBJb9xKrXZ6o%2F0SdqBm6e1LaVZT4eAAkoCLYcqH%2BA4eygAJ5dhXkT2OBW2n%2BS3YY5Zmz3wre3Tzquyxagd3EuTNkg6uVdLBVcu%2FtRRteRMKoXCm2N2blGKFC4jaEiprn%2BNo27DBcfCSUdtqWreMdXdKcenxbxQD4JYqB50NatC8lBjcq64Ec9k2tBGimPuGHbhr%2B3G%2FtgZUGGjduDHSbQXpZzQFIVAUBRGyGSZBHTpUOXTQ71UKmdeNPDsKiV7hMxbzEEPj3olBrRdrw%2B3b6kWWe13BuhsvapxPxVm3qga0mo%2BV08kQ6HRR%2B4Qq%2BwTr9vNJvc6YnpiBKpsy1SU99udMZbRakTmlriZNHykOprUz2SbF33U6qaupyX6gZiTr5MF54L597GCpQeKWxEG9GvIdApCDV0OMDRTcuBxyufhDTVkeH7NWhDFbHFclGWOVpsyBSyCXY4ya9XyiAKIH7W2Luf%2FbkKR1KLxrPurmLkpNfNbyUGV5KJ3mvJw%2BqGlOhTL1FPcgFshBuHeKm6nF3iluBklFpriGmi19sG0Iefe3PBGXjmiBP63PWDyDmSDyI1UF8cSj3gznSa9m5XxrIn5DtPATMGu3VFT1o%2FOut%2FZLhpp2%2FaBYJEM0BxjCXnQm6ohlPR7XhKrXkw%2FSOsSOE3LtJdAoZdtwVDNKDXT0coRqXYxQhkIoucK7OcmWwR9SYoN4dnwv%2BsieThLB%2BTNmHg6gJoGR41kVWVFzrXW4W%2BVwt%2FQKzsXCXUNN2tbh7lWegdfLPgTfOXewmxz6QClarFSQadi85RdhWAmh1rWutfb2z5762RpkTtb0CnLqLm%2FlBDarKemazVdhc6fs1E2v1tStRP64JswlCLN8l3PverZ2bsYcpX%2FLt9BK6t96%2Fevon5rcrul8HW9eOnd1djqfJoDtmiDX0TujrN6ZldA7yzxM79brZ48nHKl3fDd%2FUz2tnv93AbP%2FHw%3D%3D) as a URL parameter so the whole diagram has that style.
+We spent a couple of hours integrating [rough.js](https://roughjs.com/) to update our existing, and fairly limited, comic style, and the result is pretty useful.
 
-By sure you're updated to version 13.3.1 to see the effect.
+**Note:** This rough style is available in version 13.3.1 onwards.
+
+## Apply the rough style
+
+1. Select one or more shapes and connectors that you want to roughen.
+2. In the format panel on the right, click _Sketch_ to apply the rough style to your selected shapes, labels and connectors.
+
+<img src="/assets/img/blog/sketch-format-panel.png" width="600" alt="Select shapes, click Sketch in the format panel, and save your diagram to make it more informal">
+
+### Use the ``rough=1`` URL parameter
+
+Alternatively, add ``rough=1`` as a URL parameter so the whole diagram has that style. For example:
+
+[```https://app.diagrams.net/?lightbox=1&rough=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fgitflow-examples.drawio```](https://app.diagrams.net/?lightbox=1&rough=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fgitflow-examples.drawio)
+
+<img src="/assets/img/blog/rough-gitflow-example.png" width="600" alt="A sketchy gitflow using the rough style">
+
+[See a description of all of the supported URL parameters.](/doc/faq/supported-url-parameters.html)
+
+The rough style can make flowcharts a little less intimidating in training and onboarding materials.
 
 <br /><a href="https://app.diagrams.net/?rough=1#R7Vxtc6o4FP41frwdXsTqx2q1d3ftbKftTnf2W4SjZAVCQ6h6f%2F0mEESML%2FhOZ%2Bk4CichQJ4nzzk5gTbMnj9%2Foih0n4kDXsPQnHnDfGwYRts0%2BbcwLFLDvdZMDROKndSk5YY3%2FAtSo55ZY%2BxAJG2piRHiMRwWjTYJArBZwYYoJbNitTHxnIIhRBNQDG828lTrB3aYK2%2FL0nL7T8ATNzuzrskSH2WVpSFykUNmBRPM2YAETF7iC1AfBRAwXvKM6BRow%2Bq7jIk7fWgYA%2F4Zi9p3E0ImHqAQR3c28bnZjniVwRj52BPdvNJQVzbET2f2G2aPEsLSLX%2FeA09AVYRhsKV02Q9UtFvigHDe%2Bfv9H%2Fz5%2B8vo830I3T5ynR%2BylS%2FkxbJ%2FX%2Fqvf3DLXy%2F86%2BO395%2F8h9%2BrNnx4f%2B%2FLfmOLDAzehaHYZGgkTF3bxZ4zRAsSs8ya7XU59EMcJNTRRVXixX6waokYokwSrqlxg8t8T5bNXMzgLUS2KJxxYqcteCiMcHLqR3EABTumEf6CV4jSdoQV5iEKHLkTEhwwoP0vSGEWNgHim7yp9NJ8bMvtMfa8HvEITW7YdBC0x3ZysZRMYaVES%2F5ka4MNyGcUkudLr09vLtvK2GzIs35kLDZFVyDbjSk8iRt%2FtLhBRT%2BDEiiD%2BYpJsuEJiA%2BMLngVWdqRpJdC0JS7s3xUte6lzV0ZUWY2oJAcJpNlyzn7%2BIYk4AFkNBQyKoQDh4uB3CWUuWRCAuT1c2s3tw4JCSWK%2FwJjC9nlKGakSK6j8G7ZbRiNj8KbkjhwwFnS%2Fhzo7xrdEYmpDTvq3UsdR3QCO9uTFQUKOxlGwUOMj8Oi%2Bp%2BbL6bCl14cMd44VYVqhn2PAyM6k1D8iyOCvFVJSK7N6vIPZ3dPu7MaFj%2Bux%2Ff1fJ9%2FRHXKeiTgsCGc9D6giM0gYreUsB0UHo%2FHhq1SOCBJb9xKrXZ6o%2F0SdqBm6e1LaVZT4eAAkoCLYcqH%2BA4eygAJ5dhXkT2OBW2n%2BS3YY5Zmz3wre3Tzquyxagd3EuTNkg6uVdLBVcu%2FtRRteRMKoXCm2N2blGKFC4jaEiprn%2BNo27DBcfCSUdtqWreMdXdKcenxbxQD4JYqB50NatC8lBjcq64Ec9k2tBGimPuGHbhr%2B3G%2FtgZUGGjduDHSbQXpZzQFIVAUBRGyGSZBHTpUOXTQ71UKmdeNPDsKiV7hMxbzEEPj3olBrRdrw%2B3b6kWWe13BuhsvapxPxVm3qga0mo%2BV08kQ6HRR%2B4Qq%2BwTr9vNJvc6YnpiBKpsy1SU99udMZbRakTmlriZNHykOprUz2SbF33U6qaupyX6gZiTr5MF54L597GCpQeKWxEG9GvIdApCDV0OMDRTcuBxyufhDTVkeH7NWhDFbHFclGWOVpsyBSyCXY4ya9XyiAKIH7W2Luf%2FbkKR1KLxrPurmLkpNfNbyUGV5KJ3mvJw%2BqGlOhTL1FPcgFshBuHeKm6nF3iluBklFpriGmi19sG0Iefe3PBGXjmiBP63PWDyDmSDyI1UF8cSj3gznSa9m5XxrIn5DtPATMGu3VFT1o%2FOut%2FZLhpp2%2FaBYJEM0BxjCXnQm6ohlPR7XhKrXkw%2FSOsSOE3LtJdAoZdtwVDNKDXT0coRqXYxQhkIoucK7OcmWwR9SYoN4dnwv%2BsieThLB%2BTNmHg6gJoGR41kVWVFzrXW4W%2BVwt%2FQKzsXCXUNN2tbh7lWegdfLPgTfOXewmxz6QClarFSQadi85RdhWAmh1rWutfb2z5762RpkTtb0CnLqLm%2FlBDarKemazVdhc6fs1E2v1tStRP64JswlCLN8l3PverZ2bsYcpX%2FLt9BK6t96%2Fevon5rcrul8HW9eOnd1djqfJoDtmiDX0TujrN6ZldA7yzxM79brZ48nHKl3fDd%2FUz2tnv93AbP%2FHw%3D%3D" target="_blank"><img src="/assets/img/blog/rough1.png" width="600" alt="A flowchart styled by rough.js" ></a>
 
