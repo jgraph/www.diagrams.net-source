@@ -27,7 +27,7 @@ Alternatively, add ``rough=1`` as a URL parameter so the whole diagram has that 
 
 [```https://app.diagrams.net/?lightbox=1&rough=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fgitflow-examples.drawio```](https://app.diagrams.net/?lightbox=1&rough=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fgitflow-examples.drawio)
 
-<img src="/assets/img/blog/rough-gitflow-example.png" width="600" alt="A sketchy gitflow using the rough style">
+[<img src="/assets/img/blog/rough-gitflow-example.png" width="600" alt="A sketchy gitflow using the rough style">](https://app.diagrams.net/?lightbox=1&rough=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fgitflow-examples.drawio)
 
 [See a description of all of the supported URL parameters.](/doc/faq/supported-url-parameters.html)
 
