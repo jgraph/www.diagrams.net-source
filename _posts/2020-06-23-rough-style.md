@@ -21,6 +21,44 @@ We spent a couple of hours integrating [rough.js](https://roughjs.com/) to updat
 
 <img src="/assets/img/blog/sketch-format-panel.png" width="600" alt="Select shapes, click Sketch in the format panel, and save your diagram to make it more informal">
 
+### Use the comic style
+
+The rough sketch style appears more like a handdrawn diagram. Use the comic style for a more subtle effect.
+
+1. Select the shapes and connectors you want to apply the comic style to.
+2. In the Style tab of the format panel, click on _Properties_.
+3. At the bottom, change the _Sketch Style_ dropdown to _Comic_.
+
+<img src="/assets/img/blog/shape-properties-sketch-style-comic.png" width="600" alt="Change the sketch style to comic for a more suble handdrawn effect">
+
+### Change properties to customise the sketch style
+
+There are many other properties you can change to customise the sketch style. Note that not all of these properties are applicable to the style you have chosen, but may apply to a different style.
+
+Click on a shape or connector, then expand the _Properties_ section in the _Style_ tab of the format panel on the right. The most common properties are as follows.
+
+* _Jiggle_ - how roughly or randomly the borders, connectors and the fill colours are drawn.
+* _Fill Weight_ - set the width of the 'pen' used to draw the fill colour in a shape.
+* _Hachure Gap_ - set the distance between the sketched fill lines.
+* _Hachure Angle_ - set the direction of the sketched fill lines.
+* _Disable Multi Stroke_ - use only one pass of the 'pen' in the sketched border of a shape or a connector.
+* _Disable Multi Stroke Fill_ - use only one pass of the 'pen' in the sketched fill colour in a shape.
+* _Sketch Style_ - choose between the rough and comic sketch styles.
+
+<img src="/assets/img/blog/sketch-style-properties.png" width="600" alt="You can change many style properties to customise the rough and comic sketch styles in diagrams.net">
+
+## Change the style of the entire diagram
+
+You can set a new global style using one of the presets instead of selecting shapes and connectors and applying styles individually.
+
+1. Make sure nothing in the diagram is selected, then click on the _Style_ tab in the format panel on the right.
+2. Select the style settings you want to use. Use the preset styles to change the colours of the shapes, their borders and text, connectors and the drawing canvas. Use the checkboxes to quickly change other style settings:
+   * _Sketch_ applies the rough style.
+   * _Rounded_ rounds the corners of the shapes.
+   * _Curved_ changes the connector style to curved.
+
+<img src="/assets/img/blog/style-tab.gif" width="600" alt="Use the styles in the Style tab on the right to change colours and shape and connector styles">
+
 ### Use the ``rough=1`` URL parameter
 
 Alternatively, add ``rough=1`` as a URL parameter so the whole diagram has that style. For example:
