@@ -30,7 +30,7 @@ Set a new style by selecting a shape, then click on the _Set as Default Style_ b
 
 When you want to return to the original default of white shapes with a black outline, make sure nothing is selected, then click _Clear Default Style_ in the Style tab of the format panel or use the following keyboard shortcut:
 
-* **Clear default style:** ``Ctrl+Shift+R``or ``Cmd+Shift+D``
+* **Clear default style:** ``Ctrl+Shift+R``or ``Cmd+Shift+R``
 
 ## Copy and paste styles
 
