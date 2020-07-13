@@ -18,7 +18,7 @@ When you move a shape that contains a placeholder into a container shape with a 
 
 But first, you need to add a property to the shape or container shape you want to reference.
 
-## How to add a custom property
+## Add a custom property
 
 You can add custom properties to any shape, connector, container shape, swim lane, etc.
 
@@ -34,11 +34,11 @@ When you hover over that shape, the custom properties that you added and their v
 
 **Tip:** Properties can be set globally, working similar to global variables in a programming language. Make sure nothing is selected, then click on _Edit Data_ in the format panel to see the global custom properties.
 
-## How to use a property as a placeholder
+## Use a property as a placeholder
 
 Once you have added a custom property to your shape, you can use it as a placeholder in the shape's label or tooltip text.
 
-### How to turn a shape into a container
+### Turn a shape into a container
 
 If you want to use the properties defined in a parent shape as a placeholder, you need to turn the parent into a container shape.
 
@@ -79,7 +79,7 @@ You can define a tooltip with a placeholder directly:
 Now, when you hover over the shape, the tooltip text will appear, and the placeholder will be replaced with the value of the property it references.
 <img src="/assets/img/blog/placeholder-tooltip-hover.png" width="400" alt="How the example tooltip with a placeholder appears when you hover over the shape">
 
-## Using placeholders to automate your diagramming
+## Use placeholders to automate your diagramming
 
 Looking at a somewhat more practical example - you can use placeholders in labels in your infrastructure diagrams. Then, when you change the address of the subnet group, the individual node IP addresses will update automatically.
 
