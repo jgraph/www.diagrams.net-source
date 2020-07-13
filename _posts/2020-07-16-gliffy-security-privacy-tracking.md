@@ -33,4 +33,4 @@ From a recent test, the following websites were passed information and ran JavaS
 * load.sumo.com, sumo.com
 * load.sumome.com
 
-Some of these scripts passed the attachment ID, page ID, and URL of the diagram and the page it is located on in your Confluence Cloud instance, the diagram name, context in which you are editing it, diagram version state, Gliffy version and/or the date/time of editing.  
+Some of these scripts were passed the attachment ID, and URL of the diagram and the page it is located on in your Confluence Cloud instance, the diagram name, the context in which you are editing it, the diagram's version state, Gliffy version and/or the date/time of editing.  
