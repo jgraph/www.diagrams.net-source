@@ -15,7 +15,7 @@ There are many different ways to connect shapes - some with the mouse, or a comb
 This method clones an existing shape, including its label text, and draws a connector between the original shape and its clone.
 
 1. Hover over an existing shape on the drawing canvas and four blue directional arrows appear.
-2. Click on one of these arrows to clone the shape and automatically draw a connector between them.
+2. Click on one of these arrows to display a popup - the first entry will clone the shape and automatically draw a connector between them.
 
 <img src="/assets/img/blog/clone-connect.gif" alt="Clone and connect by hovering over a shape and clicking on the blue arrows" width="500">
 

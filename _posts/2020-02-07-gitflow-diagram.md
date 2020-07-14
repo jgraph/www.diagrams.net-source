@@ -26,8 +26,8 @@ The example below shows you how to create and style a gitflow diagram and use de
 <br /><img src="/assets/img/blog/gitflow-reposition-label.png" width="400" alt="Reposition the label on your shape">
 <br />**Tip:** Now click _Set as Default Style_ in the _Style_ tab of the format panel. This means when you next add a shape to your diagram from the shape library, the same style will be applied to your new shape and its label.
 <br /><img src="/assets/img/blog/gitflow-set-default-style-shape.png" width="400" alt="Set a new default style for shapes">
-3. Hover over your styled and resized circle on the drawing canvas, and click on the blue arrow to clone and connect it.
-<br /><img src="/assets/img/blog/gitflow-clone-connect.png" width="100" alt="Hover over a shape and click one of the blue arrows to clone it and connect it to its clone">
+3. Hover over your styled and resized circle on the drawing canvas, and click on the blue arrow , then on the first entry in the popup to clone and connect it.
+<br /><img src="/assets/img/blog/gitflow-clone-connect.gif" width="300" alt="Hover over a shape and click one of the blue arrows to see a selection of shapes"> 
 4. Select the connector between the two shapes and style it in the _Style_ tab of the format panel.
 <br /><img src="/assets/img/blog/gitflow-connector-style.png" width="400" alt="Restyle the connector using the options in the Style tab">
     * Select _Rounded_ from the _Line_ dropdown list
