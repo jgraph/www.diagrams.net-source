@@ -14,7 +14,7 @@ You can add maths equations to your diagrams by enabling mathematical typesettin
 
 Input equations using LaTeX or AsciiMath.
 
-**LaTeX inline:** surround your equation with a single backslash ``\``.
+**LaTeX inline:** surround your equation with ``\(`` and ``\)``.
 <br />Example: ``\(\sqrt{3×-1}+(1+x)^2\)``
 
 **AsciiMath inline:** by surrounding your equation with a single backtick `` ` ``.
