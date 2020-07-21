@@ -28,6 +28,10 @@ Use the the _Embed draw.io diagram_ macro and choose an existing diagram.
 
 <img src="/assets/img/blog/embed-diagram-macro-cloud.png" width="300" alt="Add the _Embed draw.io diagram_ macro to a Confluence Cloud page">
 
+You can also embed diagrams from cloud storage platforms in Confluence Cloud.
+* [Google Drive](/doc/faq/embed-diagram-googledrive-confluence-cloud.html)
+* [OneDrive](/doc/faq/embed-diagram-onedrive-confluence-cloud.html)
+
 **Copy a diagram**
 
 You can duplicate a diagram file and then edit the copy without changing the original diagram. When you add the _draw.io diagram_ macro to the page, select _Recent_ or search for an existing diagram file, select it, then click _Create_.
@@ -41,6 +45,12 @@ To move a diagram from one page to another, you first need to copy the diagram (
 [Learn more about reusing draw.io diagrams in Confluence Cloud](/doc/faq/embed-copy-move-diagrams-confluence-cloud.html)
 
 [See how to recover a diagram that was previously moved](/doc/faq/recover-moved-diagram-confluence-cloud.html)
+
+## Resize the diagram viewer in a page
+
+By changing the zoom within the diagram editor, you can [make your diagram appear larger or smaller on your Confluence Cloud page](/doc/faq/resize-viewer-confluence-cloud.html).
+
+Edit your diagram and make sure you have nothing selected, then click _Zoom_ in the format panel and change the zoom percentage. You changes will appear when you save your diagram and publish your changes.
 
 ## Customising draw.io in Confluence Cloud
 
@@ -89,3 +99,20 @@ For example, add your own floorplan template for regularly changing seating arra
 2. Add template diagrams to your template category pages.
 
 <br /><img src="/assets/img/blog/new-diagram-custom-template-confluence-cloud.png" width="400" alt="Create a new diagram from a custom template in draw.io for Confluence Cloud">
+
+## Troubleshooting
+
+* [Solve PDF export problems under Confluence Cloud](/doc/faq/pdf-problems-confluence-cloud.html)
+* [Resolve a Diagram not Found error](/doc/faq/diagram-not-found-drawio-confluence-cloud.html)
+
+## Administration and licensing
+
+* [See the number of draw.io diagrams in a Confluence instance](doc/faq/number-of-diagams-in-confluence-instance.html)
+* [License draw.io for Confluence Cloud correctly](/doc/faq/license-drawio-confluence-jira-cloud.html)
+* [Get a community draw.io license for Confluence or Jira Cloud](/doc/faq/drawio-community-license-cloud.html)
+* [Generate a quote for draw.io for Confluence Cloud (annual billing)](/doc/faq/generate-quote-drawio-confluence-cloud.html)
+* [Find the draw.io app version and SEN in Confluence Cloud](/doc/faq/app-version-confluence-cloud.html)
+* [Open the app management pages in Confluence Cloud](/doc/faq/app-management-pages-confluence-jira-cloud.html)
+* [Migrate from Confluence Cloud with draw.io to Confluence Server](/doc/faq/migrate-confluence-cloud-to-confluence-server.html)
+* [What happens to diagrams when the draw.io app license for Confluence or Jira Cloud becomes invalid](/doc/faq/unlicensed-drawio-app-confluence-jira-cloud.html)
+* [Understand how data is stored and how user data flows in draw.io for Confluence and Jira Cloud](/doc/faq/data-flow-confluence-jira-cloud.html)
