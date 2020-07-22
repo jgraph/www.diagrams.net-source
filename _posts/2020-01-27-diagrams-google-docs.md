@@ -20,7 +20,7 @@ The free [diagrams.net add-on for Google Docs](https://gsuite.google.com/u/0/mar
 4. Once the diagrams.net add-on has been successfully installed, you can start using it via the _Add-ons > draw.io Diagrams for Docs_ submenu.
 
 Note that your diagram data is only ever stored in your browser and on your Google Drive account.
-* [See why diagrams.net needs permission for these scopes](/doc/faq/addon-google-scope.html)
+* [See why diagrams.net needs permission for these scopes](/doc/faq/gsuite-permissions.html)
 * [Read more about how diagrams.net keeps your data secure and private](/blog/data-protection.html)
 
 ## Using diagrams in Google Docs
@@ -31,11 +31,11 @@ You don't need to export an image from your diagram to paste into the Google Doc
 
 ### Embed a diagram in a Google doc
 
-1. Click _Add-ons > draw.io Diagrams for Docs > New Diagram_ to create a new diagram, which is saved to your Google Drive. You may need to [grant additional permissions to diagrams.net to use your Google Drive account](/doc/faq/addon-google-scope.html).
+1. Click _Add-ons > draw.io Diagrams for Docs > New Diagram_ to create a new diagram, which is saved to your Google Drive. You may need to [grant additional permissions to diagrams.net to use your Google Drive account](/doc/faq/gsuite-permissions.html).
 2. When you want to embed an existing diagram, including a new diagram you have created and saved to your Google Drive, click _Add-ons > draw.io Diagrams for Docs > Insert Diagrams_. Select multiple diagrams by holding down ``Shift`` when you click on each diagram file.
 3. Navigate to your diagram file, select it, then click _Select_.
 <br /><img src="/assets/img/blog/addon-google-select-diagram.png" width="400" alt="Select your diagram file from Google Drive to insert into your document">
-4. Select which page you want to display, if you diagram has multiple pages, then click _Insert_.
+4. Select which page you want to display, if your diagram has multiple pages, then click _Insert_.
 <br /><img src="/assets/img/blog/addon-google-select-page.png" width="400" alt="Select the diagram page you want to embed in your Google Document">
 
 <br /><img src="/assets/img/blog/addon-google-docs-examples.png" width="600" alt="It's easy to embed diagrams in Google Docs">

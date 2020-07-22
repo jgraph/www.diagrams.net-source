@@ -1,5 +1,5 @@
 ---
-title: Add-on permissions required to diagram in G Suite apps
+title: Permissions required to diagram in G Suite apps
 layout: page
 faq: true
 categories: [Integrations]

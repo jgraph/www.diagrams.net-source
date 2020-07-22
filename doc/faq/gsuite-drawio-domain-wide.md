@@ -1,0 +1,28 @@
+---
+title: Install draw.io for G Suite domain-wide
+layout: page
+faq: true
+categories: [Integrations]
+---
+
+As a G Suite administrator, you can install and approve the draw.io add-on for G Suite on behalf of all users on a domain.
+
+1. Go to [https://admin.google.com](https://admin.google.com) and log in.
+2. Select _Apps_.
+<br /><img src="/assets/img/blog/gsuite-apps.png" width="250" alt="Select Apps in the administration area of your G Suite">
+3. Select _Marketplace apps_.
+<br /><img src="/assets/img/blog/gsuite-marketplace-apps.png" width="150" alt="Select Marketplace apps to see G Suite add-ons">
+4. Click on the plus symbol (_+_) in the top right of the page.
+<br /><img src="/assets/img/blog/gsuite-add-marketplace-app.png" width="150" alt="Add a new marketplace app">
+5. Search for _draw.io diagrams_, then click on draw.io.
+6. Click _Domain install_ and accept the terms and permissions that are presented.
+<br /><img src="/assets/img/blog/gsuite-domain-install.png" width="600" alt="Install the draw.io add-on for G Suite domain wide">
+
+## Get the footer removed from the diagram editor
+
+To remove the footer in the diagrams.net editor for all users, complete the following steps.
+
+1. Go to [https://admin.google.com](https://admin.google.com), select _Apps_, then _Marketplace apps_.
+2. Click on _draw.io_, then click on _Edit Service_.
+3. Send us a readable screenshot of this page [via the appropriate support channel](https://github.com/jgraph/drawio/wiki/Getting-Support), which must include your G Suite domain.
+<br /><img src="/assets/img/blog/gsuite-marketplace-app-edit.png" width="600" alt="Send us a screenshot of the add-on setup in your G Suite to remove the footer">

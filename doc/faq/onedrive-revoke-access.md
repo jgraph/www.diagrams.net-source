@@ -1,5 +1,5 @@
 ---
-title: Revoke access to OneDrive from diagrams.net
+title: Revoke access to OneDrive 
 layout: page
 faq: true
 categories: [Integrations]
