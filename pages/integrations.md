@@ -46,7 +46,7 @@ Most integrations use the name draw.io, the previous name for diagrams.net.
 
 ### Atlassian Confluence and Jira
 
-The draw.io apps for Confluence and Jira are available via the Atlassian Marketplace for Cloud, Data Centre and Server. [draw.io for Confluence](https://marketplace.atlassian.com/apps/1214854/diagram-viewer-for-confluence-cloud) is the highest-rated app on the Atlassian Marketplace.
+The draw.io apps for Confluence and Jira are available via the Atlassian Marketplace for Cloud, Data Centre and Server. [draw.io for Confluence](https://marketplace.atlassian.com/apps/1210933/draw-io-diagrams-for-confluence) is the highest-rated app on the Atlassian Marketplace.
 
 <img src="/assets/img/blog/embed-diagrams-confluence-cloud.png" width="400" alt="Embedded diagrams in draw.io for Confluence Cloud">
 
