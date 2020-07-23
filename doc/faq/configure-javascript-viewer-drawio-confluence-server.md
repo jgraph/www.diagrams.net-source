@@ -14,4 +14,4 @@ Instead of using this script over the internet, you can download the JavaScript 
 3. As an administrator, click on the gear in the Confluence menu, then select _General configuration_ to go to your instance's administration area.
 4. In the left panel, under the _draw.io add-on_ heading, select _Configuration_. Then select the _Configuration tab_.
 5. In the _Server Configuration_ field, add the key/value pair: ``viewerurl=https://jgraph.github.io/drawio//src/main/webapp/js/viewer.min.js`` then click _Save changes_.
-<br /><img src="/assets/img/blog/set-javascript-viewer-address-confluence-server.png" width="600" alt="Add the URL to your self-hosted JavaScript viewer script to the draw.io Server Configuration field">
+<br /><img src="/assets/img/blog/set-javascript-viewer-address-confluence-server.png" style="max-width:100%;height:auto;" alt="Add the URL to your self-hosted JavaScript viewer script to the draw.io Server Configuration field">

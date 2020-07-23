@@ -30,21 +30,21 @@ In the following video, you'll see what can be customised in diagrams.net and dr
 
 **Confluence Server:** Go to your instance's settings as an administrator, scroll down to the _draw.io add-on_ section in the left navigation, and click on the _Configuration_ tab.
 
-<img src="/assets/img/blog/drawio-configuration-confluence-server.png" width="600" alt="draw.io Configuration in Confluence Server">
+<img src="/assets/img/blog/drawio-configuration-confluence-server.png" style="max-width:100%;height:auto;" alt="draw.io Configuration in Confluence Server">
 
 **Confluence Cloud:** As an administrator, go to the _draw.io Configuration_ section in your instance's _Settings_.
 
-<img src="/assets/img/blog/drawio-configuration-confluence-cloud.png" width="600" alt="draw.io Configuration in Confluence Cloud">
+<img src="/assets/img/blog/drawio-configuration-confluence-cloud.png" style="max-width:100%;height:auto;" alt="draw.io Configuration in Confluence Cloud">
 
 **Quip:** As a site administrator, create a new diagram, then select _Diagrams > Preferences > Advanced_.
 
-<img src="/assets/img/blog/drawio-configuration-quip.gif" width="600" alt="draw.io Configuration in Quip">
+<img src="/assets/img/blog/drawio-configuration-quip.gif" style="max-width:100%;height:auto;"  alt="draw.io Configuration in Quip">
 
 **Embedded:** Add the ``configure=1`` URL parameter and the [JSON code for the configuration](/doc/faq/embed-mode.html).
 
 **Online and Desktop:** Select _Extras > Configuration_ to customise diagrams.net.
 
-<img src="/assets/img/blog/extras-configuration-menu.png" width="400" alt="Access the diagrams.net configuration via Extras > Configuration">
+<img src="/assets/img/blog/extras-configuration-menu.png" style="width=100%;max-width:400px;height:auto;" alt="Access the diagrams.net configuration via Extras > Configuration">
 
 ## Format
 
@@ -54,20 +54,20 @@ The configuration is represented as a [JSON (JavaScript Object Notation) string]
 
 * ``customFonts``: An array of font family names to be added before ``defaultFonts`` (9.2.4 and later).
 <br />**Note:** Fonts must be installed on the server and all client devices, or be added using the ``fontCss`` option. (6.5.4 and later).
-<br /><img src="/assets/img/blog/custom-fonts-list-confluence-cloud.png" width="200" alt="Customise the fonts in diagrams.net">
+<br /><img src="/assets/img/blog/custom-fonts-list-confluence-cloud.png" style="width=100%;max-width:200px;height:auto;" alt="Customise the fonts in diagrams.net">
 
 * ``presetColors``: Colour codes for the upper palette in the colour dialog (no leading # for the colour codes).
 
 * ``customPresetColors``: Colour codes to be added before ``presetColors`` (no leading ``#`` for the colour codes) (9.2.5 and later).
-<br /><img src="/assets/img/blog/preset-colours-new-defaults.png" width=200 alt="The default present colours can be customised in draw.io">
+<br /><img src="/assets/img/blog/preset-colours-new-defaults.png" style="width=100%;max-width:200px;height:auto;" alt="The default present colours can be customised in draw.io">
 
 * ``defaultColors``: Colour codes for the lower palette in the colour dialog (no leading ``#`` for the colour codes).
-<br /><img src="/assets/img/blog/large-palette-custom.png" width="200" alt="Modify the colour palettes easily with draw.io for Confluence Cloud">
+<br /><img src="/assets/img/blog/large-palette-custom.png" style="width=100%;max-width:200px;height:auto;" alt="Modify the colour palettes easily with draw.io for Confluence Cloud">
 
 * ``defaultColorSchemes``: Available colour schemes in the style section at the top of the format panel (use leading ``#`` for the colour codes). Possible colour keys are ``fill``, ``stroke``, ``gradient`` and ``font`` (``font`` is ignored for connectors).
 
 * ``customColorSchemes``: Colour schemes to be added before ``defaultColorSchemes`` (9.2.4 and later).
-<br /><img src="/assets/img/blog/style-colour-palette.png" width=200 alt="The default colour schemes in draw.io modify the style colour palette">
+<br /><img src="/assets/img/blog/style-colour-palette.png" style="width=100%;max-width:200px;height:auto;" alt="The default colour schemes in draw.io modify the style colour palette">
 
 * ``defaultVertexStyle`` or ``defaultEdgeStyle``: Defines the initial default styles for vertices and edges (connectors). Note that the styles defined here are copied to the styles of new cells, for each cell. This means that these values override everything else that is inherited from other styles or themes (which may be supported at a later time). Therefore, it is recommended to use a minimal set of values for the default styles. To find the key/value pairs to be used, set the style in the application and find the key and value via _Edit Style_ (``Ctrl+E``) (6.5.2 and later).
 <br />For example, to assign a default ``fontFamily`` of ``Courier New`` to all edges and vertices (and override all other default styles), use ``{"defaultVertexStyle": {"fontFamily": "Courier New"}, "defaultEdgeStyle": {"fontFamily": "Courier New"}}``.
@@ -117,7 +117,7 @@ The configuration is represented as a [JSON (JavaScript Object Notation) string]
 } ]
 ```
 This configuration produces the following _More Shapes_ dialog when combined with ``enabledLibraries: []:``
-<br /><img src="/assets/img/blog/configured-library.png" width="400" alt="The More Shape dialog in diagrams.net after configuring it with a custom library and library category" >
+<br /><img src="/assets/img/blog/configured-library.png" style="width=100%;max-width:400px;height:auto;" alt="The More Shape dialog in diagrams.net after configuring it with a custom library and library category" >
 
 * ``defaultCustomLibraries``: Defines an array of IDs to load custom libraries.
    * In Atlassian Confluence, define the IDs as ``A1...An``, e.g. ``{"defaultCustomLibraries": ["A1"]}``. To get the ID for a custom library, move the mouse over the entry in the _Select Library_ dialog or the title of the library in the left panel and wait for the tooltip to appear, e.g. _my library (A1)_, where ``A1`` is the ID. If no tooltip appears, open the library in a diagram, save the diagram, then refer to the ``<mxAtlasLibraries>`` section in the diagram file attached to the page that uses the diagram name, but is not the .png file extension (6.5.2 and later).
@@ -140,7 +140,7 @@ This configuration produces the following _More Shapes_ dialog when combined wit
 * ``fontCss``: Defines a string with CSS rules for web fonts to be used in diagrams. This should be one or more ``@font-face`` rule, e.g. to use a font file attached to a Confluence page: ``{"fontCss": "@font-face { font-family: 'Marvel'; src:  url(/confluence/download/attachments/720900/Marvel-Regular.ttf?api=v2) format('truetype')}"}``
 <br />The fonts in this section are used for displaying diagrams in the editor and creating images in Google Chrome, Firefox and Microsoft Edge. All other browsers require the font to be installed on the server-side. To create images in the browser, the font must be on the same domain and contain a CORS header, or it will be proxied via the Confluence server.
 <br />**Confluence Server**: The _Global Stylesheet_ under _Stylesheet_ in the _Look and Feel_ section of the Confluence administration area is used to view the diagram in the page and to print it from the lightbox. In this case, it should match ``fontCss`` with the following rule:
-<br /><img src="/assets/img/blog/configure-font-stylesheet-confluence-server.png" width="600" alt="Configure COnfluence Server to use fontCss rules in diagrams.net">
+<br /><img src="/assets/img/blog/configure-font-stylesheet-confluence-server.png" style="max-width:100%;height:auto;" alt="Configure COnfluence Server to use fontCss rules in diagrams.net">
 <br />**Confluence Cloud**: The font URL must be public and must allow access to the diagrams.net origin (CORS header):
 <br /> ``"fontCss": "@font-face { font-family: 'Waltograph'; src:  url(https://fontlibrary.org/assets/fonts/waltograph/23a40698cd1bb84f930b7a0884c134a6/ab260a56f2b852b78f81eac337e0a2fc/WaltographRegular.otf) format('opentype')}" and "customFonts": ["Waltograph”]``
 <br />**Note:** All fonts will be downloaded to the client when they create an image and save the diagram, so the number of custom fonts should be kept to a minimum. The external image service does currently not support custom fonts.
@@ -273,7 +273,7 @@ The configuration of the online version is stored in your browser in local stora
 <br /><img src="/assets/img/blog/configuration-browser-local-storage.png" width="400" alt="The diagrams.net configuration is stored in your browser's local storage">
 
 The current settings of the editor (such as the recent colours, current open libraries, etc.) persist in your browser in local storage under the key ``.drawio-config``:
-<br /><img src="/assets/img/blog/current-settings-local-storage-browser.png" width="400" alt="Current settings for diagrams.net are saved in local storage in your browser">
+<br /><img src="/assets/img/blog/current-settings-local-storage-browser.png" style="width=100%;max-width:400px;height:auto;" alt="Current settings for diagrams.net are saved in local storage in your browser">
 
 You can add ``defaultEdgeLength`` and ``autosaveDelay`` directly to ``.drawio-config`` to override the default values for the web app in your browser.
 

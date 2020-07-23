@@ -20,24 +20,24 @@ Once you have loaded the anonymize plugin, the _Anonymize Current Page_ menu ent
 
 **Before anonymising your diagram**
 
-<img src="/assets/img/blog/extras-anonymize-current-page.png" width="600" alt="Click Extras > Anonymize Current Page to scramble all of the text on that page">
+<img src="/assets/img/blog/extras-anonymize-current-page.png" style="max-width:100%;height:auto;" alt="Click Extras > Anonymize Current Page to scramble all of the text on that page">
 
 **After anonymising your diagram**
 
-<img src="/assets/img/blog/anonymized-diagram.png" width="600" alt="All text has been scrambled, including the page name and shape metadata">
+<img src="/assets/img/blog/anonymized-diagram.png" style="max-width:100%;height:auto;" alt="All text has been scrambled, including the page name and shape metadata">
 
 ## Permanently load the plugin
 
 If you need to anonymise diagrams regularly, add the anonymize plugin to the plugins list to load it each time you create or edit a diagram.
 
 1. From the menu, select _Extras > Plugins_.
-<br /><img src="/assets/img/blog/extras-plugins.png" width="400" alt="Open the plugins list">
+<br /><img src="/assets/img/blog/extras-plugins.png" style="width=100%;max-width:400px;height:auto;" alt="Open the plugins list">
 2. Click _Add_.
-<br /><img src="/assets/img/blog/add-plugin.png" width="200" alt="Add a new plugin">
+<br /><img src="/assets/img/blog/add-plugin.png" style="width=100%;max-width:200px;height:auto;" alt="Add a new plugin">
 2. Paste the path and filename of the plugin ``/plugins/anonymize.js`` into the URL field, then click _Add_.
-<br /><img src="/assets/img/blog/add-anonymize-plugin.png" width="200" alt="Add the anonymize plugin">
+<br /><img src="/assets/img/blog/add-anonymize-plugin.png" style="width=100%;max-width:200px;height:auto;" alt="Add the anonymize plugin">
 3. Click _Apply_.
-<br /><img src="/assets/img/blog/apply-add-anonymize-plugin.png" width="200" alt="Add the anonymize plugin">
+<br /><img src="/assets/img/blog/apply-add-anonymize-plugin.png" style="width=100%;max-width:200px;height:auto;" alt="Add the anonymize plugin">
 
 Reload your browser tab to load the plugin into the diagram editor.
 

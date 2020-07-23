@@ -13,7 +13,7 @@ Tip: You can drag a custom stencil from the drawing canvas into your Scratchpad,
 
 The basic diagrams.net stencils use XML. Click _Arrange > Insert > Shape_ to open the _Edit Shape_ dialog where you can see the XML structure of the stencil. Let's customise this stencil to be a large L with a vertical line inside.
 
-<img src="/assets/img/blog/custom-shape-example.png" width="200" alt="A complex custom shape, created in diagrams.net">
+<img src="/assets/img/blog/custom-shape-example.png" style="width=100%;max-width:200px;height:auto;" alt="A complex custom shape, created in diagrams.net">
 
 The top level element is "shape". So enter:
 ```
@@ -96,7 +96,7 @@ Notice the stroke exception in the case of the background geometry. You don't de
 
 Click _Preview_ and you should see:
 
-<img src="/assets/img/blog/custom-shape-example-code.png" width="400" alt="A complex custom shape and its code, created in diagrams.net">
+<img src="/assets/img/blog/custom-shape-example-code.png" style="width=100%;max-width:400px;height:auto;" alt="A complex custom shape and its code, created in diagrams.net">
 
 
 ## Geometry
@@ -139,7 +139,7 @@ This adds 4 connection points at the corresponding coordinates. Note the coordin
 
 When you hover over the unselected shape, connection points appear as a small x. Drag edges from these connection points or via the blue arrows.
 
-<img src="/assets/img/blog/custom-shape-example-connection-points.png" width="200" alt="Connection points have been added to the custom shape">
+<img src="/assets/img/blog/custom-shape-example-connection-points.png" style="width=100%;max-width:200px;height:auto;" alt="Connection points have been added to the custom shape">
 
 ## Style
 
@@ -180,7 +180,7 @@ The styles related to text are:
 
 After adding the text to the custom shape, as well as the connectors, click _Preview_.
 
-<img src="/assets/img/blog/custom-shape-example-styled-text.png" width="400" alt="Text has been added to the custom shape">
+<img src="/assets/img/blog/custom-shape-example-styled-text.png" style="width=100%;max-width:400px;height:auto;" alt="Text has been added to the custom shape">
 
 ## Using style
 
@@ -216,4 +216,4 @@ The number of ``<save/>`` and ``<restore/>`` elements should match.
 
 As an example, let's change our L shape to include two lines in the foreground : the first vertical line is grey, and the second one is back to the default stroke colour.
 
-<img src="/assets/img/blog/custom-shape-example-style-stack.png" width="400" alt="Adding style to a custom shape using the stack">
+<img src="/assets/img/blog/custom-shape-example-style-stack.png" style="width=100%;max-width:400px;height:auto;" alt="Adding style to a custom shape using the stack">

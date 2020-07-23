@@ -17,13 +17,13 @@ This is when you want to display a diagram on another page. Embed diagrams when 
 Embedding a diagram works similarly to the "Excerpt" and "Excerpt Include" Confluence macros - there is one master diagram (single source) that is simply displayed (embedded) in other locations using the diagram viewer. You can embed diagrams from one space in pages in another space.
 
 1. Edit the page you want to display the diagram on and start typing ``/draw``. Select the _Embed draw.io diagram_ macro from the suggestions.
-<br /><img src="/assets/img/blog/embed-diagram-macro-cloud.png" width="300" alt="Add the _Embed draw.io diagram_ macro to a Confluence Cloud page">
+<br /><img src="/assets/img/blog/embed-diagram-macro-cloud.png" style="width=100%;max-width:300px;height:auto;" alt="Add the _Embed draw.io diagram_ macro to a Confluence Cloud page">
 2. Choose the diagram you wish to embed - recently updated diagrams are shown by default.  Select the diagram you want to embed, then click _Select_.
    - If you don’t see your diagram here, click on the _Search_ tab at the top, and search for the name of your diagram. All diagrams with that name will appear in the results. Click on the diagram you want, then click _Select_.
    - Hover over any diagram preview to see its file name.
-   <br /><img src="/assets/img/blog/select-diagram-embed-confluence-cloud.png" width="600" alt="Search for and select the diagram you want to embed in a Confluence Cloud page">
+   <br /><img src="/assets/img/blog/select-diagram-embed-confluence-cloud.png" style="max-width:100%;height:auto;" alt="Search for and select the diagram you want to embed in a Confluence Cloud page">
 3. You'll see a preview of the diagram so you can check it is the one you want to embed. Click _Insert_ to embed it in your Confluence page.
-<br /><img src="/assets/img/blog/preview-embed-diagram-confluence-cloud.png" width="600" alt="Preview the diagram before embedded it in a Confluence Cloud page">
+<br /><img src="/assets/img/blog/preview-embed-diagram-confluence-cloud.png" style="max-width:100%;height:auto;" alt="Preview the diagram before embedded it in a Confluence Cloud page">
 
 You won't be able to edit the diagram from the Confluence page when you have used the _Embed draw.io diagram_ macro. You'll need to go to the page that has the original diagram and edit it there.
 
@@ -37,16 +37,16 @@ This is when you want to duplicate the diagram file and then edit the copy witho
 You can also copy pages from one space to another space using the steps below.
 
 1. Edit the page you want to display the diagram on and start typing ``/draw``. Select the draw.io Diagram macro from the suggestions.
-<br /><img src="/assets/img/blog/insert-drawio-macro-confluence-cloud.png" width="300" alt="Add the draw.io Diagram macro to a Confluence Cloud page">
+<br /><img src="/assets/img/blog/insert-drawio-macro-confluence-cloud.png" style="width=100%;max-width:300px;height:auto;" alt="Add the draw.io Diagram macro to a Confluence Cloud page">
 2. Choose the diagram you wish to make a copy of - click on the _Recent_ tab to see the most recently updated diagrams.  Select the diagram you want to copy, edit the _Diagram Name_, then click _Create_.
-<br /><img src="/assets/img/blog/copy-diagram-example.png" width="400" alt="Select a diagram from the Recent tab, add a new diagram name and click Create to copy a draw.io diagram in Confluence Cloud">
+<br /><img src="/assets/img/blog/copy-diagram-example.png" style="width=100%;max-width:400px;height:auto;" alt="Select a diagram from the Recent tab, add a new diagram name and click Create to copy a draw.io diagram in Confluence Cloud">
 
 If you don’t see your diagram here, enter the file name of your diagram in the Search field and then click on _Search_.  
 Select the diagram you want to copy, then click _Create_.
 
 Note: You can hover over any diagram preview to see its file name.
 
-<br /><img src="/assets/img/blog/copy-diagram-example-search.png" width="400" alt="Search for a draw.io diagram file that you want copy in Confluence Cloud">
+<br /><img src="/assets/img/blog/copy-diagram-example-search.png" style="width=100%;max-width:400px;height:auto;" alt="Search for a draw.io diagram file that you want copy in Confluence Cloud">
 
 Copying a diagram adds a new diagram file to the list of draw.io Diagrams in your Confluence Cloud space.
 

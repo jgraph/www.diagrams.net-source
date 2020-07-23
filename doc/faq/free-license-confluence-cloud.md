@@ -13,7 +13,7 @@ If your organisation qualifies, we will let you know you when your free license 
 
 ## Install your free draw.io license for Confluence Cloud
 1. As an administrator, go to your Confluence Cloud _Settings_ and select _Manage apps_ in the _Atlassian Marketplace_ section.
-<br /><img src="/assets/img/blog/drawio-confluence-cloud-information.png" alt="Manage the draw.io app in the Confluence Cloud Settings as an administrator" width="600">
+<br /><img src="/assets/img/blog/drawio-confluence-cloud-information.png" alt="Manage the draw.io app in the Confluence Cloud Settings as an administrator" style="max-width:100%;height:auto;" >
 2. Stop any trial and remove any existing license, otherwise you may be charged.
 
 After this, draw.io will be shown as unlicensed. This is correct, and your app will work properly as long as your domain is set to be a free license in our systems.

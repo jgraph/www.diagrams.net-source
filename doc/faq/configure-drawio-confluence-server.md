@@ -25,4 +25,4 @@ You can configure a number of settings for the draw.io backend in Confluence Ser
 
 For example, several of these settings have been added to the Server Configuration field.
 
-<img src="/assets/img/blog/server-settings-drawio-confluence-server.png" width="600" alt="Configure the Server Settings for draw.io in Confluence Server">
+<img src="/assets/img/blog/server-settings-drawio-confluence-server.png" style="max-width:100%;height:auto;" alt="Configure the Server Settings for draw.io in Confluence Server">

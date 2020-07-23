@@ -15,7 +15,7 @@ Administrators can set global default and custom colours and styles in the draw.
 2. On the draw.io Configuration tab, enter the JSON string with the new colour information for the various palettes (sample code and examples are below). [See all of the options that you can customise in the JSON string](https://desk.draw.io/support/solutions/articles/16000058316)
 3. Click _Save_ to save the new colours. Diagram authors will now see either the new default or new custom colours in the palettes you have configured when they next load a draw.io diagram in the editor.
 
-<img src="/assets/img/blog/drawio-configuration-custom-colours.png" width="600" alt="Administrators can specify custom colours for draw.io in Confluence Cloud">
+<img src="/assets/img/blog/drawio-configuration-custom-colours.png" style="max-width:100%;height:auto;" alt="Administrators can specify custom colours for draw.io in Confluence Cloud">
 
 **Important:** To change even one colour in any of the _**default**_ colour palettes, you must specify _all_ of the other colours in that palette.
 
@@ -25,7 +25,7 @@ There are three different palettes where you can set new default or custom colou
 
 These change the style palette displayed at the top of the format panel on the _Style_ tab. Each style palette page of colours is separated by a square bracket. Each style on the palette consists of a ``fill`` colour, a ``stroke`` colour, and an optional ``gradient`` colour, if desired.
 
-<img src="/assets/img/blog/style-colour-palette.png" width=200 alt="The default colour schemes in draw.io modify the style colour palette">
+<img src="/assets/img/blog/style-colour-palette.png" style="width=100%;max-width:200px;height:auto;" alt="The default colour schemes in draw.io modify the style colour palette">
 
 For example, these are the default colours and styles used by the first two _pages_ of styles in the style palette, as part of a JSON string. Each page of the palette is enclosed in square brackets. In this palette, you must use the leading ``#`` when you specify the hex colour code.
 ```
@@ -64,7 +64,7 @@ For example, add the following to the JSON string to add a page for custom paste
     {"fill": "#8caba8", "stroke": "none"}]
 ]}
 ```
-<img src="/assets/img/blog/style-colour-palette-custom.png" width="200" alt="An additional custom colour scheme has been added to the style palette in draw.io">
+<img src="/assets/img/blog/style-colour-palette-custom.png" style="width=100%;max-width:200px;height:auto;" alt="An additional custom colour scheme has been added to the style palette in draw.io">
 
 ### Preset colours in the colour dialog
 
@@ -89,7 +89,7 @@ If you don't want to change the default preset colours, you can add custom colou
 ```
 { "customPresetColors": ["f79862", "f05e23", "be5504"] }
 ```
-<img src="/assets/img/blog/preset-colours-custom.png" width=200 alt="Custom present colours are added before the default preset colours in the palette">
+<img src="/assets/img/blog/preset-colours-custom.png" style="width=100%;max-width:200px;height:auto;" alt="Custom present colours are added before the default preset colours in the palette">
 
 ### Default colours in the main colour palette
 
@@ -120,4 +120,4 @@ For example, a very warm palette full of reds, oranges and creams:
      "none"]
 }
 ```
-<img src="/assets/img/blog/large-palette-custom.png" width="200" alt="Modify the colour palettes easily with draw.io for Confluence Cloud">
+<img src="/assets/img/blog/large-palette-custom.png" style="width=100%;max-width:200px;height:auto;" alt="Modify the colour palettes easily with draw.io for Confluence Cloud">

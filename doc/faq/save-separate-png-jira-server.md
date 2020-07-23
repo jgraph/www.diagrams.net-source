@@ -12,4 +12,4 @@ When you add a draw.io diagram to an issue on Jira Server, it can automatically 
 3. Under the _draw.io add-on_ section in the left, select _Configuration_, then click on the _Configuration_ tab.
 4. Enable the checkbox to _Save diagram in separate png_, and click _Save_.
 
-<img src="/assets/img/blog/jira-server-save-separate.png" width="600" alt="Set draw.io to save PNG images separately in Jira Server">
+<img src="/assets/img/blog/jira-server-save-separate.png" style="max-width:100%;height:auto;" alt="Set draw.io to save PNG images separately in Jira Server">

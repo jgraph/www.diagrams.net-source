@@ -28,5 +28,5 @@ To find out why a user has a problem saving or creating draw.io diagrams, use th
 4. Select the _Permission_ they need in the drop down list:
    * Save or update their own diagram: _Create Attachments_ and _Delete Own Attachments_
    * Update another user's diagram: _Create Attachments_ and _Delete All Attachments_
-   <br /><img src="/assets/img/blog/jira-cloud-permission-helper.png" width="400" alt="Use the Jira Cloud permission helper to see why a user has a problem creating or updating a draw.io diagram">
+   <br /><img src="/assets/img/blog/jira-cloud-permission-helper.png" style="width=100%;max-width:400px;height:auto;" alt="Use the Jira Cloud permission helper to see why a user has a problem creating or updating a draw.io diagram">
 5. Click _Submit_.

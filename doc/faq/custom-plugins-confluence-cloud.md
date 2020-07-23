@@ -23,7 +23,7 @@ These plugins may not be production quality as some are developmental code, and 
 
 1. Go to the _draw.io Configuration_ tab in the _draw.io Configuration_ section of your Confluence Cloud settings.
 2. Add the [**plugin ID**](/doc/faq/plugins.html) you want to load by default to the ``plugins`` option in the JSON code. Add multiple plugins separated by a semicolon.
-<br /><img src="/assets/img/blog/custom-plugins-confluence-cloud.png" width="600" alt="Add the list of plugins to the draw.io Configuration in your Confluence Settings">
+<br /><img src="/assets/img/blog/custom-plugins-confluence-cloud.png" style="max-width:100%;height:auto;" alt="Add the list of plugins to the draw.io Configuration in your Confluence Settings">
 <br />This example loads the ``anon`` and ``text`` plugins.
 ```
 {   
@@ -34,4 +34,4 @@ These plugins may not be production quality as some are developmental code, and 
 
 Now, the plugins will be available in the draw.io editor's menu.
 
-<img src="/assets/img/blog/custom-plugins-confluence-cloud-menu.png" width="400" alt="draw.io plugins can be loaded by default in Confluence Cloud">
+<img src="/assets/img/blog/custom-plugins-confluence-cloud-menu.png" style="width=100%;max-width:400px;height:auto;" alt="draw.io plugins can be loaded by default in Confluence Cloud">

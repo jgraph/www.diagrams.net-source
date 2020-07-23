@@ -26,7 +26,7 @@ The draw.io app performs client-side (local) image generation if you are using r
 1. As an administrator, click on the gear icon, then select _General configuration_ to go to your Confluence administration.
 2. Under the draw.io add-on section in the left panel, click on _Configuration_, then select the _Configuration_ tab.
 3. Enable the _Use external image service_ checkbox.
-<br /><img src="/assets/img/blog/enable-external-image-service.png" width="600" alt="Enable the external image service in draw.io in Confluence Server and Data Center">
+<br /><img src="/assets/img/blog/enable-external-image-service.png" style="max-width:100%;height:auto;" alt="Enable the external image service in draw.io in Confluence Server and Data Center">
 
 ## Privacy: image generation server
 

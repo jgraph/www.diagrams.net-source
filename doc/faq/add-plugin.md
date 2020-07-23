@@ -28,13 +28,13 @@ To load more than one plugin, separate them in the URL option with a semicolon: 
 You can make sure the diagram editor loads the plugin every time you create or open a diagram at diagrams.net.
 
 1. From the menu, select _Extras > Plugins_.
-<br /><img src="/assets/img/blog/extras-plugins.png" width="400" alt="Open the plugins list">
+<br /><img src="/assets/img/blog/extras-plugins.png" style="width=100%;max-width:400px;height:auto;" alt="Open the plugins list">
 2. Click _Add_.
-<br /><img src="/assets/img/blog/add-plugin.png" width="200" alt="Add a new plugin">
+<br /><img src="/assets/img/blog/add-plugin.png" style="width=100%;max-width:200px;height:auto;" alt="Add a new plugin">
 2. Paste the plugin's filename and path, for example ``/plugins/anonymize.js`` into the URL field, then click _Add_.
-<br /><img src="/assets/img/blog/add-anonymize-plugin.png" width="200" alt="Add the anonymize plugin">
+<br /><img src="/assets/img/blog/add-anonymize-plugin.png" style="width=100%;max-width:200px;height:auto;" alt="Add the anonymize plugin">
 3. Click _Apply_.
-<br /><img src="/assets/img/blog/apply-add-anonymize-plugin.png" width="200" alt="Add the anonymize plugin">
+<br /><img src="/assets/img/blog/apply-add-anonymize-plugin.png" style="width=100%;max-width:200px;height:auto;" alt="Add the anonymize plugin">
 4. The confirmation message reminds you that you will need to reload the diagram editor to load only those plugins in your list. Click _OK_, then refresh your browser tab (_Ctrl+R_ or _Cmd+R_).
 
 ## Loading plugins in Confluence

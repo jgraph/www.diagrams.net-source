@@ -12,7 +12,7 @@ To display a draw.io diagram on a page, the draw.io macro contains an attribute 
 ## Find the name of the moved diagram file
 
 1. Determine the name of the diagram attachment first. As an administrator, look at the page source - the underlying format that Confluence uses to describe the page. Click on _... > View Storage Format_ in the top right to see a page's source.
-<br /><img src="/assets/img/blog/confluence-cloud-view-storage-format.png" width="200" alt="Click on ... > View Storage Format to see the source of a page in Confluence Cloud as an administrator">
+<br /><img src="/assets/img/blog/confluence-cloud-view-storage-format.png" style="width=100%;max-width:200px;height:auto;" alt="Click on ... > View Storage Format to see the source of a page in Confluence Cloud as an administrator">
 2. Within the source, look for the ``structured-macro`` with the name _"drawio"_.
 3. Within the this macro definition, look for the ``diagramName`` parameter. In the following example, the diagramName is _rulers-measurements.drawio_.
 
@@ -38,7 +38,7 @@ ac:name="height">911</ac:parameter></ac:structured-macro></p>
 
 1. Copy the diagram name and enter it into Confluence's search function. <br />
 **Tip:** Restrict the search results to just _Attachments_.
-<br /><img src="/assets/img/blog/attachment-search-diagram-name-confluence-cloud.png" width="600" alt="Filter the search results to attachments to find the moved diagram files">
+<br /><img src="/assets/img/blog/attachment-search-diagram-name-confluence-cloud.png" style="max-width:100%;height:auto;" alt="Filter the search results to attachments to find the moved diagram files">
 2. If the ``revision`` parameter is ``1``, you can simply copy the diagram attachment back to your original page to fix the problem with the draw.io macro.
 3. If the ``revision`` parameter is higher:
    * Download the attachment from the incorrect page to your device.

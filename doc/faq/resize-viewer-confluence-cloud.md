@@ -11,4 +11,4 @@ You can only resize the draw.io diagram viewer in the editor at the moment. By c
 2. In the format panel on the right, click Zoom and change the zoom percentage.
 3. Save the diagram and exit the page editor to see your changes.
 
-<img src="/assets/img/blog/zoom-diagram-viewer-confluence-cloud.png" width="600" alt="Change the zoom on the diagram to change the size of the viewer in draw.io for Confluence Cloud">
+<img src="/assets/img/blog/zoom-diagram-viewer-confluence-cloud.png" style="max-width:100%;height:auto;" alt="Change the zoom on the diagram to change the size of the viewer in draw.io for Confluence Cloud">

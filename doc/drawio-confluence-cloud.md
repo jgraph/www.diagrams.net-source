@@ -12,7 +12,7 @@ Administrators can convert all of the Gliffy diagrams in a Confluence Cloud inst
 2. Select on _draw.io Gliffy Import_ in the left menu.
 3. Click on the _Start Import_ button and wait for the import to complete.
 
-<img src="/assets/img/blog/confluence-cloud-start-gliffy-import.png" width="400" alt="Start the Gliffy mass import to draw.io diagrams in Confluence Cloud">
+<img src="/assets/img/blog/confluence-cloud-start-gliffy-import.png" style="width=100%;max-width:400px;height:auto;" alt="Start the Gliffy mass import to draw.io diagrams in Confluence Cloud">
 
 [Learn how to use the Gliffy to draw.io mass import feature](/doc/faq/mass-import-gliffy-confluence-cloud.html)
 
@@ -26,7 +26,7 @@ Embedding a diagram works similarly to the "Excerpt" and "Excerpt Include" Confl
 
 Use the the _Embed draw.io diagram_ macro and choose an existing diagram.
 
-<img src="/assets/img/blog/embed-diagram-macro-cloud.png" width="300" alt="Add the _Embed draw.io diagram_ macro to a Confluence Cloud page">
+<img src="/assets/img/blog/embed-diagram-macro-cloud.png" style="width=100%;max-width:300px;height:auto;" alt="Add the _Embed draw.io diagram_ macro to a Confluence Cloud page">
 
 You can also embed diagrams from cloud storage platforms in Confluence Cloud.
 * [Google Drive](/doc/faq/embed-diagram-googledrive-confluence-cloud.html)
@@ -36,7 +36,7 @@ You can also embed diagrams from cloud storage platforms in Confluence Cloud.
 
 You can duplicate a diagram file and then edit the copy without changing the original diagram. When you add the _draw.io diagram_ macro to the page, select _Recent_ or search for an existing diagram file, select it, then click _Create_.
 
-<img src="/assets/img/blog/copy-diagram-example.png" width="400" alt="Select a diagram from the Recent tab, add a new diagram name and click Create to copy a draw.io diagram in Confluence Cloud">
+<img src="/assets/img/blog/copy-diagram-example.png" style="width=100%;max-width:400px;height:auto;" alt="Select a diagram from the Recent tab, add a new diagram name and click Create to copy a draw.io diagram in Confluence Cloud">
 
 **Move a diagram**
 
@@ -76,7 +76,7 @@ For detailed steps and examples, see the linked documentation for each feature y
 2. Go to the _draw.io Configuration_ in the _Atlassian Marketplace_ section on the left.
 3. Edit the JSON configuration code in the _draw.io Configuration_ tab.
 
-<img src="/assets/img/blog/drawio-configuration-custom-colours.png" width="600" alt="Administrators can specify custom colours for draw.io in Confluence Cloud">
+<img src="/assets/img/blog/drawio-configuration-custom-colours.png" style="max-width:100%;height:auto;" alt="Administrators can specify custom colours for draw.io in Confluence Cloud">
 
 ### Provide shapes and corporate assets in custom libraries
 
@@ -85,7 +85,7 @@ For detailed steps and examples, see the linked documentation for each feature y
 1. Add the custom shape libraries via the _Custom Libraries_ tab in the _draw.io Configuration_ section in your Confluence Cloud Settings.
 2. Set it to open by default for all users by editing the JSON code on the _draw.io Configuration_ tab.
 
-<img src="/assets/img/blog/custom-library-confluence-cloud.png" width="400" alt="Custom libraries appear under the scratchpad in Confluence Cloud">
+<img src="/assets/img/blog/custom-library-confluence-cloud.png" style="width=100%;max-width:400px;height:auto;" alt="Custom libraries appear under the scratchpad in Confluence Cloud">
 
 ### Add custom templates to diagram faster
 
@@ -98,7 +98,7 @@ For example, add your own floorplan template for regularly changing seating arra
 1. Add the custom templates via the _Custom Templates_ tab in the _draw.io Configuration_ section in your Confluence Cloud Settings.
 2. Add template diagrams to your template category pages.
 
-<br /><img src="/assets/img/blog/new-diagram-custom-template-confluence-cloud.png" width="400" alt="Create a new diagram from a custom template in draw.io for Confluence Cloud">
+<br /><img src="/assets/img/blog/new-diagram-custom-template-confluence-cloud.png" style="width=100%;max-width:400px;height:auto;" alt="Create a new diagram from a custom template in draw.io for Confluence Cloud">
 
 ## Troubleshooting
 

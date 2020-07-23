@@ -21,20 +21,20 @@ Once you have loaded the explore plugin, right click on a shape to see the conte
 
 This will open your diagram in the lightbox, showing on the shape you selected and its connected shapes.
 
-<img src="/assets/img/blog/explore-from-here.gif" width="600" alt="Using the explore plugin to step through a complex org chart">
+<img src="/assets/img/blog/explore-from-here.gif" style="max-width:100%;height:auto;" alt="Using the explore plugin to step through a complex org chart">
 
 ## Permanently load the plugin
 
 If you want to always be able to explore your diagrams like this, add the explore plugin to the plugins list to load it each time you create or edit a diagram.
 
 1. From the menu, select _Extras > Plugins_.
-<br /><img src="/assets/img/blog/extras-plugins.png" width="400" alt="Open the plugins list">
+<br /><img src="/assets/img/blog/extras-plugins.png" style="width=100%;max-width:400px;height:auto;" alt="Open the plugins list">
 2. Click _Add_.
-<br /><img src="/assets/img/blog/add-plugin.png" width="200" alt="Add a new plugin">
+<br /><img src="/assets/img/blog/add-plugin.png"style="width=100%;max-width:200px;height:auto;" alt="Add a new plugin">
 2. Paste the path and filename of the plugin ``/plugins/explore.js`` into the URL field, then click _Add_
-<br /><img src="/assets/img/blog/add-explore-plugin.png" width="200" alt="Add the explore plugin">
+<br /><img src="/assets/img/blog/add-explore-plugin.png" style="width=100%;max-width:200px;height:auto;" alt="Add the explore plugin">
 3. Click _Apply_.
-<br /><img src="/assets/img/blog/apply-add-explore-plugin.png" width="200" alt="Add the explore plugin">
+<br /><img src="/assets/img/blog/apply-add-explore-plugin.png" style="width=100%;max-width:200px;height:auto;" alt="Add the explore plugin">
 
 Reload your browser tab to load the plugin into the diagram editor.
 
@@ -44,7 +44,7 @@ By default, diagrams published to URLs do not load plugins.
 
 To allow someone to explore your diagram, when you publish a diagram to a URL (_File > Publish Link_), add the ``&p=ex`` URL parameter to the link before you share it (as highlighted in blue in the screenshot below).
 
-<img src="/assets/img/blog/share-link-explore-plugin.png" width="400" alt="Share a link to your diagram and enable the explore plugin">
+<img src="/assets/img/blog/share-link-explore-plugin.png" style="width=100%;max-width:400px;height:auto;" alt="Share a link to your diagram and enable the explore plugin">
 
 ## Use the explore plugin in Confluence
 

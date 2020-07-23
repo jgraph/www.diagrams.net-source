@@ -19,12 +19,12 @@ To see the default fonts when you click on the font drop down list on the Text t
 ```
 {  "defaultFonts": ["Courier New", "Tahoma", "Helvetica"] }
 ```
-<br /><img src="/assets/img/blog/custom-default-fonts-confluence-cloud.png" width="600" alt="Changing the list of default fonts in draw.io for Confluence Cloud">
+<br /><img src="/assets/img/blog/custom-default-fonts-confluence-cloud.png" style="max-width:100%;height:auto;" alt="Changing the list of default fonts in draw.io for Confluence Cloud">
 3. Click _Save_.
 
 The list of default fonts will now only contain only those you have included in this configuration.
 
-<img src="/assets/img/blog/custom-default-fonts-list-confluence-cloud.png" width="400" alt="A customised list of default fonts in draw.io for Confluence Cloud">
+<img src="/assets/img/blog/custom-default-fonts-list-confluence-cloud.png" style="width=100%;max-width:400px;height:auto;" alt="A customised list of default fonts in draw.io for Confluence Cloud">
 
 ## Add custom fonts before the default fonts
 
@@ -35,7 +35,7 @@ You don't have to overwrite the default font list. The ``customFonts`` option le
 ```
 With this, the two custom fonts _Lato_ and _Charter_ are added to the font drop down list on top of the full list of default fonts.
 
-<img src="/assets/img/blog/custom-fonts-list-confluence-cloud.png" width="200" alt="Custom fonts are added before the default fonts in draw.io for Confluence Cloud">
+<img src="/assets/img/blog/custom-fonts-list-confluence-cloud.png" style="width=100%;max-width:200px;height:auto;" alt="Custom fonts are added before the default fonts in draw.io for Confluence Cloud">
 
 ## Use web and Google fonts
 
@@ -72,6 +72,6 @@ Add all of the fonts in the fontCss value inside the double quotes, separated by
 }
 ```
 
-<img src="/assets/img/blog/custom-fonts-multiple-confluence-cloud.png" width="400" alt="Multiple custom fonts can be used in draw.io for Confluence Cloud">
+<img src="/assets/img/blog/custom-fonts-multiple-confluence-cloud.png" style="width=100%;max-width:400px;height:auto;" alt="Multiple custom fonts can be used in draw.io for Confluence Cloud">
 
 **Exporting diagrams:** The external image and PDF export features do not currently support custom fonts.

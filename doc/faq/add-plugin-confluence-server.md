@@ -26,5 +26,5 @@ These plugins may not be production quality as some are developmental code, and 
 1. [Download the Javascrpt file for a plugin from GitHub](https://github.com/jgraph/drawio/tree/master/src/main/webapp/plugins) and attach the JavaScript file to a page in your instance.
 2. As an administrator, go to the _draw.io Configuration_ section, in the left-hand menu of your Confluence Settings. Click on the Configuration tab.
 2. Add the plugins option to the JSON code in the UI configuration. Paste the relative URL to the file attachment you saved in step 1. For example: ``"plugins": [ "/download/attachments/55279729/anonymize.js ]``
-<br /><img src="/assets/img/blog/add-anonymize-plugin-confluence-server.png" width="400" alt="Add the anonymize plugin to draw.io in Confluence Cloud">
+<br /><img src="/assets/img/blog/add-anonymize-plugin-confluence-server.png" style="width=100%;max-width:400px;height:auto;" alt="Add the anonymize plugin to draw.io in Confluence Cloud">
 3. Click _Save Changes_.

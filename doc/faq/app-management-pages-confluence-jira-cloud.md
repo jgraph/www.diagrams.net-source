@@ -13,11 +13,11 @@ In Jira Cloud, as an administrator: Click on _Settings_ (the gear icon in the lo
 
 You'll be taken directly to the Find new apps page where you can search for an app, and sort/filter the search results.
 
-<img src="/assets/img/blog/jira-cloud-find-new-apps.png" width="400" alt="Find new apps for your Jira Cloud instance via the Settings">
+<img src="/assets/img/blog/jira-cloud-find-new-apps.png" style="width=100%;max-width:400px;height:auto;" alt="Find new apps for your Jira Cloud instance via the Settings">
 
 Click on _Manage apps_ to work with the apps you have already installed in your instance.
 
-<img src="/assets/img/blog/jira-cloud-manage-apps2.png" width="400" alt="Manage the existing apps in your Jira Cloud instance via the Settings">
+<img src="/assets/img/blog/jira-cloud-manage-apps2.png" style="width=100%;max-width:400px;height:auto;" alt="Manage the existing apps in your Jira Cloud instance via the Settings">
 
 Alternatively, you can jump directly to these pages. Replace ``xyz`` with the subdomain of your Jira instance:
 
@@ -28,8 +28,8 @@ Alternatively, you can jump directly to these pages. Replace ``xyz`` with the su
 
 It works similarly in Confluence Cloud. As an administrator: Click on _Settings_, and find the _Atlassian Marketplace_ section in the left navigation panel. Either select _Find new apps_ or _Manage apps_.
 
-<img src="/assets/img/blog/confluence-cloud-find-new-apps.png" width="400" alt="Find new apps for your Confluence Cloud instance via Settings"> <br /> &nbsp; <br />
-<img src="/assets/img/blog/confluence-cloud-manage-apps.png" width="400" alt="Manage the apps that are installed in your Confluence Cloud instance via Settings">
+<img src="/assets/img/blog/confluence-cloud-find-new-apps.png" style="width=100%;max-width:400px;height:auto;" alt="Find new apps for your Confluence Cloud instance via Settings">
+<br /><img src="/assets/img/blog/confluence-cloud-manage-apps.png" style="width=100%;max-width:400px;height:auto;" alt="Manage the apps that are installed in your Confluence Cloud instance via Settings">
 
 You can jump directly to these pages in your Confluence Cloud instance. Replace ``xyz`` with the subdomain of your Confluence instance:
 

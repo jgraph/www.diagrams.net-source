@@ -16,7 +16,7 @@ While you can set your own _default style_ while editing a diagram (and this is 
 2. Add the style settings to the JSON text entry area on the _draw.io Configuration_ tab. Make sure that each of the two options is formatted as a single line.
 3. To find more key and value pairs, set the style you want on a shape or connector in a draw.io diagram in the editor, and click _Edit Style_ in the _Style_ tab of the format panel, or use the keyboard shortcut ``Ctrl+E`` (``Cmd+E``). As this configuration overrides everything else inherited from other styles or themes, it is recommended to set new defaults for as few key/value pairs as possible.
 4. Click _Save_ when you are finished.
-<br /><img src="/assets/img/blog/custom-default-styles-confluence-cloud.png" width="400" alt="Administrators can set global custom default styles for shapes and connectors in draw.io diagrams in the Confluence Cloud settings">
+<br /><img src="/assets/img/blog/custom-default-styles-confluence-cloud.png" style="width=100%;max-width:400px;height:auto;" alt="Administrators can set global custom default styles for shapes and connectors in draw.io diagrams in the Confluence Cloud settings">
 
 ```
 {
@@ -27,7 +27,7 @@ While you can set your own _default style_ while editing a diagram (and this is 
 
 Now, whenever a new user creates a diagram, shapes added to the drawing canvas will follow this style.
 
-<img src="/assets/img/blog/applied-custom-default-styles-confluence-cloud.png" width="400" alt="Custom default styles in draw.io for Confluence Cloud let you create attractive diagrams, faster.">
+<img src="/assets/img/blog/applied-custom-default-styles-confluence-cloud.png" style="width=100%;max-width:400px;height:auto;" alt="Custom default styles in draw.io for Confluence Cloud let you create attractive diagrams, faster.">
 
 ## As a user, change your personal default styles
 
@@ -35,7 +35,7 @@ Now, whenever a new user creates a diagram, shapes added to the drawing canvas w
 2. Select it, then in click on _Set as Default Style_ in the _Style_ tab of the format panel.
 3. Repeat for the connector style.
 
-<img src="/assets/img/blog/set-default-style-confluence-cloud.png" width="400" alt="Set a new personal default style for shapes and connectors in draw.io for Confluence Cloud">
+<img src="/assets/img/blog/set-default-style-confluence-cloud.png" style="width=100%;max-width:400px;height:auto;" alt="Set a new personal default style for shapes and connectors in draw.io for Confluence Cloud">
 
 Your personal defaults are stored in your browser. If you clear your browser data, these settings will be erased, and you will return to using the global default styles.
 
@@ -46,4 +46,4 @@ Your personal defaults are stored in your browser. If you clear your browser dat
 
 This resets the default style to the global defaults. If an administrator has set up a custom default style, this is what shapes will use when you add them to the drawing canvas.
 
-<img src="/assets/img/blog/clear-default-styles-confluence-cloud.png" width="400" alt="Clear your personal default style and return to using the default styles defined by an administrator in Confluence Cloud">
+<img src="/assets/img/blog/clear-default-styles-confluence-cloud.png" style="width=100%;max-width:400px;height:auto;" alt="Clear your personal default style and return to using the default styles defined by an administrator in Confluence Cloud">

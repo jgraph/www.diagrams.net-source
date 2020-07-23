@@ -19,10 +19,10 @@ The mass Gliffy import converts all Gliffy diagrams on all pages (or selected sp
    * Go to the _Atlassian Marketplace_ heading in the left panel of your instance's administration area, then click on _Find new apps_.
    * Search for ``draw.io`` and install the _draw.io Diagrams for Confluence app_.
 2. Once it has been installed, under the _draw.io add-on_ heading in left panel of your instance's administration area, then click on _Configuration_ and select the _Gliffy Import_ tab.
-<br /><img src="/assets/img/blog/gliffy-import-confluence-server.png" width="600" alt="Go to the Gliffy Import tab in the draw.io add-on configuration in Confluence server to convert all of your diagrams at once">
+<br /><img src="/assets/img/blog/gliffy-import-confluence-server.png" style="max-width:100%;height:auto;" alt="Go to the Gliffy Import tab in the draw.io add-on configuration in Confluence server to convert all of your diagrams at once">
 3. To limit the spaces you import, enter a filter into the _Filter by spaces_ field. Use this to test the import on a small demonstration space. Then click on _Start Import_.
 <br />**Note:** The full import may take some time depending on the number of Gliffy diagrams there are. A text report of the import is created, which you can download and use to inspect the results once the import is finished.
-<br /><img src="/assets/img/blog/gliffy-import-report-confluence-server.png" width="400" alt="Download and review the Gliffy Import Report after your mass import to draw.io has finished in Confluence Server">
+<br /><img src="/assets/img/blog/gliffy-import-report-confluence-server.png" style="width=100%;max-width:400px;height:auto;" alt="Download and review the Gliffy Import Report after your mass import to draw.io has finished in Confluence Server">
 
 ### Additional configuration options
 

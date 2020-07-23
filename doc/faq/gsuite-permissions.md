@@ -15,7 +15,7 @@ The diagrams.net add-ons for Google's G Suite applications require a variety of 
 * **Allow this application to run when you are not present:** Acknowledges that the application scripts run on a server and not on your local computer.
 * **Display and run third-party web content:** Allows you to select a diagram file in the sidebar picker.
 
-<img src="/assets/img/blog/diagrams-docs-grant-permission.png" width="200" alt="Grant permission for diagrams.net to access your Google Drive files and Google Docs">
+<img src="/assets/img/blog/diagrams-docs-grant-permission.png" style="width=100%;max-width:200px;height:auto;" alt="Grant permission for diagrams.net to access your Google Drive files and Google Docs">
 
 If you are not comfortable granting these permissions, you can always export your diagram to an image and embed that image into your document manually. Keep in mind that you'll need to do this manually each time you edit your diagram files.
 
@@ -27,4 +27,4 @@ When you embed a diagram, you will need to grant additional permissions to save 
 * **Add itself to Google Drive:** Allows you to save diagram files to Google Drive.
 * **View and manage Google Drive files and folders:** Allows you to navigate through your Google Drive so you can select, open, edit and save your diagram files.
 
-<img src="/assets/img/blog/google-drive-permissions.png" width="200" alt="Grant permission for diagrams.net to access your Google Drive files and Google Docs">
+<img src="/assets/img/blog/google-drive-permissions.png" style="width=100%;max-width:200px;height:auto;" alt="Grant permission for diagrams.net to access your Google Drive files and Google Docs">
