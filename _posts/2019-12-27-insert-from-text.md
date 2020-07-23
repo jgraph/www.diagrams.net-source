@@ -49,13 +49,13 @@ Organization->sets->Budget
 ```
 1. Go to [app.diagrams.net](http://app.diagrams.net). Click _Arrange > Insert > Advanced > From Text_.
 2. From the drop down selector next to the _Close_ button, select _Diagram_.
-<img src="/assets/img/blog/insert-from-text-tree-diagram1.png" width="400" alt="Insert text to create a tree diagram ">
+<br /><img src="/assets/img/blog/insert-from-text-tree-diagram1.png" style="width=100%;max-width:400px;height:auto;" alt="Insert text to create a tree diagram ">
 3. Select all of the sample text in the dialog and paste in your own text. Then click _Insert_.
-<img src="/assets/img/blog/insert-from-text-tree-diagram2.png" width="600" alt="A diagram automatically created from text at app.diagrams.net">
+<br /><img src="/assets/img/blog/insert-from-text-tree-diagram2.png" style="max-width:100%;height:auto;" alt="A diagram automatically created from text at app.diagrams.net">
 
 **Tip:** You can automatically rearrange a diagram if it's too spread out, like this one is. Select everything, then click _Arrange > Layout_ and select one of the options. For example, rearranging this diagram as a radial tree made it much more attractive.
 
-<img src="/assets/img/blog/insert-from-text-radial-tree.png" width="600" alt="Auto-rearrange your diagrams via the Arrange > Layout menu">
+<img src="/assets/img/blog/insert-from-text-radial-tree.png" style="max-width:100%;height:auto;" alt="Auto-rearrange your diagrams via the Arrange > Layout menu">
 
 ## How to create entities for an entity diagram from text
 
@@ -65,7 +65,7 @@ If you select _List_ as the diagram type when inserting from text, you can creat
 2. Make sure the selector is set to _List_ (it is by default).
 <img src="/assets/img/blog/insert-from-text-entities1.png" width="400" alt="Add entity shapes containing lists by inserting text">
 3. Select all of the sample text in the dialog and paste in your own text. Then click _Insert_.
-<img src="/assets/img/blog/insert-from-text-entities2.png" width="600" alt="An entity diagram created from text">
+<br /><img src="/assets/img/blog/insert-from-text-entities2.png" style="max-width:100%;height:auto;" alt="An entity diagram created from text">
 
 As you can see in the dialog, the child nodes are included as list elements at the top of each entity, and some of the tasks they perform are included in the second list. These two lists are separated by two dashes. Each list element has either a dash or a plus. Here is the partial text used to create the diagram below.
 
@@ -95,4 +95,4 @@ Communication
 ```
 You can then connect and rearrange these entities to show more clearly how they are related.
 
-<img src="/assets/img/blog/insert-from-text-entities-connected.png" width="600" alt="A connected entity diagram example created at diagrams.net">
+<img src="/assets/img/blog/insert-from-text-entities-connected.png" style="max-width:100%;height:auto;" alt="A connected entity diagram example created at diagrams.net">

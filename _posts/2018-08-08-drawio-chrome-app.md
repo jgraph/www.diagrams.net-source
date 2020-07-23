@@ -19,14 +19,14 @@ Regardless of which platform you are using, you must install Google Chrome befor
 Before you install the app, [download and install Chrome from Google's website](https://www.google.com/chrome/)
 
 1. [Go to the draw.io app on the Chrome Web store](https://chrome.google.com/webstore/detail/drawio-diagrams/onlkggianjhjenigcpigpjehhpplldkc?hl=en) and click on _Add to Chrome_.
-<img src="/assets/img/blog/drawio-chrome-web-store.png" width="600" alt="The draw.io Chrome app on the Chrome web store">
+<br /><img src="/assets/img/blog/drawio-chrome-web-store.png" style="max-width:100%;height:auto;" alt="The draw.io Chrome app on the Chrome web store">
 2. Click on _Add app_ in the small dialog that pops up. The draw.io Diagrams icon is added to your Chrome _Apps_ page.
 3. If you want to see the draw.io Chrome app like a native program (without a search bar at the top), right-click on the draw.io Diagrams app on the Chrome Apps page and enable _Open as a window_ in the context menu.
-<img src="/assets/img/blog/drawio-chrome-web-app-open-as-window.png" width="600" alt="Make the draw.io Chrome app run without the Chrome search field">
+<br /><img src="/assets/img/blog/drawio-chrome-web-app-open-as-window.png" style="max-width:100%;height:auto;" alt="Make the draw.io Chrome app run without the Chrome search field">
 
 Now, whenever you want to diagram, go to your [Chrome _Apps_ page](chrome://apps), then double-click on the draw.io Diagrams app in Chrome to open draw.io.
 
-<img src="/assets/img/blog/drawio-chrome-web-app-example.png" width="600" alt="An infographic template diagram in the draw.io Chrome app">
+<img src="/assets/img/blog/drawio-chrome-web-app-example.png" style="max-width:100%;height:auto;" alt="An infographic template diagram in the draw.io Chrome app">
 
 ## Using the draw.io Chrome app
 

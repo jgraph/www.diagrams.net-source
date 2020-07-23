@@ -15,12 +15,12 @@ Veeam uses a custom set of shapes to represent the components in your cloud infr
 
 1. Click on _More Shapes_ at the bottom of the left panel.
 2. Scroll down to find the Veeam library in the _Networking_ section. Click on the checkbox next to it to enable it.
-   <img src="/assets/img/blog/veeam-shape-library-enable.png" width="400" alt="Enable the Veeam shape library">
+   <br /><img src="/assets/img/blog/veeam-shape-library-enable.png" style="width=100%;max-width:400px;height:auto;" alt="Enable the Veeam shape library">
 3. Click _Apply_.
 
 The Veeam shapes are now available in the left panel, organised into many different categories. You can see all of the Veeam shapes currently available in diagrams.net below.
 
-<img src="/assets/img/blog/veeam-shape-library.png" width="600" alt="Veeam shapes are organised into multiple groups">
+<img src="/assets/img/blog/veeam-shape-library.png" style="max-width:100%;height:auto;" alt="Veeam shapes are organised into multiple groups">
 
 ## Build a network diagram with Veeam shapes
 
@@ -30,6 +30,6 @@ The Veeam shapes are now available in the left panel, organised into many differ
 
 **Connect a connector**: Drag the connector to another shape and release. The blue outline before you release indicates a floating connector. If you don't want this, drag the end of the connector and release on one of the small connection points (crosses) or when the outline is green - the connector will stay fixed at this position even when you drag the shape around the drawing canvas.
 
-<img src="/assets/img/blog/veaam-network-diagram.png" width="300" alt="A simple network using the Veeam shape library" align="center">
+<img src="/assets/img/blog/veaam-network-diagram.png" style="width=100%;max-width:300px;height:auto;" alt="A simple network using the Veeam shape library" align="center">
 
 [Create a network diagram using the Veeam stencils](https://app.diagrams.net/?splash=0&libs=veeam)

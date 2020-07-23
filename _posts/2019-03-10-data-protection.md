@@ -30,7 +30,7 @@ If an error happens (software always causes errors), an error report is sent to 
 
 All [privacy and security processes and measures are fully documented on GitHub](https://github.com/jgraph/security-privacy-legal)
 
-<a href="https://github.com/jgraph/security-privacy-legal"><img src="/assets/img/blog/security-privacy-legal-github.png" width="600" alt="diagrams.net's versioned security, privacy and legal documentation on GitHub"></a>
+<a href="https://github.com/jgraph/security-privacy-legal"><img src="/assets/img/blog/security-privacy-legal-github.png" style="max-width:100%;height:auto;" alt="diagrams.net's versioned security, privacy and legal documentation on GitHub"></a>
 
 ## Offline and secure diagramming with the desktop app
 
@@ -42,4 +42,6 @@ The ``anonymize plugin`` overwrites all text and metadata so you can safely shar
 
 Go to [https://app.diagrams.net/?splash=0&p=anon](https://app.diagrams.net/?splash=0&p=anon), create a diagram and see how it works. From the menu, select _Extras > Anonymize Current Page_ to anonymise your diagram.
 
-<img src="/assets/img/blog/extras-anonymize-menu.png" width="600" alt="Select Extras > Anonymize Current Page from the menu"> <img src="/assets/img/blog/anonymize-plugin-example.png" alt="A diagram after all text has been scrambled by the anonymize plugin" width="600">
+<img src="/assets/img/blog/extras-anonymize-menu.png" style="max-width:100%;height:auto;" alt="Select Extras > Anonymize Current Page from the menu">
+
+<img src="/assets/img/blog/anonymize-plugin-example.png" alt="A diagram after all text has been scrambled by the anonymize plugin" style="max-width:100%;height:auto;" >

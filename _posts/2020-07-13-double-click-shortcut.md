@@ -14,7 +14,7 @@ You can choose from a range of common shapes from the _General_ shape library us
 
 **Tip:** These shapes will use the style you have set to be the default style.
 
-<img src="/assets/img/blog/double-click.gif" width="600" alt="Double click on the drawing canvas then select a shape to add from the selector">
+<img src="/assets/img/blog/double-click.gif" style="max-width:100%;height:auto;" alt="Double click on the drawing canvas then select a shape to add from the selector">
 
 ## Set a new default style for shapes and connectors
 
@@ -25,7 +25,7 @@ The shapes will use the default style. You can easily set a new default style.
 
 **Note:** You need to set new default styles for shapes and connectors individually.
 
-<img src="/assets/img/blog/set-default-style.png" width="600" alt="Set a new default style in diagrams.net for shapes, connectors and text">
+<img src="/assets/img/blog/set-default-style.png" style="max-width:100%;height:auto;" alt="Set a new default style in diagrams.net for shapes, connectors and text">
 
 **Keyboard shortcut:** ``Ctrl+Shift+D`` on Windows, or ``Cmd+Shift+D`` on macOS
 

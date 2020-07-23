@@ -15,9 +15,9 @@ Many developers prefer to describe their data structures and processes using tex
 ## Insert a Mermaid diagram
 
 1. Click _Arrange > Insert > Advanced > Mermaid_.
-<br /><img src="/assets/img/blog/insert-mermaid-menu.png" width="600" alt="Click Arrange > Insert > Advanced > Mermaid to create a diagram from Mermaid Markdown-inspired code">
+<br /><img src="/assets/img/blog/insert-mermaid-menu.png" style="max-width:100%;height:auto;" alt="Click Arrange > Insert > Advanced > Mermaid to create a diagram from Mermaid Markdown-inspired code">
 2. Paste your text into the text box, then click _Insert_.
-<br /><img src="/assets/img/blog/mermaid-flowchart-example-code.png" width="400" alt="Paste the text in Mermaid syntax, then click Insert">
+<br /><img src="/assets/img/blog/mermaid-flowchart-example-code.png" style="width=100%;max-width:400px;height:auto;" alt="Paste the text in Mermaid syntax, then click Insert">
 
 Your diagram will be automatically created and formatted from your text, and inserted as a single shape on the drawing canvas.
 
@@ -61,7 +61,7 @@ graph TD
    C -->|No| D{Filter warning?} -->|Yes| I(Replace or clean filter)
    D -->|No| F(Send for repair)
 ```
-<img src="/assets/img/blog/mermaid-flowchart-example.png" width="300" alt="A flow chart example from Mermaid syntax">
+<img src="/assets/img/blog/mermaid-flowchart-example.png" style="width=100%;max-width:300px;height:auto;" alt="A flow chart example from Mermaid syntax">
 
 [_Open this example in diagrams.net_](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fmermaid-examples.drawio)
 
@@ -80,7 +80,7 @@ gantt
     Implementation      :crit, active, 2020-03-25  , 20d
     Testing      :crit, 20d
 ```
-<img src="/assets/img/blog/mermaid-gantt-example.png" width="600" alt="An example Gantt chart inserted from Mermaid code">
+<img src="/assets/img/blog/mermaid-gantt-example.png" style="max-width:100%;height:auto;" alt="An example Gantt chart inserted from Mermaid code">
 
 [_Open this example in diagrams.net_](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&page=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fmermaid-examples.drawio)
 
@@ -116,7 +116,7 @@ classDiagram
       +outputAsLabel()  
     }			
 ```
-<img src="/assets/img/blog/mermaid-class-example.png" width="300" alt="The simple class example template from diagrams.net in Mermaid syntax">
+<img src="/assets/img/blog/mermaid-class-example.png" style="width=100%;max-width:300px;height:auto;" alt="The simple class example template from diagrams.net in Mermaid syntax">
 
 [_Open this example in diagrams.net_](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&page=2&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fmermaid-examples.drawio)
 
@@ -136,7 +136,7 @@ sequenceDiagram
     Admin->>Professor: Assign student to tutor
     Professor-->>Admin: Student is assigned
 ```
-<img src="/assets/img/blog/mermaid-sequence-example.png" width="500" alt="A simple sequence diagram inserted using the Mermaid syntax">
+<img src="/assets/img/blog/mermaid-sequence-example.png" style="width=100%;max-width:500px;height:auto;" alt="A simple sequence diagram inserted using the Mermaid syntax">
 
 [_Open this example in diagrams.net_](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&page=3&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fmermaid-examples.drawio)
 
@@ -151,7 +151,7 @@ pie title Commits to mxgraph2 on GitHub
 	"Tuesday" : 7
   "Wednesday" : 3
 ```
-<img src="/assets/img/blog/mermaid-pie-example.png" width="300" alt="Commits to the mxgraph2 GitHub repository per day, inserted into diagrams.net using Mermaid syntax">
+<img src="/assets/img/blog/mermaid-pie-example.png" style="width=100%;max-width:300px;height:auto;" alt="Commits to the mxgraph2 GitHub repository per day, inserted into diagrams.net using Mermaid syntax">
 
 [_Open this example in diagrams.net_](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&page=4&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fmermaid-examples.drawio)
 

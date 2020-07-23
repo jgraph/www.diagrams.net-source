@@ -33,7 +33,7 @@ Global properties work similarly to global variables. The diagram itself can als
 
 You can add a placeholder to a label explicitly by referencing the property name surrounded by % signs. For example, if you have added a property called _group_ to the shape, write ``%group%``.
 
-<img src="/assets/img/blog/placeholder-example-label.png" width="600" alt="Add a placeholder to a shape label, for example %group%">
+<img src="/assets/img/blog/placeholder-example-label.png" style="max-width:100%;max-width:400px;height:auto;" alt="Add a placeholder to a shape label, for example %group%">
 
 ### Use a property to turn a label into a placeholder
 
@@ -53,7 +53,7 @@ In the example at the end of this post, the rectangle shape has a ``placeholder`
 
 You can see how when the rectangle's label is edited, the value of the container's ``variableName`` property is updated to ``New Value``. The global property with the same name remains unedited.
 
-<img src="/assets/img/blog/placeholder-scope.gif" width="400" alt="Editing placeholder labels respects scope - you will only edit the nearest matching property">
+<img src="/assets/img/blog/placeholder-scope.gif" style="width=100%;max-width:400px;height:auto;" alt="Editing placeholder labels respects scope - you will only edit the nearest matching property">
 
 [Open this diagram in diagrams.net](https://app.diagrams.net/i/Go7aT2t)
 

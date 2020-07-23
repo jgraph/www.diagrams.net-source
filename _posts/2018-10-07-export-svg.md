@@ -21,7 +21,7 @@ You must disable text formatting and word wrap on all labels in your diagram bef
 3. Next, select all of the vertices in your diagram - right-click and choose _Select Vertices_ (or press ``Ctrl+Shift+I`` on Windows, ``Cmd+Shift+I`` on MacOS).
 4. Again in the _Text tab_ of the format panel, make sure that the _Word Wrap_ checkbox is deselected.
 
-<img src="/assets/img/blog/export-svg-text-tab-format-panel.png" width="600" alt="Prepare your diagram for exporting to SVG in diagrams.net by disabling word wrap and text formatting">
+<img src="/assets/img/blog/export-svg-text-tab-format-panel.png" style="max-width:100%;height:auto;" alt="Prepare your diagram for exporting to SVG in diagrams.net by disabling word wrap and text formatting">
 
 ## Export your diagram to SVG
 
@@ -35,7 +35,7 @@ Your diagram is now ready to be exported to an SVG image.
    - Add a _Shadow_ to your diagram.
    - Leave _Include a copy of my diagram_ enabled if you want others to be able to import the SVG back into diagrams.net smoothly.  
    - Choose how _Links_ behave by altering the setting in the list.
-   <img src="/assets/img/blog/export-svg-options.png" width="400" alt="diagrams.net options when exporting a diagram as an SVG image">
+   <br /><img src="/assets/img/blog/export-svg-options.png" style="width=100%;max-width:400px;height:auto;" alt="diagrams.net options when exporting a diagram as an SVG image">
 3. When you have set the options you want, click _Export_ and choose the location to which you want to save the SVG file.
 
 Now you can add the SVG image version of your diagram to your webpage or blog post as you would a normal image file.

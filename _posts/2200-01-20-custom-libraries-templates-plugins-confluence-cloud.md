@@ -21,7 +21,7 @@ If an entire team needs to work with the same shape library, you can add it to t
 ### Add a custom shape library to Confluence Cloud
 
 1. Go to the _Custom Libraries_ tab in the _draw.io Configuration_ section of your Confluence Cloud settings, then click on _Add Library_.
-<br /><img src="/assets/img/blog/add-custom-library-confluence-cloud.png" width="400" alt="Add a custom library to Confluence Cloud via draw.io Configuration in the Confluence Administration area">
+<br /><img src="/assets/img/blog/add-custom-library-confluence-cloud.png" style="width=100%;max-width:400px;height:auto;" alt="Add a custom library to Confluence Cloud via draw.io Configuration in the Confluence Administration area">
 2. Navigate to the custom library file on your device, select it, then click _Choose_.
 
 Now users can open the shared custom library you just stored in Confluence Cloud.
@@ -39,7 +39,7 @@ As an administrator, you can also set which shape libraries are opened by defaul
 ```
 4. Click _Save_ when you are finished with the draw.io configuration.
 
-<img src="/assets/img/blog/custom-libraries-default-confluence-cloud.png" width="400" alt="Open shape libraries and custom libraries by default in draw.io for Confluence Cloud">
+<img src="/assets/img/blog/custom-libraries-default-confluence-cloud.png" style="width=100%;max-width:400px;height:auto;" alt="Open shape libraries and custom libraries by default in draw.io for Confluence Cloud">
 
 [See how to use custom shape libraries in Confluence Cloud](/doc/faq/custom-libraries-confluence-cloud.html)
 
@@ -51,16 +51,16 @@ Custom templates are stored in the draw.io Configuration section of your Conflue
 
 ### Share custom templates in Confluence Cloud
 1. Go to the _Custom Templates_ tab in the _draw.io Configuration_ section of your Confluence Cloud settings, and click on the _Templates page_ link.
-<br /><img src="/assets/img/blog/open-custom-templates-confluence-cloud-admin.png" width="400" alt="Go to the Templates page via the draw.io Configuration in Confluence Cloud">
+<br /><img src="/assets/img/blog/open-custom-templates-confluence-cloud-admin.png" style="width=100%;max-width:400px;height:auto;" alt="Go to the Templates page via the draw.io Configuration in Confluence Cloud">
 2. Add a child page underneath the _Templates page_ to create a new template category, or edit an existing child page to add a new template to that category. Make sure _draw.io Configurations_ is selected in the drop down list to ensure your template is available to everyone. Then click _Create_.
-<br /><img src="/assets/img/blog/add-custom-template-library-confluence-cloud.png" width="400" alt="Add a new category to store custom draw.io templates in Confluence Cloud">
+<br /><img src="/assets/img/blog/add-custom-template-library-confluence-cloud.png" style="width=100%;max-width:400px;height:auto;" alt="Add a new category to store custom draw.io templates in Confluence Cloud">
 3. Add your template diagrams to this new page and save it.
 
 There may be a small delay before the new templates are available in the template library.
 
 When you add a new draw.io diagram or insert a diagram from a template, your custom templates will be shown at the top of the template library dialog.
 
-<img src="/assets/img/blog/new-diagram-custom-template-confluence-cloud.png" width="400" alt="Create a new diagram from a custom template in draw.io for Confluence Cloud">
+<img src="/assets/img/blog/new-diagram-custom-template-confluence-cloud.png" style="width=100%;max-width:400px;height:auto;" alt="Create a new diagram from a custom template in draw.io for Confluence Cloud">
 
 [Learn how to use custom templates in Confluence Cloud](/doc/faq/custom-templates-confluence-cloud.html)
 
@@ -76,7 +76,7 @@ An administrator can configure draw.io to enable one of the official draw.io plu
 { "plugins": ["anon;text"] }
 ```
 Now, your plugins will be available in the menu.
-<img src="/assets/img/blog/custom-plugins-confluence-cloud-menu.png" width="400" alt="The draw.io plugins can be loaded by default in Confluence Cloud">
+<img src="/assets/img/blog/custom-plugins-confluence-cloud-menu.png" style="width=100%;max-width:400px;height:auto;" alt="The draw.io plugins can be loaded by default in Confluence Cloud">
 
 
 [See the full list of official draw.io plugins ](https://desk.draw.io/support/solutions/articles/16000056430)

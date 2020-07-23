@@ -26,7 +26,7 @@ Open source has a huge number of advantages for customers. With diagrams.net you
 
 Our goal is to _provide free, high quality diagramming software for everyone_ and disrupt the world of diagramming tools.
 
-<img src="/assets/img/blog/FOSDEM2020.png" width="600" alt="diagrams.net is sponsoring the FOSDEM'20 conference for open source developers">
+<img src="/assets/img/blog/FOSDEM2020.png" style="max-width:100%;height:auto;" alt="diagrams.net is sponsoring the FOSDEM'20 conference for open source developers">
 
 ## FOSDEM: hundreds of open source speakers and events
 

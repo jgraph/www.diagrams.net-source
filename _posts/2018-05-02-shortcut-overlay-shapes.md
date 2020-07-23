@@ -15,7 +15,7 @@ When you work with container shapes, dropping a shape over that container insert
 1. Select and drag your shape to a position over a container shape.
 2. Press and hold the ``Alt`` key on Windows or the ``Option`` key on MacOS, then release the mouse button. You'll notice that the purple outline disappears when you press the key - this indicates that the shape you are holding won't be added to the container.
 
-<img src="/assets/img/blog/shortcut-overlay-shapes.gif" alt="Use Alt+drop to overlap a shape on a container shape">
+<img src="/assets/img/blog/shortcut-overlay-shapes.gif" style="max-width:100%;height:auto;" alt="Use Alt+drop to overlap a shape on a container shape">
 
 Depending on the order in which you added these shapes to your diagram, the shape you moved may be arranged in front of or behind the container shape. You can change this order in the _Arrange_ tab of the format panel: select a shape, then click either _To Front_ or _To Back_ to bring the shape to the front or send it behind the other shapes.
 

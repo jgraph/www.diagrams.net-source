@@ -14,7 +14,7 @@ categories: [integrations, trust, features]
 
 When you use the diagrams.net desktop app, your diagrams will be stored on your local device. Because this is a stand-alone application, also designed to run offline, there are no interfaces to cloud storage platforms available. Of course, you can still store your diagrams in folders that are synchronised to your cloud storage if you wish.
 
-<img src="/assets/img/blog/desktop.png" width="600" alt="The diagrams.net desktop app works on MacOS, Windows and Linux">
+<img src="/assets/img/blog/desktop.png" style="max-width:100%;height:auto;" alt="The diagrams.net desktop app works on MacOS, Windows and Linux">
 
 [Download and install the diagrams.net desktop app](http://get.diagrams.net)
 

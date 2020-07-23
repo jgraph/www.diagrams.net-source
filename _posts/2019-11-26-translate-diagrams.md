@@ -29,7 +29,7 @@ All of the words and phrases (strings) used in the user interface (UI) are store
 
 To see where these strings appear in the diagrams.net UI, go to [https://app.diagrams.net/?lang=i18n&splash=0](https://app.diagrams.net/?lang=i18n&splash=0)
 
-<img src="/assets/img/blog/ui-string-reference.png" width="600" alt="See where the strings appear in context in the diagrams.net interface to help you translate">
+<img src="/assets/img/blog/ui-string-reference.png" style="max-width:100%;height:auto;" alt="See where the strings appear in context in the diagrams.net interface to help you translate">
 
 ### Translation guidelines
 
@@ -46,7 +46,7 @@ These are also available in the spreadsheet on page 2: Guidelines for translator
 * **Use language-specific letters**: because we want our UI language to be natural. Don’t worry – this spreadsheet is in Unicode.
 * **Don’t use**: quotations marks (“”), carriage returns, and line feeds. These break our parser.
 
-<a href="http://doc.draw.io/i18n"><img src="/assets/img/blog/translations-google-sheet.png" width="600" alt="The diagrams.net UI languages in a Google sheet – let’s collect them all"></a>
+<a href="http://doc.draw.io/i18n"><img src="/assets/img/blog/translations-google-sheet.png" style="max-width:100%;height:auto;" alt="The diagrams.net UI languages in a Google sheet – let’s collect them all"></a>
 
 ## Use diagrams.net in your language
 
@@ -54,7 +54,7 @@ If you want to see diagrams.net in one of these languages, add the language code
 
 Alternatively, select your preferred language by clicking on the globe icon at the top right in diagrams.net, select your language, then refresh the page.
 
-<img src="/assets/img/blog/switch-language.png" width="600" alt="Click the globe icon in the top right corner to change languages">
+<img src="/assets/img/blog/switch-language.png" style="max-width:100%;height:auto;" alt="Click the globe icon in the top right corner to change languages">
 
 ## More about diagrams.net
 

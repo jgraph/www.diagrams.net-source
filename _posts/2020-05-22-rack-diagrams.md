@@ -10,7 +10,7 @@ categories: [use-cases]
 
 diagrams.net has a number of shape libraries and templates for creating rack diagrams. Both electronics cabinets can be visualised, as well as IT racks with servers and networking hardware, including those provided by specific vendors like APC, Cisco, Dell, F5, HP, IBM and Oracle.
 
-<img src="/assets/img/blog/rack-diagram-electronics-cabinet-example.png" width="120" alt="An electronics cabinet diagram, created at diagrams.net"> <img src="/assets/img/blog/rack-diagram-simple-server.png" alt="A simple rack diagram, created with diagrams.net" width="190"> <img src="/assets/img/blog/rack-diagram-arista-example.png" alt="An Arista rack diagram layout, created with diagrams.net" width="300">
+<img src="/assets/img/blog/rack-diagram-electronics-cabinet-example.png" style="width=100%;max-width:120px;height:auto;" alt="An electronics cabinet diagram, created at diagrams.net"> <img src="/assets/img/blog/rack-diagram-simple-server.png" alt="A simple rack diagram, created with diagrams.net" style="width=100%;max-width:190px;height:auto;" > <img src="/assets/img/blog/rack-diagram-arista-example.png" alt="An Arista rack diagram layout, created with diagrams.net" style="width=100%;max-width:300px;height:auto;" >
 
 ## Enable the rack shape libraries
 
@@ -20,7 +20,7 @@ diagrams.net has a number of shape libraries and templates for creating rack dia
 
 Alternatively, use the [``libs`` URL parameter](/doc/faq/supported-url-parameters.html) and go directly to [https://app.diagrams.net/?libs=rack;cabinets&splash=0](https://app.diagrams.net/?libs=rack;cabinets&splash=0)
 
-<img src="/assets/img/blog/rack-shape-libraries.png" width="600" alt="Rack and cabinet shapes in diagrams.net">
+<img src="/assets/img/blog/rack-shape-libraries.png" style="max-width:100%;height:auto;" alt="Rack and cabinet shapes in diagrams.net">
 
 ## Create a rack diagram
 
@@ -31,7 +31,7 @@ First, add a cabinet shape to the drawing canvas. Some are numbered, others are 
 ### Add shapes to the cabinet or rack
 
 * Drag any of the component shapes into the middle of the cabinet or rack. If you aren't sure what hardware a shape represents, hover over it in the shape library to see its name.
-<br /><img src="/assets/img/blog/rack-shape-hover.png" width="400" alt="Hover to see the name of a shape">
+<br /><img src="/assets/img/blog/rack-shape-hover.png" style="width=100%;max-width:400px;height:auto;" alt="Hover to see the name of a shape">
 * **Reposition the components**: drag them up or down to change their slot.
 * **Resize the components**: Select the shape, then drag the blue circle at the top or bottom of the component.
 * **Label a component**: Double click on the component, type the label then press ``Enter`` to add a label to the right side of the rack.
@@ -41,7 +41,7 @@ First, add a cabinet shape to the drawing canvas. Some are numbered, others are 
 
 ## Basic IT server rack
 
-<video width="600" controls="controls">
+<video width="100%" controls="controls">
   <source src="/assets/img/blog/rack-diagram-simple.mp4">
 </video>
 
@@ -52,7 +52,7 @@ diagrams.net includes a couple of templates for a rack and an electronics cabine
 1. To add a template to the drawing canvas, select _Arrange > Insert > Template_ from the menu. Alternatively, create a new diagram and you'll see the template dialog.
 2. Select one of the templates:
    * The electronics cabinet template is in the _Engineering_ section.
-   <br /><img src="/assets/img/blog/rack-diagram-electronics-cabinet-template.png" width="400" alt="Arista rack diagram template in diagrams.net">
+   <br /><img src="/assets/img/blog/rack-diagram-electronics-cabinet-template.png" style="width=100%;max-width:400px;height:auto;" alt="Arista rack diagram template in diagrams.net">
    * The Arista rack equipment template is in the _Network_ section.
-   <br /><img src="/assets/img/blog/rack-diagram-arista-template.png" width="400" alt="Arista rack diagram template in diagrams.net">
+   <br /><img src="/assets/img/blog/rack-diagram-arista-template.png" style="width=100%;max-width:400px;height:auto;" alt="Arista rack diagram template in diagrams.net">
 3. Click insert to add it to the drawing canvas.

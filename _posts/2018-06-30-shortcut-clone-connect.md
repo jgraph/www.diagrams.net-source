@@ -14,7 +14,7 @@ To clone and connect shapes, press and hold the ``Alt`` and ``Shift`` keys, and 
 
 Should you tap in a direction where a shape exists, the shape won't be cloned, but a connector will simply be attached in that direction.
 
-<img src="/assets/img/blog/shortcut-clone-connect.gif" alt="Press Alt+Shift+arrow key to clone and connect a shape in that direction">
+<img src="/assets/img/blog/shortcut-clone-connect.gif" style="max-width:100%;height:auto;" alt="Press Alt+Shift+arrow key to clone and connect a shape in that direction">
 
 ## Diagram faster with keyboard shortcuts
 

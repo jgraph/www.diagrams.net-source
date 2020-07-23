@@ -19,7 +19,7 @@ You can can use the keyboard shortcut ``Ctrl`` and resize a shape with the mouse
 1. Select the group of shapes.
 2. In the _Style_ tab of the format panel, make sure the _Properties_ section at the bottom is expanded, then click the checkbox next to _Resize Children_ to disable it (it is enabled by default).
 
-<img src="/assets/img/blog/properties-disable-resize-children.png" width="600" alt="Disable Resize Children in the shape properties to resize grouped shapes individually">
+<img src="/assets/img/blog/properties-disable-resize-children.png" style="max-width:100%;height:auto;" alt="Disable Resize Children in the shape properties to resize grouped shapes individually">
 
 Now, when you resize the shape, the container outline will resize and you can resize the shapes inside the group individually.
 
@@ -30,4 +30,4 @@ Now, when you resize the shape, the container outline will resize and you can re
 
 **Note:** Make sure you add this to the group style and not the shape style!
 
-<img src="/assets/img/blog/edit-style-disable-recursive-resize.png" width="400" alt="Edit the group style manually to turn off recursive resize">
+<img src="/assets/img/blog/edit-style-disable-recursive-resize.png" style="width=100%;max-width:400px;height:auto;" alt="Edit the group style manually to turn off recursive resize">

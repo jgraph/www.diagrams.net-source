@@ -18,7 +18,7 @@ To create a shareable link to your diagram file, follow the steps below.
 
 1. Make sure your diagram is available on the internet, and copy its address (URL). If your diagram is stored in Google Drive, copy its shareable link.
 2. Go to: [https://jgraph.github.io/drawio-tools/tools/viewer.html](https://jgraph.github.io/drawio-tools/tools/viewer.html)
-<img src="/assets/img/blog/online-diagram-viewer-form.png" width="600" alt="Share a diagram using diagram.net's free online diagram viewer">
+<img src="/assets/img/blog/online-diagram-viewer-form.png" style="max-width:100%;height:auto;" alt="Share a diagram using diagram.net's free online diagram viewer">
 3. Paste the URL of the diagram file in the _Link to Diagram_ text field.
 4. Choose how you'd like the diagram to appear:
    - **Full Screen Mode** (default) generates a link that when clicked on, opens the diagram in the lightbox. From here, you can print the diagram, export it as a PNG image, or create a copy to edit in the didagram editor.
@@ -28,7 +28,7 @@ To create a shareable link to your diagram file, follow the steps below.
 
 For example, to open a .vsdx file for free using the online diagram viewer in full screen mode, we saved it on a website and generated a link.
 
-<img src="/assets/img/blog/vsdx-diagram-viewer-full-screen-mode.png" width="600" alt="Open vsdx files with the online diagram viewer">
+<img src="/assets/img/blog/vsdx-diagram-viewer-full-screen-mode.png" style="max-width:100%;height:auto;" alt="Open vsdx files with the online diagram viewer">
 
 ## Add a diagram to a web page
 

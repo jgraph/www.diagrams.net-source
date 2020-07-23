@@ -15,16 +15,16 @@ You can embed a diagram in a web page or in any online platform that can render 
 ## How to export a diagram as HTML
 
 1. Click _File > Export as > HTML_.
-<br /><img src="/assets/img/blog/file-export-html.png" width="400" alt="Export a diagram as HTML">
+<br /><img src="/assets/img/blog/file-export-html.png" style="width=100%;max-width:400px;height:auto;" alt="Export a diagram as HTML">
 2. There are a number of options that you can change to set how viewers will see your diagram. Once you have set the options you want, click _Export_.
-<br /><img src="/assets/img/blog/export-html-options.png" width="300" alt="Options when exporting your diagram to a HTML file">
+<br /><img src="/assets/img/blog/export-html-options.png" style="width=100%;max-width:300px;height:auto;" alt="Options when exporting your diagram to a HTML file">
 3. You will be prompted to save a HTML file containing your diagram. Choose where you want to save the file.
 
 You can now share the HTML file which contains your diagram, open it in a web browser or even look at the HTML source code (this looks very similar to the link generated when you [export your diagram to a URL](/blog/export-url.html)).
 
 When someone views the HTML version of your diagram, they can click on the diagram and will be able to step through pages, hide or display diagram layers and open the diagram in the editor, unless you have deselected these options before exporting.
 
-<img src="/assets/img/blog/exported-html.png" width="600" alt="A diagram saved as a HTML file when viewed in a browser">
+<img src="/assets/img/blog/exported-html.png" style="max-width:100%;height:auto;" alt="A diagram saved as a HTML file when viewed in a browser">
 
 ### Options when exporting your diagram as HTML
 

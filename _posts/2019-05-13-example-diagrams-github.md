@@ -20,12 +20,12 @@ We regularly publish new example diagrams in the [jgraph/drawio-diagrams](https:
 
 If you find an example diagram that you want to use as a template in your diagram, click _Arrange > Insert > Template_.  
 
-<img src="/assets/img/blog/arrange-insert-from-template-menu.png" width="600" alt="Insert a template diagram">
+<img src="/assets/img/blog/arrange-insert-from-template-menu.png" style="max-width:100%;height:auto;" alt="Insert a template diagram">
 
 In the template library dialog, click on _From Template URL_, and enter the URL of the diagram you want to use. For example: [https://jgraph.github.io/drawio-diagrams/diagrams/math.xml](https://jgraph.github.io/drawio-diagrams/diagrams/math.xml)
 
 Click _Create_, and diagrams.net will open the template diagram in a new browser tab. Name your diagram, and now you can edit it as you need.
 
-<img src="/assets/img/blog/inserted-from-template-diagram.png" width="600" alt="An example diagram inserted as a template from GitHub">
+<img src="/assets/img/blog/inserted-from-template-diagram.png" style="max-width:100%;height:auto;" alt="An example diagram inserted as a template from GitHub">
 
 See the [drawio-diagrams repository on Github](https://github.com/jgraph/drawio-diagrams) for more ways to use these examples as templates for your diagrams.

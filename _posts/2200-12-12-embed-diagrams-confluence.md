@@ -25,11 +25,11 @@ The same can be done with draw.io diagrams in Confluence Cloud and Confluence Se
 ## How to embed an existing draw.io diagram in Confluence Cloud
 
 1. Edit the Confluence page on which you want to embed your diagram, then type ``/draw`` to insert a macro. Select _Embed draw.io diagram_.
-<img src="/assets/img/blog/embed-diagram-macro-cloud.png" width="300" alt="Add the Embed draw.io diagram macro to a Confluence Cloud page">
+<br /><img src="/assets/img/blog/embed-diagram-macro-cloud.png" style="width=100%;max-width:300px;height:auto;" alt="Add the Embed draw.io diagram macro to a Confluence Cloud page">
 2. Choose the diagram you wish to embed - recently updated diagrams are shown by default. If you don't see your diagram here, click on _Search_ and search for the name of your diagram. You can hover over a diagram to see its file name. Select the diagram you want to embed, then click _Select_.
-<img src="/assets/img/blog/select-diagram-embed-confluence-cloud.png" width="600" alt="Search for and select the diagram you want to embed in a Confluence Cloud page">
+<br /><img src="/assets/img/blog/select-diagram-embed-confluence-cloud.png" style="max-width:100%;height:auto;" alt="Search for and select the diagram you want to embed in a Confluence Cloud page">
 3. A preview appears so you can be sure it's the right diagram. Click _Insert_ to add it to your Confluence page.
-<img src="/assets/img/blog/preview-embed-diagram-confluence-cloud.png" width="600" alt="Preview the diagram before embedded it in a Confluence Cloud page">
+<br /><img src="/assets/img/blog/preview-embed-diagram-confluence-cloud.png" style="max-width:100%;height:auto;" alt="Preview the diagram before embedded it in a Confluence Cloud page">
 
 You won't be able to edit the diagram from the Confluence page when you have used the _Embed draw.io diagram_ macro, but you will be able to add comments to it, just like on the original diagram.
 
@@ -42,21 +42,21 @@ If you are using Google Drive or One Drive as the location for your draw.io diag
 1. Edit the Confluence page on which you want to embed your diagram, then type ``/draw`` to insert a macro. Select _Embed draw.io diagram_.
 2. Click the Google Drive or OneDrive tab. If you haven't allowed draw.io to access your files on your cloud platform, click the blue _Authorize_ button, and follow the prompts to allow access.
 3. When you return to the file picker, click _Choose_.
-<br /><img src="/assets/img/blog/choose-diagram-google-drive-confluence-cloud.png" width="400" alt="Click Choose to look for the diagram file in your Google Drive">
+<br /><img src="/assets/img/blog/choose-diagram-google-drive-confluence-cloud.png" style="width=100%;max-width:400px;height:auto;" alt="Click Choose to look for the diagram file in your Google Drive">
 4. Find and click on diagram file you want to embed, then click on the blue _Select_ button.
-<br /><img src="/assets/img/blog/select-diagram-google-drive-confluence-cloud.png" width="400" alt="Click Choose to look for the diagram file in your Google Drive">
+<br /><img src="/assets/img/blog/select-diagram-google-drive-confluence-cloud.png" style="width=100%;max-width:400px;height:auto;" alt="Click Choose to look for the diagram file in your Google Drive">
 5. Check the preview to make sure you have the right diagram, then click _Select_.
-<br /><img src="/assets/img/blog/select-preview-google-drive-confluence-cloud.png" width="400" alt="Click Choose to look for the diagram file in your Google Drive">
+<br /><img src="/assets/img/blog/select-preview-google-drive-confluence-cloud.png" style="width=100%;max-width:400px;height:auto;" alt="Click Choose to look for the diagram file in your Google Drive">
 6. Finally, click _Insert_ to embed your diagram file from Google Drive into your Confluence Cloud page.
-<br /><img src="/assets/img/blog/insert-google-drive-confluence-cloud.png" width="400" alt="Click Choose to look for the diagram file in your Google Drive">
+<br /><img src="/assets/img/blog/insert-google-drive-confluence-cloud.png" style="width=100%;max-width:400px;height:auto;" alt="Click Choose to look for the diagram file in your Google Drive">
 
 ## How to embed an existing draw.io diagram in Confluence Server
 
 1. Edit the Confluence page on which you want to embed your diagram, then type ``{draw`` and select _Drawio_ to insert the draw.io diagram macro.
 2. Choose the diagram you wish to embed - recently updated diagrams are shown by default. You can search for another diagram - select _Search_ and search for the file name of your diagram. Select the diagram you want to embed, then click _Link to diagram_.
-<img src="/assets/img/blog/insert-link-to-diagram-confluence-server.png" width="600" alt="Select a draw.io diagram to embed in a Confluence Server page">
-**Note:** You can't embed a draw.io template diagram or any diagrams you have configured as custom template diagrams.
+<br /><img src="/assets/img/blog/insert-link-to-diagram-confluence-server.png" style="max-width:100%;height:auto;" alt="Select a draw.io diagram to embed in a Confluence Server page">
+<br />**Note:** You can't embed a draw.io template diagram or any diagrams you have configured as custom template diagrams.
 3. Optionally, edit the draw.io macro settings and filter your diagram - select the pages and layers that you want to display. Then publish your Confluence page.
 
 Viewers will not be able to edit the embedded diagram when they hover over it - the edit button in the toolbar is greyed out.
-<img src="/assets/img/blog/linked-diagram-confluence-server-toolbar.png" width="600" alt="Viewers can't edit linked diagrams directly in Confluence Server">
+<br /><img src="/assets/img/blog/linked-diagram-confluence-server-toolbar.png" style="max-width:100%;height:auto;" alt="Viewers can't edit linked diagrams directly in Confluence Server">

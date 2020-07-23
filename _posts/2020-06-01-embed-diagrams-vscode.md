@@ -23,7 +23,7 @@ This is possible because diagrams.net is both open source, and supports being em
 1. In the VS Code editor, click on the Extensions section in the left panel.
 2. Search for ``draw.io``.
 3. Click _Install_ on the Draw.io Integration created by Henning Dieterichs.
-<br /><img src="/assets/img/blog/vscode-drawio-integration-install.png" width="600" alt="Install the diagramming extension in the VS Code editor to create .drawio diagrams">
+<br /><img src="/assets/img/blog/vscode-drawio-integration-install.png" style="max-width:100%;height:auto;" alt="Install the diagramming extension in the VS Code editor to create .drawio diagrams">
 
 ## Create a new diagram in VS Code
 
@@ -33,7 +33,7 @@ Create a new file as usual in the VS Code editor, and make sure the file extensi
 
 1. Open the folder in which you have stored your diagram, then select the diagram file.
 2. The diagram will open in right-hand pane. Resize the panes to get a larger diagramming area if required.
-<br /><img src="/assets/img/blog/vscode-gitflow-diagram.png" width="600" alt="Open and edit a diagram in the VS Code editor">
+<br /><img src="/assets/img/blog/vscode-gitflow-diagram.png" style="max-width:100%;height:auto;" alt="Open and edit a diagram in the VS Code editor">
 
 ## Change the diagram editor to use a different theme
 
@@ -42,5 +42,5 @@ The diagram editor automatically uses the dark theme in the VS Code editor to ma
 1. Select _Preferences > Settings_ in the VS Code menu.
 2. Search for ``theme`` on the Settings page.
 3. Under _Extensions_, click on _Draw.io integration_, then select a new theme from the drop-down list. Learn more about the diagrams.net
-<br /><img src="/assets/img/blog/vscode-drawio-theme-selection.png" width="600" alt="Change the diagram editor theme via the VS Code Settings">
-<br /><img src="/assets/img/blog/vscode-gitflow-diagram-light.png" width="600" alt="You can use a different diagram editor theme within the VS Code editor">
+<br /><img src="/assets/img/blog/vscode-drawio-theme-selection.png" style="max-width:100%;height:auto;" alt="Change the diagram editor theme via the VS Code Settings">
+<br /><img src="/assets/img/blog/vscode-gitflow-diagram-light.png" style="max-width:100%;height:auto;" alt="You can use a different diagram editor theme within the VS Code editor">

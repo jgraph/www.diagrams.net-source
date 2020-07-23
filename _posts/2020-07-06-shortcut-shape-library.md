@@ -16,7 +16,7 @@ There are many keyboard shortcuts you can use when working with shapes from the 
 2. Hold down ``Alt`` and click on the shape you want to insert below the selected shape.
 3. Hold down ``Alt`` and ``Shift`` to insert and connect a shape to the right of the select shape.
 
-<img src="/assets/img/blog/shapes-insert-connect.gif" width="400" alt="Replace a shape easily - select a shape, then hold down Shift and click on your target shape in the shape library">
+<img src="/assets/img/blog/shapes-insert-connect.gif" style="width=100%;max-width:400px;height:auto;" alt="Replace a shape easily - select a shape, then hold down Shift and click on your target shape in the shape library">
 
 ## Add a shape to a connector
 
@@ -29,7 +29,7 @@ If you want to [make two shapes overlap completely](/blog/shortcut-overlay-shape
 
 To overlay shapes, hold down ``Alt`` or ``Shift`` as you drag a shape from the shape library.
 
-<img src="/assets/img/blog/shapes-overlapping.png" width="600" alt="Overlap shapes in diagrams.net by holding down Alt or Shift when you drag and drop one from the shape library">
+<img src="/assets/img/blog/shapes-overlapping.png" style="max-width:100%;height:auto;" alt="Overlap shapes in diagrams.net by holding down Alt or Shift when you drag and drop one from the shape library">
 
 ## Replace a shape
 
@@ -40,7 +40,7 @@ Instead of dragging and hovering over a shape to replace it, use the keyboard sh
 
 The new shape will replace the one on the drawing canvas, but will be stretched to the original's dimensions. Hold down ``Shift`` as you resize the shape to keep it centered.
 
-<img src="/assets/img/blog/shapes-replace-shortcut.gif" width="400" alt="Replace a shape easily - select a shape, then hold down Shift and click on your target shape in the shape library">
+<img src="/assets/img/blog/shapes-replace-shortcut.gif" style="width=100%;max-width:400px;height:auto;" alt="Replace a shape easily - select a shape, then hold down Shift and click on your target shape in the shape library">
 
 ## Diagram faster with keyboard shortcuts
 

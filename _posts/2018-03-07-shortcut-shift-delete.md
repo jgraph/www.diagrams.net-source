@@ -15,7 +15,7 @@ If you want to delete a shape and all of the connections to and from that shape,
 
 Now, your shape and all of its connections will be deleted.
 
-<img src="/assets/img/blog/shortcut-shift-delete.gif" width="400" alt="Shift + toolbar delete will delete your shape as well as its connections">
+<img src="/assets/img/blog/shortcut-shift-delete.gif" style="width:100%;max-width:400px;height:auto;" alt="Shift + toolbar delete will delete your shape as well as its connections">
 
 **Note:** When you have selected a shape, press the ``Backspace`` or ``Delete`` key to delete only the shape. Follow the steps above if you want to delete the shape and its connections at the same time.
 

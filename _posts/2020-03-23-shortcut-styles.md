@@ -24,7 +24,7 @@ Set a new style by selecting a shape, then click on the _Set as Default Style_ b
 
 * **Set default style:** ``Ctrl+Shift+D`` on Windows, or ``Cmd+Shift+D`` on macOS
 
-<img src="/assets/img/blog/set-default-style.png" width="600" alt="Select a shape and set its style as the default in the format panel">
+<img src="/assets/img/blog/set-default-style.png" style="max-width:100%;height:auto;" alt="Select a shape and set its style as the default in the format panel">
 
 ### Reset the default style
 
@@ -43,7 +43,7 @@ Alternatively, instead of having to move your mouse away from the drawing canvas
 
 This is really useful when you have groups of shapes or connectors that need to follow the same styles. For example, in a gitflow diagram.
 
-<img src="/assets/img/blog/gitflow-example.png" width="600" alt="Use style keyboard shortcuts in diagrams.net create gitflow diagrams faster">
+<img src="/assets/img/blog/gitflow-example.png" style="max-width:100%;height:auto;" alt="Use style keyboard shortcuts in diagrams.net create gitflow diagrams faster">
 
 
 ## See and edit a shape's style
@@ -54,7 +54,7 @@ endArrow=classic;dashed=1;html=1;
 strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;
 startArrow=circlePlus;startFill=0;endFill=0;
 ```
-<img src="/assets/img/blog/red-arrow-example.png" width="200" alt="Use Ctrl+E to edit shape and connector styles in diagrams.net">
+<img src="/assets/img/blog/red-arrow-example.png" style="width=100%;max-width:200px;height:auto;" alt="Use Ctrl+E to edit shape and connector styles in diagrams.net">
 
 Select a shape or connector then click _Edit Style_ in the Style tab of the format panel. You can also open the style definition with a shortcut, where you can edit it directly.
 

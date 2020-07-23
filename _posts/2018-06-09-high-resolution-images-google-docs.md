@@ -33,17 +33,17 @@ First, you need to add a diagram to a document.
 ### Add a diagram to a Google Doc
 
 1. Click _Add-ons > draw.io Diagrams for Docs_ and then select _Insert Diagrams_. If you don't have any existing diagrams, you can create a _New diagram_.
-<br /><img src="/assets/img/blog/insert-diagram-google-docs.png" width="400" alt="Add a diagram to a Google Doc">
+<br /><img src="/assets/img/blog/insert-diagram-google-docs.png" style="width=100%;max-width:400px;height:auto;" alt="Add a diagram to a Google Doc">
 2. If you are inserting a diagram, navigate to your .drawio diagram file, select it, then click _Select_.
-<br /><img src="/assets/img/blog/select-diagram-insert-google-docs.png" width="400" alt="Select a .drawio diagram file to insert into a Google Doc">
+<br /><img src="/assets/img/blog/select-diagram-insert-google-docs.png" style="width=100%;max-width:400px;height:auto;" alt="Select a .drawio diagram file to insert into a Google Doc">
 3. Select the page you want to display, if your diagram has multiple pages, and click _Insert_.
-<br /><img src="/assets/img/blog/select-diagram-page-google-docs.png" width="400" alt="Select the diagram page you want to display in your Google Doc, if it is a multi-page diagram">
+<br /><img src="/assets/img/blog/select-diagram-page-google-docs.png" style="width=100%;max-width:400px;height:auto;" alt="Select the diagram page you want to display in your Google Doc, if it is a multi-page diagram">
 
 ### Change the diagram's image resolution in Google Docs
 
 If you are unhappy with the automatic resolution that your diagram is displayed or printed at, you can change the scale by editing the diagram link embedded in the document.
 
 1. Edit the diagram link by clicking on the pencil icon.
-<br /><img src="/assets/img/blog/google-docs-edit-diagram-link.png" width="400" alt="Edit the diagram link in Google Docs">
+<br /><img src="/assets/img/blog/google-docs-edit-diagram-link.png" style="width=100%;max-width:400px;height:auto;" alt="Edit the diagram link in Google Docs">
 2. Find the modifier ``scale=auto`` and change the value to whatever you want.``scale=2`` is equivalent to retina-quality high resolution images. Then click _Apply_.
-<br /><img src="/assets/img/blog/google-docs-edit-diagram-link-scale.png" width="400" alt="Change scale=auto to scale=2 to display and print a retina-quality high-resolution image">
+<br /><img src="/assets/img/blog/google-docs-edit-diagram-link-scale.png" style="width=100%;max-width:400px;height:auto;" alt="Change scale=auto to scale=2 to display and print a retina-quality high-resolution image">

@@ -17,14 +17,14 @@ There are two options for sharing diagrams as a link:
 ## Share diagrams stored on Google Drive as a links
 
 1. Click _File > Publish > Link_.
-<br /><img src="/assets/img/blog/file-publish-link.png" width="400" alt="Publish your diagram stored on Google Drive as a link">
+<br /><img src="/assets/img/blog/file-publish-link.png" style="width=100%;max-width:400px;height:auto;" alt="Publish your diagram stored on Google Drive as a link">
 2. Check that you have set the sharing permissions for your diagram on Google Drive appropriately before you try to publish it as a link. Click _Share_, then click _Get shareable link_. Make sure that the label says _Link sharing on_.
-<img src="/assets/img/blog/google-drive-shareable-link.png" width="400" alt="Get a shareable link for your diagram stored on Google Drive">
+<br /><img src="/assets/img/blog/google-drive-shareable-link.png" style="width=100%;max-width:400px;height:auto;" alt="Get a shareable link for your diagram stored on Google Drive">
 3. Click _Done_ to return to the _Publish Link_ dialog.
 4. You can now change the viewing options to set a different link colour, open your diagram in the editor instead of the lightbox, or change what is displayed when a viewer follows the link to your diagram. These options are similar to when you [export the diagram as a URL](/blog/export-url.html).
-<br /><img src="/assets/img/blog/publish-link-options.png" width="300" alt="Viewer options when publishing your diagram as a link from Google Drive">
+<br /><img src="/assets/img/blog/publish-link-options.png" style="width=100%;max-width:300px;height:auto;" alt="Viewer options when publishing your diagram as a link from Google Drive">
 <br />**Tip:** If you aren't sure you have set the sharing permissions correctly, click on the _Check_ link next to the _Share_ button.
 5. Finally, click _Create_. A dialog with the link will be displayed.
-<img src="/assets/img/blog/published-link.png" width="400" alt="The shorter link when publihsed from a diagram stored on Google Drive">
+<br /><img src="/assets/img/blog/published-link.png" style="width=100%;max-width:400px;height:auto;" alt="The shorter link when publihsed from a diagram stored on Google Drive">
 
 You can copy this into a chat message or email, or share it easily on Facebook or Twitter (this creates a new post in a new browser tab).

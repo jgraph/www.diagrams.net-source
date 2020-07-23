@@ -19,28 +19,28 @@ There are several ways you can add waypoints to connectors. The easiest way to a
 
 As you drag the connector, new waypoints are added automatically and intelligently, depending on where you grabbed the connector.
 
-<img src="/assets/img/blog/waypoints-drag-more.gif" width="400" alt="Drag the connector to automatically add waypoints">
+<img src="/assets/img/blog/waypoints-drag-more.gif" style="width=100%;max-width:400px;height:auto;" alt="Drag the connector to automatically add waypoints">
 
 If you prefer not to drag connectors around, you can use the menu.
 
 1. Right-click on the connector in between two way points to display the context menu.
 2. Select _Add Waypoint_.
 
-<img src="/assets/img/blog/waypoints-add-context-menu.png" width="400" alt="Use the context menu to add waypoints to a connector">
+<img src="/assets/img/blog/waypoints-add-context-menu.png" style="width=100%;max-width:400px;height:auto;" alt="Use the context menu to add waypoints to a connector">
 
 ## Remove a waypoint from a connector
 
 1. Select the connector where you want to remove a way point.
 2. Drag the appropriate section of the connector back into a position such that the way point is removed.
 
-<img src="/assets/img/blog/waypoints-drag-remove.gif" width="400" alt="Drag the connector back to remove waypoints">
+<img src="/assets/img/blog/waypoints-drag-remove.gif" style="width=100%;max-width:400px;height:auto;" alt="Drag the connector back to remove waypoints">
 
 You can also use the context menu to remove way points.
 
 1. Select the connector first, then right-click on one of the existing way points.
 2. Select _Remove Waypoint_.
 
-<img src="/assets/img/blog/waypoints-remove-context-menu.png" width="400" alt="Use the context menu to remove a waypoint from a connector">
+<img src="/assets/img/blog/waypoints-remove-context-menu.png" style="width=100%;max-width:400px;height:auto;" alt="Use the context menu to remove a waypoint from a connector">
 
 ## Clear all waypoints
 
@@ -51,6 +51,6 @@ By clearing all of the waypoints in a connector, it will revert to the shortest 
 
 **Note:** You can alternately use the context menu and dragging to add and remove connectors. Use whichever method suits you best.
 
-<img src="/assets/img/blog/waypoints-clear.gif" width="400" alt="Use the context menu to clear all waypoints on a connector">
+<img src="/assets/img/blog/waypoints-clear.gif" style="width=100%;max-width:400px;height:auto;" alt="Use the context menu to clear all waypoints on a connector">
 
 Adding and removing waypoints by dragging connectors and using the context menu works for many styles of connectors that you can set in the _Style_ tab of the format panel on the right. The _Straight_ connector style does not allow waypoints as it always takes the shortest path between the two shapes.

@@ -12,7 +12,7 @@ Some diagrams can get very large and complex, for example, business processes, U
 
 With diagrams.net, you can keep these smaller component diagrams together by adding multiple pages. These are displayed as page tabs at the bottom of the drawing canvas.
 
-<img src="/assets/img/blog/page-tab-example.png" width="600" alt="Add multiple pages to diagrams with the page tab bar at the bottom of the drawing canvas">
+<img src="/assets/img/blog/page-tab-example.png" style="max-width:100%;height:auto;" alt="Add multiple pages to diagrams with the page tab bar at the bottom of the drawing canvas">
 
 ## Add a new page to a diagram
 
@@ -27,13 +27,13 @@ If you are simplifying a completed complex diagram by splitting sections of it i
 
 - Right-click on a tab, then select _Duplicate_.
 
-<img src="/assets/img/blog/duplicate-page.png" width="600" alt="Duplicate a diagram page">
+<img src="/assets/img/blog/duplicate-page.png" style="max-width:100%;height:auto;" alt="Duplicate a diagram page">
 
 For example, the red section of this flow chart has been duplicated to a second page to make the main flowchart a bit more readable. Links on entry and exit shapes to the appropriate pages make it easy for viewers to navigate through the diagram.
 
 **To add a link to a shape:** right-click on a shape, select _Edit Link_ from the context menu, select the page your want to link to from the list, then click _Apply_. When the diagram layer you are working on is unlocked, selecting the shape with the link will display the link as a tooltip underneath.
 
-<img src="/assets/img/blog/link-to-page.png" width="600" alt="A shape with a link to a page in a multi-page diagram">
+<img src="/assets/img/blog/link-to-page.png" style="max-width:100%;height:auto;" alt="A shape with a link to a page in a multi-page diagram">
 
 ### Rename a diagram page
 
@@ -64,4 +64,4 @@ If you are using Confluence Server, you can filter what viewers see in your draw
 
 _In the example below, the macros are all displaying different pages and layers of the same diagram._
 
-<img src="/assets/img/blog/filtered-diagram-macros.png" width="600" alt="Diagrams filtered based on page and layers in Confluence Server">
+<img src="/assets/img/blog/filtered-diagram-macros.png" style="max-width:100%;height:auto;"  alt="Diagrams filtered based on page and layers in Confluence Server">

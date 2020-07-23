@@ -12,7 +12,7 @@ categories: [integrations, use-cases]
 
 Updated diagrams can be generated on a schedule and exported to document how your infrastructure changes over time. You can specify which components or types of diagrams are generated at different times to satisfy the needs of your network or application engineers.
 
-<img src="/assets/img/blog/aws-infrastructure-diagram-example.png" width="400" alt="A basic AWS diagram in 3D">
+<img src="/assets/img/blog/aws-infrastructure-diagram-example.png" style="width=100%;max-width:400px;height:auto;" alt="A basic AWS diagram in 3D">
 
 ## How to export from Cloudockit to a .drawio diagram
 
@@ -20,7 +20,7 @@ Updated diagrams can be generated on a schedule and exported to document how you
 2. Select _Draw.io_ and click _Generate_
 3. Follow the steps to log in and give Cloudockit access to your cloud infrastructure so it can build your documentation.
 
-<img src="/assets/img/blog/cloudockit-to-drawio-options.png" width="400" alt="Export from Cloudockit to a .drawio file">
+<img src="/assets/img/blog/cloudockit-to-drawio-options.png" style="width=100%;max-width:400px;height:auto;" alt="Export from Cloudockit to a .drawio file">
 
 You can also choose to have your documentation exported to a Word or PDF document or an Excel spreadsheet as well as a few other diagramming formats. Of course, as diagrams.net and its .drawio file format are open source and available to everyone, this is the best diagram format to use.
 

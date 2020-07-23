@@ -16,12 +16,12 @@ It's easy to specify a different system font, use a Google font, or even use you
 
 System fonts are those which are stored on your computer or system. To use a different system font, you'll need to know the font's name.
 
-<img src="/assets/img/blog/use-custom-font-text-tab-format-panel.png" width="600" alt="Open the custom font selector via the Text tab in the format panel">
+<img src="/assets/img/blog/use-custom-font-text-tab-format-panel.png" style="max-width:100%;height:auto;" alt="Open the custom font selector via the Text tab in the format panel">
 
 1. Click on the shape or text that you want to change.
 2. In the _Text_ tab of the format panel on the right, click the drop down arrow next to the font name, and click _Custom_ (at the bottom of the list).
 3. In the font selection dialog, type the name of the new font, then click Apply. This example uses the ``Charter`` system font.
-   <img src="/assets/img/blog/use-system-font-example.png" width="400" alt="Enter the name of a new system font">
+   <br /><img src="/assets/img/blog/use-system-font-example.png" style="width=100%;max-width:300px;height:auto;" alt="Enter the name of a new system font">
 
 You'll see your changes applied to the shape or text.
 
@@ -32,7 +32,7 @@ To use a [Google font](https://fonts.google.com), all you need to know is Google
 1. Click on the shape or text that you want to change.
 2. Select the _Text_ tab in the format panel if it is not active, then click on the drop down arrow next to the font name, and on _Custom_.
 3. Click on the _Google Fonts_ radio button, type the name of the Google font in the _Font Name_ text field, then click _Apply_.
-   <img src="/assets/img/blog/use-google-font-example.png" width="400" alt="Enter the name of a new Google font">
+   <br /><img src="/assets/img/blog/use-google-font-example.png" style="width=100%;max-width:300px;height:auto;" alt="Enter the name of a new Google font">
 
 
 
@@ -43,7 +43,7 @@ You can also use your own web fonts stored somewhere on the web. You need to lin
 1. Host your raw web font file somewhere on the web that can be directly accessed via the browser.
 2. Click on the shape or text you want to change.
 3. Select the _Text_ tab in the format panel, click on the drop down arrow next to the font name, then click on _Custom_.
-   <img src="/assets/img/blog/use-web-font-example.png" width="400" alt="Enter the name of a new system font">
+   <br /><img src="/assets/img/blog/use-web-font-example.png" style="width=100%;max-width:300px;height:auto;" alt="Enter the name of a new system font">
 4. Click on the _Web Fonts_ radio button, enter a name in the _Font Name_ field, then enter the URL where your ``.woff`` font file is stored. Then click _Apply_.
 
-<img src="/assets/img/blog/use-custom-font-examples.png" width="600" alt="Shapes with labels using custom fonts">
+<img src="/assets/img/blog/use-custom-font-examples.png" style="max-width:100%;height:auto;" alt="Shapes with labels using custom fonts">

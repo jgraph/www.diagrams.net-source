@@ -16,7 +16,7 @@ If you know that you will need a number of shapes, instead of dragging each one 
 
 The shapes will all appear stacked in a neat line down the left side of your diagram, and they will use your default style (that is usually the most recent style you applied to a shape).
 
-<img src="/assets/img/blog/quick-add-shapes.gif" size="400" alt="Quickly add shapes from the shape library by clicking on them">
+<img src="/assets/img/blog/quick-add-shapes.gif" style="width=100%;max-width:400px;height:auto;" alt="Quickly add shapes from the shape library by clicking on them">
 
 ## Format several shapes at once
 

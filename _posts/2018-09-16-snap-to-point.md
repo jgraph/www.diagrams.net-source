@@ -14,14 +14,14 @@ If you don't want the connector to float freely, but instead you can set them to
 
 **Note**: If either the shape or the connector are set to snap to an anchor point, this will work.
 
-<img src="/assets/img/blog/snap-to-point.gif" alt="Connectors can snap to the nearest anchor point on your shape">
+<img src="/assets/img/blog/snap-to-point.gif" style="max-width:100%;max-height:auto;" alt="Connectors can snap to the nearest anchor point on your shape">
 
 ## Change the shape style
 
 1. Select the shape or the connector.
 2. In the Style tab of the format panel on the right, make sure that the Property section at the bottom is expanded.
 3. Click on the checkbox next to the _Snap to Point_ style label so that it is enabled.
-   <img src="/assets/img/blog/snap-to-point-property.png" width="600" alt="Enable the Snap to Point property in the Style tab">
+   <img src="/assets/img/blog/snap-to-point-property.png" style="max-width:100%;height:auto;" alt="Enable the Snap to Point property in the Style tab">
 
 ## Manually edit the shape style
 
@@ -29,4 +29,4 @@ Alternatively, you can edit the style of your shape manually.
 
 1. Select the shape or connector then click on the _Edit Style_ button in the _Style_ tab of the format panel
 2. Add the following style to the end: ``snapToPoint=1;`` then click _Apply_.
-   <img src="/assets/img/blog/edit-style-snap-to-point.png" width="400" alt="Edit the shape or connector style">
+   <img src="/assets/img/blog/edit-style-snap-to-point.png" style="width=100%;max-width:400px;height:auto;" alt="Edit the shape or connector style">

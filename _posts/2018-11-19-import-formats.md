@@ -31,7 +31,7 @@ Plus using the text-based import tools (_Arrange > Insert > ..._) you can create
 - PlantUML code
 - Freehand drawing
 
-<img src="/assets/img/blog/insert-SQL-example.png" width="600" alt="Insert from SQL to automatically create a diagram">
+<img src="/assets/img/blog/insert-SQL-example.png" style="max-width:100%;height:auto;" alt="Insert from SQL to automatically create a diagram">
 
 **Note:** Some of these text-based input methods are only available at diagrams.net online.
 

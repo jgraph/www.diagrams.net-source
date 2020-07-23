@@ -21,7 +21,7 @@ You can [add custom libraries to the draw.io for Confluence app](/doc/faq/custom
 1. Click _File > Open Library from_, then select the service or device where your file is stored.
 2. Locate and select your custom library (the file extension will be ``.xml``), then click _Choose_.
 
-<img src="/assets/img/blog/file-open-custom-library.png" width="400" alt="Open a custom shape library">
+<img src="/assets/img/blog/file-open-custom-library.png" style="width=100%;max-width:400px;height:auto;" alt="Open a custom shape library">
 
 ## Load a custom library via a URL
 
@@ -48,7 +48,7 @@ Before you save your custom library above, you can add shapes to your library.
 
 Your custom library will appear at the top of the left panel below the Scratchpad.
 
-<img src="/assets/img/blog/custom-library-left-panel.png" width="400" alt="Custom libraries appear below the scratchpad">
+<img src="/assets/img/blog/custom-library-left-panel.png" style="width=100%;max-width:400px;height:auto;" alt="Custom libraries appear below the scratchpad">
 
 ### Add shapes to your custom library
 
@@ -56,7 +56,7 @@ Drag shapes from the drawing canvas onto your custom library, or select a shape 
 
 You can select multiple shapes or a group of shapes and drag these into your custom library.
 
-<img src="/assets/img/blog/add-shape-custom-library.gif" width="600" alt="Add a shape or group of shapes to your custom library">
+<img src="/assets/img/blog/add-shape-custom-library.gif" style="max-width:100%;height:auto;" alt="Add a shape or group of shapes to your custom library">
 
 ### Edit and remove shapes
 
@@ -66,7 +66,7 @@ Rename shapes by clicking on their name and entering a new one.
 
 Click _Save_ to save your changes.
 
-<img src="/assets/img/blog/edit-custom-library.png" width="400" alt="Editing shape names in your custom library">
+<img src="/assets/img/blog/edit-custom-library.png" style="width=100%;max-width:400px;height:auto;" alt="Editing shape names in your custom library">
 
 ### Export your custom shape library
 

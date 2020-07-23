@@ -19,7 +19,7 @@ These are changed by adding colour information to the JSON string in the draw.io
 ### Set custom colour palettes for draw.io in Confluence Cloud
 
 1. Go to the _draw.io Configuration_ tab in the _draw.io Configuration_ section of your Confluence Cloud settings.
-<img src="/assets/img/blog/custom-colours-json-confluence-cloud.png" width="400" alt="JSON code for a custom style palette and custom default preset colours in the colour dialog in draw.io for Confluence Cloud">
+<br /><img src="/assets/img/blog/custom-colours-json-confluence-cloud.png" style="width=100%;max-width:400px;height:auto;" alt="JSON code for a custom style palette and custom default preset colours in the colour dialog in draw.io for Confluence Cloud">
 2. For each colour palette you want to customise, define the colours using hex codes.
    * **defaultColorSchemes:** Changes the styles in the format panel colour palette.
    * **customColorSchemes:** Adds an extra styles in front of the default colour schemes.
@@ -49,7 +49,7 @@ For example, this defines a custom pastel style palette (with no border), and an
   "fd6a02", "f9a602", "8b4000", "f9821a", "fc6600", "daa520"]
 }
 ```
-<img src="/assets/img/blog/style-colour-palette-custom.png" width="200" alt="The customised style palette in draw.io for Confluence Cloud"> &nbsp;&nbsp; <img src="/assets/img/blog/preset-colours-new-defaults.png" width="200" alt="A new default set of colours for the preset palette in the colour dialog in draw.io for Confluence Cloud">
+<img src="/assets/img/blog/style-colour-palette-custom.png" style="width=100%;max-width:300px;height:auto;" alt="The customised style palette in draw.io for Confluence Cloud"> &nbsp;&nbsp; <img src="/assets/img/blog/preset-colours-new-defaults.png" style="width=100%;max-width:200px;height:auto;" alt="A new default set of colours for the preset palette in the colour dialog in draw.io for Confluence Cloud">
 
 [See more examples of how to customise colours in draw.io for Confluence Cloud](/doc/faq/custom-colours-confluence-cloud.html)
 
@@ -62,7 +62,7 @@ You can change what appears by default in the list of fonts in the _Font_ tab of
 ```
 { "defaultFonts": ["Courier New", "Tahoma", "Helvetica"] }
 ```
-<br /><img src="/assets/img/blog/custom-default-fonts-confluence-cloud.png" width="600" alt="Changing the list of default fonts in draw.io for Confluence Cloud">
+<br /><img src="/assets/img/blog/custom-default-fonts-confluence-cloud.png" style="max-width:100%;height:auto;" alt="Changing the list of default fonts in draw.io for Confluence Cloud">
 4. To use web or Google fonts, add the publicly accessible URL to the ``fontCss`` option, and then add it to either the ``defaultFonts`` or the ``customFonts`` list. This adds two Google fonts and one web font to the custom fonts list. _Make sure the ``fontCSS`` option is all on one line_
 ```
 {
@@ -72,7 +72,7 @@ You can change what appears by default in the list of fonts in the _Font_ tab of
 ```
 5. Click _Save_ when you are done.
 
-<img src="/assets/img/blog/custom-fonts-multiple-confluence-cloud.png" width="400" alt="Multiple custom fonts can be used in draw.io for Confluence Cloud">
+<img src="/assets/img/blog/custom-fonts-multiple-confluence-cloud.png" style="width=100%;max-width:400px;height:auto;" alt="Multiple custom fonts can be used in draw.io for Confluence Cloud">
 
 **Exporting diagrams:** The external image and PDF export features do not currently support custom fonts.
 
@@ -96,7 +96,7 @@ Administrators can also add JSON code in the draw.io configuration to set a cust
 ```
 Now, whenever a new user creates a diagram, shapes added to the drawing canvas will follow this style.
 
-<img src="/assets/img/blog/applied-custom-default-styles-confluence-cloud.png" width="400" alt="Custom default styles in draw.io for Confluence Cloud let you create attractive diagrams, faster.">
+<img src="/assets/img/blog/applied-custom-default-styles-confluence-cloud.png" style="width=100%;max-width:400px;height:auto;" alt="Custom default styles in draw.io for Confluence Cloud let you create attractive diagrams, faster.">
 
 [Learn more about using personal and global custom default styles in Confluence Cloud](/doc/faq/custom-styles-confluence-cloud.html)
 
@@ -116,7 +116,7 @@ You can change the colour of the draw.io editor's menu bar in Confluence Cloud b
 ```
 4. Click _Save_ when you are finished.
 
-<img src="/assets/img/blog/custom-menu-custom-default-theme.png" width="600" alt="Customise the draw.io menu bar and default theme in Confluence Cloud">
+<img src="/assets/img/blog/custom-menu-custom-default-theme.png" style="max-width:100%;height:auto;" alt="Customise the draw.io menu bar and default theme in Confluence Cloud">
 
 The four themes you can use include:
 * ``kennedy``: The Kennedy theme does not include the draw.io logo.
