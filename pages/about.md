@@ -3,6 +3,7 @@ title: About diagrams.net
 layout: page
 permalink: /about.html
 ---
+<img src="/assets/img/blog/team-2018.png" width="680" alt="Team">
 
 diagrams.net is an open source technology stack for building diagramming applications, and the world’s most widely used browser-based end-user diagramming software.
 
