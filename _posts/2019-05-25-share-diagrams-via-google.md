@@ -27,10 +27,8 @@ Publishing a diagram as a URL results in a very long link - your diagram is enco
 ### Change the file sharing settings of your diagram to public
 
 If you are using Google Drive within your business, you'll have a few additional sharing settings. You will still need to share the diagram as a public file in order to publish it as a short link.
-
-1. Click _Share_.
-<br /><img src="/assets/img/blog/google-drive-publish-link.png" style="width=100%;max-width:300px;height:auto;" alt="Change the sharing permissions to public so you can publish a link to the diagram file stored on Google Drive">
-3. In the Google Drive _Share with others_ dialog, click the _Anyone with the link_ drop down, then click _More_ at the bottom of the list.
-<br /><img src="/assets/img/blog/google-drive-share-with-others.png" style="width=100%;max-width:300px;height:auto;" alt="Change the sharing permissions to public so you can publish a link to the diagram file stored on Google Drive">
-4. In the _Link sharing_ dialog, click the top radio button so that your file is **Public on the web**. If you want others to collaboratively edit this diagram file, click the _Access_ drop down and select _Edit_. Then click _Save_, then click _Done_.
-<br /><img src="/assets/img/blog/google-drive-link-sharing.png" style="width=100%;max-width:300px;height:auto;" alt="Change the sharing permissions to public so you can publish a link to the diagram file stored on Google Drive">
+1. In Google Drive, right click on the diagram you want to share, then select _Share_ from the context menu.
+2. In the Google Drive _Get Link_ dialog, click on _Change to anyone with the link_.
+<br /><img src="/assets/img/blog/google-drive-get-link-dialog.png" style="width=100%;max-width:300px;height:auto;" alt="Change the sharing permissions to public so you can publish a link to the diagram file stored on Google Drive">
+3. The dialog will update and show you that _Anyone with the link_ will be able to view the file. Click _Done_.
+<br /><img src="/assets/img/blog/google-drive-get-link-dialog2.png" style="width=100%;max-width:300px;height:auto;" alt="Change the sharing permissions to public so you can publish a link to the diagram file stored on Google Drive">
