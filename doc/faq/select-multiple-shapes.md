@@ -2,7 +2,7 @@
 title: Select multiple shapes
 layout: page
 faq: true
-categories: [Features]
+categories: [Features,Shapes]
 ---
 
 **With a mouse:** Drag a selection box so that it fully includes all the shapes you want to select.

@@ -2,7 +2,7 @@
 title: Change the shape of a participant on a UML lifeline
 layout: page
 faq: true
-categories: [Features]
+categories: [Features,Shapes]
 ---
 
 1. Select the lifeline on the drawing canvas.

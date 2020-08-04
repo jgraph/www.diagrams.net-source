@@ -2,7 +2,7 @@
 title: Enable or disable the collapse/expand feature on container shapes
 layout: page
 faq: true
-categories: [Features]
+categories: [Features,Shapes]
 ---
 
 You can collapse and expand (or fold) container shapes, available in the _Advanced_ shape library. This behaviour is enabled by default, but may be disabled via the diagrams.net menu.
