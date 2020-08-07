@@ -2,7 +2,7 @@
 title: Use custom fonts in draw.io for Confluence Cloud
 layout: page
 faq: true
-categories: [Confluence Cloud, Customisation]
+categories: [Confluence Cloud, Customisation, Text]
 ---
 
 Edit the draw.io configuration in the Confluence Cloud administration section to specify the font(s) you want to see in the font list by default. You can also set up your own custom fonts, providing they are available publicly on the web.

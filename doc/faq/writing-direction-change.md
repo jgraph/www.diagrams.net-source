@@ -2,7 +2,7 @@
 title: Change the writing direction
 layout: page
 faq: true
-categories: [Features]
+categories: [Features,Text]
 ---
 
 1. Select the shape on the drawing canvas.

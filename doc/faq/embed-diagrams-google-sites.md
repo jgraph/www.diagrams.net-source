@@ -10,9 +10,9 @@ It's easy to embed diagrams into both the new and the classic version of Google 
 
 ## Embed a diagram in the new Google Sites
 
-The current version of Google Sites allows you to edit the HTML of your web pages. That makes it easy to embed a draw.io diagram as HTML.
+The current version of Google Sites allows you to edit the HTML of your web pages. That makes it easy to [embed a diagram as HTML](/doc/faq/embed-html.html).
 
-1. In the draw.io editor, select _File > Embed > HTML_ to open the HTML options dialog.
+1. In the draw.io editor, select _File > Embed > HTML_ to open the [HTML options dialog](/doc/faq/embed-html-options.html).
 <br /><img src="/assets/img/blog/file-embed.png" style="max-width:100%;height:auto;" alt="Click File > Embed and select HTML to export your diagram as HTML code">
 2. Select the options you want to use, then click _Create_.
 <br /><img src="/assets/img/blog/embed-html.png" style="width=100%;max-width:300px;height:auto;" alt="Generate a HTML code version of your diagram">

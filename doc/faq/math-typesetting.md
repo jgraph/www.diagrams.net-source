@@ -2,7 +2,7 @@
 title: Use mathematical typesetting in diagrams
 layout: page
 faq: true
-categories: [Features]
+categories: [Features,Text]
 ---
 
 
