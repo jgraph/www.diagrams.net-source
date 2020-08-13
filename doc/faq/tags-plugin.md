@@ -60,7 +60,10 @@ If you want to use tags in your diagrams regularly, add the tags plugin to the p
 <br /><img src="/assets/img/blog/extras-plugins.png" style="width=100%;max-width:400px;height:auto;" alt="Open the plugins list">
 2. Click _Add_.
 <br /><img src="/assets/img/blog/add-plugin.png" style="width=100%;max-width:200px;height:auto;" alt="Add a new plugin">
-2. Paste ``/plugins/tags.js`` into the URL field, then click _Add_, then click _Apply_.
+3. Select ``tags`` in the drop-down list of built-in plugins, then click _OK_.
+<br /><img src="/assets/img/blog/add-tags-plugin.png" style="width=100%;max-width:200px;height:auto;" alt="Add the tags plugin">
+4. Click _Apply_.
+<br /><img src="/assets/img/blog/add-tags-plugin-apply.png" style="width=100%;max-width:200px;height:auto;" alt="Add the tags plugin">
 
 
 ### Load the tags plugin on Confluence Server

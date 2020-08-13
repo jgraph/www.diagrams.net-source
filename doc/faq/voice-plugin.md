@@ -41,6 +41,17 @@ You will hear a short beep when the plugin starts and stops listening. The butto
 * **Install:** Say ``install`` or select _Voice > Start with draw.io_ in the menu.
 * **Uninstall:** Say ``uninstall`` or select _Extras > Plugins_ then delete the /plugins/voice.js from the list (click on the delete icon next to the plugin name).
 
+### Permanently load the voice plugin via the menu
+
+1. Select _Extras > Plugins_.
+<br /><img src="/assets/img/blog/extras-plugins.png" style="width=100%;max-width:400px;height:auto;" alt="Open the plugins list">
+2. Click _Add_.
+<br /><img src="/assets/img/blog/add-plugin.png" style="width=100%;max-width:200px;height:auto;" alt="Add a new plugin">
+3. Select ``voice`` in the drop-down list of built-in plugins, then click _OK_.
+<br /><img src="/assets/img/blog/add-voice-plugin.png" style="width=100%;max-width:200px;height:auto;" alt="Add the voice plugin">
+4. Click _Apply_.
+<br /><img src="/assets/img/blog/add-voice-plugin-apply.png" style="width=100%;max-width:200px;height:auto;" alt="Add the voice plugin">
+
 ## Keyboard shortcuts
 
 * **Start/Stop Listen:** (Google Chrome) ``Ctrl+O`` on Windows, ``Cmd+O`` on macOS.

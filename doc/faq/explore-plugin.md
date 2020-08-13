@@ -31,9 +31,9 @@ If you want to always be able to explore your diagrams like this, add the explor
 <br /><img src="/assets/img/blog/extras-plugins.png" style="width=100%;max-width:400px;height:auto;" alt="Open the plugins list">
 2. Click _Add_.
 <br /><img src="/assets/img/blog/add-plugin.png"style="width=100%;max-width:200px;height:auto;" alt="Add a new plugin">
-2. Paste the path and filename of the plugin ``/plugins/explore.js`` into the URL field, then click _Add_
+3. Select ``ex`` in the drop-down list of built-in plugins, then click _OK_.
 <br /><img src="/assets/img/blog/add-explore-plugin.png" style="width=100%;max-width:200px;height:auto;" alt="Add the explore plugin">
-3. Click _Apply_.
+4. Click _Apply_.
 <br /><img src="/assets/img/blog/apply-add-explore-plugin.png" style="width=100%;max-width:200px;height:auto;" alt="Add the explore plugin">
 
 Reload your browser tab to load the plugin into the diagram editor.

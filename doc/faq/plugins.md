@@ -14,7 +14,9 @@ For example:
 * To load the anonymize plugin: [https://app.diagrams.net/?splash=0&p=anon](https://app.diagrams.net/?splash=0&p=anon)
 * To load both the anonymize and text plugins: [https://app.diagrams.net/?p=anon;text](https://app.diagrams.net/?p=anon;text)
 
-To [permanently add plugins](/doc/faq/add-plugin.html), you need to use the plugin name in the URL field of the _Add Plugin_ dialog. For example ``/plugins/anonymize.js``. Make sure you reload diagrams.net in your browser tab after you permanently add or remove a plugin.
+To [permanently add plugins](/doc/faq/add-plugin.html), select a plugin from the list of built-in plugins via the _Add Plugin_ dialog, click _OK_ and then _Apply_ to save your changes. Make sure you reload diagrams.net in your browser tab after you permanently add or remove a plugin.
+
+<img src="/assets/img/blog/add-explore-plugin.png" style="width=100%;max-width:200px;height:auto;" alt="Add the explore plugin">
 
 The following plugins are available from the [diagrams.net Github repository](https://github.com/jgraph/drawio/tree/master/src/main/webapp/plugins).
 
@@ -25,7 +27,7 @@ The following plugins are available from the [diagrams.net Github repository](ht
 | voice.js | [voice](https://app.diagrams.net/?splash=0&p=voice) | Adds a voice assistant via the _Voice_ menu ([how to use](/doc/faq/voice-plugin.html))|
 | tooltips.js | [tips](https://app.diagrams.net/?p=tips&lightbox=1&edit=_blank#Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-diagrams%2Fdiagrams%2Ftooltips.xml) | Adds an icon for shapes and connectors with tooltips ([example](https://app.diagrams.net/?p=tips#RzZTRToMwFIafhksTSje3a6dOlyzLnMZ4ZTo40ppCSekG7OltRwt0S9TdGG%2Bg%2FXranvP%2FBwI8y%2Bq5JAVdigR4EIVJHeDbIIoQmkT6ZUjTkulo1IJUssQG9WDDDmBhaOmOJVB6gUoIrljhw1jkOcTKY0RKUflhH4L7txYkhTOwiQk%2Fp68sUdRWMQ57%2FgAspe5mFNqVjLhgC0pKElENEL4L8EwKodpRVs%2BAG%2FGcLqunMVpM1mixPoyyasne35b7q%2Faw%2B0u2dCVIyNVvj34pQa62n0bSKORkq2097nzUU0r2YOTtvfCMaQOfKStNZuahKJzGfptx1MnTVViqxlkixS5PwOwPA3xTUaZgU5DYrFa6CTWjKjPpIj1sb9uDVFCfOPqDHGiQxBxEBko2ep89xbna%2BNOq7xHkGB30x7VlxLZl2h3cS68Htmw3HZhxge%2FY1k74Ds7My8WpI%2F9NYTT9S4n77%2FC4Nvib4bsv)) |
 | svgdata.js | [svgdata](https://app.diagrams.net/?splash=0&p=svgdata) | Adds metadata and IDs in the SVG export |
-| number.js | [number](https://app.diagrams.net/?lightbox=1&p=number#Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-diagrams%2Fdiagrams%2Fbulb.xml) | Numbers all shapes in chromeless mode |
+| number.js | [number](https://app.diagrams.net/?lightbox=1&p=number#Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-diagrams%2Fdiagrams%2Fbulb.xml) | Numbers all shapes in chromeless mode ([how to use](/doc/faq/number-plugin.html)) |
 | sql.js | [sql](https://app.diagrams.net/?splash=0&p=sql) | Adds _Arrange > Insert > Advanced > From SQL_ |
 | props.js | [props](https://app.diagrams.net/?lightbox=1&p=props&#Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-diagrams%2Fdiagrams%2Fbulb.xml) | Shows shape metadata in chromeless mode ([example](https://app.diagrams.net/?lightbox=1&p=props&#Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-diagrams%2Fdiagrams%2Fbulb.xml), [how to use](/doc/faq/properties-plugin.html)) |
 | text.js | [text](https://app.diagrams.net/?splash=0&p=text) | Adds _Extras > Extract Text_ for extracting all of the text in a diagram |
