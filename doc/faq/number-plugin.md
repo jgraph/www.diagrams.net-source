@@ -17,9 +17,9 @@ Add automatic numbering to the shapes in your diagram with the number plugin. It
 
 * To create a new diagram with the plugin already loaded, go to [https://app.diagrams.net/?splash=0&p=number](https://app.diagrams.net/?splash=0&p=number)
 
-## Permanently load the plugin
+## Permanently load the number plugin
 
-If you want to always use the properties plugin, add it to the plugins list so it will be loaded each time you create or edit a diagram.
+If you want to always use the number plugin, add it to the plugins list so it will be loaded each time you create or edit a diagram.
 
 1. From the menu, select _Extras > Plugins_.
 <br /><img src="/assets/img/blog/extras-plugins.png" style="width=100%;max-width:400px;height:auto;" alt="Open the plugins list">
