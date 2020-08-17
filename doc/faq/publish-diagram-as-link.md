@@ -2,7 +2,7 @@
 title: Publicly publish a diagram as a link
 layout: page
 faq: true
-categories: [Features]
+categories: [Features,Export]
 ---
 
 You can encode a diagram created in diagrams.net within a URL. When someone clicks on that URL, they will see a static copy of your diagram, at the time you published it, in the diagrams.net viewer.
