@@ -28,11 +28,11 @@ Embedded diagrams and diagram editing in Github support the following file forma
 
 ## Edit a diagram in a Github README
 
-Using the ``edit-diagram.html``, [available from our Github repository](https://github.com/jgraph/drawio-github), you can enable developers with appropriate access to edit the diagrams embedded in Github markdown pages.
+Using the file ``edit-diagram.html``, [available from our Github repository](https://github.com/jgraph/drawio-github), you can enable developers with appropriate access to edit the diagrams embedded in Github markdown pages.
 
-The ``edit-diagram.html`` interfaces with GitHub and uses diagrams.net in embed mode allowing you to edit and save diagrams stored in a repository. The following URL parameters are required: ``user``, ``pass``, ``repo``, ``path``, ``ref`` and ``action=open``.
+The ``edit-diagram.html`` file interfaces with Github and uses diagrams.net in embed mode allowing you to edit and save diagrams stored in a repository. The following URL parameters are required: ``user``, ``pass``, ``repo``, ``path``, ``ref`` and ``action=open``.
 
-Use ``action=open``, and passing the ``user`` and ``pass`` parameters, you can create links that let your developers immediately edit diagrams. Your link will look similar to the following.
+Use ``action=open``, and pass the ``user`` and ``pass`` parameters to create links that let your developers immediately edit diagrams. Your link will look similar to the following.
 
 ``http://jgraph.github.io/drawio-github/edit-diagram.html?repo=drawio-github&path=diagram.png``
 
@@ -42,7 +42,7 @@ Use ``action=open``, and passing the ``user`` and ``pass`` parameters, you can c
 
 ### Use a diagram in Github as a template
 
-Pass the diagram as a URL parameter to diagrams.net to use the diagram stored in Github as a template. Your link will look something like the following:
+Pass the diagram as a [URL parameter](/doc/faq/supported-url-parameters.html) to diagrams.net to use the diagram stored in Github as a template. Your link will look something like the following:
 
 ``https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-github%2Fmaster%2Fdiagram.png``
 
@@ -56,7 +56,7 @@ To edit such a 'self-editing' SVG image, you need to build a link like the follo
 
 ## Use HTML as a container for self-editing diagrams
 
-You can build a HTML file with embedded diagrams, using nanocms.js for the Github interface and diagram editing functionality, as well as Bootstrap and nanocms.css for CSS styling. HTML can be used in this way with diagrams in a number of formats, including inline SVGs containing links.
+You can build a 'self-editing' HTML file with embedded diagrams, using ``nanocms.js`` for the Github interface and diagram editing functionality, as well as Bootstrap and ``nanocms.css`` for CSS styling. HTML can be used in this way with diagrams in a number of formats, including inline SVGs containing links.
 
 [Go to the following example of a self-editing HTML file containing diagrams](http://jgraph.github.io/drawio-github/self-editing.html)
 
