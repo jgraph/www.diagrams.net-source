@@ -2,7 +2,7 @@
 layout: post
 author: diagrams.net
 slug: gliffy-security-privacy-tracking
-date: 2020-07-24 09:43:00
+date: 2020-09-01 09:43:00
 title: Security and privacy when editing Gliffy Diagrams in Confluence Cloud
 tags: [data protection]
 categories: [trust, features]
