@@ -103,28 +103,28 @@ Click _Preview_ and you should see:
 
 There are 4 types of geometry elements:
 
-- **``<rect>``** - attributes "x", "y", "w", "h", all required decimals
-- **``<roundrect>``** - attributes "x", "y", "w", "h", all required decimals. Also "arcsize" is an optional decimal attribute defining how large the corner curves are.
-- **``<ellipse>``** - attributes "x", "y", "w", "h", all required decimals.
+- **``<rect>``** - attributes ``"x"``, ``"y"``, ``"w"``, ``"h"``, all required decimals
+- **``<roundrect>``** - attributes ``"x"``, ``"y"``, ``"w"``, ``"h"``, all required decimals. Also ``"arcsize"`` is an optional decimal attribute defining how large the corner curves are.
+- **``<ellipse>``** - attributes ``"x"``, ``"y"``, ``"w"``, ``"h"``, all required decimals.
 - **``<path>``** - a general case of geometry, used for more complex shapes.
 
-Path is a similar structure as path in SVG. It should start with a <move> where "x" and "y" define the coordinate. After move, an arbitrary number of geometry elements should follow.
+Path is a similar structure as path in SVG. It should start with a ``<move>`` where ``"x"`` and ``"y"`` define the coordinate. After move, an arbitrary number of geometry elements should follow.
 
 Path elements can be:
-- **``<move>``** - to attributes required decimals (x,y).
-- **``<line>``** - to attributes required decimals (x,y).
-- **``<quad>``** - to required decimals (x2,y2) via control point required decimals (x1,y1).
-- **``<curve>``** - to required decimals (x3,y3), via control points required decimals (x1,y1) and (x2,y2).
+- **``<move>``** - to attributes required decimals ``(x,y)``.
+- **``<line>``** - to attributes required decimals ``(x,y)``.
+- **``<quad>``** - to required decimals ``(x2,y2)`` via control point required decimals ``(x1,y1)``.
+- **``<curve>``** - to required decimals ``(x3,y3)``, via control points required decimals ``(x1,y1)`` and ``(x2,y2)``.
 - **``<arc>``** - this doesn't follow the HTML Canvas signatures, instead it's a copy of the SVG arc command. The [SVG specification](http://www.w3.org/TR/SVG/paths.html#PathDataEllipticalArcCommands) gives the best description of its behaviours. The attributes are named identically, they are decimals and all required.
 - **``<close>``** ends the current subpath and causes an automatic straight line to be drawn from the current point to the last move point of the current subpath.
 
-When the subpath is finished, there are two options. The first is to finish it with ``</path>``, which makes is visually open. The second option is to use <close> and then ``</path>``, which will close the current subpath. A subpath is a segment which starts with a ``<move>`` and ends with a ``<close>`` or another ``<move>``. A single ``<path>`` can contain multiple subpaths, but all of them will use the same style. And if they overlap, the same fill rule applies as for SVG.
+When the subpath is finished, there are two options. The first is to finish it with ``</path>``, which makes is visually open. The second option is to use ``<close>`` and then ``</path>``, which will close the current subpath. A subpath is a segment which starts with a ``<move>`` and ends with a ``<close>`` or another ``<move>``. A single ``<path>`` can contain multiple subpaths, but all of them will use the same style. And if they overlap, the same fill rule applies as for SVG.
 
 The first element of geometry will use the shadow style if needed, but the rest will not.
 
 ## Connections
 
-The <connections> element defines the connection points of the stencil, where edges can be connected.
+The ``<connections>`` element defines the connection points of the stencil, where edges can be connected.
 
 ```
 <connections>
@@ -135,9 +135,9 @@ The <connections> element defines the connection points of the stencil, where ed
 </connections>
 ```
 
-This adds 4 connection points at the corresponding coordinates. Note the coordinates are relative. x=0 is 0, x=1 is full width. Same for y.
+This adds four connection points at the corresponding coordinates. Note the coordinates are relative. ``x=0`` is ``0``, ``x=1`` is full width. Same for ``y``.
 
-When you hover over the unselected shape, connection points appear as a small x. Drag edges from these connection points or via the blue arrows.
+When you hover over the unselected shape, connection points appear as a small ``x``. Drag edges from these connection points or via the blue arrows.
 
 <img src="/assets/img/blog/custom-shape-example-connection-points.png" style="width=100%;max-width:200px;height:auto;" alt="Connection points have been added to the custom shape">
 
@@ -147,10 +147,10 @@ Style functions similar to the SVG style specification. Until you have defined a
 
 Style types are:
 
-- **``alpha``** - defines the alpha level, the opposite of transparency. Attribute is _alpha_ and range is 0-1, decimal. 0 being fully transparent and 1 being solid.
-- **``strokewidth``** - defines the stroke width in pixels. Attributes are _width_ which is decimal and fixed is optional, default 0 being scaling with resize and 1 for fixed stroke width regardless of scaling.
-dashed - toggles the dashed line style. Attribute is _dashed_. 0 for solid line, 1 for dashed.
-- **``dashpattern``** - defines a custom dashed line style. Attribute is _pattern_ and is an array. The numbers in the array define for how many points there is a line, how many points fo a pause, then how many points for a line again, and so on. Imagine the numbers as on/off alternating until the end of the array and then starting over. So ``<dashpattern pattern="5 1 8 1"/>`` defines a line length 5, pause of 1, even longer line of 8, another pause of 1 and then starting over.
+- **``alpha``** - defines the alpha level, the opposite of transparency. Attribute is _alpha_ and range is ``0-1``, decimal. ``0`` being fully transparent and ``1`` being solid.
+- **``strokewidth``** - defines the stroke width in pixels. Attributes are _width_ which is decimal and _fixed_ which is optional, default ``0`` being scaling with resize and ``1`` for a fixed stroke width regardless of scaling.
+dashed - toggles the dashed line style. Attribute is _dashed_. ``0`` for solid line, ``1`` for dashed.
+- **``dashpattern``** - defines a custom dashed line style. Attribute is _pattern_ and is an array. The numbers in the array define for how many points there is a line, how many points for a pause, then how many points for a line again, and so on. Imagine the numbers as on/off alternating until the end of the array and then starting over. So ``<dashpattern pattern="5 1 8 1"/>`` defines a line length 5, pause of 1, even longer line of 8, another pause of 1 and then starting over.
 - **``miterlimit``** - same as in SVG. Attribute is _limit_, a decimal number. It defines the "edginess" of line joins. The larger the number, the bigger spikes are allowed on sharp joins. The _limit_ attribute defines the cutoff amount for spikes.
 - **``linejoin``** - defines the type of line joining. Attribute is _join_ and can be _miter_, _round_ or _bevel_, same as in SVG. Default is _miter_, and it produces straight sharp edges. _Round_ as the name says gives rounded joins. _Bevel_ is the middle solution, as it produces "rounded" joins, but instead a curve, a straight line.
 - **``linecap``** - defines the type of line end. Attribute is _cap_ and can be _flat_, _square_ or _round_, same as in SVG. Default is _flat_, and it produces a square edge right at the end of the line. _Round_ as the name says gives rounded ending, after the line end, so the line is a bit longer. _Square_ is the middle solution, as it produces "rounded" ends, but instead a circular curve, with a squared straight line at the end.
@@ -169,14 +169,14 @@ Required attributes are _str_, _x_ and _y_. _Align_, _valign_, _localized_, _ver
 - **``str``** - defines the actual text the stencil will include and is a string. _x_ and _y_ are label coordinates and use a decimal value.
 - **``align``** - defines the horizontal alignment and its self-descriptive values are: _left_, _center_ and _right_.
 - **``valign``** -defines the vertical alignment. Its possible values are _top_, _middle_ and _bottom_.
-- **``vertical``** - 1 for text that is rendered vertically, 0 (default) for horizontal text.
-- **``rotation``** - defines the text rotation and is in the range of 0.0-360.0.
-- **``align-shape``** - 1 for a text label that rotates with the shape, 0 for a fixed text label.
+- **``vertical``** - ``1`` for text that is rendered vertically, ``0`` (default) for horizontal text.
+- **``rotation``** - defines the text rotation and is in the range of ``0.0-360.0``.
+- **``align-shape``** - ``1`` for a text label that rotates with the shape, ``0`` for a fixed text label.
 
 The styles related to text are:
 - **``fontsize``** - attribute is _size_ and is a decimal value. Defines font size.
-- **``fontstyle``** - attribute is _style_ and is an ORed bit pattern of bold (1), italic (2) and underline (4), i.e. bold underline is "5"
-- **``fontfamily``** - attribute is _family_ and is a string defining the typeface to be used.
+- **``fontstyle``** - attribute is _style_ and is an ORed bit pattern of bold (``1``), italic (``2``) and underline (``4``), i.e. bold underline is ``"5"``
+- **``fontfamily``** - attribute is _family_ and is a string defining the type face to be used.
 
 After adding the text to the custom shape, as well as the connectors, click _Preview_.
 
