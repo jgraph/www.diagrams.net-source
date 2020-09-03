@@ -18,4 +18,4 @@ Alternatively, you can change the scale of the diagram and add a border around i
 2. Select _PDF_ from the _Format_ drop-down list.
 3. Change the export settings to suit your requirements, then click _Export_.
 
-<img src="/assets/img/blog/export-settings-pdf.png" style="max-width:100%;height:auto;" alt="Change the export settings to scale and add a border around a diagram when exporting to PDF">
+<img src="/assets/img/blog/export-settings-pdf.png" style="width=100%;max-width:300px;height:auto;" alt="Change the export settings to scale and add a border around a diagram when exporting to PDF">
