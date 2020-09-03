@@ -57,13 +57,21 @@ Indicate groupings of elements with the shapes from the AWS / Groups shape libra
 
 ### Work with shapes
 
+Drag and drop shapes from the shape libraries to the drawing canvas. Click on shapes in the shape library to quickly add them, then reposition them.
+
+Hover over a shape in the shape library to see a tooltip that tells you what it represents in AWS notation.
+
+<img src="/assets/img/blog/aws-shape-library-hover.png" style="width=100%;max-width:200px;height:auto;" alt="Hover over shapes in the AWS shape library in diagrams.net to see their function">
+
+**Reposition:** Click and drag a shape into a new position on the drawing canvas.
+
 **Resize:** Select a shape and you will see it outlined with grab handles in the corners and the middle of each straight side. Drag these grab handles to resize a shape.
 
 **Rotate:** Select a shape, then drag the little round circular arrow in the top right to rotate it.
 
 **Labels**
 * Double click on a shape and start typing to change its label text.
-* Hold down shift and press enter to [add a line break in a label](/doc/faq/line-breaks.html).
+* Press ``Shift+Enter`` to [add a line break in a label](/doc/faq/line-breaks.html).
 * Change the position of the label text via the _Text_ tab of the format panel, using either the _Position_ drop down list, or the buttons directly above it.
 * Switch between horizontal and vertical text with the button that has three upward-pointing arrows.
 * Add spacing by modifying the _Spacing_ values at the bottom of the _Text_ tab.
@@ -91,12 +99,12 @@ While many AWS diagrams do not use connectors, you may want to indicate the flow
 
 You can use the connector shapes available in the AWS / Arrows library, but it is often faster to draw connections and then later style them as you need, similar to how you can style shapes, described above.
 
-**Floating connector:** Floating connectors move around the perimeter of the shape intelligently as you reposition it on the drawing canvas.
+**Floating connectors:** Floating connectors move around the perimeter of the shape intelligently as you reposition it on the drawing canvas.
 1. Hover over a shape on the drawing canvas to see a light arrow in each direction.
 2. Click and drag a connector from that arrow and drop it on your target shape.
 <br /><img src="/assets/img/blog/aws-example-floating-connector.png" style="width=100%;max-width:400px;height:auto;" alt="Add a floating connector by clicking and dragging from one of the four direction arrows that appear when you hover over a shape">
 
-**Fixed connector:** Instead of dragging the connector from one of the four arrows, you can use fixed connection points. This type of connector will remain connected to that particular point on that shape when you reposition it on the drawing canvas.
+**Fixed connectors:** Instead of dragging the connector from one of the four arrows, you can use fixed connection points. This type of connector will remain connected to that particular point on that shape when you reposition it on the drawing canvas.
 1. Hover over an _unselected_ shape, then click and drag a connector from one of the little crosses around the outside of the shape.
 2. If you want it to be fixed at the other end, drop it on a similar cross on your target shape.
 <br /><img src="/assets/img/blog/aws-example-fixed-connector.png" style="width=100%;max-width:200px;height:auto;" alt="Add a fixed connector by clicking and dragging from one of the small crosses that appear when you hover over an unselected shape">
