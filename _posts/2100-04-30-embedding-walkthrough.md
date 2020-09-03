@@ -2,7 +2,7 @@
 layout: post
 author: diagrams.net
 slug: embedding-walkthrough
-date: 2100-04-30 09:10:00
+date: 2020-05-01 09:10:00
 title: Simple draw.io embedding walk-through
 tags: [features]
 categories: [features]
@@ -10,7 +10,7 @@ categories: [features]
 
 You can embed diagrams.net as an application within another app, where you're storing the diagram data in the host app. It takes around 15 minutes to get a basic example running.
 
-Taking [an example Stack Overflow page](http://meta.stackoverflow.com/questions/306256/integrate-an-online-uml-diagram-editor-such-as-gliffy) as a template, we've created our own, [slightly altered version of the question](https://www.jgraph.com/so-example/Integrate%20an%20online%20UML_diagram%20editor%20such%20as%20gliffy%20-%20Meta%20Stack%20Overflow.html). Double click on the diagram to open diagrams.net in a new window, make some diagram edits then click _Save_ to save the changed diagram back to the page.
+Taking [an example Stack Overflow page](http://meta.stackoverflow.com/questions/306256/integrate-an-online-uml-diagram-editor-such-as-gliffy) as a template, we've created our own, [slightly altered version of the question](https://jgraph.github.io/drawio-docs/random/Integrate%20an%20online%20UML_diagram%20editor%20such%20as%20gliffy%20-%20Meta%20Stack%20Overflow.html). Double click on the diagram to open diagrams.net in a new window, make some diagram edits then click _Save_ to save the changed diagram back to the page.
 
 You can repeat the process to continue editing the diagram at a later time. Let's take a look at both the flow of this process and the code in the page that allows this to happen. If you view the page source you'll see on line 1695:
 
