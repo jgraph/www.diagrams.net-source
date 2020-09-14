@@ -11,7 +11,7 @@ You can generate up to three evaluation licenses for Confluence Server apps. If 
 2. In the list of licenses or SENs on that page, find and expand the entry for _draw.io Diagrams for Confluence: Trial_.
 3. Underneath the _License Key_ field, click on _New Trial License_, and follow Atlassian's instructions. Copy the license key that you are given.
 4. As an administrator in your Confluence instance, click on the gear icon in the menu, then select _Manage apps_.
-5. Expand the _Draw.io Confluence Plugin_ section, paste your copied license key into the License Key field, then click Update.
+5. Expand the _Draw.io Confluence Plugin_ section, paste your copied license key into the _License Key_ field, then click _Update_.
 <br /><img src="/assets/img/blog/update-license-drawio-confluence-server.png" style="max-width:100%;height:auto;" alt="Update the draw.io license in Confluence Server">
 
 ## Get a new license via the Atlassian Marketplace

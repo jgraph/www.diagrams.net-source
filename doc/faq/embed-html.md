@@ -43,9 +43,10 @@ An IFrame (Inline Frame) is an HTML document embedded inside another HTML docume
 IFrames use the draw.io lightbox and centre the diagram in the page. If you have used the default settings, a toolbar will appear at the bottom of your diagram when you hover over the HTML page.
 <br /><img src="/assets/img/blog/embedded-iframe.png" style="width=100%;max-width:300px;height:auto;" alt="An embedded IFrame is displayed in the draw.io lightbox">
 
-Related
+## Related
 * [Use diagrams in Google Docs](/blog/diagrams-google-docs.html)
 * [Embed a diagram into Google Sites](/doc/faq/embed-diagrams-google-sites.html)
 * [Embed diagrams from Google Drive into Confluence](/doc/faq/embed-diagram-googledrive-confluence-cloud.html)
 * [Embed diagrams from OneDrive into Confluence](/doc/faq/embed-diagram-onedrive-confluence-cloud.md.html)
 * [Embed a diagram as an SVG image](/doc/faq/embed-svg.html)
+* [Embed diagrams into Github pages](/blog/embed-diagrams-github-markdown.html)
