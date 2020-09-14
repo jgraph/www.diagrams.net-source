@@ -5,7 +5,7 @@ faq: true
 categories: [Plugins]
 ---
 
-Plugins extend the functionality of diagrams.net. These plugins may not be production quality as some are developmental code, and therefore should be used as-is.
+_These plugins should be used as-is, as unsupported examples for developers._
 
 Some of the more popular plugins include:
 * ``anon``: Scrambles all of the text and metadata in your diagram - it anonymises it.

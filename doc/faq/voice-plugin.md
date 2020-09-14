@@ -5,6 +5,8 @@ faq: true
 categories: [Plugins]
 ---
 
+_This plugin should be used as-is, as an unsupported example for developers._
+
 The voice plugin reports information about shapes and connectors, and reports the changes you make to the diagram (Google Chrome, Firefox and Safari). Using Google Chrome, you can also use voice input commands to add shapes and connectors to your diagram.
 
 This plugin uses [``ntc`` (Name that Color) by Chirag Mehta](http://chir.ag/projects/ntc), and requires the [Web Speech JavaScript API by the W3C Community Group](https://dvcs.w3.org/hg/speech-api/raw-file/tip/speechapi.html).
@@ -107,3 +109,5 @@ You will hear a short beep when the plugin starts and stops listening. The butto
 ## Troubleshooting
 
 If _Voice > Voice Type_ shows ``Loading...``, close the _Voice_ menu and reopen to update the voice types.
+
+**Note:** Plugins are not supported in draw.io for Confluence.

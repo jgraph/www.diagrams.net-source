@@ -5,6 +5,8 @@ faq: true
 categories: [Plugins, Confluence Cloud, Confluence Server]
 ---
 
+_This plugin should be used as-is, as an unsupported example for developers._
+
 The explore plugin allows you to step through your diagram from the point of view of a shape (or a node) in your diagram. When you explore from a shape, you can click on the paths away from and to that shape, without the distraction of the rest of your potentially complex diagram.
 
 This is useful for exploring complex organisation charts, mind maps, UML class diagrams, flow charts and more.
@@ -46,14 +48,4 @@ To allow someone to explore your diagram, when you publish a diagram to a URL (_
 
 <img src="/assets/img/blog/share-link-explore-plugin.png" style="width=100%;max-width:400px;height:auto;" alt="Share a link to your diagram and enable the explore plugin">
 
-## Use the explore plugin in Confluence
-
-As an administrator, you can customise the draw.io apps for Confluence so that they load plugins by default.
-
-**Confluence Server:** Download the [explore plugin file from Github](https://github.com/jgraph/drawio/tree/master/src/main/webapp/plugins), attach it to a page, and load it into the draw.io app configuration in your instance's administration.
-
-[See how to add a plugin to Confluence Server](/doc/faq/add-plugin-confluence-server.html)
-
-**Confluence Cloud:** As explore is one of the approved plugins for Confluence Cloud, you can edit the JSON configuration code to load the explore plugin by default.
-
-[See how to load plugins by default in draw.io for Confluence Cloud](/doc/faq/custom-plugins-confluence-cloud.html)
+**Note:** Plugins are not supported in draw.io for Confluence.

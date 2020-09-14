@@ -13,7 +13,7 @@ These aspects of diagrams.net are configurable in draw.io for Confluence Server/
 * Built-in libraries shown in the left panel
 * Custom libraries shown in the left panel
 * CSS for the editor appearance
-* Plugins to extend the diagram editor
+* Plugins to extend the diagram editor _(provided as-is, unsupported examples for developers)_
 * Width and height for entries in the left panel
 * XML for blank diagrams and libraries
 * Global variables
@@ -148,7 +148,7 @@ This configuration produces the following _More Shapes_ dialog when combined wit
 * ``plugins``: Defines an array of plugin URLs that should be loaded with the diagram editor. Plugins are JavaScript files that can modify the editor UI and behaviour. For example, to load the ``text.js`` plugin from a page attachment in Confluence, use the following configuration: ``{"plugins": ["/confluence/download/attachments/720900/text.js?api=v2"]}`` (6.5.4 and later.)
 <br />[Plugin sources can be found in the Github project repository](https://github.com/jgraph/drawio/tree/master/src/main/webapp/plugins). This option is ignored if the ``configure=1`` URL parameter is used to configure the editor. Use the short names for the plugins.
 <br />**Confluence Cloud:** use ``{"plugins": ["anon;text"]}``. This is equivalent to the ``p`` URL parameter and limits possible plugins to only [trusted diagrams.net plugins](/doc/faq/plugins.html).
-<br />**Note:** All plugins are only available for the diagrams.net editor, and not the viewer.
+<br />**Note:** All plugins are only available for the diagrams.net editor, and not the viewer. They are provided as-is, as unsupported examples for developers.
 
 * ``thumbWidth/thumbHeight``: Defines the width and height for the entries in the left panel (6.5.4 and later).
 

@@ -70,7 +70,8 @@ For detailed steps and examples, see the linked documentation for each feature y
 
 [**Make the draw.io editor UI match your Confluence colours:**](/doc/faq/custom-UI-confluence-cloud.html) If your users are disoriented by opening the draw.io editor when it is a different colour to your Confluence Cloud theme, you can set a new draw.io UI colour for the menu bar.
 
-[**Load plugins by default:**](/doc/faq/custom-plugins-confluence-cloud.html) If your employees regularly use one of the approved draw.io plugins, for example the anonymize plugin, you can add these plugins to the draw.io JSON configuration and load them by default.
+[**Load plugins by default:**](/doc/faq/custom-plugins-confluence-cloud.html) If your employees regularly use one of the draw.io plugins, for example the anonymize plugin, you can add these plugins to the draw.io JSON configuration and load them by default.
+<br />**Note:** that these plugins are provided as-is, as unsupported examples for developers.
 
 1. Open your Confluence Cloud settings.
 2. Go to the _draw.io Configuration_ in the _Atlassian Marketplace_ section on the left.

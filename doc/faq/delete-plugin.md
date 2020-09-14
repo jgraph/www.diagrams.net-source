@@ -5,7 +5,7 @@ faq: true
 categories: [Plugins]
 ---
 
-Plugins extend the functionality of diagrams.net. These plugins may not be production quality as some are developmental code, and therefore should be used as-is.
+_Plugins should be used as-is, as unsupported examples for developers._
 
 [See a list of all of the available plugins](/doc/faq/plugins.html)
 

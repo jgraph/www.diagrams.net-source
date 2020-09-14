@@ -5,6 +5,8 @@ faq: true
 categories: [Plugins, Confluence Cloud, Confluence Server]
 ---
 
+_This plugin should be used as-is, as an unsupported example for developers._
+
 The tags plugin allows you to display and hide elements of your diagram based on metadata, or tags. This can be useful for exploring complex diagrams, for example to indicate which code segments run on which system, or which department is responsible for which steps in a flow chart.
 
 [Learn more about plugins](/doc/faq/plugins.html)
@@ -66,23 +68,4 @@ If you want to use tags in your diagrams regularly, add the tags plugin to the p
 <br /><img src="/assets/img/blog/add-tags-plugin-apply.png" style="width=100%;max-width:200px;height:auto;" alt="Add the tags plugin">
 
 
-### Load the tags plugin on Confluence Server
-
-Administrators can add the tags plugin to draw.io in Confluence Server via the draw.io configuration.
-
-1. [Download the tags plugin from GitHub](https://github.com/jgraph/drawio/raw/master/src/main/webapp/plugins/tags.js) and attach it to a page in your instance.
-2. As an administrator, go to the _draw.io Configuration_ section, in the left-hand menu of your Confluence Settings. Click on the _Configuration_ tab.
-2. Add the plugins option to the JSON code in the UI configuration. Use the relative URL to the attachment you saved in step 1. For example: ``"plugins": [ "/download/attachments/55279729/tags.js" ]``
-<br /><img src="/assets/img/blog/tags-plugin-confluence-server.png" style="max-width:100%;height:auto;" alt="Add the tags plugin to draw.io in Confluence Server">
-3. Click _Save Changes_.
-
-### Load the tags plugin on Confluence Cloud
-
-To ensure security, you are limited to the official plugins in draw.io for Confluence Cloud. Instead of attaching the JavaScript file to a page, an administrator can add the plugin ID, ``tags``, to the JSON configuration code.
-
-1. Go to the _draw.io Configuration_ tab in the _draw.io Configuration_ section of your Confluence Cloud settings.
-2. As an administrator, add ``{ "plugins": ["tags"] }`` to the JSON code.
-<br /><img src="/assets/img/blog/tags-plugin-confluence-cloud.png" style="max-width:100%;height:auto;" alt="Add the tags plugin to draw.io in Confluence Cloud">
-3. Click _Save_.
-
-[Learn more about loading plugins in Confluence Cloud](/doc/faq/custom-plugins-confluence-cloud.html)
+**Note:** Plugins are not supported in draw.io for Confluence.

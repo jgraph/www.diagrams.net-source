@@ -5,6 +5,8 @@ faq: true
 categories: [Plugins, Confluence Cloud, Confluence Server]
 ---
 
+_This plugin should be used as-is, as an unsupported example for developers._
+
 If you need to remove confidential, sensitive or identifying information before sharing your diagrams, use the anonymize plugin. This plugin will scramble all of the text and metadata in your diagram.
 
 [More information about diagrams.net plugins](/doc/faq/plugins.html)
@@ -41,14 +43,4 @@ If you need to anonymise diagrams regularly, add the anonymize plugin to the plu
 
 Reload your browser tab to load the plugin into the diagram editor.
 
-## Use the anonymize plugin in Confluence
-
-As an administrator, you can customise the draw.io apps for Confluence so that they load plugins by default.
-
-**Confluence Server:** Download the [anonymize plugin file from Github](https://github.com/jgraph/drawio/tree/master/src/main/webapp/plugins), attach it to a page, and load it into the draw.io app configuration in your instance's administration.
-
-[See how to add a plugin to Confluence Server](/doc/faq/add-plugin-confluence-server.html)
-
-**Confluence Cloud:** As anonymize is one of the approved plugins for Confluence Cloud, you can edit the JSON configuration code to load the explore plugin by default.
-
-[See how to load plugins by default in draw.io for Confluence Cloud](/doc/faq/custom-plugins-confluence-cloud.html)
+**Note:** Plugins are not supported in draw.io for Confluence.

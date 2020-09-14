@@ -5,6 +5,8 @@ faq: true
 categories: [Features,Plugins]
 ---
 
+_This plugin should be used as-is, as an unsupported example for developers._
+
 Insert SQL code  using the SQL plugin to automatically generate entity shapes, including their attributes, as well as their primary and foreign keys. To complete your entity relationship diagram, connect the entities together and set the connector 'arrows' to describe their relationships.
 
 <img src="/assets/img/blog/sql-plugin-insert.gif" style="width=100%;max-width:500px;height:auto;" alt="Insert SQL code to create your ER diagram automatically using the SQL plugin at diagrams.net">
@@ -41,3 +43,5 @@ If you want to always use the sql plugin, add it to the plugins list so it will 
 <br /><img src="/assets/img/blog/add-sql-plugin-apply.png" style="width=100%;max-width:200px;height:auto;" alt="Add the SQL plugin">
 
 Reload your browser tab to load the plugin into the diagram editor.
+
+**Note:** Plugins are not supported in draw.io for Confluence.

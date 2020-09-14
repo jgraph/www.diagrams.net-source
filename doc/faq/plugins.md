@@ -4,9 +4,10 @@ layout: page
 faq: true
 categories: [Plugins]
 ---
-There are a number of built-in plugins that can be added to diagrams.net, either added as a one-off or loaded every time you use diagrams.net with that browser.
 
-**Note:** Plugins are not part of the core functionality of diagrams.net, they are intended as examples for developers to create additional functionality. Plugins that we write are not always production quality and should be used as-is.
+_Plugins should be used as-is, as unsupported examples for developers._
+
+There are a number of built-in plugins that can be added to diagrams.net, either added as a one-off or loaded every time you use diagrams.net with that browser.
 
 To load a plugin, use the ``p=xxxx`` URL parameter, separating multiple plugin IDs with a semicolon. This does not permanently load the plugin, so the next time you create a diagram it won't be available.
 
@@ -17,6 +18,8 @@ For example:
 To [permanently add plugins](/doc/faq/add-plugin.html), select a plugin from the list of built-in plugins via the _Add Plugin_ dialog, click _OK_ and then _Apply_ to save your changes. Make sure you reload diagrams.net in your browser tab after you permanently add or remove a plugin.
 
 <img src="/assets/img/blog/add-explore-plugin.png" style="width=100%;max-width:200px;height:auto;" alt="Add the explore plugin">
+
+**Note:** Plugins are not part of the core functionality of diagrams.net, they are intended as examples for developers to create additional functionality.
 
 The following plugins are available from the [diagrams.net Github repository](https://github.com/jgraph/drawio/tree/master/src/main/webapp/plugins).
 
@@ -39,3 +42,5 @@ The following plugins are available from the [diagrams.net Github repository](ht
 | tickets.js | [tickets](https://app.diagrams.net/?splash=0&p=tickets) | Adds _Extras > Update Tickets_ to drop Freshdesk tickets into diagrams ([example](https://jgraph.github.io/drawio-tools/tools/tickets.html)) |
 | flow.js | [flow](https://app.diagrams.net/?splash=0&p=flow) | Adds _Toggle Flow_ to the context menu, and a connector click handler to the lightbox |
 | tags.js | [tags](https://app.diagrams.net/?splash=0&p=tags)	 | Adds _Extras > Tag Cloud_ for visual tag filtering and assignment ([how to use](/doc/faq/tags-plugin.html)) |
+
+**Note:** Plugins are not supported in draw.io for Confluence.

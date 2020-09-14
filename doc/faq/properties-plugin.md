@@ -5,6 +5,8 @@ faq: true
 categories: [Plugins, Confluence Cloud, Confluence Server]
 ---
 
+_This plugin should be used as-is, as an unsupported example for developers._
+
 The properties plugin allows you to add extra information or instructions in the metadata of shapes and connectors. Instead of seeing this metadata only when hovering over a shape in your diagram, select the shape to display these properties persistently in the top left, both in the editor and the lightbox.
 
 You will also more clearly see which shape is selected as it has a bright green border.
@@ -57,14 +59,4 @@ To allow someone to explore your diagram, when you publish a diagram to a URL (_
 
 <img src="/assets/img/blog/publish-link-properties-plugin.png" style="width=100%;max-width:400px;height:auto;" alt="Share a link to your diagram and enable the properties plugin">
 
-## Use the properties plugin in Confluence
-
-As an administrator, you can customise the draw.io apps for Confluence so that they load plugins by default.
-
-**Confluence Server:** Download the [properties plugin file from Github](https://github.com/jgraph/drawio/tree/master/src/main/webapp/plugins), attach it to a page, and load it into the draw.io app configuration in your instance's administration.
-
-[See how to add a plugin to Confluence Server](/doc/faq/add-plugin-confluence-server.html)
-
-**Confluence Cloud:** As this is one of the approved plugins for Confluence Cloud, you can edit the JSON configuration code to load the properties plugin by default.
-
-[See how to load plugins by default in draw.io for Confluence Cloud](/doc/faq/custom-plugins-confluence-cloud.html)
+**Note:** Plugins are not supported in draw.io for Confluence.

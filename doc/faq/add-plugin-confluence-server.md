@@ -5,6 +5,8 @@ faq: true
 categories: [Confluence Server, Plugins]
 ---
 
+_These plugins should be used as-is, as unsupported examples for developers._
+
 An administrator can configure draw.io for Confluence Server to load one or more plugins by default. Then, whenever someone edits a diagram in that instance, they can use the plugin via the draw.io editor menu.
 
 _The plugin JavaScript files must be added as an attachment to a page in your instance._
@@ -14,8 +16,6 @@ Some of the more popular plugins include:
 * ``svgdata``: Adds metadata and IDs to the diagram when you export it to an SVG file.
 * ``sql``: Lets you insert SQL to automatically create a database diagram.
 * ``text``: Extracts all of the text in your diagram.
-
-These plugins may not be production quality as some are developmental code, and therefore should be used as-is.
 
 [See the full list of diagrams.net plugins available in Confluence Cloud](/doc/faq/plugins.html)
 
