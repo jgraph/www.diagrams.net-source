@@ -10,7 +10,7 @@ categories: [features]
 
 Confluence allows you to collaboratively edit the content of its pages: You and other Confluence users will see each others' changes in real-time as you edit the page.
 
-draw.io for Confluence Cloud now supports collaborative editing. Multiple users can edit a diagram at the same time and see all of the changes that everyone makes.
+diagrams.net already supports collaborative editing online when storing in Google Drive or OneDrive, draw.io for Confluence Cloud now supports collaborative editing. Multiple users can edit a diagram at the same time and see all of the changes that everyone makes.
 
 This is ideal for remote teams who need to brainstorm on mindmaps or vote on agile boards - team members can now all edit the same diagram and see what edits are made.
 
