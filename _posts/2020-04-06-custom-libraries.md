@@ -25,7 +25,7 @@ You can [add custom libraries to the draw.io for Confluence app](/doc/faq/custom
 
 ## Load a custom library via a URL
 
-You can load a custom library hosted somewhere on the web by using a URL parameter when opening the diagrams.net editor. Add the ``clibs`` parameter and the address of the custom library with URL encoded characters.
+You can load a custom library hosted somewhere on the web by using a [URL parameter](/doc/faq/supported-url-parameters.html) when opening the diagrams.net editor. Add the ``clibs`` parameter and the address of the custom library with URL encoded characters.
 
 For example, to open the [templates.xml custom shape library](https://github.com/jgraph/drawio-libs/blob/master/libs/templates.xml), hosted on our GitHub, you would use the following URL:
 
@@ -60,11 +60,9 @@ You can select multiple shapes or a group of shapes and drag these into your cus
 
 ### Edit and remove shapes
 
-To remove shapes from your library, click the pencil icon to edit the library, then click the cross in the upper right of the shape you want to remove.
-
-Rename shapes by clicking on their name and entering a new one.
-
-Click _Save_ to save your changes.
+1. To remove shapes from your library, click the pencil icon to edit the library, then click the cross in the upper right of the shape you want to remove.
+2. Rename shapes by clicking on their name and entering a new one.
+3. Click _Save_ to save your changes.
 
 <img src="/assets/img/blog/edit-custom-library.png" style="width=100%;max-width:400px;height:auto;" alt="Editing shape names in your custom library">
 

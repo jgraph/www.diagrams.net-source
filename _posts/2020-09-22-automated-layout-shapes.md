@@ -33,7 +33,7 @@ You can also clone and connect shapes within the layout container shapes by clic
    * Click on the left or right arrow of a shape will add another child shape at that level and automatically connect it to the parent shape.
    * Click on the down arrow to add a child shape underneath.
 
-<img src="/assets/img/blog/automatic-layout-tree.gif" style="width=100%;max-width:500px;height:auto;" alt="Hold down alt as you click on shapes in the shape library to add and connect them inside a automatic flow layout shape">
+<img src="/assets/img/blog/automatic-layout-tree.gif" style="width=100%;max-width:500px;height:auto;" alt="Click on the directional arrows that appear when you hover over a shape to clone and connect a new shape inside of a container layout shape">
 
 **Note:** When you click on a directional arrow to clone a shape, it copies both the text and the formatting. Double click on any shape and start typing to change its label text, and restyle it using the _Style_ tab in the format panel on the right.
 
@@ -45,4 +45,4 @@ Mind maps are a little different in that they have specific shapes for subtopics
 2. Hover over the parent shape, and drop it on one of the directional arrows.
 3. If you want to add extra subtopics or branches _at that level_ in your mind map, hover over the sibling shape and click on a directional arrow to clone it.
 
-<img src="/assets/img/blog/automatic-layout-mindmap.gif" style="max-width:100%;height:auto;" alt="Hold down alt as you click on shapes in the shape library to add and connect them inside a automatic flow layout shape">
+<img src="/assets/img/blog/automatic-layout-mindmap.gif" style="max-width:100%;height:auto;" alt="Drag and drop shapes onto a directional arrow of a shape inside a container layout shape to connect the new shape and resize the container">
