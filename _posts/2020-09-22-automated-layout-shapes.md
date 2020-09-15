@@ -2,7 +2,7 @@
 layout: post
 author: diagrams.net
 slug: automated-layout-shapes
-date: 2020-09-14 09:54:00
+date: 2020-09-22 09:54:00
 title: Automatic layout shapes for flow charts, tree diagrams and mind maps
 tags: [features, shapes]
 categories: [features]

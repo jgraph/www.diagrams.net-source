@@ -2,7 +2,7 @@
 layout: post
 author: diagrams.net
 slug: collaborative-editing-confluence-cloud
-date: 2300-09-07 09:54:00
+date: 2020-09-15 07:54:00
 title: Collaborative editing in draw.io for Confluence Cloud
 tags: [features, Atlassian]
 categories: [features]
