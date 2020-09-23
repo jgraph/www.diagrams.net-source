@@ -1,5 +1,5 @@
 ---
-title: Learn why text in exported SVG images may not display correctly
+title: Why text in exported SVG images may not display correctly
 layout: page
 faq: true
 categories: [Export]
