@@ -42,6 +42,6 @@ Enable external image generation by enabling a setting in the Confluence adminis
 
 ## Privacy: image generation server
 
-The external image servers are entirely controlled by draw.io (diagrams.net) and located in secure US data centres. When generating images the image data is sent securely to the server, the image generated and returned, and the data deleted entirely from the server (including any diagram data in logs).
+The external image servers are entirely controlled by JGraph and located in secure US data centres. When generating images the image data is sent securely to the server, the image generated and returned, and the data deleted entirely from the server (including any diagram data in logs).
 
 No diagram data is retained or transmitted from the servers. Nobody except for 2 senior JGraph engineers, with specific security training, have access to the servers and they are not permitted to move any user data off of those servers.
