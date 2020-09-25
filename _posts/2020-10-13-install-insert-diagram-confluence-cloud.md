@@ -2,7 +2,7 @@
 layout: post
 author: diagrams.net
 slug: embed-diagrams-confluence-cloud
-date: 2020-10-13 09:54:00
+date: 2020-10-06 09:54:00
 title: How to install and insert a diagram in Confluence Cloud
 tags: [features, Atlassian]
 categories: [features]
