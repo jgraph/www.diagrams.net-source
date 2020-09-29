@@ -2,7 +2,7 @@
 title: Install diagrams.net for G Suite domain-wide
 layout: page
 faq: true
-categories: [Integrations]
+categories: [Integrations,Google]
 ---
 
 As a G Suite administrator, you can install and approve the diagrams.net add-ons for G Suite on behalf of all users on a domain.

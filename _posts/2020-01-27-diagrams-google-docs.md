@@ -13,11 +13,11 @@ The free [diagrams.net add-on for Google Docs](https://gsuite.google.com/u/0/mar
 ## Install the diagrams.net Google Docs add-on
 
 1. Open a document, or create a new document. Click _Add-ons > Get Add-ons_.
-2. Search for diagrams and click on [_draw.io Diagrams for Docs_](https://gsuite.google.com/u/0/marketplace/app/drawio_diagrams_for_docs/224440279306?hl=en&pann=docs_addon_widget).
-<br /><img src="/assets/img/blog/diagrams-docs-google-marketplace.png" style="width=100%;max-width:400px;height:auto;" alt="Install the diagrams for Docs add-on from the Google Marketplace">
-3. Follow the prompts to grant diagrams.net permission to access your Google Documents and files on Google Drive.
+2. Search for diagrams and click on [_diagrams.net for Docs_](https://gsuite.google.com/u/0/marketplace/app/drawio_diagrams_for_docs/224440279306?hl=en&pann=docs_addon_widget).
+<br /><img src="/assets/img/blog/diagrams-docs-google-marketplace.png" style="width=100%;max-width:400px;height:auto;" alt="Install the diagrams.net for Docs add-on from the Google Marketplace">
+3. Follow the prompts to grant diagrams.net (draw.io) permission to access your Google Documents and files on Google Drive.
 <br /><img src="/assets/img/blog/diagrams-docs-grant-permission.png" style="width=100%;max-width:200px;height:auto;" alt="Grant permission for diagrams.net to access your Google Drive files and Google Docs">
-4. Once the diagrams.net add-on has been successfully installed, you can start using it via the _Add-ons > draw.io Diagrams for Docs_ submenu.
+4. Once the diagrams.net add-on has been successfully installed, you can start using it via the _Add-ons > diagrams.net for Docs_ submenu.
 
 Note that your diagram data is only ever stored in your browser and on your Google Drive account.
 * [See why diagrams.net needs permission for these scopes](/doc/faq/gsuite-permissions.html)
@@ -31,8 +31,8 @@ You don't need to export an image from your diagram to paste into the Google Doc
 
 ### Embed a diagram in a Google doc
 
-1. Click _Add-ons > draw.io Diagrams for Docs > New Diagram_ to create a new diagram, which is saved to your Google Drive. You may need to [grant additional permissions to diagrams.net to use your Google Drive account](/doc/faq/gsuite-permissions.html).
-2. When you want to embed an existing diagram, including a new diagram you have created and saved to your Google Drive, click _Add-ons > draw.io Diagrams for Docs > Insert Diagrams_. Select multiple diagrams by holding down ``Shift`` when you click on each diagram file.
+1. Click _Add-ons > diagrams.net for Docs > New Diagram_ to create a new diagram, which is saved to your Google Drive. You may need to [grant additional permissions to diagrams.net to use your Google Drive account](/doc/faq/gsuite-permissions.html).
+2. When you want to embed an existing diagram, including a new diagram you have created and saved to your Google Drive, click _Add-ons > diagrams.net for Docs > Insert Diagrams_. Select multiple diagrams by holding down ``Shift`` when you click on each diagram file.
 3. Navigate to your diagram file, select it, then click _Select_.
 <br /><img src="/assets/img/blog/addon-google-select-diagram.png" style="width=100%;max-width:400px;height:auto;" alt="Select your diagram file from Google Drive to insert into your document">
 4. Select which page you want to display, if your diagram has multiple pages, then click _Insert_.
@@ -65,6 +65,6 @@ You don't need to export an image from your diagram to paste into the Google Doc
 Your diagram is displayed as an image inside your Google Document. If you make changes to the diagram file stored in your Google Drive, you'll need to regenerate the images to see those changes inside your document.
 
 1. Select the diagram inside your Google Document.
-2. Click _Add-ons > draw.io Diagrams for Docs > Update Selected_.
+2. Click _Add-ons > diagrams.net for Docs > Update Selected_.
 
-If you want to update all of the diagrams, click _Add-ons > draw.io Diagrams for Docs > Update All_.
+If you want to update all of the diagrams, click _Add-ons > diagrams.net for Docs > Update All_.

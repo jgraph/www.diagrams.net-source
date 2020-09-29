@@ -2,7 +2,7 @@
 title: Revoke access to Google Drive
 layout: page
 faq: true
-categories: [Integrations]
+categories: [Integrations,Google]
 ---
 
 You can remove the access rights that the diagrams.net add-ons or the diagrams.net online application have to your Google Drive at any time.

@@ -2,7 +2,7 @@
 title: Import a diagram into Google Drive
 layout: page
 faq: true
-categories: [Integrations,Import]
+categories: [Integrations,Import,Google]
 ---
 
 You can import a diagram into Google Drive in one of two ways.

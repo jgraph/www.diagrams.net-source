@@ -2,7 +2,7 @@
 title: Publicly publish a diagram stored in Google Drive
 layout: page
 faq: true
-categories: [Integrations]
+categories: [Integrations,Google]
 ---
 
 1. While editing your diagram in diagrams.net, select _File > Publish > Link_ from the menu.

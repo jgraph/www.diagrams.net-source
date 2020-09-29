@@ -24,7 +24,7 @@ If you don't want diagrams.net to merge changes automatically when working onlin
 1. Click on the synchronize tool (_Online_) in the toolbar above the format panel to turn it off.
 <br /><img src="/assets/img/blog/synchronize-enabled.png" style="width=100%;max-width:200px;height:auto;" alt="Click on the synchronize tool (Online) to disable it">
 2. Click on it again (_Disconnected_) to turn it back on.
-<br /><img src="/assets/img/blog/synchronize-enabled.png" style="width=100%;max-width:200px;height:auto;" alt="Click on the synchronize tool (Disconnected) to re-enable it">
+<br /><img src="/assets/img/blog/synchronize-disabled.png" style="width=100%;max-width:200px;height:auto;" alt="Click on the synchronize tool (Disconnected) to re-enable it">
 
 ## How the synchronize tool works
 

@@ -2,7 +2,7 @@
 title: Work with revisions of diagrams stored in Google Drive
 layout: page
 faq: true
-categories: [Integrations,Features]
+categories: [Integrations,Features,Google]
 ---
 
 When you store your diagrams in Google Drive, diagrams.net automatically saves changes to a revision history.

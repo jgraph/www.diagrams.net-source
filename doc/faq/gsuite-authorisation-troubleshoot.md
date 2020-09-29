@@ -2,7 +2,7 @@
 title: Troubleshoot authorisation problems with Google G Suite
 layout: page
 faq: true
-categories: [Integrations]
+categories: [Integrations,Google]
 ---
 
 If you are having trouble with your personal Google Drive account, see how to [fix connection issues with Google Drive](/doc/faq/google-drive-connection-problems.html), and make sure you have granted diagrams.net the [permissions needed to work with diagrams in G Suite](/doc/faq/gsuite-permissions.html).

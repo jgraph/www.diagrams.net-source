@@ -2,7 +2,7 @@
 title: Fix connection issues with Google Drive
 layout: page
 faq: true
-categories: [Integrations]
+categories: [Integrations,Google]
 ---
 
 If your login attempts fail or Google Drive is not available, you may see an error message along the lines of ``Log in attempts failed. Please try again later``. Follow the troubleshooting steps below.

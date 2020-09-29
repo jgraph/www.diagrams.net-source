@@ -2,7 +2,7 @@
 title: Use diagrams in Google Docs
 layout: page
 faq: true
-categories: [Integrations]
+categories: [Integrations,Google]
 ---
 
 Use the free [diagrams.net add-on for Google Docs](https://gsuite.google.com/u/0/marketplace/app/drawio_diagrams_for_docs/224440279306?hl=en&pann=docs_addon_widget) to embed your diagrams into your documents. When you make changes to your diagram, you need to update them inside your document to see the changes.

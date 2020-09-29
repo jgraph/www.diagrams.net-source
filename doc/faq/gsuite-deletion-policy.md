@@ -1,8 +1,8 @@
 ---
-title: Diagrams.net for G Suite Deletion Policy
+title: Diagrams.net for G Suite deletion policy
 layout: page
 faq: true
-categories: [GSuite, Policy]
+categories: [GSuite, Policy,Google]
 ---
 
 The diagrams.net application for G Suite stores all information in Google Drive. No data is deleted or altered if the application is removed.
