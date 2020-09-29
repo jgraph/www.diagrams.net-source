@@ -5,9 +5,9 @@ faq: true
 categories: [Integrations]
 ---
 
-You can remove the access rights that the draw.io add-on or the diagrams.net online application has to your Google Drive at any time.
+You can remove the access rights that the diagrams.net add-ons or the diagrams.net online application have to your Google Drive at any time.
 
-**Note:** If your G Suite administrator installed the draw.io add-on domain-wide, they will have to uninstall it domain-wide to remove access for all users.
+**Note:** If your G Suite administrator has installed the diagrams.net (draw.io) add-on domain-wide, they will have to uninstall it domain-wide to remove access for all users.
 
 ## Disconnect diagrams.net from Google Drive
 
