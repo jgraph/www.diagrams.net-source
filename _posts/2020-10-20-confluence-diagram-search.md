@@ -2,7 +2,7 @@
 layout: post
 author: diagrams.net
 slug: confluence-diagram-search
-date: 2020-09-29 09:10:00
+date: 2020-10-20 09:10:00
 title: Search for diagrams in Confluence Cloud and Server
 tags: [features, Atlassian]
 categories: [features]
