@@ -40,6 +40,6 @@ Taking the top selling Confluence app, Gliffy, let's see how the price changes a
 | 2,000        | 6,566          | 23,750       | 3,775         |
 | 10,000       | 9,430          | 95,750       | 15,775        |
 
-In fact, up to 4k users, you will save money on your Gliffy Server renewal using draw.io on Confluence Cloud. At 10k user you will pay 67% more for draw.io on Cloud compared to Gliffy on Server. If you have 10k users switching to cloud and keep Gliffy, you pay over ten times (x10) the price.
+In fact, up to 4k users, you will save money on your Gliffy Server renewal using draw.io on Confluence Cloud. At 10k users you will pay 67% more for draw.io on Cloud compared to Gliffy on Server. If you have 10k users switching to cloud and keep Gliffy, you pay over ten times (x10) the price.
 
 There is a rich ecosystem of apps in the Atlassian ecosystem and it's worth evaluating alternatives when migrating from Confluence Server to Cloud. Some apps, like draw.io with its [one-click Gliffy mass importer](https://desk.draw.io/support/solutions/articles/16000064013-mass-import-gliffy-diagrams-to-draw-io-in-confluence-server), make it easy to make the switch whilst saving you money. And that's saving every year after that.
