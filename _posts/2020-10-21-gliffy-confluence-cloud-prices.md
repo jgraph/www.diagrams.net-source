@@ -14,7 +14,7 @@ Users able to move to cloud have shown overall cost saving due to reduced mainte
 
 At smaller tiers Confluence Cloud is the clear winner, at higher tiers the cost outlay is greater (excluding the benefits). You can see a comparsion between Confluence Server and Confluence Cloud at various tiers below (pricing as per Feburary 2021 price list, annual renewal in USD):
 
-| Users        | Conf Server  | Conf Cloud |
+| --Users--        | --Conf Server--  | --Conf Cloud-- |
 |----|---:|---:|
 | 10           | 1,300        | Free       |
 | 25           | 1,300        | 1,250      |
@@ -29,7 +29,7 @@ Under 500 users the cost is largely the same. But that isn't the whole picture, 
 
 Taking the top selling Confluence app, Gliffy, let's see how the price changes as you move to cloud and compare it to draw.io on cloud:
 
-| Users        | Gliffy Server  | Gliffy Cloud | draw.io Cloud |
+| --Users--        | --Gliffy Server--  | --Gliffy Cloud-- | --draw.io Cloud-- |
 |----|---:|---:|---:|
 | 10           | 5              | 100          | 55            |
 | 25           | 301            | 950          | 137.50        |
