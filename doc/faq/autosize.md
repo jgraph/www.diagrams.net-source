@@ -1,5 +1,5 @@
 ---
-title: Autosize shapes to fit their text labels exacly
+title: Autosize shapes to fit their text labels exactly
 layout: page
 faq: true
 categories: [Features,Shapes,Text]
