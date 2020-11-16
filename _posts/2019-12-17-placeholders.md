@@ -54,6 +54,8 @@ To display the value of a shape's property in a label, write the property name s
 2. Edit the text label of the shape to include the property name surrounded by % signs.
 <br /><img src="/assets/img/blog/placeholder-example-label.png" style="max-width:100%;height:auto;" alt="Add a placeholder to a shape label, for example %group%">
 
+There are a number of [predefined placeholders](/doc/faq/predefined-placeholders.html) where you can add the date and time in a variety of time formats, page number or title, and more to labels and tooltips.
+
 **Troubleshooting tips**
 
 If the property name does not exist for that shape, the value of the matching property name of the nearest ancestor (container shape or group) is used. If not found, the text is printed as is.

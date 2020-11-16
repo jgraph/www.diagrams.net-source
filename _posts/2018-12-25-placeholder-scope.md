@@ -12,9 +12,11 @@ You can define custom properties for the shapes and connectors in your diagrams.
 
 Placeholders are like variables - they can reference a shape's property and replace text in a label or tooltip with the value of the named property.
 
-[See how to add shape properties and use placeholders in labels and tooltips](/blog/drawio-placeholders.html)
+[See how to add shape properties and use placeholders in labels and tooltips](/blog/placeholders.html)
 
 Placeholders display the value of the nearest matching property - either defined in the shape itself, or its nearest ancestor, for example container shapes or multi-group structures.
+
+There are a number of [predefined placeholders](/doc/faq/predefined-placeholders.html) where you can add the date and time in a variety of time formats, page number or title, and more to labels and tooltips.
 
 ## How to turn a shape into a container
 
