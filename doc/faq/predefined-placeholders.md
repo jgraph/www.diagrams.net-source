@@ -21,22 +21,21 @@ In addition to using property names as placeholders, you can use the following p
 | ``%time%`` | Prints the current time using the system locale. |
 | ``%timestamp%`` | Prints a timestamp using the system locale. |
 | ``%date{format}%`` &nbsp;&nbsp; | Prints a timestamp using a custom format, details below. |
-| ``%pagenumber%`` | Prints the pagenumber of the current page. |
+| ``%pagenumber%`` | Prints the page number of the current page. |
 | ``%pagecount%`` |  Prints the total number of pages. |
 | ``%page%`` | Prints the title of the current page. |
 | ``%filename%`` | Prints the name of the file. |
 
 **Notes:**
 
-To print some text between ``%`` characters without the text being replaced, use two ``%`` characters. For example, ``%%name%`` prints ``%name%`` even if a property called ``name`` exists.
-
-If a shape and its ancestor have a property with the same name, the value of the child shape's property is used (this overrides the ancestor property). Likewise, if multiple ancestors have a common property, the value of the closest ancestor's property is used. In this way, [placeholder labels respect scope](/blog/placeholder-scope.html)
+* To print some text between ``%`` characters without the text being replaced, use two ``%`` characters. For example, ``%%name%`` prints ``%name%`` even if a property called ``name`` exists.
+* If a shape and its ancestor have a property with the same name, the value of the child shape's property is used (this overrides the ancestor property). Likewise, if multiple ancestors have a common property, the value of the closest ancestor's property is used. In this way, [placeholder labels respect scope](/blog/placeholder-scope.html).
 
 ## Custom timestamp formats
 
 The following custom formats for timestamps are defined (e.g. ``%date{dddd, mmmm d, yyyy}%``)
 
-| Mask | Description |
+| Timestamp format | Description |
 |:-----|:------------|
 | ``d`` | Day of the month as digits; no leading zero for single-digit days. |
 | ``dd`` | Day of the month as digits; leading zero for single-digit days. |
@@ -52,8 +51,8 @@ The following custom formats for timestamps are defined (e.g. ``%date{dddd, mmmm
 | ``hh`` | Hours; leading zero for single-digit hours (12-hour clock). |
 | ``H`` | Hours; no leading zero for single-digit hours (24-hour clock). |
 | ``HH`` | Hours; leading zero for single-digit hours (24-hour clock). |
-| ``M`` | Minutes; no leading zero for single-digit minutes. <br>Uppercase ``M`` unlike CFtimeFormat's ``m`` to avoid conflict with months. |
-| ``MM`` | Minutes; leading zero for single-digit minutes. <br>Uppercase ``MM`` unlike CFtimeFormat's ``mm`` to avoid conflict with months. |
+| ``M`` | Minutes; no leading zero for single-digit minutes. <br>Uppercase ``M`` unlike CF timeFormat's ``m`` to avoid conflict with months. |
+| ``MM`` | Minutes; leading zero for single-digit minutes. <br>Uppercase ``MM`` unlike CF timeFormat's ``mm`` to avoid conflict with months. |
 | ``s`` | Seconds; no leading zero for single-digit seconds. |
 | ``ss`` | Seconds; leading zero for single-digit seconds. |
 | ``l`` _or_ ``L`` | Milliseconds. ``l`` prints 3 digits. ``L`` prints 2 digits. |
@@ -65,7 +64,7 @@ The following custom formats for timestamps are defined (e.g. ``%date{dddd, mmmm
 | ``o`` | GMT/UTC timezone offset, e.g. ``-0500`` or ``+0230``. Note: No equivalent in CF. |
 | ``S`` | The date's ordinal suffix (``st``, ``nd``, ``rd``, or ``th``). Works well with ``d``. <br>No equivalent in CF. |
 | ``'…'`` _or_ ``"…"`` | Literal character sequence. The surrounding quotes are removed. <br>No equivalent in CF. |
-| ``UTC:`` | Must be the first four characters of the timestamp mask. Converts the date from local time to UTC/GMT/Zulu time before applying the mask. <br>The ``"UTC:"`` prefix is removed. <br>No equivalent in CF. |
+| ``UTC:`` | Must be the first four characters of the timestamp mask. Converts the date from local time to UTC/GMT/Zulu time before applying the time format. <br>The ``"UTC:"`` prefix is removed. <br>No equivalent in CF. |
 
 <br>
 ### Predefined timestamp formats

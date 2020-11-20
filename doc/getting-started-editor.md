@@ -63,7 +63,7 @@ In order from left to right:
 * **Delete** _(trash)_ - Delete the selected shapes.
 * **To Front/To Back** _(layered shapes)_ - Move the selected shapes to the front or back of your diagram, arranging them over or under those that aren't selected.
 * **Fill Color** _(paint can)_ - Change the fill colour of the selected shapes.
-* **Line Color** _(pen and line)_ - Chane the colour of the selected shapes' outline or connector.
+* **Line Color** _(pen and line)_ - Change the colour of the selected shapes' outline or connector.
 * **Shadow** _(box with a shadow)_ - Enable or disable a shadow on the selected shapes.
 * **Connection** _(arrow)_ - Select a connector style from the drop down list and apply it to the selected connectors.
 * **Waypoints** _(line with two connection points)_ - Select a routing style to change how the selected connectors bend on the drawing canvas.
@@ -123,6 +123,9 @@ There are so many shapes organised into so many libraries, that they can be hard
 
 Draw your diagram by placing, connecting and styling shapes on the drawing canvas in the middle of the editor. The drawing canvas displays a grid by default to help you align and space shapes neatly.
 
+* **Pan the drawing canvas** with the scroll bars, or right-click/middle-click in an empty area on the drawing canvas and drag to move the canvas around. Use the mouse scroll wheel to move the canvas vertically.
+* **Zoom in and out** using the Zoom In/Zoom Out tools in the toolbar, or hold down ``Ctrl`` on Windows, or ``Cmd`` on macOS and use the scroll wheel to zoom into and out of the drawing canvas. This does not change the size of your diagram.
+
 **Tip:** Enable the rulers via the _View_ menu.
 
 <img src="/assets/img/blog/drawing-canvas.png" style="width=100%;max-width:400px;;height:auto;" alt="The drawing canvas of diagrams.net">
@@ -177,7 +180,7 @@ Change the position of shapes and connectors, send them to the front or the back
 
 Click _Edit Data_ to manually edit the selected shape's metadata, or _Edit Link_ to add a hyperlink.
 
-**Note:** The _Arrange_ tab shows fewer options when you select a connector (right) than when you select a shape (left)
+**Note:** The _Arrange_ tab shows fewer options when you select a connector (right) than when you select a shape (left).
 
 <img src="/assets/img/blog/arrange-tab-shape.png" style="width=100%;max-width:300px;;height:auto;" alt="Organise your shapes on the drawing canvas with the Arrange tab in the format panel in diagrams.net">  <img src="/assets/img/blog/arrange-tab-connector.png" style="width=100%;max-width:300px;;height:auto;" alt="Organise your connectors on the drawing canvas with the Arrange tab in the format panel in diagrams.net">
 
