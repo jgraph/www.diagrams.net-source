@@ -2,7 +2,7 @@
 title: Rename a draw.io diagram file in Confluence Server
 layout: page
 faq: true
-categories: [Confluence Server]
+categories: [Confluence Data Center and Server]
 ---
 
 Confluence doesn't easily allow you to rename attachments that are used within macros. You can manually rename the two attachment files and edit the source of the Confluence page with a free app.

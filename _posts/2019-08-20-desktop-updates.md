@@ -13,4 +13,4 @@ DESKTOP VERSIONS PRE 10.7.5 ARE STRONGLY RECOMMEND TO DOWNLOAD AND INSTALL A NEW
 
 Desktop versions prior to 10.7.5 have a critical security flaw, so we’re disabling them all, sorry. To resolve, just go to the diagrams.net desktop project on Github, [https://github.com/jgraph/drawio-desktop/releases](https://github.com/jgraph/drawio-desktop/releases), and download the latest version for your platform. Once that’s installed, you’re good to go again.
 
-Versions of desktop from 10.7.5 run completely isolated from the Internet, so the security hole can’t reappear.
+Versions of diagrams.net Desktop from 10.7.5 onwards run completely isolated from the internet, so the security hole can’t reappear.

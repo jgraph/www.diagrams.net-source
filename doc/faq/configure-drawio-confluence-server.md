@@ -2,7 +2,7 @@
 title: Configure server settings in draw.io for Confluence Server
 layout: page
 faq: true
-categories: [Confluence Server, Customisation]
+categories: [Confluence Data Center and Server, Customisation]
 ---
 
 You can configure a number of settings for the draw.io backend in Confluence Server. These settings are entered as a list of ``key=value`` pairs.

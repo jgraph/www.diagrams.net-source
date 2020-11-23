@@ -8,7 +8,7 @@ tags: [desktop, security]
 categories: [integrations, trust, features]
 ---
 
-[diagrams.net desktop](http://get.diagrams.net) is a downloadable application that runs on Windows, MacOS and Linux. Creating diagrams in the desktop app doesn't need an internet connection. This is useful when you are disconnected or when you must create diagrams in a highly secure environment, where [data protection](data-protection.html) is of the utmost importance.
+[diagrams.net desktop](http://get.diagrams.net) is a downloadable security-first diagramming application that runs on Windows, MacOS and Linux. Creating diagrams in the desktop app doesn't need an internet connection. This is useful when you are disconnected or when you must create diagrams in a highly secure environment, where [data protection](data-protection.html) is of the utmost importance.
 
 ## Storing your diagram files
 

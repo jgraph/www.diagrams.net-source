@@ -5,7 +5,7 @@ slug: confluence-diagram-search
 date: 2020-10-20 09:10:00
 title: Search for diagrams in Confluence Cloud and Server
 tags: [features, Atlassian]
-categories: [features]
+categories: [features,atlassian]
 ---
 
 You can use the built-in search features to look for draw.io diagrams in Confluence Cloud, as well as Confluence Server and Data Center. In the following examples, you can see a comparison of how Confluence finds draw.io and Gliffy diagrams.

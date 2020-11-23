@@ -2,7 +2,7 @@
 title: Install a specific version of draw.io in Confluence Server
 layout: page
 faq: true
-categories: [Confluence Server]
+categories: [Confluence Data Center and Server]
 ---
 
 As an administrator, you can install a specific version of draw.io from the Atlassian Marketplace in your Confluence Server instance.

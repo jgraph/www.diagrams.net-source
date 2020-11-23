@@ -5,7 +5,7 @@ slug: embed-diagrams-confluence-cloud
 date: 2020-10-14 09:54:00
 title: How to install and insert a diagram in Confluence Cloud
 tags: [features, Atlassian]
-categories: [features]
+categories: [features,atlassian]
 ---
 
 With the draw.io app for Confluence Cloud, you can add diagrams to Confluence Cloud pages and collaboratively edit them. You can reuse one diagam on multiple pages, embed diagrams from cloud storage platforms, and cut down on the time spent maintaining multiple copies of the same diagram.

@@ -2,7 +2,7 @@
 title: Save diagrams as separate PNG files in Jira Server
 layout: page
 faq: true
-categories: [Jira Server]
+categories: [Jira Data Center and Server]
 ---
 
 When you add a draw.io diagram to an issue on Jira Server, it can automatically generate a PNG image version of the diagram and attach it to the issue.

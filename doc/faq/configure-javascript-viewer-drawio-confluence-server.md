@@ -2,7 +2,7 @@
 title: Use a self-hosted JavaScript viewer in Confluence Server to export to HTML
 layout: page
 faq: true
-categories: [Confluence Server]
+categories: [Confluence Data Center and Server]
 ---
 
 When you export a diagram to HTML in draw.io for Confluence server, it uses JavaScript hosted on the diagrams.net servers to display the draw.io diagram(s).

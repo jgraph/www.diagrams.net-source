@@ -5,7 +5,7 @@ slug: move-diagrams-net
 date: 2020-02-26 09:54:00
 title: Open source diagramming is moving to diagrams.net, slowly
 tags: [news, Atlassian]
-categories: [news]
+categories: [news,atlassian]
 ---
 
 draw.io will slowly transition to become diagrams.net during 2020 for security reasons. Nothing will change for you, apart from seeing a different URL and logo. www.draw.io will continue to serve the application correctly, we won't even redirect you.

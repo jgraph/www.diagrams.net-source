@@ -2,7 +2,7 @@
 title: Manually add a draw.io license to Confluence Server
 layout: page
 faq: true
-categories: [Confluence Server]
+categories: [Confluence Data Center and Server]
 ---
 
 You can manually install your draw.io license key for Confluence Server by editing the license key in your instance's administration area.

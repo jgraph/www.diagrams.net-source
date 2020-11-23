@@ -2,7 +2,7 @@
 title: Insert large images into diagrams on Confluence Server
 layout: page
 faq: true
-categories: [Confluence Server]
+categories: [Confluence Data Center and Server]
 ---
 
 Huge images cannot be uploaded to or dropped into a diagram in draw.io for Confluence Server, and will display an error to the effect of _"Image too big"_. Instead, host very large image files outside of the diagram file,  and insert it from the page attachments.

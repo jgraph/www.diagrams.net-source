@@ -2,7 +2,7 @@
 title: Migrate from Confluence Cloud with draw.io to Confluence Server
 layout: page
 faq: true
-categories: [Confluence Server, Confluence Cloud]
+categories: [Confluence Data Center and Server, Confluence Cloud]
 ---
 
 You can migrate from Confluence Cloud with draw.io installed to Confluence Server.

@@ -5,10 +5,10 @@ slug: team-diagramming
 date: 2020-05-13 09:10:00
 title: Team diagramming in all departments
 tags: [features,Atlassian]
-categories: [use-cases,integrations]
+categories: [use-cases,integrations,atlassian]
 ---
 
-All teams have their own unique needs and particular workflows. Integrating useful collaboration tools seamlessly into that workflow is the key to your team's success.
+All teams have their own unique needs and particular workflows. Integrating useful collaboration tools seamlessly into that workflow is the key to your team's success. We offer security-first diagramming for teams working with Atlassian products.
 
 ## Integrate diagramming in your workflow
 

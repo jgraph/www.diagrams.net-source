@@ -2,7 +2,7 @@
 title: Enable additional debugging on draw.io for Confluence Server
 layout: page
 faq: true
-categories: [Confluence Server]
+categories: [Confluence Data Center and Server]
 ---
 
 1. As an administrator, click on the gear icon and select _General configuration_.

@@ -2,7 +2,7 @@
 title: Add a plugin to draw.io for Confluence Server
 layout: page
 faq: true
-categories: [Confluence Server, Plugins]
+categories: [Confluence Data Center and Server, Plugins]
 ---
 
 _These plugins should be used as-is, as unsupported examples for developers._

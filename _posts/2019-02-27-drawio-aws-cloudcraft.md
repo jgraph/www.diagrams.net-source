@@ -3,7 +3,7 @@ layout: post
 author: diagrams.net
 slug: drawio-aws-cloudcraft
 date: 2019-02-27 09:43:00
-title: Use Cloudcraft to export your AWS architecture to draw.io
+title: Use Cloudcraft to export your AWS architecture to a .drawio diagram
 tags: [AWS, integrations, infrastructure diagrams, network diagrams, shape libraries]
 categories: [integrations, use-cases]
 ---

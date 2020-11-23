@@ -2,7 +2,7 @@
 title: Create a draw.io support zip in Confluence Server
 layout: page
 faq: true
-categories: [Confluence Server]
+categories: [Confluence Data Center and Server]
 ---
 
 The more information you can provide when you request support, the more it allows us to help you. If you are having a problem with draw.io in Confluence server, or a diagram is not behaving as you think it should, please create a draw.io support zip.

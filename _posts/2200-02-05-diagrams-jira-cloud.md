@@ -5,7 +5,7 @@ slug: diagrams-jira
 date: 2200-02-07 09:54:00
 title: Using draw.io diagrams in Jira Cloud
 tags: [features, Atlassian]
-categories: [features]
+categories: [features,atlassian]
 ---
 
 Diagrams help visually plan, debug problems and explain solutions quickly and clearly. This is why it makes sense to be able to attach and display them in your Jira Cloud issues.

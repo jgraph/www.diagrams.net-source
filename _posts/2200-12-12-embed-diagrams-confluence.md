@@ -5,7 +5,7 @@ slug: embed-diagrams-confluence
 date: 2200-12-12 09:54:00
 title: Embed existing draw.io diagrams in Confluence pages
 tags: [features, Atlassian]
-categories: [features]
+categories: [features,atlassian]
 ---
 
 By linking to or embedding an existing draw.io diagram, you can display one diagram in a number of different locations in Confluence. Whenever you make changes to the master diagram, they are updated everywhere. This is much better than having multiple copies of a diagram in your Confluence instance, which are easy to get out of sync when changes are made.

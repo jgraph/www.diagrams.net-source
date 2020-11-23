@@ -5,7 +5,7 @@ slug: collaborative-editing-confluence-cloud
 date: 2020-09-15 07:54:00
 title: Collaborative editing in draw.io for Confluence Cloud
 tags: [features, Atlassian]
-categories: [features]
+categories: [features,atlassian]
 ---
 
 Confluence allows you to collaboratively edit the content of its pages: You and other Confluence users will see each others' changes in real-time as you edit the page.

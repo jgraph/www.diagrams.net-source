@@ -2,7 +2,7 @@
 title: Use external image generation in draw.io for Confluence Server and Data Center
 layout: page
 faq: true
-categories: [Confluence Server, Confluence Data Center]
+categories: [Confluence Data Center and Server, Confluence Data Center]
 ---
 
 External image generation is **not** enabled in draw.io for Confluence Server or Data Center by default. This may cause problems in certain rare situations.

@@ -4,7 +4,9 @@ layout: page
 categories: [features]
 ---
 
-diagrams.net is a free and open source diagramming app that you can use online, offline (desktop). There are many different [integrations with other platforms and applications](/integrations.html), including [Atlassian Confluence Cloud](/doc/drawio-confluence-cloud.html), Google Documents, Github, Microsoft Word.
+diagrams.net is a free and open source diagramming app that you can use online, offline (desktop).
+
+As a security-first diagramming app for teams, we provide the diagramming functionality, and you choose where to keep your diagram data. There are many different [integrations with other platforms and applications](/integrations.html), including [Atlassian Confluence Cloud](/doc/drawio-confluence-cloud.html), Google Documents, Github, Microsoft Word.
 
 The diagram editor looks the same and offers the same main features no matter where you are using it. You can open a diagram created in one integration in another.
 

@@ -66,3 +66,4 @@ By default, a text label will be positioned in the middle of a shape, or whereve
 * [Autosize shapes to fit their text labels exactly](/doc/faq/autosize.html)
 * [Add line breaks in labels](/doc/faq/line-breaks.html)
 * [Position connector labels manually](/doc/faq/position-labels.html)
+* [Rotate shape and container labels](/blog/rotate-shapes.html)

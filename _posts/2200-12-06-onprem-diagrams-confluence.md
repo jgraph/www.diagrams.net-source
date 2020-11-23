@@ -5,7 +5,7 @@ slug: onprem-diagrams-confluence
 date: 2200-12-06 09:54:00
 title: Keep your diagrams on premises with draw.io
 tags: [news, Atlassian]
-categories: [news]
+categories: [news,atlassian]
 ---
 
 With the rising popularity of cloud collaboration, it is not surprising that some diagramming software providers are exiting the on-premises market. You don't have to worry about that with draw.io.

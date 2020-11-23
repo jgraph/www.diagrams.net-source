@@ -2,7 +2,7 @@
 title: What happens to draw.io diagrams in Confluence Server when draw.io is not licensed
 layout: page
 faq: true
-categories: [Confluence Server]
+categories: [Confluence Data Center and Server]
 ---
 
 If you stop a trial of the draw.io app for Confluence Server, increase your Confluence user tier without increasing the tier of draw.io, or use a draw.io version that is released after your maintenance period has expired, draw.io will no longer be licensed.

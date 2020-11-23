@@ -5,7 +5,7 @@ slug: gliffy-confluence-cloud-prices
 date: 2020-10-21 09:43:00
 title: Manage your budget moving to Confluence Cloud
 tags: [data protection]
-categories: [trust, integrations]
+categories: [trust, integrations, atlassian]
 ---
 
 Atlassian recently [deprecated their Confluence Server range](https://www.atlassian.com/blog/announcements/journey-to-cloud). As the software market evolves, accelerating the move to Cloud is the next natural step in Atlassian's strategy.

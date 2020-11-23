@@ -2,7 +2,7 @@
 title: Get a quote for draw.io for Confluence Server
 layout: page
 faq: true
-categories: [Confluence Server]
+categories: [Confluence Data Center and Server]
 ---
 
 As Atlassian sells the draw.io on the Atlassian Marketplace, they must provide you with a quote. You can generate a quote via the Marketplace.

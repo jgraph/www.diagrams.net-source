@@ -2,7 +2,7 @@
 title: Fix Jira Server shortcuts in draw.io diagrams
 layout: page
 faq: true
-categories: [Jira Server]
+categories: [Jira Data Center and Server]
 ---
 
 There is a known issue where you are unable to use some Jira Server keyboard shortcuts while you are editing a draw.io diagram. This occurs when another Jira Marketplace app captures and processes the keyboard shortcut before it gets to the draw.io app.

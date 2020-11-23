@@ -2,7 +2,7 @@
 title: Migrate from Lucidchart OnPrem to draw.io
 layout: page
 faq: true
-categories: [Import, Lucidchart, Confluence Server]
+categories: [Import, Lucidchart, Confluence Data Center and Server]
 ---
 
 As Lucidchart OnPrem is being sunsetted, you will need to migrate your Lucidchart diagrams to another diagramming app in Confluence Server.

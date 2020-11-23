@@ -2,7 +2,7 @@
 title: Mass import Gliffy diagrams to draw.io in Confluence Server
 layout: page
 faq: true
-categories: [Confluence Server, Gliffy, Import]
+categories: [Confluence Data Center and Server, Gliffy, Import]
 ---
 
 The mass Gliffy import converts all Gliffy diagrams on all pages (or selected spaces) to draw.io diagrams. Both the current Gliffy JSON format and legacy XML formats are supported.

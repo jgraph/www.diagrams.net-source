@@ -2,7 +2,7 @@
 title: Get a new draw.io evaluation license for Confluence Server
 layout: page
 faq: true
-categories: [Confluence Server]
+categories: [Confluence Data Center and Server]
 ---
 
 You can generate up to three evaluation licenses for Confluence Server apps. If your draw.io evaluation license has expired you can get a new evaluation license through Atlassian.

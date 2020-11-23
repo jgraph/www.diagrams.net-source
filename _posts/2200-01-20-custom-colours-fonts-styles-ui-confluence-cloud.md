@@ -5,7 +5,7 @@ slug: custom-colours-fonts-styles-ui-confluence-cloud
 date: 2200-01-20 09:54:00
 title: Customise default colours, fonts, styles and the draw.io UI in Confluence Cloud
 tags: [features, Atlassian, customisation]
-categories: [features]
+categories: [features,atlassian]
 ---
 
 As an administrator, you can customise draw.io in Confluence Cloud to make it easier and faster for your users to create diagrams following your company’s particular style by setting default colours, style palettes, and fonts. You can even make the draw.io interface fit your customised Confluence Cloud interface.

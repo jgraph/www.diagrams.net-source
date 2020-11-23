@@ -9,5 +9,6 @@ There are no restrictions on the usage of any diagrams you generate with diagram
 
 Can they be used for any purpose under commercial usage conditions, for example?
 * Yes
+
 Does that extend to using the built-in icons that are copyrighted to JGraph?
 * Yes

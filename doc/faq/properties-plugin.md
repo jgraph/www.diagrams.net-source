@@ -2,7 +2,7 @@
 title: See shape metadata with the properties plugin
 layout: page
 faq: true
-categories: [Plugins, Confluence Cloud, Confluence Server]
+categories: [Plugins, Confluence Cloud, Confluence Data Center and Server]
 ---
 
 _This plugin should be used as-is, as an unsupported example for developers._

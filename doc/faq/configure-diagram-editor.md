@@ -2,7 +2,7 @@
 title: Configure the diagrams.net and draw.io editor
 layout: page
 faq: true
-categories: [Confluence Server, Customisation]
+categories: [Confluence Data Center and Server, Customisation]
 ---
 
 These aspects of diagrams.net are configurable in draw.io for Confluence Server/Cloud, Quip, embed mode, online and Desktop:
@@ -28,7 +28,7 @@ In the following video, you'll see what can be customised in diagrams.net and dr
 
 ## Configuration
 
-**Confluence Server:** Go to your instance's settings as an administrator, scroll down to the _draw.io add-on_ section in the left navigation, and click on the _Configuration_ tab.
+**Confluence Data Center or Server:** Go to your instance's settings as an administrator, scroll down to the _draw.io add-on_ section in the left navigation, and click on the _Configuration_ tab.
 
 <img src="/assets/img/blog/drawio-configuration-confluence-server.png" style="max-width:100%;height:auto;" alt="draw.io Configuration in Confluence Server">
 

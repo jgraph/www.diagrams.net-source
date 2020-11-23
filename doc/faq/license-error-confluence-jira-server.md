@@ -2,7 +2,7 @@
 title: Solve an Invalid License error in draw.io for Confluence or Jira Server
 layout: page
 faq: true
-categories: [Confluence Server, Jira Server, Troubleshooting]
+categories: [Confluence Data Center and Server, Jira Data Center and Server, Troubleshooting]
 ---
 
 You may see a  error on all draw.io diagrams in your Confluence or Jira Server or DC instance in the following situations.

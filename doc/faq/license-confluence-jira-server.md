@@ -2,7 +2,7 @@
 title: Get license information for draw.io for Confluence or Jira Server
 layout: page
 faq: true
-categories: [Confluence Server, Jira Server]
+categories: [Confluence Data Center and Server, Jira Data Center and Server]
 ---
 
 draw.io for Confluence Server and draw.io for Jira Server are licensed through Atlassian. This means your purchase and all billing and licensing is managed directly by Atlassian. We do not have access to any billing and licensing information.

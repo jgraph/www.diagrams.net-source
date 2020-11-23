@@ -2,7 +2,7 @@
 title: Use the Simple Viewer
 layout: page
 faq: true
-categories: [Confluence Server]
+categories: [Confluence Data Center and Server]
 ---
 
 Usually, when you embed a draw.io diagram on a Confluence page, you'll be able to click on links inside the diagram, step through pages and enable/disable layers using the toolbar that appears at the top of your diagram by default.

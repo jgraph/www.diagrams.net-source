@@ -2,7 +2,7 @@
 title: See the number of draw.io diagrams in a Confluence instance
 layout: page
 faq: true
-categories: [Confluence Server, Confluence Cloud]
+categories: [Confluence Data Center and Server, Confluence Cloud]
 ---
 
 You can easily see how many diagrams are in your Confluence Cloud, Server or Data Center instance.

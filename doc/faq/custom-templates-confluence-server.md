@@ -2,7 +2,7 @@
 title: Set up custom template diagrams in Confluence Server
 layout: page
 faq: true
-categories: [Confluence Server, Customisation]
+categories: [Confluence Data Center and Server, Customisation]
 ---
 
 Custom templates can speed up diagramming and ensure users diagram with a consistent style.

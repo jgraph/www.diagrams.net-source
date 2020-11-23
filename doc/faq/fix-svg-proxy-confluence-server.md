@@ -2,7 +2,7 @@
 title: Fix SVG images when using a proxy with Confluence Server
 layout: page
 faq: true
-categories: [Confluence Server]
+categories: [Confluence Data Center and Server]
 ---
 
 If you use the Apache HTTP server as a proxy between the browser and the Confluence Server, it may not be configured to properly serve SVG files. As a result, SVG shapes will look broken in the draw.io diagram editor.

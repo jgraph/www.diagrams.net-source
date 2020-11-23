@@ -2,7 +2,7 @@
 title: Open .vsd, .vdx and .vss files in draw.io for Confluence Server
 layout: page
 faq: true
-categories: [Confluence Server, Import]
+categories: [Confluence Data Center and Server, Import]
 ---
 
 While ``.vsd``, ``.vdx`` and ``.vss`` import is not supported in Confluence Server, there are a number of ways you can convert these to a .drawio diagram and add them to your instance.

@@ -5,7 +5,7 @@ slug: custom-libraries-templates-plugins-confluence-cloud
 date: 2200-01-20 09:54:00
 title: Customise draw.io for Confluence Cloud
 tags: [features, Atlassian, customisation]
-categories: [features]
+categories: [features,atlassian]
 ---
 
 As an administrator, you can customise draw.io in Confluence Cloud to make it easier and faster for your users to create diagrams by making custom shape libraries, templates, and plugins available by default.

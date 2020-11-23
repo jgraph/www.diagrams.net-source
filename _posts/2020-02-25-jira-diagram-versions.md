@@ -5,7 +5,7 @@ slug: jira-server-diagram-versions
 date: 2020-02-19 09:04:00
 title: Diagrams attached to Jira Server issues are now versioned
 tags: [Jira Server, Atlassian]
-categories: [features]
+categories: [features,atlassian]
 ---
 
 Versioning is built into Confluence, and diagrams attached to pages using the draw.io app for Confluence takes advantage of this. When you edit a diagram, the draw.io app creates a new page version so you can easily restore an older version of your diagram.

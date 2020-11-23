@@ -2,7 +2,7 @@
 title: Convert a Gliffy diagram stored in Jira Server to draw.io
 layout: page
 faq: true
-categories: [Jira Server, Gliffy, Import]
+categories: [Jira Data Center and Server, Gliffy, Import]
 ---
 
 Gliffy diagrams are enclosed within a zip container inside the .gliffy file when attached to an issue on Jira Server. Convert these attachments to .drawio diagrams by unpacking them on your computer first.

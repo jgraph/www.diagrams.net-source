@@ -2,7 +2,7 @@
 title: License draw.io for Confluence or Jira Server
 layout: page
 faq: true
-categories: [Confluence Server, Jira Server]
+categories: [Confluence Data Center and Server, Jira Data Center and Server]
 ---
 To purchase a license for draw.io in Confluence or Jira Server, install the draw.io plugin via the Atlassian Marketplace and start with a free trial.
 

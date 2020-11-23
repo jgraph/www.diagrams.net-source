@@ -2,7 +2,7 @@
 title: Change how diagram links open on Confluence Server
 layout: page
 faq: true
-categories: [Confluence Server]
+categories: [Confluence Data Center and Server]
 ---
 
 You can change what happens when you click on a link in a diagram so that it opens in a new tab or the same tab in draw.io for Confluence Server.
