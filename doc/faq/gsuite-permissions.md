@@ -1,13 +1,13 @@
 ---
-title: Permissions required to diagram in G Suite apps
+title: Permissions required to diagram in Google Workspace (G Suite) apps
 layout: page
 faq: true
-categories: [Integrations,Google,GSuite]
+categories: [Integrations,Google]
 ---
 
-The diagrams.net (draw.io) add-ons for Google's G Suite applications require a variety of permissions in order to embed your diagrams in Docs, Slides or Sheets.
+The diagrams.net (draw.io) add-ons for Google Workplace (G Suite) applications require a variety of permissions in order to embed your diagrams in Docs, Slides or Sheets.
 
-## Required G Suite permissions
+## Required Google Workplace permissions
 
 * **See and download your Google Drive files:** Grants permission so that the add-on can access your Google Drive and the diagram files you have stored there.
 * **View and manage your Google Documents (or Sheets, or Slides):** Enables the add-on to embed a diagram into your Google Document (or Sheet or Slides).

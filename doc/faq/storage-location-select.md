@@ -16,7 +16,7 @@ diagrams.net will automatically remember where you have last stored your diagram
 
 **Learn more about working with diagrams in the various storage locations**
 
-* [Use diagrams in Google Drive and G Suite apps](/doc/faq/google-drive-diagrams.html)
+* [Use diagrams in Google Drive and Google Workplace (G Suite) apps](/doc/faq/google-drive-diagrams.html)
 * [Install diagrams.net on a mobile device](/doc/faq/mobile-diagram-app.html)
 
 ## Store diagrams in your browser

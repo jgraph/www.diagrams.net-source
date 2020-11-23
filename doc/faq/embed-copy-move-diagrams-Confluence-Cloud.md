@@ -5,7 +5,7 @@ faq: true
 categories: [Confluence Cloud]
 ---
 
-There are a number of ways to reuse your draw.io diagrams in Confluence Cloud:
+There are a number of ways to reuse your .drawio diagrams in Confluence Cloud:
 1. Embed (reuse) a diagram - this means you have one diagram in a number of locations, and when you update the original diagram (the master), wherever you have embedded it will update automatically.
 2. Copy a diagram - this creates a new diagram file on another page, with a new version history.
 3. Move a diagram - simply copy the diagram onto the new page, then delete the original.

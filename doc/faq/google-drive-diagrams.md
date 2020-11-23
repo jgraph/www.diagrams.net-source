@@ -5,7 +5,7 @@ faq: true
 categories: [Integrations,Google]
 ---
 
-Google Drive is a popular cloud platform for storing and sharing files. It's ideal for collaborative diagramming and diagrams.net add-ons are available for the G Suite apps - Google Docs, Google Slides and Google Sheets.
+Google Drive is a popular cloud platform for storing and sharing files. It's ideal for collaborative diagramming and diagrams.net add-ons are available for the Google Workplace apps - Google Docs, Google Slides and Google Sheets.
 
 [Start diagramming in Google Drive now](https://app.diagrams.net/?mode=google)
 
@@ -19,7 +19,7 @@ After you have selected Google Drive as your [storage location for diagram files
 4. Click _Allow_ to confirm your choices.
 <br /><img src="/assets/img/blog/google-drive-permissions.png" style="width=100%;max-width:300px;height:auto;" alt="Grant permission for diagrams.net to access your Google Drive files">
 
-[Learn about the permissions diagrams.net needs for Google Drive and G Suite](/doc/faq/gsuite-permissions.html)
+[Learn about the permissions diagrams.net needs for Google Drive and Google Workplace](/doc/faq/gsuite-permissions.html)
 
 **Note:** If you sign out of your Google Drive account, you will be prompted to sign back in when your diagram is saved, but you won't need to authorise diagrams.net again. If you are having trouble, follow these steps to [fix connection issues with diagrams.net in Google Drive](/doc/faq/google-drive-connection-problems.html).
 
@@ -45,8 +45,8 @@ To allow non-Google users to see your diagram, you can [publicly publish it](/do
 
 Work with [revisions of diagrams stored in Google Drive](/doc/faq/google-drive-revision-history.html) - this tracks all changes made to your diagram by all authorised  Google Drive users.
 
-### Use diagrams.net inside G Suite apps
+### Use diagrams.net inside Google Workplace (G Suite) apps
 
-Embed diagrams in documents, slides and sheets with the [diagrams.net add-ons for G Suite apps](/blog/diagrams-google-docs.html). Using the diagrams.net add-ons means you don't need to manually export an image and update it in your document every time you edit your diagram. Simply use the _Add-ons_ menu and update all of your embedded diagrams at once.
+Embed diagrams in documents, slides and sheets with the [diagrams.net add-ons for Google Workplace apps](/blog/diagrams-google-docs.html). Using the diagrams.net add-ons means you don't need to manually export an image and update it in your document every time you edit your diagram. Simply use the _Add-ons_ menu and update all of your embedded diagrams at once.
 
 <img src="/assets/img/blog/addon-google-docs-examples.png" style="max-width:100%;height:auto;"  alt="It's easy to embed diagrams in Google Docs">
