@@ -80,6 +80,7 @@ The following URL parameters are supported in diagrams.net in the precedence ord
 * ``title=title``: Sets a new file title (used with the ``create`` and ``url`` parameters).
 * ``notitle=1``: Uses the default filename for new files (used with the ``url`` parameter)
 * ``nowarn=1``: Suppresses the warning before an unload for local files.
+* ``svg-warning=0``: Suppresses the warning for old viewers in SVG export.
 
 ## Additional resources
 * [The protocol used in embed mode](/doc/faq/embed-mode.html).
