@@ -50,6 +50,8 @@ The following URL parameters are supported in diagrams.net in the precedence ord
 * ``template-filename=name``: If the #U hash property is used but the URL does not contain a filename to determine binary mode. See the list of [supported location hash properties](/doc/faq/supported-location-hash-properties.html).
 * ``math-font``: Sets the font to use for math typesetting. Possible values are ``STIX-Web`` (SVG) or STIX (HTML-CSS).
 * ``math-output=html``: Sets the math typesetting output to ``HTML-CSS``.
+* ``nowarn=1``: Suppresses the warning before an unload for local files.
+* ``svg-warning=0``: Suppresses the warning for old viewers in SVG export.
 
 ## Modes
 * ``local=1``: Uses device mode only.
@@ -79,8 +81,6 @@ The following URL parameters are supported in diagrams.net in the precedence ord
 * ``create=url/name``: Creates a new file from a template URL. If the value is not a URL and is not empty, the script will try to use ``window.opener[url]``. In [embed mode](/doc/faq/embed-mode.html), ``window.opener[name]`` will be used to get the initial XML. Note that this requires the same origin policy in the opener/parent for reading the variable.
 * ``title=title``: Sets a new file title (used with the ``create`` and ``url`` parameters).
 * ``notitle=1``: Uses the default filename for new files (used with the ``url`` parameter)
-* ``nowarn=1``: Suppresses the warning before an unload for local files.
-* ``svg-warning=0``: Suppresses the warning for old viewers in SVG export.
 
 ## Additional resources
 * [The protocol used in embed mode](/doc/faq/embed-mode.html).
