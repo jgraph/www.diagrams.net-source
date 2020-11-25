@@ -1,0 +1,962 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Title -->
+  <title>Create and edit complex custom shapes</title>
+
+  <!-- Required Meta Tags Always Come First -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="/favicon.ico">
+
+  <!-- Google Fonts -->
+  <link href="//fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
+  <link href="//fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet"
+
+  <!-- CSS Implementing Plugins -->
+  <link rel="stylesheet" href="/assets/css/fontawesome-all.min.css">
+  <link rel="stylesheet" href="/assets/css/animate.min.css">
+  <link rel="stylesheet" href="/assets/css/hs.megamenu.css">
+  <link rel="stylesheet" href="/assets/css/jquery.mCustomScrollbar.css">
+
+  <!-- CSS Front Template -->
+  <link rel="stylesheet" href="/assets/css/theme.css">
+</head>
+<body>
+<!-- Search Content -->
+<div id="searchSlideDown" class="d-none dropdown-unfold u-search-slide-down" aria-labelledby="searchSlideDownInvoker">
+  <form>
+    <!-- Input Group -->
+    <div class="input-group input-group-borderless u-search-slide-down__input rounded mb-2">
+      <div class="input-group-prepend">
+        <span class="input-group-text">
+          <span class="fas fa-search"></span>
+        </span>
+      </div>
+      <input type="search" class="form-control" placeholder="Search Front" aria-label="Search Front">
+      <div class="input-group-append">
+        <a class="input-group-text" href="javascript:;"
+           aria-label="close"
+           data-unfold-event="click"
+           data-unfold-hide-on-scroll="false"
+           data-unfold-target="#searchSlideDown"
+           data-unfold-type="css-animation"
+           data-unfold-animation-in="active"
+           data-unfold-animation-out="fadeOutUp"
+           data-unfold-delay="0"
+           data-unfold-duration="800"
+           data-unfold-overlay='{
+            "className": "u-search-slide-down-bg-overlay",
+            "background": "rgba(55, 125, 255, .1)",
+            "animationSpeed": 400
+           }'>
+          <span class="fas fa-times" aria-hidden="true"></span>
+        </a>
+      </div>
+    </div>
+    <!-- End Input Group -->
+
+    <!-- Suggestions Content -->
+    <div class="rounded bg-white u-search-slide-down__suggestions py-3 px-5">
+      <ul class="list-group list-group-flush list-group-borderless mb-0">
+        <li><a class="list-group-item list-group-item-action" href="../pages/about-agency.html">About Front</a></li>
+        <li><a class="list-group-item list-group-item-action" href="../../starter/index.html">Getting Started</a></li>
+        <li><a class="list-group-item list-group-item-action" href="../../documentation/index.html">Documentation</a></li>
+      </ul>
+    </div>
+    <!-- End Suggestions Content -->
+  </form>
+</div>
+<!-- End Search Content -->
+
+<!-- ========== HEADER ========== -->
+<header id="header" class="u-header u-header--abs-top-md u-header--bg-transparent u-header--show-hide-md"
+        data-header-fix-moment="500"
+        data-header-fix-effect="slide">
+  <div class="u-header__section">
+    <!-- Topbar -->
+    <div class="d-none container u-header__hide-content pt-2">
+      <div class="d-flex align-items-center">
+        <div class="ml-auto">
+          <!-- Jump To -->
+          <div class="d-none d-inline-block d-sm-none position-relative mr-2">
+            <a id="jumpToDropdownInvoker" class="dropdown-nav-link dropdown-toggle d-flex align-items-center" href="javascript:;" role="button"
+               aria-controls="jumpToDropdown"
+               aria-haspopup="true"
+               aria-expanded="false"
+               data-unfold-event="hover"
+               data-unfold-target="#jumpToDropdown"
+               data-unfold-type="css-animation"
+               data-unfold-duration="300"
+               data-unfold-delay="300"
+               data-unfold-hide-on-scroll="true"
+               data-unfold-animation-in="slideInUp"
+               data-unfold-animation-out="fadeOut">
+              Jump to
+            </a>
+
+            <div id="jumpToDropdown" class="dropdown-menu dropdown-unfold" aria-labelledby="jumpToDropdownInvoker">
+              <a class="dropdown-item" href="../../html/pages/help.html">Help</a>
+            </div>
+          </div>
+          <!-- End Jump To -->
+
+          <!-- Links -->
+          <div class="d-none d-sm-inline-block ml-sm-auto">
+            <ul class="list-inline mb-0">
+              <li class="list-inline-item mr-0">
+                <a class="u-header__navbar-link" href="../pages/help.html">Help</a>
+              </li>
+            </ul>
+          </div>
+          <!-- End Links -->
+        </div>
+
+        <ul class="list-inline ml-2 mb-0">
+          <!-- Search -->
+          <li class="list-inline-item">
+            <a id="searchSlideDownInvoker" class="btn btn-xs btn-icon btn-text-secondary u-search-slide-down-trigger" href="javascript:;" role="button"
+               aria-haspopup="true"
+               aria-expanded="false"
+               aria-controls="searchSlideDown"
+               data-unfold-type="css-animation"
+               data-unfold-hide-on-scroll="false"
+               data-unfold-target="#searchSlideDown"
+               data-unfold-animation-in="active"
+               data-unfold-animation-out="fadeOutUp"
+               data-unfold-delay="0"
+               data-unfold-duration="800"
+               data-unfold-overlay='{
+                "className": "u-search-slide-down-bg-overlay",
+                "background": "rgba(55, 125, 255, .1)",
+                "animationSpeed": 400
+               }'>
+              <span class="fas fa-search btn-icon__inner u-search-slide-down-trigger__icon"></span>
+            </a>
+          </li>
+          <!-- End Search -->
+        </ul>
+      </div>
+    </div>
+    <!-- End Topbar -->
+
+    <div id="logoAndNav" class="container">
+      <!-- Nav -->
+      <nav class="js-mega-menu navbar navbar-expand-md u-header__navbar u-header__navbar--no-space">
+        <!-- Logo -->
+        <a class="navbar-brand u-header__navbar-brand u-header__navbar-brand-center" href="/index.html" aria-label="Front">
+          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="46px" height="46px" viewBox="0 0 250 250" xml:space="preserve" style="margin-bottom: 0; flex: none">
+            <style type="text/css">
+            	.st0{fill:#F08705;}
+            	.st1{fill:#DF6C0C;}
+            	.st2{fill:#FFFFFF;}
+            </style>
+            <path class="st0" d="M237.5,227.9c0,5.3-4.3,9.6-9.5,9.6c0,0,0,0,0,0H22.1c-5.3,0-9.6-4.3-9.6-9.5c0,0,0,0,0,0V22.1
+            	c0-5.3,4.3-9.6,9.5-9.6c0,0,0,0,0,0h205.9c5.3,0,9.6,4.3,9.6,9.5c0,0,0,0,0,0V227.9z"/>
+            <path class="st1" d="M237.5,227.9c0,5.3-4.3,9.6-9.5,9.6c0,0,0,0,0,0H89.6L44.8,192l27.9-45.5l82.7-102.7l82.1,84.5V227.9z"/>
+            <path class="st2" d="M197.1,138.3h-23.7l-25-42.7c5.7-1.2,9.8-6.2,9.7-12V51.5c0-6.8-5.4-12.3-12.2-12.3c0,0-0.1,0-0.1,0h-41.7
+            	c-6.8,0-12.3,5.4-12.3,12.2c0,0,0,0.1,0,0.1v32.1c0,5.8,4,10.8,9.7,12l-25,42.7H52.9c-6.8,0-12.3,5.4-12.3,12.2c0,0,0,0.1,0,0.1
+            	v32.1c0,6.8,5.4,12.3,12.2,12.3c0,0,0.1,0,0.1,0h41.7c6.8,0,12.3-5.4,12.3-12.2c0,0,0-0.1,0-0.1v-32.1c0-6.8-5.4-12.3-12.2-12.3
+            	c0,0-0.1,0-0.1,0h-4l24.8-42.4h19.3l24.9,42.4h-4.1c-6.8,0-12.3,5.4-12.3,12.2c0,0,0,0.1,0,0.1v32.1c0,6.8,5.4,12.3,12.2,12.3
+            	c0,0,0.1,0,0.1,0h41.7c6.8,0,12.3-5.4,12.3-12.2c0,0,0-0.1,0-0.1v-32.1c0-6.8-5.4-12.3-12.2-12.3
+            	C197.2,138.3,197.2,138.3,197.1,138.3z"/>
+          </svg>
+          <span class="u-header__navbar-brand-text">diagrams.net</span>
+        </a>
+        <!-- End Logo -->
+
+        <!-- Responsive Toggle Button -->
+        <button type="button" class="navbar-toggler btn u-hamburger"
+                aria-label="Toggle navigation"
+                aria-expanded="false"
+                aria-controls="navBar"
+                data-toggle="collapse"
+                data-target="#navBar">
+          <span id="hamburgerTrigger" class="u-hamburger__box">
+            <span class="u-hamburger__inner"></span>
+          </span>
+        </button>
+        <!-- End Responsive Toggle Button -->
+
+        <!-- Navigation -->
+        <div id="navBar" class="collapse navbar-collapse u-header__navbar-collapse">
+          <ul class="navbar-nav u-header__navbar-nav">
+            <!-- Integrations -->
+            <li class="d-none nav-item hs-has-sub-menu u-header__nav-item"
+                data-event="hover"
+                data-animation-in="slideInUp"
+                data-animation-out="fadeOut">
+              <a id="intMegaMenu" class="nav-link u-header__nav-link u-header__nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false" aria-labelledby="pagesSubMenu">Integrations</a>
+
+              <!-- Integrations - Submenu -->
+              <ul id="pagesSubMenu" class="hs-sub-menu u-header__sub-menu" aria-labelledby="intMegaMenu" style="min-width: 230px;">
+                <!-- Company -->
+                <li class="hs-has-sub-menu">
+                  <a id="navLinkPagesCompany" class="nav-link u-header__sub-menu-nav-link u-header__sub-menu-nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false" aria-controls="navSubmenuPagesCompany">Company</a>
+
+                  <ul id="navSubmenuPagesCompany" class="hs-sub-menu u-header__sub-menu" aria-labelledby="navLinkPagesCompany" style="min-width: 230px;">
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/careers.html">Careers</a></li>
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/careers-single.html">Careers Single</a></li>
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/customers.html">Customers</a></li>
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/customer-story.html">Customer story</a></li>
+                  </ul>
+                </li>
+                <!-- Company -->
+
+                <!-- Portfolio -->
+                <li class="hs-has-sub-menu">
+                  <a id="navLinkPagesPortfolio" class="nav-link u-header__sub-menu-nav-link u-header__sub-menu-nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false" aria-controls="navSubmenuPagesPortfolio">Portfolio</a>
+
+                  <ul id="navSubmenuPagesPortfolio" class="hs-sub-menu u-header__sub-menu" aria-labelledby="navLinkPagesPortfolio" style="min-width: 230px;">
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../portfolio/boxed-classic.html">All layouts</a></li>
+                  </ul>
+                </li>
+                <!-- End Portfolio -->
+
+                <!-- Contacts -->
+                <li class="hs-has-sub-menu">
+                  <a id="navLinkContactsServices" class="nav-link u-header__sub-menu-nav-link u-header__sub-menu-nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false" aria-controls="navSubmenuContactsServices">Contacts</a>
+
+                  <ul id="navSubmenuContactsServices" class="hs-sub-menu u-header__sub-menu" aria-labelledby="navLinkContactsServices" style="min-width: 230px;">
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/contacts-agency.html">Contacts Agency</a></li>
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/contacts-start-up.html">Contacts Start-Up</a></li>
+                  </ul>
+                </li>
+                <!-- Contacts -->
+
+                <!-- Utilities -->
+                <li class="hs-has-sub-menu">
+                  <a id="navLinkPagesUtilities" class="nav-link u-header__sub-menu-nav-link u-header__sub-menu-nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false" aria-controls="navSubmenuPagesUtilities">Utilities</a>
+
+                  <ul id="navSubmenuPagesUtilities" class="hs-sub-menu u-header__sub-menu" aria-labelledby="navLinkPagesUtilities" style="min-width: 230px;">
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/pricing.html">Pricing</a></li>
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/faq.html">FAQ</a></li>
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/terms.html">Terms &amp; Conditions</a></li>
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/privacy.html">Privacy &amp; Policy</a></li>
+                  </ul>
+                </li>
+                <!-- Utilities -->
+
+                <!-- Specialty -->
+                <li class="hs-has-sub-menu">
+                  <a id="navLinkPagesSpecialty" class="nav-link u-header__sub-menu-nav-link u-header__sub-menu-nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false" aria-controls="navSubmenuPagesSpecialty">Specialty</a>
+
+                  <ul id="navSubmenuPagesSpecialty" class="hs-sub-menu u-header__sub-menu" aria-labelledby="navLinkPagesSpecialty" style="min-width: 230px;">
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/status.html">Status</a></li>
+                  </ul>
+                </li>
+                <!-- Specialty -->
+              </ul>
+              <!-- End Integrations - Submenu -->
+            </li>
+            <!-- End Integrations -->
+
+            <!-- Blog -->
+            <li class="nav-item"
+                data-event="hover"
+                data-animation-in="slideInUp"
+                data-animation-out="fadeOut">
+              <a id="blogMegaMenu" class="nav-link u-header__nav-link" aria-haspopup="true" aria-expanded="false" aria-labelledby="blogSubMenu" href="/blog">Blog</a>
+            </li>
+            <!-- End Blog -->
+
+            <!-- Security -->
+            <li class="d-none nav-item hs-has-mega-menu u-header__nav-item"
+                data-event="hover"
+                data-animation-in="slideInUp"
+                data-animation-out="fadeOut"
+                data-max-width="900px"
+                data-position="right">
+              <a id="securityMegaMenu" class="nav-link u-header__nav-link u-header__nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false">Security</a>
+
+              <!-- Security - Mega Menu -->
+              <div class="hs-mega-menu w-100 u-header__sub-menu" aria-labelledby="securityMegaMenu">
+                <div class="row no-gutters">
+                  <div class="col-lg-8">
+                    <div class="u-header__promo-card-deck">
+                      <!-- Promo Item -->
+                      <div class="u-header__promo-card u-header__promo-item">
+                        <a class="u-header__promo-link" href="../app-marketplace/index.html">
+                          <div class="media align-items-center">
+                            <img class="js-svg-injector u-header__promo-icon" src="../../assets/svg/icons/icon-45.svg" alt="SVG">
+                            <div class="media-body">
+                              <span class="u-header__promo-title">App Marketplace <span class="badge badge-success badge-pill ml-1">New</span></span>
+                              <small class="u-header__promo-text">Marketplace app demo</small>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <!-- End Promo Item -->
+
+                      <!-- Promo Item -->
+                      <div class="u-header__promo-card u-header__promo-item">
+                        <a class="u-header__promo-link" href="../house/index.html">
+                          <div class="media align-items-center">
+                            <img class="js-svg-injector u-header__promo-icon" src="../../assets/svg/icons/icon-13.svg" alt="SVG">
+                            <div class="media-body">
+                              <span class="u-header__promo-title">House</span>
+                              <small class="u-header__promo-text">Real estate demo</small>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <!-- End Promo Item -->
+                    </div>
+
+                    <div class="u-header__promo-card-deck">
+                      <!-- Promo Item -->
+                      <div class="u-header__promo-card u-header__promo-item">
+                        <a class="u-header__promo-link" href="../job/index.html">
+                          <div class="media align-items-center">
+                            <img class="js-svg-injector u-header__promo-icon" src="../../assets/svg/icons/icon-19.svg" alt="SVG">
+                            <div class="media-body">
+                              <span class="u-header__promo-title">Job</span>
+                              <small class="u-header__promo-text">Job vacancy demo</small>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <!-- End Promo Item -->
+
+                      <!-- Promo Item -->
+                      <div class="u-header__promo-card u-header__promo-item">
+                        <a class="u-header__promo-link" href="../pages/docs.html">
+                          <div class="media align-items-center">
+                            <img class="js-svg-injector u-header__promo-icon" src="../../assets/svg/icons/icon-4.svg" alt="SVG">
+                            <div class="media-body">
+                              <span class="u-header__promo-title">Help Desk</span>
+                              <small class="u-header__promo-text">Help desk</small>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <!-- End Promo Item -->
+                    </div>
+
+                    <div class="u-header__promo-card-deck">
+                      <!-- Promo Item -->
+                      <div class="u-header__promo-card u-header__promo-item">
+                        <a class="u-header__promo-link" href="../crypto/index.html">
+                          <div class="media align-items-center">
+                            <img class="js-svg-injector u-header__promo-icon" src="../../assets/svg/icons/icon-5.svg" alt="SVG">
+                            <div class="media-body">
+                              <span class="u-header__promo-title">Crypto Landing</span>
+                              <small class="u-header__promo-text">Cryptocurrency demo</small>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <!-- End Promo Item -->
+
+                      <!-- Promo Item -->
+                      <div class="u-header__promo-card u-header__promo-item">
+                        <div class="u-header__promo-link">
+                          <div class="media align-items-center">
+                            <img class="js-svg-injector u-header__promo-icon" src="../../assets/svg/icons/icon-23.svg" alt="SVG">
+                            <div class="media-body">
+                              <span class="u-header__promo-title text-secondary">New demos</span>
+                              <small class="u-header__promo-text">coming soon ...</small>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <!-- End Promo Item -->
+                    </div>
+                  </div>
+
+                  <!-- Promo -->
+                  <div class="col-lg-4 u-header__promo d-none d-lg-block">
+                    <a class="d-block u-header__promo-inner" href="#">
+                      <div class="position-relative">
+                        <!-- <img class="img-fluid rounded mb-3" src="../../assets/img/380x227/img6.jpg" alt="Image Description"> -->
+                      </div>
+                      <span class="text-secondary font-size-1">Front makes you look at things from a different perspectives.</span>
+                    </a>
+                  </div>
+                  <!-- End Promo -->
+                </div>
+              </div>
+              <!-- End Security - Mega Menu -->
+            </li>
+            <!-- End Security -->
+
+            <!-- Docs -->
+            <li class="d-none nav-item hs-has-mega-menu u-header__nav-item"
+                data-event="hover"
+                data-animation-in="slideInUp"
+                data-animation-out="fadeOut"
+                data-max-width="260px"
+                data-position="right">
+              <a id="docsMegaMenu" class="nav-link u-header__nav-link u-header__nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false">Docs</a>
+
+              <!-- Docs - Submenu -->
+              <div class="hs-mega-menu u-header__sub-menu" aria-labelledby="docsMegaMenu" style="min-width: 330px;">
+                <!-- Promo Item -->
+                <div class="u-header__promo-item">
+                  <a class="u-header__promo-link" href="../../documentation/index.html">
+                    <div class="media align-items-center">
+                      <img class="js-svg-injector u-header__promo-icon" src="../../assets/svg/icons/icon-2.svg" alt="SVG">
+                      <div class="media-body">
+                        <span class="u-header__promo-title">
+                          Documentation
+                          <span class="badge badge-primary badge-pill ml-1">v2.8</span>
+                        </span>
+                        <small class="u-header__promo-text">Development guides</small>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <!-- End Promo Item -->
+
+                <!-- Promo Item -->
+                <div class="u-header__promo-item">
+                  <a class="u-header__promo-link" href="../../starter/index.html">
+                    <div class="media align-items-center">
+                      <img class="js-svg-injector u-header__promo-icon" src="../../assets/svg/icons/icon-1.svg" alt="SVG">
+                      <div class="media-body">
+                        <span class="u-header__promo-title">Get started</span>
+                        <small class="u-header__promo-text">Components and snippets</small>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <!-- End Promo Item -->
+
+                <div class="u-header__promo-footer">
+                  <!-- List -->
+                  <div class="row no-gutters">
+                    <div class="col-6">
+                      <div class="u-header__promo-footer-item">
+                        <small class="text-muted d-block">Check what's new</small>
+                        <a class="small" href="../../documentation/getting-started/changelog.html">
+                          Changelog
+                        </a>
+                      </div>
+                    </div>
+                    <div class="col-6 u-header__promo-footer-ver-divider">
+                      <div class="u-header__promo-footer-item">
+                        <small class="text-muted d-block">Have a question?</small>
+                        <a class="small" href="http://htmlstream.com/contact-us">
+                          Contact us
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- End List -->
+                </div>
+              </div>
+              <!-- End Docs - Submenu -->
+            </li>
+            <!-- End Docs -->
+
+            <!-- Button -->
+            <li class="nav-item u-header__nav-last-item">
+              <a class="btn btn-sm btn-primary transition-3d-hover" href="https://app.diagrams.net/?src=about" target="_blank">
+                Start Now
+              </a>
+            </li>
+            <!-- End Button -->
+          </ul>
+        </div>
+        <!-- End Navigation -->
+      </nav>
+      <!-- End Nav -->
+    </div>
+  </div>
+</header>
+<!-- ========== END HEADER ========== -->
+
+<!-- ========== MAIN ========== -->
+<main id="content" role="main">
+  <!-- Article Description Section -->
+  <div class="container space-2 space-top-md-5 space-top-lg-4 space-bottom-lg-3">
+
+    <!-- Breadcrumbs Section -->
+    <div class="w-lg-60 mx-lg-auto">
+      <div class="mb-4">
+        <nav aria-label="breadcrumb">
+          <ol class="breadcrumb breadcrumb-no-gutter font-size-1">
+            <li class="breadcrumb-item"><a href="">Home</a></li>
+             
+               
+                
+                    <li class="breadcrumb-item"><a href="/doc/">doc</a></li>
+                
+              
+                
+                    <li class="breadcrumb-item"><a href="/doc/faq/">faq</a></li>
+                
+              
+                
+                    <li class="breadcrumb-item"><a class="current">Create and edit complex custom shapes</a></li>
+                
+              
+          </ol>
+        </nav>
+      </div>
+    </div>
+    <!-- End Breadcrumbs Section -->
+
+    <div class="w-lg-60 mx-lg-auto">
+      <div class="mb-4">
+        <h1 class="h2 font-weight-medium">Create and edit complex custom shapes</h1>
+      </div>
+
+      <p>diagrams.net has a large library of pre-built shapes, but it also lets you embed your own raster and SVG images in your diagrams. While this provides you with a lot of flexibility, it doesn’t let you style raster or SVG images, except to <a href="/doc/faq/svg-edit-colours.html">change the colours in embedded SVG images</a>. Because SVGs and raster images aren’t native shapes, they don’t contain the necessary information about which shapes on which to draw shadows, apply line widths, and so on.</p>
+
+<h2 id="basic-custom-shapes">Basic custom shapes</h2>
+
+<p>You can create your own custom shapes in diagrams.net by describing their geometry, connection points and styles in an XML format. The basic diagrams.net shapes use XML. Select <em>Arrange &gt; Insert &gt; Shape</em> from the diagrams.net menu  to open the <em>Edit Shape</em> dialog where you can see the XML structure of the shape.</p>
+
+<p><img src="/assets/img/blog/custom-shape-example-code.png" style="width=100%;max-width:300px;height:auto;" alt="A complex custom shape and its code, created in diagrams.net" /></p>
+
+<p><a href="/doc/faq/custom-shapes.html">See how to create this basic custom shape</a></p>
+
+<p><strong>Tips</strong></p>
+
+<ul>
+  <li>Once you have added custom shapes to the drawing canvas, you can drag and drop them onto the scratchpad or a <strong><a href="/blog/custom-libraries.html">custom shape library</a></strong>.</li>
+  <li><strong>Edit a shape</strong> by selecting it, then click <em>Edit Shape</em> on the <em>Style</em> tab of the format panel. Note that you cannot edit all shapes, only those that are in XML format.</li>
+</ul>
+
+<h2 id="create-advanced-custom-shapes">Create advanced custom shapes</h2>
+
+<p>At the end of this page you’ll find the XML to create the example used below. Copy and paste this XML into the <em>Edit Shape</em> dialog via <em>Arrange &gt; Insert &gt; Shape</em> in <a href="https://app.diagrams.net/">diagrams.net</a>, and click <em>Preview</em> to see <a href="https://jgraph.github.io/mxgraph/docs/stencils.xsd">how more complex shapes are constructed in XSD</a>.</p>
+
+<p><img src="/assets/img/blog/edit-shape-dialog-complex-shape.png" style="width=100%;max-width:300px;height:auto;" alt="A complex custom shape and its code, created in diagrams.net" /></p>
+
+<p>Use the reference below to see how each custom shape element is defined and the order in which you need to nest these elements.</p>
+
+<h3 id="shape"><code class="language-plaintext highlighter-rouge">&lt;shape&gt;</code></h3>
+<p>The outer element is <code class="language-plaintext highlighter-rouge">&lt;shape&gt;</code>, which has the following attributes:</p>
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">name</code> - string, required. This name uniquely identifies the shape. Not currently used in diagrams.net.</li>
+  <li><code class="language-plaintext highlighter-rouge">w,h</code> - optional decimal view bounds. This defines your co-ordinate system for the graphics operations in the shape. The default is <code class="language-plaintext highlighter-rouge">100,100</code>.</li>
+  <li><code class="language-plaintext highlighter-rouge">aspect</code> - optional string with the value of either <code class="language-plaintext highlighter-rouge">"variable"</code>, the default, or <code class="language-plaintext highlighter-rouge">"fixed"</code>. <em>Fixed</em> always renders the shape with the aspect ratio defined by the ratio <code class="language-plaintext highlighter-rouge">w/h</code>. <em>Variable</em> causes the ratio to match that of the geometry of the current vertex.</li>
+  <li><code class="language-plaintext highlighter-rouge">strokewidth</code> - optional string containing either an integer or the string <code class="language-plaintext highlighter-rouge">"inherit"</code>. <em>Inherit</em> indicates that the <em>strokewidth</em> of the cell is only changed when you scale it, and not when you resize it. If you use a numeric value, the <em>strokewidth</em> of the cell will change both when you scale and when you resize the shape. This numeric value defines the multiplier that is applied to the width. The default is <code class="language-plaintext highlighter-rouge">"1"</code>.</li>
+</ul>
+
+<h3 id="connections"><code class="language-plaintext highlighter-rouge">&lt;connections&gt;</code></h3>
+<p>If you want to define specific fixed connection points on your custom shape, use the <code class="language-plaintext highlighter-rouge">&lt;connections&gt;</code> element. Each <code class="language-plaintext highlighter-rouge">&lt;constraint&gt;</code> element within the <code class="language-plaintext highlighter-rouge">&lt;connections&gt;</code> element defines a fixed connection point on the shape.</p>
+
+<p>Constraints have the following attributes:</p>
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">perimeter</code> - required, either <code class="language-plaintext highlighter-rouge">1</code> or <code class="language-plaintext highlighter-rouge">0</code>. A value of <code class="language-plaintext highlighter-rouge">0</code> sets the connection point where specified by <code class="language-plaintext highlighter-rouge">x,y</code>. A value of <code class="language-plaintext highlighter-rouge">1</code> extrapolates the position of the connection point from the center of the shape, through <code class="language-plaintext highlighter-rouge">x,y</code>, to the point of intersection with the perimeter of the shape.</li>
+  <li><code class="language-plaintext highlighter-rouge">x,y</code> - the position of the fixed point relative to the bounds of the shape. These are automatically adjusted if <code class="language-plaintext highlighter-rouge">perimeter=1</code>. <code class="language-plaintext highlighter-rouge">(0,0)</code> is the top left of the shape, <code class="language-plaintext highlighter-rouge">(0.5,0.5)</code> is the center, <code class="language-plaintext highlighter-rouge">(1,0.5)</code> is the center of the right hand edge of the bounds, etc. Use values less than <code class="language-plaintext highlighter-rouge">0</code> or greater than <code class="language-plaintext highlighter-rouge">1</code> to position the fixed point outside of the shape.</li>
+  <li><code class="language-plaintext highlighter-rouge">name</code> - optional string. A unique identifier for the port on the shape.</li>
+</ul>
+
+<h3 id="background-and-foreground"><code class="language-plaintext highlighter-rouge">&lt;background&gt;</code> and <code class="language-plaintext highlighter-rouge">&lt;foreground&gt;</code></h3>
+<p>The paths used to draw the shape are split into two elements, <code class="language-plaintext highlighter-rouge">&lt;foreground&gt;</code> and <code class="language-plaintext highlighter-rouge">&lt;background&gt;</code>. If a shadow is defined, this is derived from the <code class="language-plaintext highlighter-rouge">&lt;background&gt;</code> element. Generally, the <em>background</em> of the shape is the line that traces the outside of the shape, but this may not always be the case.</p>
+
+<p>Any <em>stroke</em>, <em>fill</em> or <em>fillstroke</em> of a background must be defined as the first stroke of the <code class="language-plaintext highlighter-rouge">&lt;foreground&gt;</code> element, and never in the <code class="language-plaintext highlighter-rouge">&lt;background&gt;</code> element. If the background of your shape is empty, this is not required.</p>
+
+<p>The <code class="language-plaintext highlighter-rouge">&lt;background&gt;</code> element can only contain one <code class="language-plaintext highlighter-rouge">&lt;path&gt;</code>, <code class="language-plaintext highlighter-rouge">&lt;rect&gt;</code>, <code class="language-plaintext highlighter-rouge">&lt;roundrect&gt;</code> or <code class="language-plaintext highlighter-rouge">&lt;ellipse&gt;</code> element (or none). It can not contain any <em>fill</em>, <em>stroke</em>, <em>image</em>, <em>text</em> or <em>include-shape</em>.</p>
+
+<p>Note that the state, styling and drawing in the mxGraph shapes used in diagrams.net is very close in design to that of HTML 5 canvas. Use these suggested <a href="https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial">HTML 5 tutorials</a> for a high-level introduction to the concepts used.</p>
+
+<h3 id="state">State</h3>
+<p><em>Foreground</em> and <em>background</em> elements are rendered following the concept of state. In addition to the state save/load operation, there are two other types of operations: style and draw. An applied style changes the current state.</p>
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">&lt;save/&gt;</code> - saves the current state (current style).</li>
+  <li><code class="language-plaintext highlighter-rouge">&lt;restore/&gt;</code> - retrieves (loads) the last saved state from the state stack.</li>
+</ul>
+
+<h3 id="style">Style</h3>
+<p>Elements that change the colours within the current state (style) require a hash-prefixed hex color code (<code class="language-plaintext highlighter-rouge">"#FFEA80"</code>).</p>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">&lt;strokecolor&gt;</code> - defines the path colour when a <em>stroke</em> or <em>fillstroke</em> command is issued.</li>
+  <li><code class="language-plaintext highlighter-rouge">&lt;fillcolor&gt;</code> - defines the colour inside a closed path when a <em>fill</em> or <em>fillstroke</em> command is issued.</li>
+  <li><code class="language-plaintext highlighter-rouge">&lt;fontcolor&gt;</code> - defines the colour of the fonts when text is drawn.</li>
+</ul>
+
+<p>The other style elements are as follows:</p>
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">&lt;alpha&gt;</code> - defines the alpha level, the opposite of transparency, with a range of <code class="language-plaintext highlighter-rouge">0.0-1.0</code>, decimal. Use <code class="language-plaintext highlighter-rouge">0.0</code> for fully transparent and <code class="language-plaintext highlighter-rouge">1.0</code> for solid (opaque).</li>
+  <li><code class="language-plaintext highlighter-rouge">&lt;fillalpha&gt;</code> - defines the fill transparency, with a range of <code class="language-plaintext highlighter-rouge">0.0-1.0</code>, decimal. Use <code class="language-plaintext highlighter-rouge">0.0</code> for fully transparent and <code class="language-plaintext highlighter-rouge">1.0</code> for solid (opaque).</li>
+  <li><code class="language-plaintext highlighter-rouge">&lt;strokealpha&gt;</code> - defines the stroke transparency, with a range of <code class="language-plaintext highlighter-rouge">0.0-1.0</code>, decimal. Use <code class="language-plaintext highlighter-rouge">0.0</code> for fully transparent and <code class="language-plaintext highlighter-rouge">1.0</code> for solid (opaque).</li>
+  <li><code class="language-plaintext highlighter-rouge">&lt;strokewidth&gt;</code> - defines the integer thickness elements drawn by <em>stroke</em> or <em>fillstroke</em>. Use <code class="language-plaintext highlighter-rouge">fixed="1"</code> to apply the value as-is, with no scaling.</li>
+  <li><code class="language-plaintext highlighter-rouge">&lt;dashed&gt;</code> - defines the stroke style. Use <code class="language-plaintext highlighter-rouge">"1"</code> to enable dashes and <code class="language-plaintext highlighter-rouge">"0"</code> for a solid line.</li>
+  <li><code class="language-plaintext highlighter-rouge">&lt;dashpattern&gt;</code> - defines the pattern of dashes and spaces on dashed strokes (when these are enabled). Use a sequence of space-separated “on, off” lengths to define the number of points used to draw a line or a space. The pattern repeats, and the default is <code class="language-plaintext highlighter-rouge">"3 3"</code>. You can define a more complex pattern with <code class="language-plaintext highlighter-rouge">"5 3 2 6"</code>, for example. An even number of elements in the <em>dashpattern</em> looks more balanced, but is not required.</li>
+  <li><code class="language-plaintext highlighter-rouge">&lt;linejoin&gt;</code>, <code class="language-plaintext highlighter-rouge">&lt;linecap&gt;</code> and <code class="language-plaintext highlighter-rouge">&lt;miterlimit&gt;</code> - determine how two connecting segments of a line are joined together, how the end points of every line are drawn, and the maximum distance between the outer and inner connection points of two lines respectively. For a visual example, refer to the <a href="https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors">Mozilla page on Canvas styling</a>. diagrams.net uses the same definitions, except that <em>linecap</em> is <code class="language-plaintext highlighter-rouge">"flat"</code> instead of Canvas’ <code class="language-plaintext highlighter-rouge">"butt"</code>.</li>
+</ul>
+
+<p>For font styling, the following elements are used:</p>
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">&lt;fontsize&gt;</code> - an integer.</li>
+  <li><code class="language-plaintext highlighter-rouge">&lt;fontstyle&gt;</code>- an ORed bit pattern that indicates bold (1), italic (2) and underline (4). For example, <em>bold underline</em> is defined by the value <code class="language-plaintext highlighter-rouge">"5"</code>.</li>
+  <li><code class="language-plaintext highlighter-rouge">&lt;fontfamily&gt;</code> - a string that defines the typeface to be used.</li>
+</ul>
+
+<h3 id="drawing">Drawing</h3>
+<p>Most of the drawing (the lines inside the shape) is contained within a <code class="language-plaintext highlighter-rouge">&lt;path&gt;</code> element. The graphic primitives used by mxGraph in diagrams.net are very similar to that of HTML 5 Canvas.</p>
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">&lt;move&gt;</code> - to attributes, required decimals <code class="language-plaintext highlighter-rouge">(x,y)</code>.</li>
+  <li><code class="language-plaintext highlighter-rouge">&lt;line&gt;</code> - to attributes, required decimals <code class="language-plaintext highlighter-rouge">(x,y)</code>.</li>
+  <li><code class="language-plaintext highlighter-rouge">&lt;quad&gt;</code> - to required decimals <code class="language-plaintext highlighter-rouge">(x2,y2)</code> via the control point, required decimals <code class="language-plaintext highlighter-rouge">(x1,y1)</code>.</li>
+  <li><code class="language-plaintext highlighter-rouge">&lt;curve&gt;</code> - to required decimals <code class="language-plaintext highlighter-rouge">(x3,y3)</code>, via control points, required decimals <code class="language-plaintext highlighter-rouge">(x1,y1)</code> and <code class="language-plaintext highlighter-rouge">(x2,y2)</code>.</li>
+  <li><code class="language-plaintext highlighter-rouge">&lt;arc&gt;</code> - a copy of the SVG arc command and doesn’t follow the HTML Canvas signatures. The <a href="http://www.w3.org/TR/SVG/paths.html#PathDataEllipticalArcCommands">SVG specification documentation</a> gives the best description of its behaviour. The attributes are named identically, all decimals, and all required.</li>
+  <li><code class="language-plaintext highlighter-rouge">&lt;close&gt;</code> - ends the current subpath and causes an automatic straight line to be drawn from the current point to the initial point of the current subpath.</li>
+</ul>
+
+<h4 id="complex-drawing">Complex drawing</h4>
+<p>In addition to the graphics primitive operations described above, there are non-primitive operations. Use these to more easily draw some of the basic shapes:</p>
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">&lt;rect&gt;</code> - attributes <code class="language-plaintext highlighter-rouge">"x"</code>, <code class="language-plaintext highlighter-rouge">"y"</code>, <code class="language-plaintext highlighter-rouge">"w"</code>, <code class="language-plaintext highlighter-rouge">"h"</code>, all required decimals.</li>
+  <li><code class="language-plaintext highlighter-rouge">&lt;roundrect&gt;</code> - attributes <code class="language-plaintext highlighter-rouge">"x"</code>, <code class="language-plaintext highlighter-rouge">"y"</code>, <code class="language-plaintext highlighter-rouge">"w"</code>, <code class="language-plaintext highlighter-rouge">"h"</code>, all required decimals. Also <code class="language-plaintext highlighter-rouge">"arcsize"</code> an optional decimal attribute defining how large the corner curves are.</li>
+  <li><code class="language-plaintext highlighter-rouge">&lt;ellipse&gt;</code> - attributes <code class="language-plaintext highlighter-rouge">"x"</code>, <code class="language-plaintext highlighter-rouge">"y"</code>, <code class="language-plaintext highlighter-rouge">"w"</code>, <code class="language-plaintext highlighter-rouge">"h"</code>, all required decimals.</li>
+</ul>
+
+<p><strong>Note:</strong> these three shapes and all of their paths must be followed by either a <em>fill</em>, <em>stroke</em>, or <em>fillstroke</em> to render them.</p>
+
+<h3 id="text"><code class="language-plaintext highlighter-rouge">&lt;text&gt;</code></h3>
+<p><em>Text</em> elements have the following attributes:</p>
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">str</code> - the text string to display, required.</li>
+  <li><code class="language-plaintext highlighter-rouge">x</code> and <code class="language-plaintext highlighter-rouge">y</code> - the decimal location <code class="language-plaintext highlighter-rouge">(x,y)</code> of the text element, required.</li>
+  <li><code class="language-plaintext highlighter-rouge">align</code> - the horizontal alignment of the text element, either <code class="language-plaintext highlighter-rouge">"left"</code>, <code class="language-plaintext highlighter-rouge">"center"</code> or <code class="language-plaintext highlighter-rouge">"right"</code>. Optional, default is <code class="language-plaintext highlighter-rouge">"left"</code>.</li>
+  <li><code class="language-plaintext highlighter-rouge">valign</code>- the vertical alignment of the text element, either <code class="language-plaintext highlighter-rouge">"top"</code>, <code class="language-plaintext highlighter-rouge">"middle"</code> or <code class="language-plaintext highlighter-rouge">"bottom"</code>. Optional, default is <code class="language-plaintext highlighter-rouge">"top"</code>.</li>
+  <li><code class="language-plaintext highlighter-rouge">localized</code> - <code class="language-plaintext highlighter-rouge">0</code> or <code class="language-plaintext highlighter-rouge">1</code>. If <code class="language-plaintext highlighter-rouge">1</code> then the <code class="language-plaintext highlighter-rouge">"str"</code> actually contains a key used to fetch the value out of <code class="language-plaintext highlighter-rouge">mxResources</code>. Optional, default is <code class="language-plaintext highlighter-rouge">0</code>, currently unused in diagrams.net.</li>
+  <li><code class="language-plaintext highlighter-rouge">vertical</code> - <code class="language-plaintext highlighter-rouge">0</code> or <code class="language-plaintext highlighter-rouge">1</code>. If <code class="language-plaintext highlighter-rouge">1</code> then the label is rendered vertically (rotated by 90 degrees). Optional, default is <code class="language-plaintext highlighter-rouge">0</code>.</li>
+  <li><code class="language-plaintext highlighter-rouge">rotation</code> - angle in degrees (<code class="language-plaintext highlighter-rouge">0</code> to <code class="language-plaintext highlighter-rouge">360</code>). The angle to rotate the text by. Optional, default is <code class="language-plaintext highlighter-rouge">0</code>.</li>
+  <li><code class="language-plaintext highlighter-rouge">align-shape</code> - <code class="language-plaintext highlighter-rouge">0</code> or <code class="language-plaintext highlighter-rouge">1</code>. If <code class="language-plaintext highlighter-rouge">0</code> then the rotation of the shape is ignored when setting the text rotation. Optional, default is <code class="language-plaintext highlighter-rouge">1</code>.</li>
+  <li><code class="language-plaintext highlighter-rouge">placeholders</code> - <code class="language-plaintext highlighter-rouge">0</code> or <code class="language-plaintext highlighter-rouge">1</code>. If <code class="language-plaintext highlighter-rouge">1</code> then placeholders of the form <code class="language-plaintext highlighter-rouge">%name%</code> will be replaced with their values. Optional, default is <code class="language-plaintext highlighter-rouge">0</code>.</li>
+</ul>
+
+<h3 id="image"><code class="language-plaintext highlighter-rouge">&lt;image&gt;</code></h3>
+<p><em>Image</em> elements can either be <a href="http://en.wikipedia.org/wiki/Data_URI_scheme">external URLs, or data URIs, where supported</a> (not supported in IE 7 or earlier versions).</p>
+
+<p>Attributes are:</p>
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">src</code> - required string. Either a data URI or URL.</li>
+  <li><code class="language-plaintext highlighter-rouge">x,y</code> - required decimals. The <code class="language-plaintext highlighter-rouge">(x,y)</code> position of the image.</li>
+  <li><code class="language-plaintext highlighter-rouge">w,h</code> - required decimals. The width and height of the image.</li>
+  <li><code class="language-plaintext highlighter-rouge">flipH</code>, <code class="language-plaintext highlighter-rouge">flipV</code> = optional <code class="language-plaintext highlighter-rouge">0</code> or <code class="language-plaintext highlighter-rouge">1</code>. Used to flip the image along the horizontal/vertical axis. Default is <code class="language-plaintext highlighter-rouge">0</code> for both.</li>
+</ul>
+
+<h3 id="sub-shapes">Sub-shapes</h3>
+
+<p><strong>Note:</strong> This is only supported with the built-in shapes at diagrams.net.</p>
+
+<p><code class="language-plaintext highlighter-rouge">&lt;include-shape&gt;</code> allows sub-shapes to be rendered within the current shape by referencing the sub-shape by name.</p>
+
+<p>Attributes are:</p>
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">name</code> - required string. The unique shape name.</li>
+  <li><code class="language-plaintext highlighter-rouge">x,y</code>, and <code class="language-plaintext highlighter-rouge">w,h</code> -required decimals. The <code class="language-plaintext highlighter-rouge">(x,y)</code> position of the sub-shape and its width and height.</li>
+</ul>
+
+<h2 id="example-complex-custom-shape">Example complex custom shape</h2>
+
+<p><img src="/assets/img/blog/edit-shape-dialog-complex-shape.png" style="width=100%;max-width:300px;height:auto;" alt="A complex custom shape and its code, created in diagrams.net" /></p>
+
+<p>This complex custom shape is represented by the following XML code. Copy and paste this XML into the <em>Edit Shape</em> dialog via <em>Arrange &gt; Insert &gt; Shape</em> in <a href="https://app.diagrams.net/">diagrams.net</a>, then click <em>Preview</em>.</p>
+
+<div class="language-xml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;shape</span> <span class="na">aspect=</span><span class="s">"variable"</span> <span class="na">h=</span><span class="s">"211"</span> <span class="na">w=</span><span class="s">"200"</span> <span class="na">strokewidth=</span><span class="s">"inherit"</span><span class="nt">&gt;</span>
+    <span class="nt">&lt;connections&gt;</span>
+         <span class="nt">&lt;constraint</span> <span class="na">x=</span><span class="s">"0.5"</span> <span class="na">y=</span><span class="s">"0"</span> <span class="na">perimeter=</span><span class="s">"0"</span> <span class="na">name=</span><span class="s">"N"</span><span class="nt">/&gt;</span>
+         <span class="nt">&lt;constraint</span> <span class="na">x=</span><span class="s">"0.5"</span> <span class="na">y=</span><span class="s">"1"</span> <span class="na">perimeter=</span><span class="s">"0"</span> <span class="na">name=</span><span class="s">"S"</span><span class="nt">/&gt;</span>
+         <span class="nt">&lt;constraint</span> <span class="na">x=</span><span class="s">"0"</span> <span class="na">y=</span><span class="s">"0.5"</span> <span class="na">perimeter=</span><span class="s">"0"</span> <span class="na">name=</span><span class="s">"W"</span><span class="nt">/&gt;</span>
+         <span class="nt">&lt;constraint</span> <span class="na">x=</span><span class="s">"1"</span> <span class="na">y=</span><span class="s">"0.5"</span> <span class="na">perimeter=</span><span class="s">"0"</span> <span class="na">name=</span><span class="s">"E"</span><span class="nt">/&gt;</span>
+         <span class="nt">&lt;constraint</span> <span class="na">x=</span><span class="s">"0"</span> <span class="na">y=</span><span class="s">"0"</span> <span class="na">perimeter=</span><span class="s">"0"</span> <span class="na">name=</span><span class="s">"NW"</span><span class="nt">/&gt;</span>
+         <span class="nt">&lt;constraint</span> <span class="na">x=</span><span class="s">"1"</span> <span class="na">y=</span><span class="s">"0"</span> <span class="na">perimeter=</span><span class="s">"0"</span> <span class="na">name=</span><span class="s">"NE"</span><span class="nt">/&gt;</span>
+         <span class="nt">&lt;constraint</span> <span class="na">x=</span><span class="s">"1"</span> <span class="na">y=</span><span class="s">"1"</span> <span class="na">perimeter=</span><span class="s">"0"</span> <span class="na">name=</span><span class="s">"SE"</span><span class="nt">/&gt;</span>
+         <span class="nt">&lt;constraint</span> <span class="na">x=</span><span class="s">"0"</span> <span class="na">y=</span><span class="s">"1"</span> <span class="na">perimeter=</span><span class="s">"0"</span> <span class="na">name=</span><span class="s">"SW"</span><span class="nt">/&gt;</span>
+    <span class="nt">&lt;/connections&gt;</span>
+    <span class="nt">&lt;background&gt;</span>
+        <span class="nt">&lt;strokecolor</span> <span class="na">color=</span><span class="s">"#000000"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;fillcolor</span> <span class="na">color=</span><span class="s">"#ffffff"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;rect</span> <span class="na">h=</span><span class="s">"200"</span> <span class="na">w=</span><span class="s">"200"</span> <span class="na">x=</span><span class="s">"0"</span> <span class="na">y=</span><span class="s">"11"</span><span class="nt">/&gt;</span>
+    <span class="nt">&lt;/background&gt;</span>
+    <span class="nt">&lt;foreground&gt;</span>
+        <span class="nt">&lt;fillstroke/&gt;</span>
+        <span class="nt">&lt;save/&gt;</span>
+        <span class="nt">&lt;save/&gt;</span>
+        <span class="nt">&lt;save/&gt;</span>
+        <span class="nt">&lt;save/&gt;</span>
+        <span class="nt">&lt;save/&gt;</span>
+        <span class="nt">&lt;save/&gt;</span>
+        <span class="nt">&lt;save/&gt;</span>
+        <span class="nt">&lt;dashpattern</span> <span class="na">pattern=</span><span class="s">"2 2"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;dashed</span> <span class="na">dashed=</span><span class="s">"1"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;rect</span> <span class="na">h=</span><span class="s">"150"</span> <span class="na">w=</span><span class="s">"150"</span> <span class="na">x=</span><span class="s">"25"</span> <span class="na">y=</span><span class="s">"36"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;stroke/&gt;</span>
+        <span class="nt">&lt;strokecolor</span> <span class="na">color=</span><span class="s">"#ff0000"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;strokewidth</span> <span class="na">width=</span><span class="s">"4"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;linejoin</span> <span class="na">join=</span><span class="s">"round"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;linecap</span> <span class="na">cap=</span><span class="s">"round"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;dashpattern</span> <span class="na">pattern=</span><span class="s">"5 5"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;rect</span> <span class="na">h=</span><span class="s">"100"</span> <span class="na">w=</span><span class="s">"100"</span> <span class="na">x=</span><span class="s">"50"</span> <span class="na">y=</span><span class="s">"61"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;stroke/&gt;</span>
+        <span class="nt">&lt;restore/&gt;</span>
+        <span class="nt">&lt;rect/&gt;</span>
+        <span class="nt">&lt;stroke/&gt;</span>
+        <span class="nt">&lt;strokecolor</span> <span class="na">color=</span><span class="s">"#000000"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;fillcolor</span> <span class="na">color=</span><span class="s">"none"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;strokewidth</span> <span class="na">width=</span><span class="s">"5"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;alpha</span> <span class="na">alpha=</span><span class="s">"0.25"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;path&gt;</span>
+            <span class="nt">&lt;move</span> <span class="na">x=</span><span class="s">"0"</span> <span class="na">y=</span><span class="s">"11"</span><span class="nt">/&gt;</span>
+            <span class="nt">&lt;line</span> <span class="na">x=</span><span class="s">"200"</span> <span class="na">y=</span><span class="s">"211"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;/path&gt;</span>
+        <span class="nt">&lt;stroke/&gt;</span>
+        <span class="nt">&lt;restore/&gt;</span>
+        <span class="nt">&lt;rect/&gt;</span>
+        <span class="nt">&lt;stroke/&gt;</span>
+        <span class="nt">&lt;strokecolor</span> <span class="na">color=</span><span class="s">"#000000"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;fillcolor</span> <span class="na">color=</span><span class="s">"none"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;dashpattern</span> <span class="na">pattern=</span><span class="s">"2 5"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;dashed</span> <span class="na">dashed=</span><span class="s">"1"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;path&gt;</span>
+            <span class="nt">&lt;move</span> <span class="na">x=</span><span class="s">"200"</span> <span class="na">y=</span><span class="s">"11"</span><span class="nt">/&gt;</span>
+            <span class="nt">&lt;line</span> <span class="na">x=</span><span class="s">"0"</span> <span class="na">y=</span><span class="s">"211"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;/path&gt;</span>
+        <span class="nt">&lt;stroke/&gt;</span>
+        <span class="nt">&lt;restore/&gt;</span>
+        <span class="nt">&lt;rect/&gt;</span>
+        <span class="nt">&lt;stroke/&gt;</span>
+        <span class="nt">&lt;strokecolor</span> <span class="na">color=</span><span class="s">"#000000"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;fillcolor</span> <span class="na">color=</span><span class="s">"none"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;ellipse</span> <span class="na">h=</span><span class="s">"150"</span> <span class="na">w=</span><span class="s">"150"</span> <span class="na">x=</span><span class="s">"25"</span> <span class="na">y=</span><span class="s">"36"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;stroke/&gt;</span>
+        <span class="nt">&lt;fillcolor</span> <span class="na">color=</span><span class="s">"#66ff66"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;alpha</span> <span class="na">alpha=</span><span class="s">"0.5"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;ellipse</span> <span class="na">h=</span><span class="s">"100"</span> <span class="na">w=</span><span class="s">"100"</span> <span class="na">x=</span><span class="s">"50"</span> <span class="na">y=</span><span class="s">"61"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;fillstroke/&gt;</span>
+        <span class="nt">&lt;restore/&gt;</span>
+        <span class="nt">&lt;rect/&gt;</span>
+        <span class="nt">&lt;stroke/&gt;</span>
+        <span class="nt">&lt;strokecolor</span> <span class="na">color=</span><span class="s">"#000000"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;fillcolor</span> <span class="na">color=</span><span class="s">"none"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;ellipse</span> <span class="na">h=</span><span class="s">"25"</span> <span class="na">w=</span><span class="s">"200"</span> <span class="na">x=</span><span class="s">"0"</span> <span class="na">y=</span><span class="s">"186"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;stroke/&gt;</span>
+        <span class="nt">&lt;ellipse</span> <span class="na">h=</span><span class="s">"200"</span> <span class="na">w=</span><span class="s">"25"</span> <span class="na">x=</span><span class="s">"0"</span> <span class="na">y=</span><span class="s">"11"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;stroke/&gt;</span>
+        <span class="nt">&lt;path&gt;</span>
+            <span class="nt">&lt;move</span> <span class="na">x=</span><span class="s">"150"</span> <span class="na">y=</span><span class="s">"55"</span><span class="nt">/&gt;</span>
+            <span class="nt">&lt;line</span> <span class="na">x=</span><span class="s">"50"</span> <span class="na">y=</span><span class="s">"55"</span><span class="nt">/&gt;</span>
+            <span class="nt">&lt;line</span> <span class="na">x=</span><span class="s">"100"</span> <span class="na">y=</span><span class="s">"11"</span><span class="nt">/&gt;</span>
+            <span class="nt">&lt;close/&gt;</span>
+        <span class="nt">&lt;/path&gt;</span>
+        <span class="nt">&lt;stroke/&gt;</span>
+        <span class="nt">&lt;path&gt;</span>
+            <span class="nt">&lt;move</span> <span class="na">x=</span><span class="s">"180"</span> <span class="na">y=</span><span class="s">"36"</span><span class="nt">/&gt;</span>
+            <span class="nt">&lt;line</span> <span class="na">x=</span><span class="s">"180"</span> <span class="na">y=</span><span class="s">"61"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;/path&gt;</span>
+        <span class="nt">&lt;stroke/&gt;</span>
+        <span class="nt">&lt;strokewidth</span> <span class="na">width=</span><span class="s">"2"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;linecap</span> <span class="na">cap=</span><span class="s">"round"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;path&gt;</span>
+            <span class="nt">&lt;move</span> <span class="na">x=</span><span class="s">"185"</span> <span class="na">y=</span><span class="s">"36"</span><span class="nt">/&gt;</span>
+            <span class="nt">&lt;line</span> <span class="na">x=</span><span class="s">"185"</span> <span class="na">y=</span><span class="s">"111"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;/path&gt;</span>
+        <span class="nt">&lt;stroke/&gt;</span>
+        <span class="nt">&lt;restore/&gt;</span>
+        <span class="nt">&lt;rect/&gt;</span>
+        <span class="nt">&lt;stroke/&gt;</span>
+        <span class="nt">&lt;strokecolor</span> <span class="na">color=</span><span class="s">"#000000"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;fillcolor</span> <span class="na">color=</span><span class="s">"none"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;strokewidth</span> <span class="na">width=</span><span class="s">"3"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;alpha</span> <span class="na">alpha=</span><span class="s">"0.5"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;path&gt;</span>
+            <span class="nt">&lt;move</span> <span class="na">x=</span><span class="s">"190"</span> <span class="na">y=</span><span class="s">"36"</span><span class="nt">/&gt;</span>
+            <span class="nt">&lt;line</span> <span class="na">x=</span><span class="s">"190"</span> <span class="na">y=</span><span class="s">"161"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;/path&gt;</span>
+        <span class="nt">&lt;stroke/&gt;</span>
+        <span class="nt">&lt;restore/&gt;</span>
+        <span class="nt">&lt;rect/&gt;</span>
+        <span class="nt">&lt;stroke/&gt;</span>
+        <span class="nt">&lt;strokecolor</span> <span class="na">color=</span><span class="s">"#000000"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;fillcolor</span> <span class="na">color=</span><span class="s">"none"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;strokewidth</span> <span class="na">width=</span><span class="s">"4"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;dashpattern</span> <span class="na">pattern=</span><span class="s">"5 5"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;dashed</span> <span class="na">dashed=</span><span class="s">"1"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;path&gt;</span>
+            <span class="nt">&lt;move</span> <span class="na">x=</span><span class="s">"195"</span> <span class="na">y=</span><span class="s">"36"</span><span class="nt">/&gt;</span>
+            <span class="nt">&lt;line</span> <span class="na">x=</span><span class="s">"195"</span> <span class="na">y=</span><span class="s">"186"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;/path&gt;</span>
+        <span class="nt">&lt;stroke/&gt;</span>
+        <span class="nt">&lt;restore/&gt;</span>
+        <span class="nt">&lt;rect/&gt;</span>
+        <span class="nt">&lt;stroke/&gt;</span>
+        <span class="nt">&lt;strokecolor</span> <span class="na">color=</span><span class="s">"#000000"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;fillcolor</span> <span class="na">color=</span><span class="s">"none"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;path&gt;</span>
+            <span class="nt">&lt;move</span> <span class="na">x=</span><span class="s">"26"</span> <span class="na">y=</span><span class="s">"22.75"</span><span class="nt">/&gt;</span>
+            <span class="nt">&lt;curve</span> <span class="na">x1=</span><span class="s">"26"</span> <span class="na">x2=</span><span class="s">"35.25"</span> <span class="na">x3=</span><span class="s">"41.5"</span> <span class="na">y1=</span><span class="s">"22.75"</span> <span class="na">y2=</span><span class="s">"0"</span> <span class="na">y3=</span><span class="s">"22.25"</span><span class="nt">/&gt;</span>
+            <span class="nt">&lt;curve</span> <span class="na">x1=</span><span class="s">"47.75"</span> <span class="na">x2=</span><span class="s">"55.25"</span> <span class="na">x3=</span><span class="s">"56.75"</span> <span class="na">y1=</span><span class="s">"44.5"</span> <span class="na">y2=</span><span class="s">"27.5"</span> <span class="na">y3=</span><span class="s">"20.25"</span><span class="nt">/&gt;</span>
+            <span class="nt">&lt;curve</span> <span class="na">x1=</span><span class="s">"58.25"</span> <span class="na">x2=</span><span class="s">"62.75"</span> <span class="na">x3=</span><span class="s">"75.75"</span> <span class="na">y1=</span><span class="s">"13"</span> <span class="na">y2=</span><span class="s">"21.5"</span> <span class="na">y3=</span><span class="s">"21"</span><span class="nt">/&gt;</span>
+            <span class="nt">&lt;curve</span> <span class="na">x1=</span><span class="s">"88.75"</span> <span class="na">x2=</span><span class="s">"83.5"</span> <span class="na">x3=</span><span class="s">"69.25"</span> <span class="na">y1=</span><span class="s">"20.5"</span> <span class="na">y2=</span><span class="s">"23.25"</span> <span class="na">y3=</span><span class="s">"30"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;/path&gt;</span>
+        <span class="nt">&lt;stroke/&gt;</span>
+        <span class="nt">&lt;path&gt;</span>
+            <span class="nt">&lt;move</span> <span class="na">x=</span><span class="s">"122.5"</span> <span class="na">y=</span><span class="s">"21.5"</span><span class="nt">/&gt;</span>
+            <span class="nt">&lt;curve</span> <span class="na">x1=</span><span class="s">"130.25"</span> <span class="na">x2=</span><span class="s">"138.5"</span> <span class="na">x3=</span><span class="s">"138.25"</span> <span class="na">y1=</span><span class="s">"23.25"</span> <span class="na">y2=</span><span class="s">"10.5"</span> <span class="na">y3=</span><span class="s">"17.5"</span><span class="nt">/&gt;</span>
+            <span class="nt">&lt;curve</span> <span class="na">x1=</span><span class="s">"138"</span> <span class="na">x2=</span><span class="s">"156"</span> <span class="na">x3=</span><span class="s">"149.25"</span> <span class="na">y1=</span><span class="s">"24.5"</span> <span class="na">y2=</span><span class="s">"12.5"</span> <span class="na">y3=</span><span class="s">"17"</span><span class="nt">/&gt;</span>
+            <span class="nt">&lt;curve</span> <span class="na">x1=</span><span class="s">"142.5"</span> <span class="na">x2=</span><span class="s">"167.75"</span> <span class="na">x3=</span><span class="s">"163.75"</span> <span class="na">y1=</span><span class="s">"21.5"</span> <span class="na">y2=</span><span class="s">"24"</span> <span class="na">y3=</span><span class="s">"18.75"</span><span class="nt">/&gt;</span>
+            <span class="nt">&lt;curve</span> <span class="na">x1=</span><span class="s">"159.75"</span> <span class="na">x2=</span><span class="s">"180.75"</span> <span class="na">x3=</span><span class="s">"177"</span> <span class="na">y1=</span><span class="s">"13.5"</span> <span class="na">y2=</span><span class="s">"11.5"</span> <span class="na">y3=</span><span class="s">"14.25"</span><span class="nt">/&gt;</span>
+            <span class="nt">&lt;curve</span> <span class="na">x1=</span><span class="s">"173.25"</span> <span class="na">x2=</span><span class="s">"166.5"</span> <span class="na">x3=</span><span class="s">"172.75"</span> <span class="na">y1=</span><span class="s">"17"</span> <span class="na">y2=</span><span class="s">"30.5"</span> <span class="na">y3=</span><span class="s">"26.25"</span><span class="nt">/&gt;</span>
+            <span class="nt">&lt;curve</span> <span class="na">x1=</span><span class="s">"179"</span> <span class="na">x2=</span><span class="s">"178.5"</span> <span class="na">x3=</span><span class="s">"172.5"</span> <span class="na">y1=</span><span class="s">"22"</span> <span class="na">y2=</span><span class="s">"29.5"</span> <span class="na">y3=</span><span class="s">"31.25"</span><span class="nt">/&gt;</span>
+            <span class="nt">&lt;curve</span> <span class="na">x1=</span><span class="s">"166.5"</span> <span class="na">x2=</span><span class="s">"149.25"</span> <span class="na">x3=</span><span class="s">"151.5"</span> <span class="na">y1=</span><span class="s">"33"</span> <span class="na">y2=</span><span class="s">"35.25"</span> <span class="na">y3=</span><span class="s">"31.5"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;/path&gt;</span>
+        <span class="nt">&lt;stroke/&gt;</span>
+        <span class="nt">&lt;strokecolor</span> <span class="na">color=</span><span class="s">"#0033cc"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;fillcolor</span> <span class="na">color=</span><span class="s">"#00ffff"</span><span class="nt">/&gt;</span>
+        <span class="nt">&lt;path&gt;</span>
+            <span class="nt">&lt;move</span> <span class="na">x=</span><span class="s">"8"</span> <span class="na">y=</span><span class="s">"57"</span><span class="nt">/&gt;</span>
+            <span class="nt">&lt;line</span> <span class="na">x=</span><span class="s">"16.25"</span> <span class="na">y=</span><span class="s">"76"</span><span class="nt">/&gt;</span>
+            <span class="nt">&lt;line</span> <span class="na">x=</span><span class="s">"9.75"</span> <span class="na">y=</span><span class="s">"87.5"</span><span class="nt">/&gt;</span>
+            <span class="nt">&lt;line</span> <span class="na">x=</span><span class="s">"17"</span> <span class="na">y=</span><span class="s">"95.75"</span><span class="nt">/&gt;</span>
+            <span class="nt">&lt;line</span> <span class="na">x=</span><span class="s">"20"</span> <span class="na">y=</span><span class="s">"91"</span><span class="nt">/&gt;</span>
+            <span class="nt">&lt;line</span> <span class="na">x=</span><span class="s">"20.75"</span> <span class="na">y=</span><span class="s">"101.5"</span><span class="nt">/&gt;</span>
+            <span class="nt">&lt;line</span> <span class="na">x=</span><span class="s">"16.75"</span> <span class="na">y=</span><span class="s">"101"</span><span class="nt">/&gt;</span>
+            <span class="nt">&lt;line</span> <span class="na">x=</span><span class="s">"15.5"</span> <span class="na">y=</span><span class="s">"109.75"</span><span class="nt">/&gt;</span>
+            <span class="nt">&lt;line</span> <span class="na">x=</span><span class="s">"8.5"</span> <span class="na">y=</span><span class="s">"105"</span><span class="nt">/&gt;</span>
+            <span class="nt">&lt;line</span> <span class="na">x=</span><span class="s">"6.75"</span> <span class="na">y=</span><span class="s">"111"</span><span class="nt">/&gt;</span>
+            <span class="nt">&lt;line</span> <span class="na">x=</span><span class="s">"2.5"</span> <span class="na">y=</span><span class="s">"84"</span><span class="nt">/&gt;</span>
+            <span class="nt">&lt;line</span> <span class="na">x=</span><span class="s">"9.25"</span> <span class="na">y=</span><span class="s">"76.75"</span><span class="nt">/&gt;</span>
+            <span class="nt">&lt;close/&gt;</span>
+        <span class="nt">&lt;/path&gt;</span>
+        <span class="nt">&lt;fillstroke/&gt;</span>
+    <span class="nt">&lt;/foreground&gt;</span>
+<span class="nt">&lt;/shape&gt;</span>
+</code></pre></div></div>
+
+
+    </div>
+  </div>
+  <!-- End Article Description Section -->
+</main>
+<!-- ========== END MAIN ========== -->
+
+<!-- JS Global Compulsory -->
+<script src="../../assets/js/jquery.min.js"></script>
+<script src="../../assets/js/jquery-migrate.min.js"></script>
+<script src="../../assets/js/popper.min.js"></script>
+<script src="../../assets/js/bootstrap.min.js"></script>
+
+<!-- JS Implementing Plugins -->
+<script src="../../assets/js/hs.megamenu.js"></script>
+
+<!-- JS Front -->
+<script src="../../assets/js/hs.core.js"></script>
+<script src="../../assets/js/hs.header.js"></script>
+<script src="../../assets/js/hs.unfold.js"></script>
+<script src="../../assets/js/hs.focus-state.js"></script>
+<script src="../../assets/js/hs.show-animation.js"></script>
+
+<!-- JS Plugins Init. -->
+<script>
+  $(window).on('load', function () {
+    // initialization of HSMegaMenu component
+    $('.js-mega-menu').HSMegaMenu({
+      event: 'hover',
+      pageContainer: $('.container'),
+      breakpoint: 767.98,
+      hideTimeOut: 0
+    });
+  });
+
+  $(document).on('ready', function () {
+    // initialization of header
+    $.HSCore.components.HSHeader.init($('#header'));
+
+    // initialization of unfold component
+    $.HSCore.components.HSUnfold.init($('[data-unfold-target]'), {
+      afterOpen: function () {
+        $(this).find('input[type="search"]').focus();
+      }
+    });
+
+    // initialization of show animations
+    $.HSCore.components.HSShowAnimation.init('.js-animation-link');
+
+    // initialization of forms
+    $.HSCore.components.HSFocusState.init();
+  });
+</script>
+
+<!-- ========== FOOTER ========== -->
+<footer class="bg-dark">
+  <div class="container space-2">
+    <div class="row mb-7">
+      <div class="col-lg-4 mb-5 mb-lg-0">
+        <a class="d-inline-flex align-items-center mb-2" href="/index.html" aria-label="Front">
+          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="36px" height="36px" viewBox="0 0 250 250" xml:space="preserve" style="margin-bottom: 0;">
+            <style type="text/css">
+            	.st0{fill:#F08705;}
+            	.st1{fill:#DF6C0C;}
+            	.st2{fill:#FFFFFF;}
+            </style>
+            <path class="st0" d="M237.5,227.9c0,5.3-4.3,9.6-9.5,9.6c0,0,0,0,0,0H22.1c-5.3,0-9.6-4.3-9.6-9.5c0,0,0,0,0,0V22.1
+            	c0-5.3,4.3-9.6,9.5-9.6c0,0,0,0,0,0h205.9c5.3,0,9.6,4.3,9.6,9.5c0,0,0,0,0,0V227.9z"/>
+            <path class="st1" d="M237.5,227.9c0,5.3-4.3,9.6-9.5,9.6c0,0,0,0,0,0H89.6L44.8,192l27.9-45.5l82.7-102.7l82.1,84.5V227.9z"/>
+            <path class="st2" d="M197.1,138.3h-23.7l-25-42.7c5.7-1.2,9.8-6.2,9.7-12V51.5c0-6.8-5.4-12.3-12.2-12.3c0,0-0.1,0-0.1,0h-41.7
+            	c-6.8,0-12.3,5.4-12.3,12.2c0,0,0,0.1,0,0.1v32.1c0,5.8,4,10.8,9.7,12l-25,42.7H52.9c-6.8,0-12.3,5.4-12.3,12.2c0,0,0,0.1,0,0.1
+            	v32.1c0,6.8,5.4,12.3,12.2,12.3c0,0,0.1,0,0.1,0h41.7c6.8,0,12.3-5.4,12.3-12.2c0,0,0-0.1,0-0.1v-32.1c0-6.8-5.4-12.3-12.2-12.3
+            	c0,0-0.1,0-0.1,0h-4l24.8-42.4h19.3l24.9,42.4h-4.1c-6.8,0-12.3,5.4-12.3,12.2c0,0,0,0.1,0,0.1v32.1c0,6.8,5.4,12.3,12.2,12.3
+            	c0,0,0.1,0,0.1,0h41.7c6.8,0,12.3-5.4,12.3-12.2c0,0,0-0.1,0-0.1v-32.1c0-6.8-5.4-12.3-12.2-12.3
+            	C197.2,138.3,197.2,138.3,197.1,138.3z"/>
+          </svg>
+          <span class="brand brand-light">diagrams.net</span>
+        </a>
+      </div>
+
+      <div class="col-6 col-lg-2 mb-5 mb-lg-0">
+        <h4 class="h6 text-white font-weight-medium">Help and advice</h4>
+        <ul class="list-unstyled font-size-1">
+          <li class="py-2"><a class="text-white-70" href="/doc/">Getting started</a></li>
+          <li class="py-2"><a class="text-white-70" href="/integrations.html">Integrations</a></li>
+          <li class="py-2"><a class="text-white-70" href="/doc/">Documentation</a></li>
+          <li class="py-2"><a class="text-white-70" href="/doc/faq/">FAQ</a></li>
+        </ul>
+      </div>
+
+      <div class="col-6 col-lg-2 mb-5 mb-lg-0">
+        <h4 class="h6 text-white font-weight-medium">About us</h4>
+        <ul class="list-unstyled font-size-1">
+          <li class="py-2"><a class="text-white-70" href="/about.html">About diagrams.net</a></li>
+          <li class="py-2"><a class="text-white-70" href="https://github.com/jgraph">Contribute</a></li>
+          <li class="py-2"><a class="text-white-70" href="/trust/">Legal &amp; Privacy</a></li>
+        </ul>
+      </div>
+
+      <div class="col-lg-4">
+        <!-- Form -->
+        <form class="js-validate mb-2">
+          <h4 class="h6 text-white font-weight-medium mb-3">We ran out of footer items</h4>
+          <div class="form-row">
+            <div class="col-12">
+              <div class="js-form-message">
+                <label class="sr-only" for="subscribeSrEmail">Email address</label>
+                <div class="input-group">
+                  <input type="email" class="form-control" name="email" id="subscribeSrEmail" placeholder="Email address" aria-label="Email address" required
+                         data-msg="Please enter a valid email address."
+                         data-error-class="u-has-error"
+                         data-success-class="u-has-success">
+                  <div class="input-group-append">
+                    <button type="button" class="btn btn-primary">
+                      <span class="fas fa-arrow-right"></span>
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </form>
+        <!-- End Form -->
+
+        <p class="text-white-70 small mb-0">This form isn't even posted to a server.</p>
+      </div>
+    </div>
+
+    <p class="small text-white-70 mb-0">&copy; 2005-2020 diagrams.net. All rights reserved.</p>
+  </div>
+</footer>
+<!-- ========== END FOOTER ========== -->
+
+<body>
+</html>
