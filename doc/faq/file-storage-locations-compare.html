@@ -1,0 +1,712 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Title -->
+  <title>Compare file storage locations</title>
+
+  <!-- Required Meta Tags Always Come First -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="/favicon.ico">
+
+  <!-- Google Fonts -->
+  <link href="//fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
+  <link href="//fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet"
+
+  <!-- CSS Implementing Plugins -->
+  <link rel="stylesheet" href="/assets/css/fontawesome-all.min.css">
+  <link rel="stylesheet" href="/assets/css/animate.min.css">
+  <link rel="stylesheet" href="/assets/css/hs.megamenu.css">
+  <link rel="stylesheet" href="/assets/css/jquery.mCustomScrollbar.css">
+
+  <!-- CSS Front Template -->
+  <link rel="stylesheet" href="/assets/css/theme.css">
+</head>
+<body>
+<!-- Search Content -->
+<div id="searchSlideDown" class="d-none dropdown-unfold u-search-slide-down" aria-labelledby="searchSlideDownInvoker">
+  <form>
+    <!-- Input Group -->
+    <div class="input-group input-group-borderless u-search-slide-down__input rounded mb-2">
+      <div class="input-group-prepend">
+        <span class="input-group-text">
+          <span class="fas fa-search"></span>
+        </span>
+      </div>
+      <input type="search" class="form-control" placeholder="Search Front" aria-label="Search Front">
+      <div class="input-group-append">
+        <a class="input-group-text" href="javascript:;"
+           aria-label="close"
+           data-unfold-event="click"
+           data-unfold-hide-on-scroll="false"
+           data-unfold-target="#searchSlideDown"
+           data-unfold-type="css-animation"
+           data-unfold-animation-in="active"
+           data-unfold-animation-out="fadeOutUp"
+           data-unfold-delay="0"
+           data-unfold-duration="800"
+           data-unfold-overlay='{
+            "className": "u-search-slide-down-bg-overlay",
+            "background": "rgba(55, 125, 255, .1)",
+            "animationSpeed": 400
+           }'>
+          <span class="fas fa-times" aria-hidden="true"></span>
+        </a>
+      </div>
+    </div>
+    <!-- End Input Group -->
+
+    <!-- Suggestions Content -->
+    <div class="rounded bg-white u-search-slide-down__suggestions py-3 px-5">
+      <ul class="list-group list-group-flush list-group-borderless mb-0">
+        <li><a class="list-group-item list-group-item-action" href="../pages/about-agency.html">About Front</a></li>
+        <li><a class="list-group-item list-group-item-action" href="../../starter/index.html">Getting Started</a></li>
+        <li><a class="list-group-item list-group-item-action" href="../../documentation/index.html">Documentation</a></li>
+      </ul>
+    </div>
+    <!-- End Suggestions Content -->
+  </form>
+</div>
+<!-- End Search Content -->
+
+<!-- ========== HEADER ========== -->
+<header id="header" class="u-header u-header--abs-top-md u-header--bg-transparent u-header--show-hide-md"
+        data-header-fix-moment="500"
+        data-header-fix-effect="slide">
+  <div class="u-header__section">
+    <!-- Topbar -->
+    <div class="d-none container u-header__hide-content pt-2">
+      <div class="d-flex align-items-center">
+        <div class="ml-auto">
+          <!-- Jump To -->
+          <div class="d-none d-inline-block d-sm-none position-relative mr-2">
+            <a id="jumpToDropdownInvoker" class="dropdown-nav-link dropdown-toggle d-flex align-items-center" href="javascript:;" role="button"
+               aria-controls="jumpToDropdown"
+               aria-haspopup="true"
+               aria-expanded="false"
+               data-unfold-event="hover"
+               data-unfold-target="#jumpToDropdown"
+               data-unfold-type="css-animation"
+               data-unfold-duration="300"
+               data-unfold-delay="300"
+               data-unfold-hide-on-scroll="true"
+               data-unfold-animation-in="slideInUp"
+               data-unfold-animation-out="fadeOut">
+              Jump to
+            </a>
+
+            <div id="jumpToDropdown" class="dropdown-menu dropdown-unfold" aria-labelledby="jumpToDropdownInvoker">
+              <a class="dropdown-item" href="../../html/pages/help.html">Help</a>
+            </div>
+          </div>
+          <!-- End Jump To -->
+
+          <!-- Links -->
+          <div class="d-none d-sm-inline-block ml-sm-auto">
+            <ul class="list-inline mb-0">
+              <li class="list-inline-item mr-0">
+                <a class="u-header__navbar-link" href="../pages/help.html">Help</a>
+              </li>
+            </ul>
+          </div>
+          <!-- End Links -->
+        </div>
+
+        <ul class="list-inline ml-2 mb-0">
+          <!-- Search -->
+          <li class="list-inline-item">
+            <a id="searchSlideDownInvoker" class="btn btn-xs btn-icon btn-text-secondary u-search-slide-down-trigger" href="javascript:;" role="button"
+               aria-haspopup="true"
+               aria-expanded="false"
+               aria-controls="searchSlideDown"
+               data-unfold-type="css-animation"
+               data-unfold-hide-on-scroll="false"
+               data-unfold-target="#searchSlideDown"
+               data-unfold-animation-in="active"
+               data-unfold-animation-out="fadeOutUp"
+               data-unfold-delay="0"
+               data-unfold-duration="800"
+               data-unfold-overlay='{
+                "className": "u-search-slide-down-bg-overlay",
+                "background": "rgba(55, 125, 255, .1)",
+                "animationSpeed": 400
+               }'>
+              <span class="fas fa-search btn-icon__inner u-search-slide-down-trigger__icon"></span>
+            </a>
+          </li>
+          <!-- End Search -->
+        </ul>
+      </div>
+    </div>
+    <!-- End Topbar -->
+
+    <div id="logoAndNav" class="container">
+      <!-- Nav -->
+      <nav class="js-mega-menu navbar navbar-expand-md u-header__navbar u-header__navbar--no-space">
+        <!-- Logo -->
+        <a class="navbar-brand u-header__navbar-brand u-header__navbar-brand-center" href="/index.html" aria-label="Front">
+          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="46px" height="46px" viewBox="0 0 250 250" xml:space="preserve" style="margin-bottom: 0; flex: none">
+            <style type="text/css">
+            	.st0{fill:#F08705;}
+            	.st1{fill:#DF6C0C;}
+            	.st2{fill:#FFFFFF;}
+            </style>
+            <path class="st0" d="M237.5,227.9c0,5.3-4.3,9.6-9.5,9.6c0,0,0,0,0,0H22.1c-5.3,0-9.6-4.3-9.6-9.5c0,0,0,0,0,0V22.1
+            	c0-5.3,4.3-9.6,9.5-9.6c0,0,0,0,0,0h205.9c5.3,0,9.6,4.3,9.6,9.5c0,0,0,0,0,0V227.9z"/>
+            <path class="st1" d="M237.5,227.9c0,5.3-4.3,9.6-9.5,9.6c0,0,0,0,0,0H89.6L44.8,192l27.9-45.5l82.7-102.7l82.1,84.5V227.9z"/>
+            <path class="st2" d="M197.1,138.3h-23.7l-25-42.7c5.7-1.2,9.8-6.2,9.7-12V51.5c0-6.8-5.4-12.3-12.2-12.3c0,0-0.1,0-0.1,0h-41.7
+            	c-6.8,0-12.3,5.4-12.3,12.2c0,0,0,0.1,0,0.1v32.1c0,5.8,4,10.8,9.7,12l-25,42.7H52.9c-6.8,0-12.3,5.4-12.3,12.2c0,0,0,0.1,0,0.1
+            	v32.1c0,6.8,5.4,12.3,12.2,12.3c0,0,0.1,0,0.1,0h41.7c6.8,0,12.3-5.4,12.3-12.2c0,0,0-0.1,0-0.1v-32.1c0-6.8-5.4-12.3-12.2-12.3
+            	c0,0-0.1,0-0.1,0h-4l24.8-42.4h19.3l24.9,42.4h-4.1c-6.8,0-12.3,5.4-12.3,12.2c0,0,0,0.1,0,0.1v32.1c0,6.8,5.4,12.3,12.2,12.3
+            	c0,0,0.1,0,0.1,0h41.7c6.8,0,12.3-5.4,12.3-12.2c0,0,0-0.1,0-0.1v-32.1c0-6.8-5.4-12.3-12.2-12.3
+            	C197.2,138.3,197.2,138.3,197.1,138.3z"/>
+          </svg>
+          <span class="u-header__navbar-brand-text">diagrams.net</span>
+        </a>
+        <!-- End Logo -->
+
+        <!-- Responsive Toggle Button -->
+        <button type="button" class="navbar-toggler btn u-hamburger"
+                aria-label="Toggle navigation"
+                aria-expanded="false"
+                aria-controls="navBar"
+                data-toggle="collapse"
+                data-target="#navBar">
+          <span id="hamburgerTrigger" class="u-hamburger__box">
+            <span class="u-hamburger__inner"></span>
+          </span>
+        </button>
+        <!-- End Responsive Toggle Button -->
+
+        <!-- Navigation -->
+        <div id="navBar" class="collapse navbar-collapse u-header__navbar-collapse">
+          <ul class="navbar-nav u-header__navbar-nav">
+            <!-- Integrations -->
+            <li class="d-none nav-item hs-has-sub-menu u-header__nav-item"
+                data-event="hover"
+                data-animation-in="slideInUp"
+                data-animation-out="fadeOut">
+              <a id="intMegaMenu" class="nav-link u-header__nav-link u-header__nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false" aria-labelledby="pagesSubMenu">Integrations</a>
+
+              <!-- Integrations - Submenu -->
+              <ul id="pagesSubMenu" class="hs-sub-menu u-header__sub-menu" aria-labelledby="intMegaMenu" style="min-width: 230px;">
+                <!-- Company -->
+                <li class="hs-has-sub-menu">
+                  <a id="navLinkPagesCompany" class="nav-link u-header__sub-menu-nav-link u-header__sub-menu-nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false" aria-controls="navSubmenuPagesCompany">Company</a>
+
+                  <ul id="navSubmenuPagesCompany" class="hs-sub-menu u-header__sub-menu" aria-labelledby="navLinkPagesCompany" style="min-width: 230px;">
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/careers.html">Careers</a></li>
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/careers-single.html">Careers Single</a></li>
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/customers.html">Customers</a></li>
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/customer-story.html">Customer story</a></li>
+                  </ul>
+                </li>
+                <!-- Company -->
+
+                <!-- Portfolio -->
+                <li class="hs-has-sub-menu">
+                  <a id="navLinkPagesPortfolio" class="nav-link u-header__sub-menu-nav-link u-header__sub-menu-nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false" aria-controls="navSubmenuPagesPortfolio">Portfolio</a>
+
+                  <ul id="navSubmenuPagesPortfolio" class="hs-sub-menu u-header__sub-menu" aria-labelledby="navLinkPagesPortfolio" style="min-width: 230px;">
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../portfolio/boxed-classic.html">All layouts</a></li>
+                  </ul>
+                </li>
+                <!-- End Portfolio -->
+
+                <!-- Contacts -->
+                <li class="hs-has-sub-menu">
+                  <a id="navLinkContactsServices" class="nav-link u-header__sub-menu-nav-link u-header__sub-menu-nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false" aria-controls="navSubmenuContactsServices">Contacts</a>
+
+                  <ul id="navSubmenuContactsServices" class="hs-sub-menu u-header__sub-menu" aria-labelledby="navLinkContactsServices" style="min-width: 230px;">
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/contacts-agency.html">Contacts Agency</a></li>
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/contacts-start-up.html">Contacts Start-Up</a></li>
+                  </ul>
+                </li>
+                <!-- Contacts -->
+
+                <!-- Utilities -->
+                <li class="hs-has-sub-menu">
+                  <a id="navLinkPagesUtilities" class="nav-link u-header__sub-menu-nav-link u-header__sub-menu-nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false" aria-controls="navSubmenuPagesUtilities">Utilities</a>
+
+                  <ul id="navSubmenuPagesUtilities" class="hs-sub-menu u-header__sub-menu" aria-labelledby="navLinkPagesUtilities" style="min-width: 230px;">
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/pricing.html">Pricing</a></li>
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/faq.html">FAQ</a></li>
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/terms.html">Terms &amp; Conditions</a></li>
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/privacy.html">Privacy &amp; Policy</a></li>
+                  </ul>
+                </li>
+                <!-- Utilities -->
+
+                <!-- Specialty -->
+                <li class="hs-has-sub-menu">
+                  <a id="navLinkPagesSpecialty" class="nav-link u-header__sub-menu-nav-link u-header__sub-menu-nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false" aria-controls="navSubmenuPagesSpecialty">Specialty</a>
+
+                  <ul id="navSubmenuPagesSpecialty" class="hs-sub-menu u-header__sub-menu" aria-labelledby="navLinkPagesSpecialty" style="min-width: 230px;">
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/status.html">Status</a></li>
+                  </ul>
+                </li>
+                <!-- Specialty -->
+              </ul>
+              <!-- End Integrations - Submenu -->
+            </li>
+            <!-- End Integrations -->
+
+            <!-- Blog -->
+            <li class="nav-item"
+                data-event="hover"
+                data-animation-in="slideInUp"
+                data-animation-out="fadeOut">
+              <a id="blogMegaMenu" class="nav-link u-header__nav-link" aria-haspopup="true" aria-expanded="false" aria-labelledby="blogSubMenu" href="/blog">Blog</a>
+            </li>
+            <!-- End Blog -->
+
+            <!-- Security -->
+            <li class="d-none nav-item hs-has-mega-menu u-header__nav-item"
+                data-event="hover"
+                data-animation-in="slideInUp"
+                data-animation-out="fadeOut"
+                data-max-width="900px"
+                data-position="right">
+              <a id="securityMegaMenu" class="nav-link u-header__nav-link u-header__nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false">Security</a>
+
+              <!-- Security - Mega Menu -->
+              <div class="hs-mega-menu w-100 u-header__sub-menu" aria-labelledby="securityMegaMenu">
+                <div class="row no-gutters">
+                  <div class="col-lg-8">
+                    <div class="u-header__promo-card-deck">
+                      <!-- Promo Item -->
+                      <div class="u-header__promo-card u-header__promo-item">
+                        <a class="u-header__promo-link" href="../app-marketplace/index.html">
+                          <div class="media align-items-center">
+                            <img class="js-svg-injector u-header__promo-icon" src="../../assets/svg/icons/icon-45.svg" alt="SVG">
+                            <div class="media-body">
+                              <span class="u-header__promo-title">App Marketplace <span class="badge badge-success badge-pill ml-1">New</span></span>
+                              <small class="u-header__promo-text">Marketplace app demo</small>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <!-- End Promo Item -->
+
+                      <!-- Promo Item -->
+                      <div class="u-header__promo-card u-header__promo-item">
+                        <a class="u-header__promo-link" href="../house/index.html">
+                          <div class="media align-items-center">
+                            <img class="js-svg-injector u-header__promo-icon" src="../../assets/svg/icons/icon-13.svg" alt="SVG">
+                            <div class="media-body">
+                              <span class="u-header__promo-title">House</span>
+                              <small class="u-header__promo-text">Real estate demo</small>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <!-- End Promo Item -->
+                    </div>
+
+                    <div class="u-header__promo-card-deck">
+                      <!-- Promo Item -->
+                      <div class="u-header__promo-card u-header__promo-item">
+                        <a class="u-header__promo-link" href="../job/index.html">
+                          <div class="media align-items-center">
+                            <img class="js-svg-injector u-header__promo-icon" src="../../assets/svg/icons/icon-19.svg" alt="SVG">
+                            <div class="media-body">
+                              <span class="u-header__promo-title">Job</span>
+                              <small class="u-header__promo-text">Job vacancy demo</small>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <!-- End Promo Item -->
+
+                      <!-- Promo Item -->
+                      <div class="u-header__promo-card u-header__promo-item">
+                        <a class="u-header__promo-link" href="../pages/docs.html">
+                          <div class="media align-items-center">
+                            <img class="js-svg-injector u-header__promo-icon" src="../../assets/svg/icons/icon-4.svg" alt="SVG">
+                            <div class="media-body">
+                              <span class="u-header__promo-title">Help Desk</span>
+                              <small class="u-header__promo-text">Help desk</small>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <!-- End Promo Item -->
+                    </div>
+
+                    <div class="u-header__promo-card-deck">
+                      <!-- Promo Item -->
+                      <div class="u-header__promo-card u-header__promo-item">
+                        <a class="u-header__promo-link" href="../crypto/index.html">
+                          <div class="media align-items-center">
+                            <img class="js-svg-injector u-header__promo-icon" src="../../assets/svg/icons/icon-5.svg" alt="SVG">
+                            <div class="media-body">
+                              <span class="u-header__promo-title">Crypto Landing</span>
+                              <small class="u-header__promo-text">Cryptocurrency demo</small>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <!-- End Promo Item -->
+
+                      <!-- Promo Item -->
+                      <div class="u-header__promo-card u-header__promo-item">
+                        <div class="u-header__promo-link">
+                          <div class="media align-items-center">
+                            <img class="js-svg-injector u-header__promo-icon" src="../../assets/svg/icons/icon-23.svg" alt="SVG">
+                            <div class="media-body">
+                              <span class="u-header__promo-title text-secondary">New demos</span>
+                              <small class="u-header__promo-text">coming soon ...</small>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <!-- End Promo Item -->
+                    </div>
+                  </div>
+
+                  <!-- Promo -->
+                  <div class="col-lg-4 u-header__promo d-none d-lg-block">
+                    <a class="d-block u-header__promo-inner" href="#">
+                      <div class="position-relative">
+                        <!-- <img class="img-fluid rounded mb-3" src="../../assets/img/380x227/img6.jpg" alt="Image Description"> -->
+                      </div>
+                      <span class="text-secondary font-size-1">Front makes you look at things from a different perspectives.</span>
+                    </a>
+                  </div>
+                  <!-- End Promo -->
+                </div>
+              </div>
+              <!-- End Security - Mega Menu -->
+            </li>
+            <!-- End Security -->
+
+            <!-- Docs -->
+            <li class="d-none nav-item hs-has-mega-menu u-header__nav-item"
+                data-event="hover"
+                data-animation-in="slideInUp"
+                data-animation-out="fadeOut"
+                data-max-width="260px"
+                data-position="right">
+              <a id="docsMegaMenu" class="nav-link u-header__nav-link u-header__nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false">Docs</a>
+
+              <!-- Docs - Submenu -->
+              <div class="hs-mega-menu u-header__sub-menu" aria-labelledby="docsMegaMenu" style="min-width: 330px;">
+                <!-- Promo Item -->
+                <div class="u-header__promo-item">
+                  <a class="u-header__promo-link" href="../../documentation/index.html">
+                    <div class="media align-items-center">
+                      <img class="js-svg-injector u-header__promo-icon" src="../../assets/svg/icons/icon-2.svg" alt="SVG">
+                      <div class="media-body">
+                        <span class="u-header__promo-title">
+                          Documentation
+                          <span class="badge badge-primary badge-pill ml-1">v2.8</span>
+                        </span>
+                        <small class="u-header__promo-text">Development guides</small>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <!-- End Promo Item -->
+
+                <!-- Promo Item -->
+                <div class="u-header__promo-item">
+                  <a class="u-header__promo-link" href="../../starter/index.html">
+                    <div class="media align-items-center">
+                      <img class="js-svg-injector u-header__promo-icon" src="../../assets/svg/icons/icon-1.svg" alt="SVG">
+                      <div class="media-body">
+                        <span class="u-header__promo-title">Get started</span>
+                        <small class="u-header__promo-text">Components and snippets</small>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <!-- End Promo Item -->
+
+                <div class="u-header__promo-footer">
+                  <!-- List -->
+                  <div class="row no-gutters">
+                    <div class="col-6">
+                      <div class="u-header__promo-footer-item">
+                        <small class="text-muted d-block">Check what's new</small>
+                        <a class="small" href="../../documentation/getting-started/changelog.html">
+                          Changelog
+                        </a>
+                      </div>
+                    </div>
+                    <div class="col-6 u-header__promo-footer-ver-divider">
+                      <div class="u-header__promo-footer-item">
+                        <small class="text-muted d-block">Have a question?</small>
+                        <a class="small" href="http://htmlstream.com/contact-us">
+                          Contact us
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- End List -->
+                </div>
+              </div>
+              <!-- End Docs - Submenu -->
+            </li>
+            <!-- End Docs -->
+
+            <!-- Button -->
+            <li class="nav-item u-header__nav-last-item">
+              <a class="btn btn-sm btn-primary transition-3d-hover" href="https://app.diagrams.net/?src=about" target="_blank">
+                Start Now
+              </a>
+            </li>
+            <!-- End Button -->
+          </ul>
+        </div>
+        <!-- End Navigation -->
+      </nav>
+      <!-- End Nav -->
+    </div>
+  </div>
+</header>
+<!-- ========== END HEADER ========== -->
+
+<!-- ========== MAIN ========== -->
+<main id="content" role="main">
+  <!-- Article Description Section -->
+  <div class="container space-2 space-top-md-5 space-top-lg-4 space-bottom-lg-3">
+
+    <!-- Breadcrumbs Section -->
+    <div class="w-lg-60 mx-lg-auto">
+      <div class="mb-4">
+        <nav aria-label="breadcrumb">
+          <ol class="breadcrumb breadcrumb-no-gutter font-size-1">
+            <li class="breadcrumb-item"><a href="">Home</a></li>
+             
+               
+                
+                    <li class="breadcrumb-item"><a href="/doc/">doc</a></li>
+                
+              
+                
+                    <li class="breadcrumb-item"><a href="/doc/faq/">faq</a></li>
+                
+              
+                
+                    <li class="breadcrumb-item"><a class="current">Compare file storage locations</a></li>
+                
+              
+          </ol>
+        </nav>
+      </div>
+    </div>
+    <!-- End Breadcrumbs Section -->
+
+    <div class="w-lg-60 mx-lg-auto">
+      <div class="mb-4">
+        <h1 class="h2 font-weight-medium">Compare file storage locations</h1>
+      </div>
+
+      <p>There are many different locations where you can store your diagram files. Depending on the location, diagrams.net can provide additional useful features, such as a diagram autosave or revision history.</p>
+
+<p>Several of the locations that diagrams.net can use for file storage are in the cloud, and require you to have an online connection to access and edit them.</p>
+
+<h2 id="diagram-offline">Diagram offline</h2>
+
+<p>Storing diagram files on your device or in your browser does not require an internet connection, and can therefore be used offline.</p>
+
+<p><strong>Tip:</strong> The <a href="https://get.diagrams.net/">desktop version of diagrams.net</a> also does not require an internet connection as it has been designed to work fully offline in secured environments.</p>
+
+<h2 id="online-diagram-storage-locations">Online diagram storage locations</h2>
+
+<p>Diagrams.net can use the following online platforms for your diagrams, after you have authorised the app to read/write your files stored at these locations.</p>
+
+<ul>
+  <li><a href="https://app.diagrams.net/?mode=google">Google Drive</a></li>
+  <li><a href="https://app.diagrams.net/?mode=onedrive">Microsoft OneDrive</a></li>
+  <li><a href="https://app.diagrams.net/?mode=github">Github</a> and <a href="https://app.diagrams.net/?mode=gitlab">GitLab</a></li>
+  <li><a href="https://app.diagrams.net/?mode=dropbox">Dropbox</a></li>
+</ul>
+
+<p>Your diagram files are hosted in the cloud on the servers provided by these platforms.</p>
+
+<p><img src="/assets/img/blog/storage-locations.png" style="width=100%;max-width:300px;height:auto;" alt="Choose a storage location for your diagram files" /></p>
+
+<p><strong>Related resources</strong></p>
+
+<ul>
+  <li><a href="/doc/faq/storage-location-select.html">Select a storage location for your diagram files</a></li>
+  <li><a href="/doc/faq/synchronize.html">Synchronise and merge external changes to your diagram</a></li>
+  <li><a href="/doc/faq/mobile-diagram-app.html">Install diagrams.net on a mobile device</a></li>
+  <li><a href="/doc/faq/google-drive-diagrams.html">Use diagrams.net with Google Drive</a></li>
+  <li><a href="/doc/faq/dropbox-diagrams-store.html">Use Dropbox to store diagrams</a></li>
+</ul>
+
+<p><strong>Store diagrams in Atlassian Confluence and Jira</strong></p>
+
+<p>diagrams.net is also available as draw.io, an Atlassian Marketplace app for <a href="https://marketplace.atlassian.com/apps/1214854/diagram-viewer-for-confluence-cloud">Confluence</a> and <a href="https://marketplace.atlassian.com/apps/1211413/draw-io-diagrams-for-jira?hosting=cloud&amp;tab=overview">Jira</a> on both Cloud and Data Center.</p>
+
+<h2 id="diagramsnet-features-at-different-storage-locations">diagrams.net features at different storage locations</h2>
+
+<p><strong>File &gt; Save As</strong></p>
+
+<p>If you store your diagram in Google Drive, you can’t use <em>Save As</em> to create a new copy of your diagram file with another name.</p>
+
+<ol>
+  <li>Duplicate the diagram file first in Google Drive before you edit the duplicate copy.</li>
+  <li>You can rename the file either in Google Drive before you start editing , or via <em>File &gt; Rename</em> in the diagram editor.</li>
+</ol>
+
+<p><strong>Autosave</strong></p>
+
+<p>Autosave saves your changes shortly after you make them, and reduces the risk that you will lose your work if your internet connection fails or your computer crashes.</p>
+
+<p>Autosave is enabled by default when you store your diagrams on all online platforms, and can be enabled in diagrams.net Desktop.</p>
+
+<ul>
+  <li>Select <em>Extras &gt; Autosave</em> to enable or disable this feature on all platforms, including in diagrams.net Desktop.</li>
+</ul>
+
+<p><strong>Version control</strong></p>
+
+<p>Some online platforms support version control, where your changes at a certain point of time are saved as a new ‘version’ of your diagram file. On these platforms, you can roll back to an earlier version of your diagram. This can be important when you are collaborating on diagrams with your colleagues.</p>
+
+<ul>
+  <li><a href="/doc/faq/dropbox-diagram-revisions.html">Use diagram version control in Dropbox</a></li>
+  <li><a href="/doc/faq/google-drive-revision-history.html">Work with revisions of diagrams stored in Google Drive</a></li>
+</ul>
+
+<p><img src="/assets/img/blog/google-drive-revision-history.png" style="max-width:100%;height:auto;" alt="Check the versions of a diagram file stored in Google Drive" /></p>
+
+
+    </div>
+  </div>
+  <!-- End Article Description Section -->
+</main>
+<!-- ========== END MAIN ========== -->
+
+<!-- JS Global Compulsory -->
+<script src="../../assets/js/jquery.min.js"></script>
+<script src="../../assets/js/jquery-migrate.min.js"></script>
+<script src="../../assets/js/popper.min.js"></script>
+<script src="../../assets/js/bootstrap.min.js"></script>
+
+<!-- JS Implementing Plugins -->
+<script src="../../assets/js/hs.megamenu.js"></script>
+
+<!-- JS Front -->
+<script src="../../assets/js/hs.core.js"></script>
+<script src="../../assets/js/hs.header.js"></script>
+<script src="../../assets/js/hs.unfold.js"></script>
+<script src="../../assets/js/hs.focus-state.js"></script>
+<script src="../../assets/js/hs.show-animation.js"></script>
+
+<!-- JS Plugins Init. -->
+<script>
+  $(window).on('load', function () {
+    // initialization of HSMegaMenu component
+    $('.js-mega-menu').HSMegaMenu({
+      event: 'hover',
+      pageContainer: $('.container'),
+      breakpoint: 767.98,
+      hideTimeOut: 0
+    });
+  });
+
+  $(document).on('ready', function () {
+    // initialization of header
+    $.HSCore.components.HSHeader.init($('#header'));
+
+    // initialization of unfold component
+    $.HSCore.components.HSUnfold.init($('[data-unfold-target]'), {
+      afterOpen: function () {
+        $(this).find('input[type="search"]').focus();
+      }
+    });
+
+    // initialization of show animations
+    $.HSCore.components.HSShowAnimation.init('.js-animation-link');
+
+    // initialization of forms
+    $.HSCore.components.HSFocusState.init();
+  });
+</script>
+
+<!-- ========== FOOTER ========== -->
+<footer class="bg-dark">
+  <div class="container space-2">
+    <div class="row mb-7">
+      <div class="col-lg-4 mb-5 mb-lg-0">
+        <a class="d-inline-flex align-items-center mb-2" href="/index.html" aria-label="Front">
+          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="36px" height="36px" viewBox="0 0 250 250" xml:space="preserve" style="margin-bottom: 0;">
+            <style type="text/css">
+            	.st0{fill:#F08705;}
+            	.st1{fill:#DF6C0C;}
+            	.st2{fill:#FFFFFF;}
+            </style>
+            <path class="st0" d="M237.5,227.9c0,5.3-4.3,9.6-9.5,9.6c0,0,0,0,0,0H22.1c-5.3,0-9.6-4.3-9.6-9.5c0,0,0,0,0,0V22.1
+            	c0-5.3,4.3-9.6,9.5-9.6c0,0,0,0,0,0h205.9c5.3,0,9.6,4.3,9.6,9.5c0,0,0,0,0,0V227.9z"/>
+            <path class="st1" d="M237.5,227.9c0,5.3-4.3,9.6-9.5,9.6c0,0,0,0,0,0H89.6L44.8,192l27.9-45.5l82.7-102.7l82.1,84.5V227.9z"/>
+            <path class="st2" d="M197.1,138.3h-23.7l-25-42.7c5.7-1.2,9.8-6.2,9.7-12V51.5c0-6.8-5.4-12.3-12.2-12.3c0,0-0.1,0-0.1,0h-41.7
+            	c-6.8,0-12.3,5.4-12.3,12.2c0,0,0,0.1,0,0.1v32.1c0,5.8,4,10.8,9.7,12l-25,42.7H52.9c-6.8,0-12.3,5.4-12.3,12.2c0,0,0,0.1,0,0.1
+            	v32.1c0,6.8,5.4,12.3,12.2,12.3c0,0,0.1,0,0.1,0h41.7c6.8,0,12.3-5.4,12.3-12.2c0,0,0-0.1,0-0.1v-32.1c0-6.8-5.4-12.3-12.2-12.3
+            	c0,0-0.1,0-0.1,0h-4l24.8-42.4h19.3l24.9,42.4h-4.1c-6.8,0-12.3,5.4-12.3,12.2c0,0,0,0.1,0,0.1v32.1c0,6.8,5.4,12.3,12.2,12.3
+            	c0,0,0.1,0,0.1,0h41.7c6.8,0,12.3-5.4,12.3-12.2c0,0,0-0.1,0-0.1v-32.1c0-6.8-5.4-12.3-12.2-12.3
+            	C197.2,138.3,197.2,138.3,197.1,138.3z"/>
+          </svg>
+          <span class="brand brand-light">diagrams.net</span>
+        </a>
+      </div>
+
+      <div class="col-6 col-lg-2 mb-5 mb-lg-0">
+        <h4 class="h6 text-white font-weight-medium">Help and advice</h4>
+        <ul class="list-unstyled font-size-1">
+          <li class="py-2"><a class="text-white-70" href="/doc/">Getting started</a></li>
+          <li class="py-2"><a class="text-white-70" href="/integrations.html">Integrations</a></li>
+          <li class="py-2"><a class="text-white-70" href="/doc/">Documentation</a></li>
+          <li class="py-2"><a class="text-white-70" href="/doc/faq/">FAQ</a></li>
+        </ul>
+      </div>
+
+      <div class="col-6 col-lg-2 mb-5 mb-lg-0">
+        <h4 class="h6 text-white font-weight-medium">About us</h4>
+        <ul class="list-unstyled font-size-1">
+          <li class="py-2"><a class="text-white-70" href="/about.html">About diagrams.net</a></li>
+          <li class="py-2"><a class="text-white-70" href="https://github.com/jgraph">Contribute</a></li>
+          <li class="py-2"><a class="text-white-70" href="/trust/">Legal &amp; Privacy</a></li>
+        </ul>
+      </div>
+
+      <div class="col-lg-4">
+        <!-- Form -->
+        <form class="js-validate mb-2">
+          <h4 class="h6 text-white font-weight-medium mb-3">We ran out of footer items</h4>
+          <div class="form-row">
+            <div class="col-12">
+              <div class="js-form-message">
+                <label class="sr-only" for="subscribeSrEmail">Email address</label>
+                <div class="input-group">
+                  <input type="email" class="form-control" name="email" id="subscribeSrEmail" placeholder="Email address" aria-label="Email address" required
+                         data-msg="Please enter a valid email address."
+                         data-error-class="u-has-error"
+                         data-success-class="u-has-success">
+                  <div class="input-group-append">
+                    <button type="button" class="btn btn-primary">
+                      <span class="fas fa-arrow-right"></span>
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </form>
+        <!-- End Form -->
+
+        <p class="text-white-70 small mb-0">This form isn't even posted to a server.</p>
+      </div>
+    </div>
+
+    <p class="small text-white-70 mb-0">&copy; 2005-2020 diagrams.net. All rights reserved.</p>
+  </div>
+</footer>
+<!-- ========== END FOOTER ========== -->
+
+<body>
+</html>

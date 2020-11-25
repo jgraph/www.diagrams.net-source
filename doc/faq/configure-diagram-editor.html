@@ -1,0 +1,997 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Title -->
+  <title>Configure the diagrams.net and draw.io editor</title>
+
+  <!-- Required Meta Tags Always Come First -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="/favicon.ico">
+
+  <!-- Google Fonts -->
+  <link href="//fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
+  <link href="//fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet"
+
+  <!-- CSS Implementing Plugins -->
+  <link rel="stylesheet" href="/assets/css/fontawesome-all.min.css">
+  <link rel="stylesheet" href="/assets/css/animate.min.css">
+  <link rel="stylesheet" href="/assets/css/hs.megamenu.css">
+  <link rel="stylesheet" href="/assets/css/jquery.mCustomScrollbar.css">
+
+  <!-- CSS Front Template -->
+  <link rel="stylesheet" href="/assets/css/theme.css">
+</head>
+<body>
+<!-- Search Content -->
+<div id="searchSlideDown" class="d-none dropdown-unfold u-search-slide-down" aria-labelledby="searchSlideDownInvoker">
+  <form>
+    <!-- Input Group -->
+    <div class="input-group input-group-borderless u-search-slide-down__input rounded mb-2">
+      <div class="input-group-prepend">
+        <span class="input-group-text">
+          <span class="fas fa-search"></span>
+        </span>
+      </div>
+      <input type="search" class="form-control" placeholder="Search Front" aria-label="Search Front">
+      <div class="input-group-append">
+        <a class="input-group-text" href="javascript:;"
+           aria-label="close"
+           data-unfold-event="click"
+           data-unfold-hide-on-scroll="false"
+           data-unfold-target="#searchSlideDown"
+           data-unfold-type="css-animation"
+           data-unfold-animation-in="active"
+           data-unfold-animation-out="fadeOutUp"
+           data-unfold-delay="0"
+           data-unfold-duration="800"
+           data-unfold-overlay='{
+            "className": "u-search-slide-down-bg-overlay",
+            "background": "rgba(55, 125, 255, .1)",
+            "animationSpeed": 400
+           }'>
+          <span class="fas fa-times" aria-hidden="true"></span>
+        </a>
+      </div>
+    </div>
+    <!-- End Input Group -->
+
+    <!-- Suggestions Content -->
+    <div class="rounded bg-white u-search-slide-down__suggestions py-3 px-5">
+      <ul class="list-group list-group-flush list-group-borderless mb-0">
+        <li><a class="list-group-item list-group-item-action" href="../pages/about-agency.html">About Front</a></li>
+        <li><a class="list-group-item list-group-item-action" href="../../starter/index.html">Getting Started</a></li>
+        <li><a class="list-group-item list-group-item-action" href="../../documentation/index.html">Documentation</a></li>
+      </ul>
+    </div>
+    <!-- End Suggestions Content -->
+  </form>
+</div>
+<!-- End Search Content -->
+
+<!-- ========== HEADER ========== -->
+<header id="header" class="u-header u-header--abs-top-md u-header--bg-transparent u-header--show-hide-md"
+        data-header-fix-moment="500"
+        data-header-fix-effect="slide">
+  <div class="u-header__section">
+    <!-- Topbar -->
+    <div class="d-none container u-header__hide-content pt-2">
+      <div class="d-flex align-items-center">
+        <div class="ml-auto">
+          <!-- Jump To -->
+          <div class="d-none d-inline-block d-sm-none position-relative mr-2">
+            <a id="jumpToDropdownInvoker" class="dropdown-nav-link dropdown-toggle d-flex align-items-center" href="javascript:;" role="button"
+               aria-controls="jumpToDropdown"
+               aria-haspopup="true"
+               aria-expanded="false"
+               data-unfold-event="hover"
+               data-unfold-target="#jumpToDropdown"
+               data-unfold-type="css-animation"
+               data-unfold-duration="300"
+               data-unfold-delay="300"
+               data-unfold-hide-on-scroll="true"
+               data-unfold-animation-in="slideInUp"
+               data-unfold-animation-out="fadeOut">
+              Jump to
+            </a>
+
+            <div id="jumpToDropdown" class="dropdown-menu dropdown-unfold" aria-labelledby="jumpToDropdownInvoker">
+              <a class="dropdown-item" href="../../html/pages/help.html">Help</a>
+            </div>
+          </div>
+          <!-- End Jump To -->
+
+          <!-- Links -->
+          <div class="d-none d-sm-inline-block ml-sm-auto">
+            <ul class="list-inline mb-0">
+              <li class="list-inline-item mr-0">
+                <a class="u-header__navbar-link" href="../pages/help.html">Help</a>
+              </li>
+            </ul>
+          </div>
+          <!-- End Links -->
+        </div>
+
+        <ul class="list-inline ml-2 mb-0">
+          <!-- Search -->
+          <li class="list-inline-item">
+            <a id="searchSlideDownInvoker" class="btn btn-xs btn-icon btn-text-secondary u-search-slide-down-trigger" href="javascript:;" role="button"
+               aria-haspopup="true"
+               aria-expanded="false"
+               aria-controls="searchSlideDown"
+               data-unfold-type="css-animation"
+               data-unfold-hide-on-scroll="false"
+               data-unfold-target="#searchSlideDown"
+               data-unfold-animation-in="active"
+               data-unfold-animation-out="fadeOutUp"
+               data-unfold-delay="0"
+               data-unfold-duration="800"
+               data-unfold-overlay='{
+                "className": "u-search-slide-down-bg-overlay",
+                "background": "rgba(55, 125, 255, .1)",
+                "animationSpeed": 400
+               }'>
+              <span class="fas fa-search btn-icon__inner u-search-slide-down-trigger__icon"></span>
+            </a>
+          </li>
+          <!-- End Search -->
+        </ul>
+      </div>
+    </div>
+    <!-- End Topbar -->
+
+    <div id="logoAndNav" class="container">
+      <!-- Nav -->
+      <nav class="js-mega-menu navbar navbar-expand-md u-header__navbar u-header__navbar--no-space">
+        <!-- Logo -->
+        <a class="navbar-brand u-header__navbar-brand u-header__navbar-brand-center" href="/index.html" aria-label="Front">
+          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="46px" height="46px" viewBox="0 0 250 250" xml:space="preserve" style="margin-bottom: 0; flex: none">
+            <style type="text/css">
+            	.st0{fill:#F08705;}
+            	.st1{fill:#DF6C0C;}
+            	.st2{fill:#FFFFFF;}
+            </style>
+            <path class="st0" d="M237.5,227.9c0,5.3-4.3,9.6-9.5,9.6c0,0,0,0,0,0H22.1c-5.3,0-9.6-4.3-9.6-9.5c0,0,0,0,0,0V22.1
+            	c0-5.3,4.3-9.6,9.5-9.6c0,0,0,0,0,0h205.9c5.3,0,9.6,4.3,9.6,9.5c0,0,0,0,0,0V227.9z"/>
+            <path class="st1" d="M237.5,227.9c0,5.3-4.3,9.6-9.5,9.6c0,0,0,0,0,0H89.6L44.8,192l27.9-45.5l82.7-102.7l82.1,84.5V227.9z"/>
+            <path class="st2" d="M197.1,138.3h-23.7l-25-42.7c5.7-1.2,9.8-6.2,9.7-12V51.5c0-6.8-5.4-12.3-12.2-12.3c0,0-0.1,0-0.1,0h-41.7
+            	c-6.8,0-12.3,5.4-12.3,12.2c0,0,0,0.1,0,0.1v32.1c0,5.8,4,10.8,9.7,12l-25,42.7H52.9c-6.8,0-12.3,5.4-12.3,12.2c0,0,0,0.1,0,0.1
+            	v32.1c0,6.8,5.4,12.3,12.2,12.3c0,0,0.1,0,0.1,0h41.7c6.8,0,12.3-5.4,12.3-12.2c0,0,0-0.1,0-0.1v-32.1c0-6.8-5.4-12.3-12.2-12.3
+            	c0,0-0.1,0-0.1,0h-4l24.8-42.4h19.3l24.9,42.4h-4.1c-6.8,0-12.3,5.4-12.3,12.2c0,0,0,0.1,0,0.1v32.1c0,6.8,5.4,12.3,12.2,12.3
+            	c0,0,0.1,0,0.1,0h41.7c6.8,0,12.3-5.4,12.3-12.2c0,0,0-0.1,0-0.1v-32.1c0-6.8-5.4-12.3-12.2-12.3
+            	C197.2,138.3,197.2,138.3,197.1,138.3z"/>
+          </svg>
+          <span class="u-header__navbar-brand-text">diagrams.net</span>
+        </a>
+        <!-- End Logo -->
+
+        <!-- Responsive Toggle Button -->
+        <button type="button" class="navbar-toggler btn u-hamburger"
+                aria-label="Toggle navigation"
+                aria-expanded="false"
+                aria-controls="navBar"
+                data-toggle="collapse"
+                data-target="#navBar">
+          <span id="hamburgerTrigger" class="u-hamburger__box">
+            <span class="u-hamburger__inner"></span>
+          </span>
+        </button>
+        <!-- End Responsive Toggle Button -->
+
+        <!-- Navigation -->
+        <div id="navBar" class="collapse navbar-collapse u-header__navbar-collapse">
+          <ul class="navbar-nav u-header__navbar-nav">
+            <!-- Integrations -->
+            <li class="d-none nav-item hs-has-sub-menu u-header__nav-item"
+                data-event="hover"
+                data-animation-in="slideInUp"
+                data-animation-out="fadeOut">
+              <a id="intMegaMenu" class="nav-link u-header__nav-link u-header__nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false" aria-labelledby="pagesSubMenu">Integrations</a>
+
+              <!-- Integrations - Submenu -->
+              <ul id="pagesSubMenu" class="hs-sub-menu u-header__sub-menu" aria-labelledby="intMegaMenu" style="min-width: 230px;">
+                <!-- Company -->
+                <li class="hs-has-sub-menu">
+                  <a id="navLinkPagesCompany" class="nav-link u-header__sub-menu-nav-link u-header__sub-menu-nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false" aria-controls="navSubmenuPagesCompany">Company</a>
+
+                  <ul id="navSubmenuPagesCompany" class="hs-sub-menu u-header__sub-menu" aria-labelledby="navLinkPagesCompany" style="min-width: 230px;">
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/careers.html">Careers</a></li>
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/careers-single.html">Careers Single</a></li>
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/customers.html">Customers</a></li>
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/customer-story.html">Customer story</a></li>
+                  </ul>
+                </li>
+                <!-- Company -->
+
+                <!-- Portfolio -->
+                <li class="hs-has-sub-menu">
+                  <a id="navLinkPagesPortfolio" class="nav-link u-header__sub-menu-nav-link u-header__sub-menu-nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false" aria-controls="navSubmenuPagesPortfolio">Portfolio</a>
+
+                  <ul id="navSubmenuPagesPortfolio" class="hs-sub-menu u-header__sub-menu" aria-labelledby="navLinkPagesPortfolio" style="min-width: 230px;">
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../portfolio/boxed-classic.html">All layouts</a></li>
+                  </ul>
+                </li>
+                <!-- End Portfolio -->
+
+                <!-- Contacts -->
+                <li class="hs-has-sub-menu">
+                  <a id="navLinkContactsServices" class="nav-link u-header__sub-menu-nav-link u-header__sub-menu-nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false" aria-controls="navSubmenuContactsServices">Contacts</a>
+
+                  <ul id="navSubmenuContactsServices" class="hs-sub-menu u-header__sub-menu" aria-labelledby="navLinkContactsServices" style="min-width: 230px;">
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/contacts-agency.html">Contacts Agency</a></li>
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/contacts-start-up.html">Contacts Start-Up</a></li>
+                  </ul>
+                </li>
+                <!-- Contacts -->
+
+                <!-- Utilities -->
+                <li class="hs-has-sub-menu">
+                  <a id="navLinkPagesUtilities" class="nav-link u-header__sub-menu-nav-link u-header__sub-menu-nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false" aria-controls="navSubmenuPagesUtilities">Utilities</a>
+
+                  <ul id="navSubmenuPagesUtilities" class="hs-sub-menu u-header__sub-menu" aria-labelledby="navLinkPagesUtilities" style="min-width: 230px;">
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/pricing.html">Pricing</a></li>
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/faq.html">FAQ</a></li>
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/terms.html">Terms &amp; Conditions</a></li>
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/privacy.html">Privacy &amp; Policy</a></li>
+                  </ul>
+                </li>
+                <!-- Utilities -->
+
+                <!-- Specialty -->
+                <li class="hs-has-sub-menu">
+                  <a id="navLinkPagesSpecialty" class="nav-link u-header__sub-menu-nav-link u-header__sub-menu-nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false" aria-controls="navSubmenuPagesSpecialty">Specialty</a>
+
+                  <ul id="navSubmenuPagesSpecialty" class="hs-sub-menu u-header__sub-menu" aria-labelledby="navLinkPagesSpecialty" style="min-width: 230px;">
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/status.html">Status</a></li>
+                  </ul>
+                </li>
+                <!-- Specialty -->
+              </ul>
+              <!-- End Integrations - Submenu -->
+            </li>
+            <!-- End Integrations -->
+
+            <!-- Blog -->
+            <li class="nav-item"
+                data-event="hover"
+                data-animation-in="slideInUp"
+                data-animation-out="fadeOut">
+              <a id="blogMegaMenu" class="nav-link u-header__nav-link" aria-haspopup="true" aria-expanded="false" aria-labelledby="blogSubMenu" href="/blog">Blog</a>
+            </li>
+            <!-- End Blog -->
+
+            <!-- Security -->
+            <li class="d-none nav-item hs-has-mega-menu u-header__nav-item"
+                data-event="hover"
+                data-animation-in="slideInUp"
+                data-animation-out="fadeOut"
+                data-max-width="900px"
+                data-position="right">
+              <a id="securityMegaMenu" class="nav-link u-header__nav-link u-header__nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false">Security</a>
+
+              <!-- Security - Mega Menu -->
+              <div class="hs-mega-menu w-100 u-header__sub-menu" aria-labelledby="securityMegaMenu">
+                <div class="row no-gutters">
+                  <div class="col-lg-8">
+                    <div class="u-header__promo-card-deck">
+                      <!-- Promo Item -->
+                      <div class="u-header__promo-card u-header__promo-item">
+                        <a class="u-header__promo-link" href="../app-marketplace/index.html">
+                          <div class="media align-items-center">
+                            <img class="js-svg-injector u-header__promo-icon" src="../../assets/svg/icons/icon-45.svg" alt="SVG">
+                            <div class="media-body">
+                              <span class="u-header__promo-title">App Marketplace <span class="badge badge-success badge-pill ml-1">New</span></span>
+                              <small class="u-header__promo-text">Marketplace app demo</small>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <!-- End Promo Item -->
+
+                      <!-- Promo Item -->
+                      <div class="u-header__promo-card u-header__promo-item">
+                        <a class="u-header__promo-link" href="../house/index.html">
+                          <div class="media align-items-center">
+                            <img class="js-svg-injector u-header__promo-icon" src="../../assets/svg/icons/icon-13.svg" alt="SVG">
+                            <div class="media-body">
+                              <span class="u-header__promo-title">House</span>
+                              <small class="u-header__promo-text">Real estate demo</small>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <!-- End Promo Item -->
+                    </div>
+
+                    <div class="u-header__promo-card-deck">
+                      <!-- Promo Item -->
+                      <div class="u-header__promo-card u-header__promo-item">
+                        <a class="u-header__promo-link" href="../job/index.html">
+                          <div class="media align-items-center">
+                            <img class="js-svg-injector u-header__promo-icon" src="../../assets/svg/icons/icon-19.svg" alt="SVG">
+                            <div class="media-body">
+                              <span class="u-header__promo-title">Job</span>
+                              <small class="u-header__promo-text">Job vacancy demo</small>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <!-- End Promo Item -->
+
+                      <!-- Promo Item -->
+                      <div class="u-header__promo-card u-header__promo-item">
+                        <a class="u-header__promo-link" href="../pages/docs.html">
+                          <div class="media align-items-center">
+                            <img class="js-svg-injector u-header__promo-icon" src="../../assets/svg/icons/icon-4.svg" alt="SVG">
+                            <div class="media-body">
+                              <span class="u-header__promo-title">Help Desk</span>
+                              <small class="u-header__promo-text">Help desk</small>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <!-- End Promo Item -->
+                    </div>
+
+                    <div class="u-header__promo-card-deck">
+                      <!-- Promo Item -->
+                      <div class="u-header__promo-card u-header__promo-item">
+                        <a class="u-header__promo-link" href="../crypto/index.html">
+                          <div class="media align-items-center">
+                            <img class="js-svg-injector u-header__promo-icon" src="../../assets/svg/icons/icon-5.svg" alt="SVG">
+                            <div class="media-body">
+                              <span class="u-header__promo-title">Crypto Landing</span>
+                              <small class="u-header__promo-text">Cryptocurrency demo</small>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <!-- End Promo Item -->
+
+                      <!-- Promo Item -->
+                      <div class="u-header__promo-card u-header__promo-item">
+                        <div class="u-header__promo-link">
+                          <div class="media align-items-center">
+                            <img class="js-svg-injector u-header__promo-icon" src="../../assets/svg/icons/icon-23.svg" alt="SVG">
+                            <div class="media-body">
+                              <span class="u-header__promo-title text-secondary">New demos</span>
+                              <small class="u-header__promo-text">coming soon ...</small>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <!-- End Promo Item -->
+                    </div>
+                  </div>
+
+                  <!-- Promo -->
+                  <div class="col-lg-4 u-header__promo d-none d-lg-block">
+                    <a class="d-block u-header__promo-inner" href="#">
+                      <div class="position-relative">
+                        <!-- <img class="img-fluid rounded mb-3" src="../../assets/img/380x227/img6.jpg" alt="Image Description"> -->
+                      </div>
+                      <span class="text-secondary font-size-1">Front makes you look at things from a different perspectives.</span>
+                    </a>
+                  </div>
+                  <!-- End Promo -->
+                </div>
+              </div>
+              <!-- End Security - Mega Menu -->
+            </li>
+            <!-- End Security -->
+
+            <!-- Docs -->
+            <li class="d-none nav-item hs-has-mega-menu u-header__nav-item"
+                data-event="hover"
+                data-animation-in="slideInUp"
+                data-animation-out="fadeOut"
+                data-max-width="260px"
+                data-position="right">
+              <a id="docsMegaMenu" class="nav-link u-header__nav-link u-header__nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false">Docs</a>
+
+              <!-- Docs - Submenu -->
+              <div class="hs-mega-menu u-header__sub-menu" aria-labelledby="docsMegaMenu" style="min-width: 330px;">
+                <!-- Promo Item -->
+                <div class="u-header__promo-item">
+                  <a class="u-header__promo-link" href="../../documentation/index.html">
+                    <div class="media align-items-center">
+                      <img class="js-svg-injector u-header__promo-icon" src="../../assets/svg/icons/icon-2.svg" alt="SVG">
+                      <div class="media-body">
+                        <span class="u-header__promo-title">
+                          Documentation
+                          <span class="badge badge-primary badge-pill ml-1">v2.8</span>
+                        </span>
+                        <small class="u-header__promo-text">Development guides</small>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <!-- End Promo Item -->
+
+                <!-- Promo Item -->
+                <div class="u-header__promo-item">
+                  <a class="u-header__promo-link" href="../../starter/index.html">
+                    <div class="media align-items-center">
+                      <img class="js-svg-injector u-header__promo-icon" src="../../assets/svg/icons/icon-1.svg" alt="SVG">
+                      <div class="media-body">
+                        <span class="u-header__promo-title">Get started</span>
+                        <small class="u-header__promo-text">Components and snippets</small>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <!-- End Promo Item -->
+
+                <div class="u-header__promo-footer">
+                  <!-- List -->
+                  <div class="row no-gutters">
+                    <div class="col-6">
+                      <div class="u-header__promo-footer-item">
+                        <small class="text-muted d-block">Check what's new</small>
+                        <a class="small" href="../../documentation/getting-started/changelog.html">
+                          Changelog
+                        </a>
+                      </div>
+                    </div>
+                    <div class="col-6 u-header__promo-footer-ver-divider">
+                      <div class="u-header__promo-footer-item">
+                        <small class="text-muted d-block">Have a question?</small>
+                        <a class="small" href="http://htmlstream.com/contact-us">
+                          Contact us
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- End List -->
+                </div>
+              </div>
+              <!-- End Docs - Submenu -->
+            </li>
+            <!-- End Docs -->
+
+            <!-- Button -->
+            <li class="nav-item u-header__nav-last-item">
+              <a class="btn btn-sm btn-primary transition-3d-hover" href="https://app.diagrams.net/?src=about" target="_blank">
+                Start Now
+              </a>
+            </li>
+            <!-- End Button -->
+          </ul>
+        </div>
+        <!-- End Navigation -->
+      </nav>
+      <!-- End Nav -->
+    </div>
+  </div>
+</header>
+<!-- ========== END HEADER ========== -->
+
+<!-- ========== MAIN ========== -->
+<main id="content" role="main">
+  <!-- Article Description Section -->
+  <div class="container space-2 space-top-md-5 space-top-lg-4 space-bottom-lg-3">
+
+    <!-- Breadcrumbs Section -->
+    <div class="w-lg-60 mx-lg-auto">
+      <div class="mb-4">
+        <nav aria-label="breadcrumb">
+          <ol class="breadcrumb breadcrumb-no-gutter font-size-1">
+            <li class="breadcrumb-item"><a href="">Home</a></li>
+             
+               
+                
+                    <li class="breadcrumb-item"><a href="/doc/">doc</a></li>
+                
+              
+                
+                    <li class="breadcrumb-item"><a href="/doc/faq/">faq</a></li>
+                
+              
+                
+                    <li class="breadcrumb-item"><a class="current">Configure the diagrams.net and draw.io editor</a></li>
+                
+              
+          </ol>
+        </nav>
+      </div>
+    </div>
+    <!-- End Breadcrumbs Section -->
+
+    <div class="w-lg-60 mx-lg-auto">
+      <div class="mb-4">
+        <h1 class="h2 font-weight-medium">Configure the diagrams.net and draw.io editor</h1>
+      </div>
+
+      <p>These aspects of diagrams.net are configurable in draw.io for Confluence Server/Cloud, Quip, embed mode, online and Desktop:</p>
+
+<ul>
+  <li>Fonts and web fonts</li>
+  <li>Colour palettes and themes</li>
+  <li>Shape and connector styling</li>
+  <li>Built-in libraries shown in the left panel</li>
+  <li>Custom libraries shown in the left panel</li>
+  <li>CSS for the editor appearance</li>
+  <li>Plugins to extend the diagram editor <em>(provided as-is, unsupported examples for developers)</em></li>
+  <li>Width and height for entries in the left panel</li>
+  <li>XML for blank diagrams and libraries</li>
+  <li>Global variables</li>
+  <li>XML compression</li>
+  <li>Default length for new connectors (edges)</li>
+  <li>Default delay for autosave</li>
+  <li>Use of external resources (Quip only)</li>
+</ul>
+
+<p>In the following video, you’ll see what can be customised in diagrams.net and draw.io.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/geDSyhUFqS4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<h2 id="configuration">Configuration</h2>
+
+<p><strong>Confluence Data Center or Server:</strong> Go to your instance’s settings as an administrator, scroll down to the <em>draw.io add-on</em> section in the left navigation, and click on the <em>Configuration</em> tab.</p>
+
+<p><img src="/assets/img/blog/drawio-configuration-confluence-server.png" style="max-width:100%;height:auto;" alt="draw.io Configuration in Confluence Server" /></p>
+
+<p><strong>Confluence Cloud:</strong> As an administrator, go to the <em>draw.io Configuration</em> section in your instance’s <em>Settings</em>.</p>
+
+<p><img src="/assets/img/blog/drawio-configuration-confluence-cloud.png" style="max-width:100%;height:auto;" alt="draw.io Configuration in Confluence Cloud" /></p>
+
+<p><strong>Quip:</strong> As a site administrator, create a new diagram, then select <em>Diagrams &gt; Preferences &gt; Advanced</em>.</p>
+
+<p><img src="/assets/img/blog/drawio-configuration-quip.gif" style="max-width:100%;height:auto;" alt="draw.io Configuration in Quip" /></p>
+
+<p><strong>Embedded:</strong> Add the <code class="language-plaintext highlighter-rouge">configure=1</code> URL parameter and the <a href="/doc/faq/embed-mode.html">JSON code for the configuration</a>.</p>
+
+<p><strong>Online and Desktop:</strong> Select <em>Extras &gt; Configuration</em> to customise diagrams.net.</p>
+
+<p><img src="/assets/img/blog/extras-configuration-menu.png" style="width=100%;max-width:400px;height:auto;" alt="Access the diagrams.net configuration via Extras &gt; Configuration" /></p>
+
+<h2 id="format">Format</h2>
+
+<p>The configuration is represented as a <a href="http://www.json.org/">JSON (JavaScript Object Notation) string</a> with the following options:</p>
+
+<ul>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">defaultFonts</code>: An array of font family names in the format panel font drop-down list.</p>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">customFonts</code>: An array of font family names to be added before <code class="language-plaintext highlighter-rouge">defaultFonts</code> (9.2.4 and later).
+<br /><strong>Note:</strong> Fonts must be installed on the server and all client devices, or be added using the <code class="language-plaintext highlighter-rouge">fontCss</code> option. (6.5.4 and later).
+<br /><img src="/assets/img/blog/custom-fonts-list-confluence-cloud.png" style="width=100%;max-width:200px;height:auto;" alt="Customise the fonts in diagrams.net" /></p>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">presetColors</code>: Colour codes for the upper palette in the colour dialog (no leading # for the colour codes).</p>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">customPresetColors</code>: Colour codes to be added before <code class="language-plaintext highlighter-rouge">presetColors</code> (no leading <code class="language-plaintext highlighter-rouge">#</code> for the colour codes) (9.2.5 and later).
+<br /><img src="/assets/img/blog/preset-colours-new-defaults.png" style="width=100%;max-width:200px;height:auto;" alt="The default present colours can be customised in draw.io" /></p>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">defaultColors</code>: Colour codes for the lower palette in the colour dialog (no leading <code class="language-plaintext highlighter-rouge">#</code> for the colour codes).
+<br /><img src="/assets/img/blog/large-palette-custom.png" style="width=100%;max-width:200px;height:auto;" alt="Modify the colour palettes easily with draw.io for Confluence Cloud" /></p>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">defaultColorSchemes</code>: Available colour schemes in the style section at the top of the format panel (use leading <code class="language-plaintext highlighter-rouge">#</code> for the colour codes). Possible colour keys are <code class="language-plaintext highlighter-rouge">fill</code>, <code class="language-plaintext highlighter-rouge">stroke</code>, <code class="language-plaintext highlighter-rouge">gradient</code> and <code class="language-plaintext highlighter-rouge">font</code> (<code class="language-plaintext highlighter-rouge">font</code> is ignored for connectors).</p>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">customColorSchemes</code>: Colour schemes to be added before <code class="language-plaintext highlighter-rouge">defaultColorSchemes</code> (9.2.4 and later).
+<br /><img src="/assets/img/blog/style-colour-palette.png" style="width=100%;max-width:200px;height:auto;" alt="The default colour schemes in draw.io modify the style colour palette" /></p>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">defaultVertexStyle</code> or <code class="language-plaintext highlighter-rouge">defaultEdgeStyle</code>: Defines the initial default styles for vertices and edges (connectors). Note that the styles defined here are copied to the styles of new cells, for each cell. This means that these values override everything else that is inherited from other styles or themes (which may be supported at a later time). Therefore, it is recommended to use a minimal set of values for the default styles. To find the key/value pairs to be used, set the style in the application and find the key and value via <em>Edit Style</em> (<code class="language-plaintext highlighter-rouge">Ctrl+E</code>) (6.5.2 and later).
+<br />For example, to assign a default <code class="language-plaintext highlighter-rouge">fontFamily</code> of <code class="language-plaintext highlighter-rouge">Courier New</code> to all edges and vertices (and override all other default styles), use <code class="language-plaintext highlighter-rouge">{"defaultVertexStyle": {"fontFamily": "Courier New"}, "defaultEdgeStyle": {"fontFamily": "Courier New"}}</code>.</p>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">defaultLibraries</code>: Defines a semicolon-separated list of library keys (unique names) in a string to be initially displayed in the left panel (e.g. <code class="language-plaintext highlighter-rouge">"general;uml;company-graphics"</code>). Possible keys include custom entry IDs from the libraries field, or <a href="/doc/faq/supported-url-parameters.html">keys for the <code class="language-plaintext highlighter-rouge">libs</code> URL parameter</a> (6.5.2 and later). The default value is <code class="language-plaintext highlighter-rouge">"general;uml;er;bpmn;flowchart;basic;arrows2"</code>.</p>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">enabledLibraries</code>: Defines an array of strings of library keys which will be available in the <em>More Shapes</em> dialog. If you define this as null, all libraries will be visible. If you leave the array empty, no libraries will be visible (e.g. <code class="language-plaintext highlighter-rouge">["general", "uml"]</code>) (9.2.5 and later).</p>
+  </li>
+  <li><code class="language-plaintext highlighter-rouge">libraries</code>: Defines an array of objects that list additional libraries and sections in the left panel and the <em>More Shapes</em> dialog, in the following format: <code class="language-plaintext highlighter-rouge">[section1,...,sectionN]</code>. Where:
+    <ul>
+      <li>each <code class="language-plaintext highlighter-rouge">section</code> has the form <code class="language-plaintext highlighter-rouge">{title: resource, entries: [entry1,...,entryN]}</code>.</li>
+      <li>each <code class="language-plaintext highlighter-rouge">entry</code> has the form <code class="language-plaintext highlighter-rouge">{id: string, preview: string, title: resource, desc: resource, libs: [lib1,..,libN]}</code>.</li>
+      <li>each <code class="language-plaintext highlighter-rouge">lib</code> has the form <code class="language-plaintext highlighter-rouge">{title: resource, url: string OR data: string, tags: string}</code>.
+        <ul>
+          <li><code class="language-plaintext highlighter-rouge">sections</code> are used for the sections in the <em>More Shapes</em> dialog.</li>
+          <li><code class="language-plaintext highlighter-rouge">entries</code> are the entries for the sections and each entry may have one or more libraries associated. The <code class="language-plaintext highlighter-rouge">id</code> of each entry must be unique, <code class="language-plaintext highlighter-rouge">preview</code> is the URL of an image to be used as a preview and <code class="language-plaintext highlighter-rouge">desc</code> is used before or in place of the review as a description (pre-formatted text which supports linefeeds).</li>
+          <li>In <code class="language-plaintext highlighter-rouge">libs</code>, <code class="language-plaintext highlighter-rouge">resource</code> is a language resource  defined as <code class="language-plaintext highlighter-rouge">{main: string, xy: string}</code> where <code class="language-plaintext highlighter-rouge">xy</code> may be any country code (e.g. <code class="language-plaintext highlighter-rouge">es</code>, <code class="language-plaintext highlighter-rouge">fr</code>, <code class="language-plaintext highlighter-rouge">de</code>) and where <code class="language-plaintext highlighter-rouge">main</code> is the fallback if no string is defined for the current country code (i.e. the default resource).</li>
+          <li>Also in <code class="language-plaintext highlighter-rouge">libs</code>, <code class="language-plaintext highlighter-rouge">tags</code> is an optional string with a space-separated list of searchable tags.</li>
+          <li><code class="language-plaintext highlighter-rouge">libs</code> may use an external resource via the URL in the <code class="language-plaintext highlighter-rouge">url</code> field or define the library entries directly via <code class="language-plaintext highlighter-rouge">data</code>, which contains the array between <code class="language-plaintext highlighter-rouge">&lt;mxlibrary&gt;...&lt;/mxlibrary&gt;</code> in the library files. By default, all entries with <code class="language-plaintext highlighter-rouge">data</code> and the first 20 entries with <code class="language-plaintext highlighter-rouge">url</code> are prefetched and added to the search index. To prefetch additional entries with <code class="language-plaintext highlighter-rouge">url</code>, add <code class="language-plaintext highlighter-rouge">"prefetch": true</code> to the respective <code class="language-plaintext highlighter-rouge">lib</code> (9.2.5 and later).
+ <br />For example:
+            <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>[ {
+ "title": {
+ "main": "Company"
+ },
+ "entries": [ {
+"id": "company-graphics",
+"title": {
+  "main": "Graphics",
+  "de": "Grafiken"
+},
+"desc": {
+  "main": "Collection of Graphics for Company",
+  "de": "Sammlung von Grafiken für Firma"
+},
+"libs": [ {
+ "title": {
+   "main": "Graphics for Company",
+   "de": "Grafiken für Firma"
+ },
+ "data": [ {
+     "xml": "jZLBbsMgDIafhmuUgKr1mqZbL5u0VyCJF5BMHIHbpG9fEti6Tqq0A5L5/NuYH4Rq3HLyejIf1AMK9SpU44k4RW5pAFHI0vZCHYWUZVxCvj3JVlu2nLSHkf9TIFPBReMZEkkg8BUz6HUwsMpLoQ50ZrQjNDSO0HGGhl0c/FjFUKMdxhh38XzwEaBuAT8pWLb0kLiAZ9tpfP8jaImZ3C9BnVsyTZEGo6d1MLcMq2nFDC3SQKHovZ4tySj5sogNIfltflXVu0Ot8j1jT1ieerWhbNQJyAH7a5TMtmeTFDtZZIcM2MHkupey2CeqQyLDT/Xd/Bhk/7+393fecg/f4AY=",
+     "w": 52.2,
+     "h": 70.8,
+     "aspect": "fixed"
+   } ]
+  } ]
+ } ]
+} ]
+</code></pre></div>            </div>
+            <p>This configuration produces the following <em>More Shapes</em> dialog when combined with <code class="language-plaintext highlighter-rouge">enabledLibraries: []:</code>
+<br /><img src="/assets/img/blog/configured-library.png" style="width=100%;max-width:400px;height:auto;" alt="The More Shape dialog in diagrams.net after configuring it with a custom library and library category" /></p>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><code class="language-plaintext highlighter-rouge">defaultCustomLibraries</code>: Defines an array of IDs to load custom libraries.
+    <ul>
+      <li>In Atlassian Confluence, define the IDs as <code class="language-plaintext highlighter-rouge">A1...An</code>, e.g. <code class="language-plaintext highlighter-rouge">{"defaultCustomLibraries": ["A1"]}</code>. To get the ID for a custom library, move the mouse over the entry in the <em>Select Library</em> dialog or the title of the library in the left panel and wait for the tooltip to appear, e.g. <em>my library (A1)</em>, where <code class="language-plaintext highlighter-rouge">A1</code> is the ID. If no tooltip appears, open the library in a diagram, save the diagram, then refer to the <code class="language-plaintext highlighter-rouge">&lt;mxAtlasLibraries&gt;</code> section in the diagram file attached to the page that uses the diagram name, but is not the .png file extension (6.5.2 and later).</li>
+      <li>Alternatively, you can use an ID that is the <code class="language-plaintext highlighter-rouge">UencodedURI</code> to load a library from an URL, e.g. <code class="language-plaintext highlighter-rouge">{"defaultCustomLibraries": ["U%2Fconfluence%2Fdownload%2Fattachments%2F720900%2FScratchpad.xml%3Fapi%3Dv2"]}</code>
+ <br /><strong>Note:</strong> To encode a URL, enter the URL into our <a href="https://jgraph.github.io/drawio-tools/tools/convert.html">URL encode tool</a> and select <em>URL Encode</em>.</li>
+      <li>To load the libraries from the libraries section above, use the <code class="language-plaintext highlighter-rouge">defaultLibraries</code> setting.</li>
+    </ul>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">enableCustomLibraries</code>: Specifies if the open and new library functions are enabled (<code class="language-plaintext highlighter-rouge">true</code> or <code class="language-plaintext highlighter-rouge">false</code>, the default is <code class="language-plaintext highlighter-rouge">true</code>).</p>
+  </li>
+  <li><code class="language-plaintext highlighter-rouge">templateFile</code>: Defines the URL of the source file for the <em>Templates</em> dialog (multiple <code class="language-plaintext highlighter-rouge">&lt;template&gt;</code> tags are allowed).
+<br /><strong>Note:</strong> The XML type declaration is required if this file is downloaded via the proxy server, using the <a href="/doc/faq/supported-url-parameters.html"><code class="language-plaintext highlighter-rouge">cors</code> URL parameter</a> (9.2.5 and later).</li>
+</ul>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;?xml version="1.0"?&gt;
+&lt;templates&gt;&lt;template section="Title" url="http://example.com/diagram.xml" title="Diagram" preview="https://example.com/diagram.png" libs="general"/&gt;&lt;/templates&gt;
+</code></pre></div></div>
+
+<ul>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">css</code>: Defines a string with CSS rules to be used to configure the diagrams.net user interface. For example, to change the background colour of the menu bar, use the following: <code class="language-plaintext highlighter-rouge">{"css": ".geMenubarContainer { background-color: #c0c0c0 !important; } .geMenubar { background-color: #c0c0c0 !important; }"}</code> (6.5.2 and later).</p>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">fontCss</code>: Defines a string with CSS rules for web fonts to be used in diagrams. This should be one or more <code class="language-plaintext highlighter-rouge">@font-face</code> rule, e.g. to use a font file attached to a Confluence page: <code class="language-plaintext highlighter-rouge">{"fontCss": "@font-face { font-family: 'Marvel'; src:  url(/confluence/download/attachments/720900/Marvel-Regular.ttf?api=v2) format('truetype')}"}</code>
+<br />The fonts in this section are used for displaying diagrams in the editor and creating images in Google Chrome, Firefox and Microsoft Edge. All other browsers require the font to be installed on the server-side. To create images in the browser, the font must be on the same domain and contain a CORS header, or it will be proxied via the Confluence server.
+<br /><strong>Confluence Server</strong>: The <em>Global Stylesheet</em> under <em>Stylesheet</em> in the <em>Look and Feel</em> section of the Confluence administration area is used to view the diagram in the page and to print it from the lightbox. In this case, it should match <code class="language-plaintext highlighter-rouge">fontCss</code> with the following rule:
+<br /><img src="/assets/img/blog/configure-font-stylesheet-confluence-server.png" style="max-width:100%;height:auto;" alt="Configure COnfluence Server to use fontCss rules in diagrams.net" />
+<br /><strong>Confluence Cloud</strong>: The font URL must be public and must allow access to the diagrams.net origin (CORS header):
+<br /> <code class="language-plaintext highlighter-rouge">"fontCss": "@font-face { font-family: 'Waltograph'; src:  url(https://fontlibrary.org/assets/fonts/waltograph/23a40698cd1bb84f930b7a0884c134a6/ab260a56f2b852b78f81eac337e0a2fc/WaltographRegular.otf) format('opentype')}" and "customFonts": ["Waltograph”]</code>
+<br /><strong>Note:</strong> All fonts will be downloaded to the client when they create an image and save the diagram, so the number of custom fonts should be kept to a minimum. The external image service does currently not support custom fonts.</p>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">plugins</code>: Defines an array of plugin URLs that should be loaded with the diagram editor. Plugins are JavaScript files that can modify the editor UI and behaviour. For example, to load the <code class="language-plaintext highlighter-rouge">text.js</code> plugin from a page attachment in Confluence, use the following configuration: <code class="language-plaintext highlighter-rouge">{"plugins": ["/confluence/download/attachments/720900/text.js?api=v2"]}</code> (6.5.4 and later.)
+<br /><a href="https://github.com/jgraph/drawio/tree/master/src/main/webapp/plugins">Plugin sources can be found in the Github project repository</a>. This option is ignored if the <code class="language-plaintext highlighter-rouge">configure=1</code> URL parameter is used to configure the editor. Use the short names for the plugins.
+<br /><strong>Confluence Cloud:</strong> use <code class="language-plaintext highlighter-rouge">{"plugins": ["anon;text"]}</code>. This is equivalent to the <code class="language-plaintext highlighter-rouge">p</code> URL parameter and limits possible plugins to only <a href="/doc/faq/plugins.html">trusted diagrams.net plugins</a>.
+<br /><strong>Note:</strong> All plugins are only available for the diagrams.net editor, and not the viewer. They are provided as-is, as unsupported examples for developers.</p>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">thumbWidth/thumbHeight</code>: Defines the width and height for the entries in the left panel (6.5.4 and later).</p>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">emptyDiagramXml/emptyLibraryXml</code>: Defines the XML for blank diagrams and libraries (6.5.4 and later).</p>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">defaultEdgeLength</code>: Defines the default length for new connectors (7.2.4 and later).</p>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">autosaveDelay</code>: Defines the delay (in ms) between the last change and the autosave of the file (10.4.7 and later).</p>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">version</code>: The current version of the configuration (any string, e.g. <code class="language-plaintext highlighter-rouge">"1.0"</code>). If this is different from the last used version, then the current settings on the client-side (<code class="language-plaintext highlighter-rouge">.drawio-config</code>) will be reset. The default is <code class="language-plaintext highlighter-rouge">null</code>. Change this to force the stored settings in the client to be reset and apply the current configuration (7.2.8 and later).</p>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">override</code>: Ignores the current settings on the client-side if this is set to <code class="language-plaintext highlighter-rouge">true</code> (9.2.5 and later).</p>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">globalVars</code>: Defines global variables for system-wide placeholders using a JSON structure with key, value pairs. Keep the number of global variables small.</p>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">compressXml</code>: Specifies if the XML output should be compressed. The default is <code class="language-plaintext highlighter-rouge">true</code> (<code class="language-plaintext highlighter-rouge">false</code> for Confluence Cloud).</p>
+  </li>
+</ul>
+
+<h2 id="additional-options-for-confluence-server-and-data-center">Additional options for Confluence Server and Data Center</h2>
+
+<ul>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">inplaceedits</code>: Disables the ability to launch the diagram editor from the viewer if set to <code class="language-plaintext highlighter-rouge">false</code>. The default is <code class="language-plaintext highlighter-rouge">true</code> (8.3.13 and later).</p>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">forceSimpleViewer</code>: Forces simple diagram viewer for every diagram if set to <code class="language-plaintext highlighter-rouge">true</code>. The default is <code class="language-plaintext highlighter-rouge">false</code> (8.4.0 and later).</p>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">defaultMacroParameters</code>: Defines overrides for default macro parameters using a JSON structure (9.2.5 and later).</p>
+    <ul>
+      <li><code class="language-plaintext highlighter-rouge">border</code>: A boolean. Shows a border around the viewer if set to true, where the default is <em>true</em>.</li>
+      <li><code class="language-plaintext highlighter-rouge">width</code>: An integer. The default width of the viewer, where the default is <em>blank</em>.</li>
+      <li><code class="language-plaintext highlighter-rouge">lightbox</code>: A boolean. Enables the lightbox (large viewer) if set to <em>true</em>, where the default is <em>true</em>.</li>
+      <li><code class="language-plaintext highlighter-rouge">simpleViewer</code>: A boolean. Shows the simple viewer if set to <em>true</em> where the default is <em>false</em>.</li>
+      <li><code class="language-plaintext highlighter-rouge">toolbarStyle</code>: A string. The default is <em>“top”</em>, and accepted values are:
+        <ul>
+          <li><code class="language-plaintext highlighter-rouge">"top"</code> : Shows the toolbar above viewer element on mouse hover.</li>
+          <li><code class="language-plaintext highlighter-rouge">"inline"</code> : Shows the toolbar inside the viewer element on mouse hover.</li>
+          <li><code class="language-plaintext highlighter-rouge">"hidden"</code> : Hides the toolbar.</li>
+        </ul>
+      </li>
+      <li><code class="language-plaintext highlighter-rouge">links</code>: A string. The default is <em>“auto”</em> and accepted values are:
+        <ul>
+          <li><code class="language-plaintext highlighter-rouge">"auto"</code> : Opens local links in the current window and external links in a new window.</li>
+          <li><code class="language-plaintext highlighter-rouge">"blank"</code> : Opens all links in a new window.</li>
+          <li><code class="language-plaintext highlighter-rouge">"self"</code> : Opens all links in the current window.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="additional-options-for-confluence-cloud">Additional options for Confluence Cloud</h2>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">ui</code>: Defines a string with the name of the theme for the user interface. Choose one of the following themes: <code class="language-plaintext highlighter-rouge">kennedy</code>, <code class="language-plaintext highlighter-rouge">atlas</code> (default), <code class="language-plaintext highlighter-rouge">dark</code> and <code class="language-plaintext highlighter-rouge">min</code>.</li>
+</ul>
+
+<h2 id="additional-options-for-quip">Additional options for Quip</h2>
+
+<ul>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">mathematicalTypesetting</code>: Toggles mathematical typesetting using MathJax, which loads JavaScript and fonts from math.diagrams.net and uses exp.diagrams.net for creating images (<code class="language-plaintext highlighter-rouge">true</code> or <code class="language-plaintext highlighter-rouge">false</code>, where the default is <code class="language-plaintext highlighter-rouge">true</code>).</p>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">internationalization</code>: Toggles <code class="language-plaintext highlighter-rouge">i18n</code>, which uses resources from <a href="https://app.diagrams.net">app.diagrams.net</a> (<code class="language-plaintext highlighter-rouge">true</code> or <code class="language-plaintext highlighter-rouge">false</code>, where the default is <code class="language-plaintext highlighter-rouge">true</code>). If you disable this feature, the user interface of the Quip live app will only be shown in English.</p>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">iconfinder</code>: Toggles searching for shapes using Iconfinder in the left panel search box.</p>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">plantUml</code>: Toggles the ability to insert PlantUML markup, which uses <code class="language-plaintext highlighter-rouge">exp-plant.diagrams.net</code> (<code class="language-plaintext highlighter-rouge">true</code> or <code class="language-plaintext highlighter-rouge">false</code>, where the default is <code class="language-plaintext highlighter-rouge">true</code>).</p>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">exportPdf</code>: Toggles the ability to export to a PDF file, which uses <code class="language-plaintext highlighter-rouge">exp.diagrams.net</code> (<code class="language-plaintext highlighter-rouge">true</code> or <code class="language-plaintext highlighter-rouge">false</code>, where the default is <code class="language-plaintext highlighter-rouge">true</code>).</p>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">remoteConvert</code>: Toggles the ability to convert files that require a remote connection, namely Gliffy, .vsd and .vss files (<code class="language-plaintext highlighter-rouge">true</code> or <code class="language-plaintext highlighter-rouge">false</code>, where the default is <code class="language-plaintext highlighter-rouge">true</code>).</p>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">password</code>: Protects access to the site configuration with an optional string (only site administrators are allowed access).</p>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">maxHistoryDays</code>: Specifies the number of days for which to keep the editing history. The default is <code class="language-plaintext highlighter-rouge">14</code>. If the last edit is older than this number of days, the history is cleared when editing starts. Use <em>Preferences &gt; Compress</em> to do this manually.</p>
+  </li>
+  <li>
+    <p><code class="language-plaintext highlighter-rouge">debug</code>: Toggles the debug output in the browser console (<code class="language-plaintext highlighter-rouge">true</code> or <code class="language-plaintext highlighter-rouge">false</code>, where the default is <code class="language-plaintext highlighter-rouge">false</code>).</p>
+  </li>
+</ul>
+
+<p>If these options are not visible in your configuration, click <em>Reset</em> to restore the defaults.</p>
+
+<p>If all of the above options are disabled, draw.io for Quip will not use any external resources or services (other than images from <a href="https://app.diagrams.net">app.diagrams.net</a>).</p>
+
+<p>The <em>Advanced</em> button in the <em>Preferences</em> dialog is only visible to Quip site administrators.</p>
+
+<p>The maximum allowed size for the configuration in Quip is 10 kB.</p>
+
+<h2 id="example">Example</h2>
+
+<p>The following is an example for a JSON string with default values (if a variable is omitted):</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>{ "defaultFonts": ["Helvetica", "Verdana", "Times New Roman", "Garamond", "Comic Sans MS", "Courier New", "Georgia", "Lucida Console", "Tahoma"],
+  "presetColors": ["E6D0DE", "CDA2BE", "B5739D", "E1D5E7", "C3ABD0", "A680B8", "D4E1F5", "A9C4EB", "7EA6E0", "D5E8D4", "9AC7BF", "67AB9F", "D5E8D4", "B9E0A5", "97D077", "FFF2CC", "FFE599", "FFD966", "FFF4C3", "FFCE9F", "FFB570", "F8CECC", "F19C99", "EA6B66"],
+  "defaultColorSchemes": [
+  [ null, { "fill": "#f5f5f5", "stroke": "#666666" },
+     {	"fill": "#dae8fc", "stroke": "#6c8ebf" },
+     {	"fill": "#d5e8d4", "stroke": "#82b366" },
+     {	"fill": "#ffe6cc", "stroke": "#d79b00" },
+     {	"fill": "#fff2cc", "stroke": "#d6b656" },
+     { "fill": "#f8cecc", "stroke": "#b85450" },
+     {	"fill": "#e1d5e7", "stroke": "#9673a6" }],
+	[ null, { "fill": "#f5f5f5", "stroke": "#666666", "gradient": "#b3b3b3" },
+     {	"fill": "#dae8fc", "stroke": "#6c8ebf",	"gradient": "#7ea6e0" },
+     {	"fill": "#d5e8d4", "stroke": "#82b366",	"gradient": "#97d077" },
+     {	"fill": "#ffcd28", "stroke": "#d79b00",	"gradient": "#ffa500" },
+     {	"fill": "#fff2cc", "stroke": "#d6b656",	"gradient": "#ffd966" },
+     {	"fill": "#f8cecc", "stroke": "#b85450",	"gradient": "#ea6b66" },
+     {	"fill": "#e6d0de", "stroke": "#996185",	"gradient": "#d5739d" }],
+	[ null, { "fill": "#eeeeee", "stroke": "#36393d" },
+     {	"fill": "#f9f7ed", "stroke": "#36393d" },
+     {	"fill": "#ffcc99", "stroke": "#36393d" },
+     {	"fill": "#cce5ff", "stroke": "#36393d" },
+     {	"fill": "#ffff88", "stroke": "#36393d" },
+     {	"fill": "#cdeb8b", "stroke": "#36393d" },
+     {	"fill": "#ffcccc", "stroke": "#36393d" }]
+	],
+  "defaultColors": ["none", "FFFFFF", "E6E6E6", "CCCCCC", "B3B3B3", "999999", "808080", "666666", "4D4D4D", "333333", "1A1A1A", "000000", "FFCCCC", "FFE6CC", "FFFFCC", "E6FFCC", "CCFFCC", "CCFFE6", "CCFFFF", "CCE5FF", "CCCCFF", "E5CCFF", "FFCCFF", "FFCCE6", "FF9999", "FFCC99", "FFFF99", "CCFF99", "99FF99", "99FFCC", "99FFFF", "99CCFF", "9999FF", "CC99FF", "FF99FF", "FF99CC", "FF6666", "FFB366", "FFFF66", "B3FF66", "66FF66", "66FFB3", "66FFFF", "66B2FF", "6666FF", "B266FF", "FF66FF", "FF66B3", "FF3333", "FF9933", "FFFF33", "99FF33", "33FF33", "33FF99", "33FFFF", "3399FF", "3333FF", "9933FF", "FF33FF", "FF3399", "FF0000", "FF8000", "FFFF00", "80FF00", "00FF00", "00FF80", "00FFFF", "007FFF", "0000FF", "7F00FF", "FF00FF", "FF0080", "CC0000", "CC6600", "CCCC00", "66CC00", "00CC00", "00CC66", "00CCCC", "0066CC", "0000CC", "6600CC", "CC00CC", "CC0066", "990000", "994C00", "999900", "4D9900", "009900", "00994D", "009999", "004C99", "000099", "4C0099", "990099", "99004D", "660000", "663300", "666600", "336600", "006600", "006633", "006666", "003366", "000066", "330066", "660066", "660033", "330000", "331A00", "333300", "1A3300", "003300", "00331A", "003333", "001933", "000033", "190033", "330033", "33001A"],
+	"defaultVertexStyle": {},
+	"defaultEdgeStyle": {
+		"edgeStyle": "orthogonalEdgeStyle",
+		"rounded": "0",
+		"jettySize": "auto",
+		"orthogonalLoop": "1" },
+	"defaultLibraries": "general;images;uml;er;bpmn;flowchart;basic;arrows2",
+	"defaultCustomLibraries": [],
+	"defaultMacroParameters": {
+		"border": false,
+		"toolbarStyle": "inline" },
+	"css": "",
+	"fontCss": "",
+	"plugins": [],
+	"thumbWidth": 46,
+	"thumbHeight": 46,
+	"emptyDiagramXml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id='0'/&gt;&lt;mxCell id='1' parent='0'/&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+	"emptyLibraryXml": "&lt;mxlibrary&gt;[]&lt;/mxlibrary&gt;",
+	"defaultEdgeLength": 80 }
+</code></pre></div></div>
+
+<p>The configuration of the online version is stored in your browser in local storage under the key <code class="language-plaintext highlighter-rouge">.configuration</code>.
+<br /><img src="/assets/img/blog/configuration-browser-local-storage.png" width="400" alt="The diagrams.net configuration is stored in your browser's local storage" /></p>
+
+<p>The current settings of the editor (such as the recent colours, current open libraries, etc.) persist in your browser in local storage under the key <code class="language-plaintext highlighter-rouge">.drawio-config</code>:
+<br /><img src="/assets/img/blog/current-settings-local-storage-browser.png" style="width=100%;max-width:400px;height:auto;" alt="Current settings for diagrams.net are saved in local storage in your browser" /></p>
+
+<p>You can add <code class="language-plaintext highlighter-rouge">defaultEdgeLength</code> and <code class="language-plaintext highlighter-rouge">autosaveDelay</code> directly to <code class="language-plaintext highlighter-rouge">.drawio-config</code> to override the default values for the web app in your browser.</p>
+
+<h2 id="delete-the-current-settings-or-configuration">Delete the current settings or configuration</h2>
+
+<ol>
+  <li>Open the Google Chrome Developer Tools: <em>More Tools &gt; Developer Tools</em>.</li>
+  <li>Go to the <em>Application</em> tab, and select <em>Storage &gt; Local Storage &gt; your_domain_name</em>.</li>
+  <li>Right click on and delete <code class="language-plaintext highlighter-rouge">.drawio-config</code> in the Key-Value table.</li>
+</ol>
+
+<h2 id="fixing-errors-in-your-configuration">Fixing errors in your configuration</h2>
+
+<p>If the configuration has an invalid format, a configuration error is shown in the Chrome <em>Console</em> tab when the diagram editor opens. Replace double-escaped quotes (\”) with single-escaped quotes ("), to ensure the configuration is valid JSON and can be checked with a <a href="https://jsonlint.com/">validator such as JSONLint</a>.</p>
+
+<h2 id="configuring-the-online-app">Configuring the online app</h2>
+
+<p>You can create a link to configure the online version of diagrams.net by clicking on <em>Link</em> in the <em>Configuration</em> dialog: Click on <em>Help &gt; Configuration</em>.</p>
+
+<p><strong>Note:</strong> If you need to support Microsoft Edge or IE11 then you’ll need to stay under 2,025 character hashes.</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CVpvbALlgmg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<p>Here If you don’t want to code the configuration by hand, use this <a href="https://drawio-config.herokuapp.com/">third-party app to create the diagrams.net configuration for fonts, colours and default styles</a>.</p>
+
+
+    </div>
+  </div>
+  <!-- End Article Description Section -->
+</main>
+<!-- ========== END MAIN ========== -->
+
+<!-- JS Global Compulsory -->
+<script src="../../assets/js/jquery.min.js"></script>
+<script src="../../assets/js/jquery-migrate.min.js"></script>
+<script src="../../assets/js/popper.min.js"></script>
+<script src="../../assets/js/bootstrap.min.js"></script>
+
+<!-- JS Implementing Plugins -->
+<script src="../../assets/js/hs.megamenu.js"></script>
+
+<!-- JS Front -->
+<script src="../../assets/js/hs.core.js"></script>
+<script src="../../assets/js/hs.header.js"></script>
+<script src="../../assets/js/hs.unfold.js"></script>
+<script src="../../assets/js/hs.focus-state.js"></script>
+<script src="../../assets/js/hs.show-animation.js"></script>
+
+<!-- JS Plugins Init. -->
+<script>
+  $(window).on('load', function () {
+    // initialization of HSMegaMenu component
+    $('.js-mega-menu').HSMegaMenu({
+      event: 'hover',
+      pageContainer: $('.container'),
+      breakpoint: 767.98,
+      hideTimeOut: 0
+    });
+  });
+
+  $(document).on('ready', function () {
+    // initialization of header
+    $.HSCore.components.HSHeader.init($('#header'));
+
+    // initialization of unfold component
+    $.HSCore.components.HSUnfold.init($('[data-unfold-target]'), {
+      afterOpen: function () {
+        $(this).find('input[type="search"]').focus();
+      }
+    });
+
+    // initialization of show animations
+    $.HSCore.components.HSShowAnimation.init('.js-animation-link');
+
+    // initialization of forms
+    $.HSCore.components.HSFocusState.init();
+  });
+</script>
+
+<!-- ========== FOOTER ========== -->
+<footer class="bg-dark">
+  <div class="container space-2">
+    <div class="row mb-7">
+      <div class="col-lg-4 mb-5 mb-lg-0">
+        <a class="d-inline-flex align-items-center mb-2" href="/index.html" aria-label="Front">
+          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="36px" height="36px" viewBox="0 0 250 250" xml:space="preserve" style="margin-bottom: 0;">
+            <style type="text/css">
+            	.st0{fill:#F08705;}
+            	.st1{fill:#DF6C0C;}
+            	.st2{fill:#FFFFFF;}
+            </style>
+            <path class="st0" d="M237.5,227.9c0,5.3-4.3,9.6-9.5,9.6c0,0,0,0,0,0H22.1c-5.3,0-9.6-4.3-9.6-9.5c0,0,0,0,0,0V22.1
+            	c0-5.3,4.3-9.6,9.5-9.6c0,0,0,0,0,0h205.9c5.3,0,9.6,4.3,9.6,9.5c0,0,0,0,0,0V227.9z"/>
+            <path class="st1" d="M237.5,227.9c0,5.3-4.3,9.6-9.5,9.6c0,0,0,0,0,0H89.6L44.8,192l27.9-45.5l82.7-102.7l82.1,84.5V227.9z"/>
+            <path class="st2" d="M197.1,138.3h-23.7l-25-42.7c5.7-1.2,9.8-6.2,9.7-12V51.5c0-6.8-5.4-12.3-12.2-12.3c0,0-0.1,0-0.1,0h-41.7
+            	c-6.8,0-12.3,5.4-12.3,12.2c0,0,0,0.1,0,0.1v32.1c0,5.8,4,10.8,9.7,12l-25,42.7H52.9c-6.8,0-12.3,5.4-12.3,12.2c0,0,0,0.1,0,0.1
+            	v32.1c0,6.8,5.4,12.3,12.2,12.3c0,0,0.1,0,0.1,0h41.7c6.8,0,12.3-5.4,12.3-12.2c0,0,0-0.1,0-0.1v-32.1c0-6.8-5.4-12.3-12.2-12.3
+            	c0,0-0.1,0-0.1,0h-4l24.8-42.4h19.3l24.9,42.4h-4.1c-6.8,0-12.3,5.4-12.3,12.2c0,0,0,0.1,0,0.1v32.1c0,6.8,5.4,12.3,12.2,12.3
+            	c0,0,0.1,0,0.1,0h41.7c6.8,0,12.3-5.4,12.3-12.2c0,0,0-0.1,0-0.1v-32.1c0-6.8-5.4-12.3-12.2-12.3
+            	C197.2,138.3,197.2,138.3,197.1,138.3z"/>
+          </svg>
+          <span class="brand brand-light">diagrams.net</span>
+        </a>
+      </div>
+
+      <div class="col-6 col-lg-2 mb-5 mb-lg-0">
+        <h4 class="h6 text-white font-weight-medium">Help and advice</h4>
+        <ul class="list-unstyled font-size-1">
+          <li class="py-2"><a class="text-white-70" href="/doc/">Getting started</a></li>
+          <li class="py-2"><a class="text-white-70" href="/integrations.html">Integrations</a></li>
+          <li class="py-2"><a class="text-white-70" href="/doc/">Documentation</a></li>
+          <li class="py-2"><a class="text-white-70" href="/doc/faq/">FAQ</a></li>
+        </ul>
+      </div>
+
+      <div class="col-6 col-lg-2 mb-5 mb-lg-0">
+        <h4 class="h6 text-white font-weight-medium">About us</h4>
+        <ul class="list-unstyled font-size-1">
+          <li class="py-2"><a class="text-white-70" href="/about.html">About diagrams.net</a></li>
+          <li class="py-2"><a class="text-white-70" href="https://github.com/jgraph">Contribute</a></li>
+          <li class="py-2"><a class="text-white-70" href="/trust/">Legal &amp; Privacy</a></li>
+        </ul>
+      </div>
+
+      <div class="col-lg-4">
+        <!-- Form -->
+        <form class="js-validate mb-2">
+          <h4 class="h6 text-white font-weight-medium mb-3">We ran out of footer items</h4>
+          <div class="form-row">
+            <div class="col-12">
+              <div class="js-form-message">
+                <label class="sr-only" for="subscribeSrEmail">Email address</label>
+                <div class="input-group">
+                  <input type="email" class="form-control" name="email" id="subscribeSrEmail" placeholder="Email address" aria-label="Email address" required
+                         data-msg="Please enter a valid email address."
+                         data-error-class="u-has-error"
+                         data-success-class="u-has-success">
+                  <div class="input-group-append">
+                    <button type="button" class="btn btn-primary">
+                      <span class="fas fa-arrow-right"></span>
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </form>
+        <!-- End Form -->
+
+        <p class="text-white-70 small mb-0">This form isn't even posted to a server.</p>
+      </div>
+    </div>
+
+    <p class="small text-white-70 mb-0">&copy; 2005-2020 diagrams.net. All rights reserved.</p>
+  </div>
+</footer>
+<!-- ========== END FOOTER ========== -->
+
+<body>
+</html>

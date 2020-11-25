@@ -1,0 +1,846 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Title -->
+  <title>Draw a basic flow chart in diagrams.net</title>
+
+  <!-- Required Meta Tags Always Come First -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="/favicon.ico">
+
+  <!-- Google Fonts -->
+  <link href="//fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
+  <link href="//fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet"
+
+  <!-- CSS Implementing Plugins -->
+  <link rel="stylesheet" href="/assets/css/fontawesome-all.min.css">
+  <link rel="stylesheet" href="/assets/css/animate.min.css">
+  <link rel="stylesheet" href="/assets/css/hs.megamenu.css">
+  <link rel="stylesheet" href="/assets/css/jquery.mCustomScrollbar.css">
+
+  <!-- CSS Front Template -->
+  <link rel="stylesheet" href="/assets/css/theme.css">
+</head>
+<body>
+<!-- Search Content -->
+<div id="searchSlideDown" class="d-none dropdown-unfold u-search-slide-down" aria-labelledby="searchSlideDownInvoker">
+  <form>
+    <!-- Input Group -->
+    <div class="input-group input-group-borderless u-search-slide-down__input rounded mb-2">
+      <div class="input-group-prepend">
+        <span class="input-group-text">
+          <span class="fas fa-search"></span>
+        </span>
+      </div>
+      <input type="search" class="form-control" placeholder="Search Front" aria-label="Search Front">
+      <div class="input-group-append">
+        <a class="input-group-text" href="javascript:;"
+           aria-label="close"
+           data-unfold-event="click"
+           data-unfold-hide-on-scroll="false"
+           data-unfold-target="#searchSlideDown"
+           data-unfold-type="css-animation"
+           data-unfold-animation-in="active"
+           data-unfold-animation-out="fadeOutUp"
+           data-unfold-delay="0"
+           data-unfold-duration="800"
+           data-unfold-overlay='{
+            "className": "u-search-slide-down-bg-overlay",
+            "background": "rgba(55, 125, 255, .1)",
+            "animationSpeed": 400
+           }'>
+          <span class="fas fa-times" aria-hidden="true"></span>
+        </a>
+      </div>
+    </div>
+    <!-- End Input Group -->
+
+    <!-- Suggestions Content -->
+    <div class="rounded bg-white u-search-slide-down__suggestions py-3 px-5">
+      <ul class="list-group list-group-flush list-group-borderless mb-0">
+        <li><a class="list-group-item list-group-item-action" href="../pages/about-agency.html">About Front</a></li>
+        <li><a class="list-group-item list-group-item-action" href="../../starter/index.html">Getting Started</a></li>
+        <li><a class="list-group-item list-group-item-action" href="../../documentation/index.html">Documentation</a></li>
+      </ul>
+    </div>
+    <!-- End Suggestions Content -->
+  </form>
+</div>
+<!-- End Search Content -->
+
+<!-- ========== HEADER ========== -->
+<header id="header" class="u-header u-header--abs-top-md u-header--bg-transparent u-header--show-hide-md"
+        data-header-fix-moment="500"
+        data-header-fix-effect="slide">
+  <div class="u-header__section">
+    <!-- Topbar -->
+    <div class="d-none container u-header__hide-content pt-2">
+      <div class="d-flex align-items-center">
+        <div class="ml-auto">
+          <!-- Jump To -->
+          <div class="d-none d-inline-block d-sm-none position-relative mr-2">
+            <a id="jumpToDropdownInvoker" class="dropdown-nav-link dropdown-toggle d-flex align-items-center" href="javascript:;" role="button"
+               aria-controls="jumpToDropdown"
+               aria-haspopup="true"
+               aria-expanded="false"
+               data-unfold-event="hover"
+               data-unfold-target="#jumpToDropdown"
+               data-unfold-type="css-animation"
+               data-unfold-duration="300"
+               data-unfold-delay="300"
+               data-unfold-hide-on-scroll="true"
+               data-unfold-animation-in="slideInUp"
+               data-unfold-animation-out="fadeOut">
+              Jump to
+            </a>
+
+            <div id="jumpToDropdown" class="dropdown-menu dropdown-unfold" aria-labelledby="jumpToDropdownInvoker">
+              <a class="dropdown-item" href="../../html/pages/help.html">Help</a>
+            </div>
+          </div>
+          <!-- End Jump To -->
+
+          <!-- Links -->
+          <div class="d-none d-sm-inline-block ml-sm-auto">
+            <ul class="list-inline mb-0">
+              <li class="list-inline-item mr-0">
+                <a class="u-header__navbar-link" href="../pages/help.html">Help</a>
+              </li>
+            </ul>
+          </div>
+          <!-- End Links -->
+        </div>
+
+        <ul class="list-inline ml-2 mb-0">
+          <!-- Search -->
+          <li class="list-inline-item">
+            <a id="searchSlideDownInvoker" class="btn btn-xs btn-icon btn-text-secondary u-search-slide-down-trigger" href="javascript:;" role="button"
+               aria-haspopup="true"
+               aria-expanded="false"
+               aria-controls="searchSlideDown"
+               data-unfold-type="css-animation"
+               data-unfold-hide-on-scroll="false"
+               data-unfold-target="#searchSlideDown"
+               data-unfold-animation-in="active"
+               data-unfold-animation-out="fadeOutUp"
+               data-unfold-delay="0"
+               data-unfold-duration="800"
+               data-unfold-overlay='{
+                "className": "u-search-slide-down-bg-overlay",
+                "background": "rgba(55, 125, 255, .1)",
+                "animationSpeed": 400
+               }'>
+              <span class="fas fa-search btn-icon__inner u-search-slide-down-trigger__icon"></span>
+            </a>
+          </li>
+          <!-- End Search -->
+        </ul>
+      </div>
+    </div>
+    <!-- End Topbar -->
+
+    <div id="logoAndNav" class="container">
+      <!-- Nav -->
+      <nav class="js-mega-menu navbar navbar-expand-md u-header__navbar u-header__navbar--no-space">
+        <!-- Logo -->
+        <a class="navbar-brand u-header__navbar-brand u-header__navbar-brand-center" href="/index.html" aria-label="Front">
+          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="46px" height="46px" viewBox="0 0 250 250" xml:space="preserve" style="margin-bottom: 0; flex: none">
+            <style type="text/css">
+            	.st0{fill:#F08705;}
+            	.st1{fill:#DF6C0C;}
+            	.st2{fill:#FFFFFF;}
+            </style>
+            <path class="st0" d="M237.5,227.9c0,5.3-4.3,9.6-9.5,9.6c0,0,0,0,0,0H22.1c-5.3,0-9.6-4.3-9.6-9.5c0,0,0,0,0,0V22.1
+            	c0-5.3,4.3-9.6,9.5-9.6c0,0,0,0,0,0h205.9c5.3,0,9.6,4.3,9.6,9.5c0,0,0,0,0,0V227.9z"/>
+            <path class="st1" d="M237.5,227.9c0,5.3-4.3,9.6-9.5,9.6c0,0,0,0,0,0H89.6L44.8,192l27.9-45.5l82.7-102.7l82.1,84.5V227.9z"/>
+            <path class="st2" d="M197.1,138.3h-23.7l-25-42.7c5.7-1.2,9.8-6.2,9.7-12V51.5c0-6.8-5.4-12.3-12.2-12.3c0,0-0.1,0-0.1,0h-41.7
+            	c-6.8,0-12.3,5.4-12.3,12.2c0,0,0,0.1,0,0.1v32.1c0,5.8,4,10.8,9.7,12l-25,42.7H52.9c-6.8,0-12.3,5.4-12.3,12.2c0,0,0,0.1,0,0.1
+            	v32.1c0,6.8,5.4,12.3,12.2,12.3c0,0,0.1,0,0.1,0h41.7c6.8,0,12.3-5.4,12.3-12.2c0,0,0-0.1,0-0.1v-32.1c0-6.8-5.4-12.3-12.2-12.3
+            	c0,0-0.1,0-0.1,0h-4l24.8-42.4h19.3l24.9,42.4h-4.1c-6.8,0-12.3,5.4-12.3,12.2c0,0,0,0.1,0,0.1v32.1c0,6.8,5.4,12.3,12.2,12.3
+            	c0,0,0.1,0,0.1,0h41.7c6.8,0,12.3-5.4,12.3-12.2c0,0,0-0.1,0-0.1v-32.1c0-6.8-5.4-12.3-12.2-12.3
+            	C197.2,138.3,197.2,138.3,197.1,138.3z"/>
+          </svg>
+          <span class="u-header__navbar-brand-text">diagrams.net</span>
+        </a>
+        <!-- End Logo -->
+
+        <!-- Responsive Toggle Button -->
+        <button type="button" class="navbar-toggler btn u-hamburger"
+                aria-label="Toggle navigation"
+                aria-expanded="false"
+                aria-controls="navBar"
+                data-toggle="collapse"
+                data-target="#navBar">
+          <span id="hamburgerTrigger" class="u-hamburger__box">
+            <span class="u-hamburger__inner"></span>
+          </span>
+        </button>
+        <!-- End Responsive Toggle Button -->
+
+        <!-- Navigation -->
+        <div id="navBar" class="collapse navbar-collapse u-header__navbar-collapse">
+          <ul class="navbar-nav u-header__navbar-nav">
+            <!-- Integrations -->
+            <li class="d-none nav-item hs-has-sub-menu u-header__nav-item"
+                data-event="hover"
+                data-animation-in="slideInUp"
+                data-animation-out="fadeOut">
+              <a id="intMegaMenu" class="nav-link u-header__nav-link u-header__nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false" aria-labelledby="pagesSubMenu">Integrations</a>
+
+              <!-- Integrations - Submenu -->
+              <ul id="pagesSubMenu" class="hs-sub-menu u-header__sub-menu" aria-labelledby="intMegaMenu" style="min-width: 230px;">
+                <!-- Company -->
+                <li class="hs-has-sub-menu">
+                  <a id="navLinkPagesCompany" class="nav-link u-header__sub-menu-nav-link u-header__sub-menu-nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false" aria-controls="navSubmenuPagesCompany">Company</a>
+
+                  <ul id="navSubmenuPagesCompany" class="hs-sub-menu u-header__sub-menu" aria-labelledby="navLinkPagesCompany" style="min-width: 230px;">
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/careers.html">Careers</a></li>
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/careers-single.html">Careers Single</a></li>
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/customers.html">Customers</a></li>
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/customer-story.html">Customer story</a></li>
+                  </ul>
+                </li>
+                <!-- Company -->
+
+                <!-- Portfolio -->
+                <li class="hs-has-sub-menu">
+                  <a id="navLinkPagesPortfolio" class="nav-link u-header__sub-menu-nav-link u-header__sub-menu-nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false" aria-controls="navSubmenuPagesPortfolio">Portfolio</a>
+
+                  <ul id="navSubmenuPagesPortfolio" class="hs-sub-menu u-header__sub-menu" aria-labelledby="navLinkPagesPortfolio" style="min-width: 230px;">
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../portfolio/boxed-classic.html">All layouts</a></li>
+                  </ul>
+                </li>
+                <!-- End Portfolio -->
+
+                <!-- Contacts -->
+                <li class="hs-has-sub-menu">
+                  <a id="navLinkContactsServices" class="nav-link u-header__sub-menu-nav-link u-header__sub-menu-nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false" aria-controls="navSubmenuContactsServices">Contacts</a>
+
+                  <ul id="navSubmenuContactsServices" class="hs-sub-menu u-header__sub-menu" aria-labelledby="navLinkContactsServices" style="min-width: 230px;">
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/contacts-agency.html">Contacts Agency</a></li>
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/contacts-start-up.html">Contacts Start-Up</a></li>
+                  </ul>
+                </li>
+                <!-- Contacts -->
+
+                <!-- Utilities -->
+                <li class="hs-has-sub-menu">
+                  <a id="navLinkPagesUtilities" class="nav-link u-header__sub-menu-nav-link u-header__sub-menu-nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false" aria-controls="navSubmenuPagesUtilities">Utilities</a>
+
+                  <ul id="navSubmenuPagesUtilities" class="hs-sub-menu u-header__sub-menu" aria-labelledby="navLinkPagesUtilities" style="min-width: 230px;">
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/pricing.html">Pricing</a></li>
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/faq.html">FAQ</a></li>
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/terms.html">Terms &amp; Conditions</a></li>
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/privacy.html">Privacy &amp; Policy</a></li>
+                  </ul>
+                </li>
+                <!-- Utilities -->
+
+                <!-- Specialty -->
+                <li class="hs-has-sub-menu">
+                  <a id="navLinkPagesSpecialty" class="nav-link u-header__sub-menu-nav-link u-header__sub-menu-nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false" aria-controls="navSubmenuPagesSpecialty">Specialty</a>
+
+                  <ul id="navSubmenuPagesSpecialty" class="hs-sub-menu u-header__sub-menu" aria-labelledby="navLinkPagesSpecialty" style="min-width: 230px;">
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/status.html">Status</a></li>
+                  </ul>
+                </li>
+                <!-- Specialty -->
+              </ul>
+              <!-- End Integrations - Submenu -->
+            </li>
+            <!-- End Integrations -->
+
+            <!-- Blog -->
+            <li class="nav-item"
+                data-event="hover"
+                data-animation-in="slideInUp"
+                data-animation-out="fadeOut">
+              <a id="blogMegaMenu" class="nav-link u-header__nav-link" aria-haspopup="true" aria-expanded="false" aria-labelledby="blogSubMenu" href="/blog">Blog</a>
+            </li>
+            <!-- End Blog -->
+
+            <!-- Security -->
+            <li class="d-none nav-item hs-has-mega-menu u-header__nav-item"
+                data-event="hover"
+                data-animation-in="slideInUp"
+                data-animation-out="fadeOut"
+                data-max-width="900px"
+                data-position="right">
+              <a id="securityMegaMenu" class="nav-link u-header__nav-link u-header__nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false">Security</a>
+
+              <!-- Security - Mega Menu -->
+              <div class="hs-mega-menu w-100 u-header__sub-menu" aria-labelledby="securityMegaMenu">
+                <div class="row no-gutters">
+                  <div class="col-lg-8">
+                    <div class="u-header__promo-card-deck">
+                      <!-- Promo Item -->
+                      <div class="u-header__promo-card u-header__promo-item">
+                        <a class="u-header__promo-link" href="../app-marketplace/index.html">
+                          <div class="media align-items-center">
+                            <img class="js-svg-injector u-header__promo-icon" src="../../assets/svg/icons/icon-45.svg" alt="SVG">
+                            <div class="media-body">
+                              <span class="u-header__promo-title">App Marketplace <span class="badge badge-success badge-pill ml-1">New</span></span>
+                              <small class="u-header__promo-text">Marketplace app demo</small>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <!-- End Promo Item -->
+
+                      <!-- Promo Item -->
+                      <div class="u-header__promo-card u-header__promo-item">
+                        <a class="u-header__promo-link" href="../house/index.html">
+                          <div class="media align-items-center">
+                            <img class="js-svg-injector u-header__promo-icon" src="../../assets/svg/icons/icon-13.svg" alt="SVG">
+                            <div class="media-body">
+                              <span class="u-header__promo-title">House</span>
+                              <small class="u-header__promo-text">Real estate demo</small>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <!-- End Promo Item -->
+                    </div>
+
+                    <div class="u-header__promo-card-deck">
+                      <!-- Promo Item -->
+                      <div class="u-header__promo-card u-header__promo-item">
+                        <a class="u-header__promo-link" href="../job/index.html">
+                          <div class="media align-items-center">
+                            <img class="js-svg-injector u-header__promo-icon" src="../../assets/svg/icons/icon-19.svg" alt="SVG">
+                            <div class="media-body">
+                              <span class="u-header__promo-title">Job</span>
+                              <small class="u-header__promo-text">Job vacancy demo</small>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <!-- End Promo Item -->
+
+                      <!-- Promo Item -->
+                      <div class="u-header__promo-card u-header__promo-item">
+                        <a class="u-header__promo-link" href="../pages/docs.html">
+                          <div class="media align-items-center">
+                            <img class="js-svg-injector u-header__promo-icon" src="../../assets/svg/icons/icon-4.svg" alt="SVG">
+                            <div class="media-body">
+                              <span class="u-header__promo-title">Help Desk</span>
+                              <small class="u-header__promo-text">Help desk</small>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <!-- End Promo Item -->
+                    </div>
+
+                    <div class="u-header__promo-card-deck">
+                      <!-- Promo Item -->
+                      <div class="u-header__promo-card u-header__promo-item">
+                        <a class="u-header__promo-link" href="../crypto/index.html">
+                          <div class="media align-items-center">
+                            <img class="js-svg-injector u-header__promo-icon" src="../../assets/svg/icons/icon-5.svg" alt="SVG">
+                            <div class="media-body">
+                              <span class="u-header__promo-title">Crypto Landing</span>
+                              <small class="u-header__promo-text">Cryptocurrency demo</small>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <!-- End Promo Item -->
+
+                      <!-- Promo Item -->
+                      <div class="u-header__promo-card u-header__promo-item">
+                        <div class="u-header__promo-link">
+                          <div class="media align-items-center">
+                            <img class="js-svg-injector u-header__promo-icon" src="../../assets/svg/icons/icon-23.svg" alt="SVG">
+                            <div class="media-body">
+                              <span class="u-header__promo-title text-secondary">New demos</span>
+                              <small class="u-header__promo-text">coming soon ...</small>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <!-- End Promo Item -->
+                    </div>
+                  </div>
+
+                  <!-- Promo -->
+                  <div class="col-lg-4 u-header__promo d-none d-lg-block">
+                    <a class="d-block u-header__promo-inner" href="#">
+                      <div class="position-relative">
+                        <!-- <img class="img-fluid rounded mb-3" src="../../assets/img/380x227/img6.jpg" alt="Image Description"> -->
+                      </div>
+                      <span class="text-secondary font-size-1">Front makes you look at things from a different perspectives.</span>
+                    </a>
+                  </div>
+                  <!-- End Promo -->
+                </div>
+              </div>
+              <!-- End Security - Mega Menu -->
+            </li>
+            <!-- End Security -->
+
+            <!-- Docs -->
+            <li class="d-none nav-item hs-has-mega-menu u-header__nav-item"
+                data-event="hover"
+                data-animation-in="slideInUp"
+                data-animation-out="fadeOut"
+                data-max-width="260px"
+                data-position="right">
+              <a id="docsMegaMenu" class="nav-link u-header__nav-link u-header__nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false">Docs</a>
+
+              <!-- Docs - Submenu -->
+              <div class="hs-mega-menu u-header__sub-menu" aria-labelledby="docsMegaMenu" style="min-width: 330px;">
+                <!-- Promo Item -->
+                <div class="u-header__promo-item">
+                  <a class="u-header__promo-link" href="../../documentation/index.html">
+                    <div class="media align-items-center">
+                      <img class="js-svg-injector u-header__promo-icon" src="../../assets/svg/icons/icon-2.svg" alt="SVG">
+                      <div class="media-body">
+                        <span class="u-header__promo-title">
+                          Documentation
+                          <span class="badge badge-primary badge-pill ml-1">v2.8</span>
+                        </span>
+                        <small class="u-header__promo-text">Development guides</small>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <!-- End Promo Item -->
+
+                <!-- Promo Item -->
+                <div class="u-header__promo-item">
+                  <a class="u-header__promo-link" href="../../starter/index.html">
+                    <div class="media align-items-center">
+                      <img class="js-svg-injector u-header__promo-icon" src="../../assets/svg/icons/icon-1.svg" alt="SVG">
+                      <div class="media-body">
+                        <span class="u-header__promo-title">Get started</span>
+                        <small class="u-header__promo-text">Components and snippets</small>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <!-- End Promo Item -->
+
+                <div class="u-header__promo-footer">
+                  <!-- List -->
+                  <div class="row no-gutters">
+                    <div class="col-6">
+                      <div class="u-header__promo-footer-item">
+                        <small class="text-muted d-block">Check what's new</small>
+                        <a class="small" href="../../documentation/getting-started/changelog.html">
+                          Changelog
+                        </a>
+                      </div>
+                    </div>
+                    <div class="col-6 u-header__promo-footer-ver-divider">
+                      <div class="u-header__promo-footer-item">
+                        <small class="text-muted d-block">Have a question?</small>
+                        <a class="small" href="http://htmlstream.com/contact-us">
+                          Contact us
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- End List -->
+                </div>
+              </div>
+              <!-- End Docs - Submenu -->
+            </li>
+            <!-- End Docs -->
+
+            <!-- Button -->
+            <li class="nav-item u-header__nav-last-item">
+              <a class="btn btn-sm btn-primary transition-3d-hover" href="https://app.diagrams.net/?src=about" target="_blank">
+                Start Now
+              </a>
+            </li>
+            <!-- End Button -->
+          </ul>
+        </div>
+        <!-- End Navigation -->
+      </nav>
+      <!-- End Nav -->
+    </div>
+  </div>
+</header>
+<!-- ========== END HEADER ========== -->
+
+<!-- ========== MAIN ========== -->
+<main id="content" role="main">
+  <!-- Article Description Section -->
+  <div class="container space-2 space-top-md-5 space-top-lg-4 space-bottom-lg-3">
+
+    <!-- Breadcrumbs Section -->
+    <div class="w-lg-60 mx-lg-auto">
+      <div class="mb-4">
+        <nav aria-label="breadcrumb">
+          <ol class="breadcrumb breadcrumb-no-gutter font-size-1">
+            <li class="breadcrumb-item"><a href="">Home</a></li>
+             
+               
+                
+                    <li class="breadcrumb-item"><a href="/doc/">doc</a></li>
+                
+              
+                
+                    <li class="breadcrumb-item"><a class="current">Draw a basic flow chart in diagrams.net</a></li>
+                
+              
+          </ol>
+        </nav>
+      </div>
+    </div>
+    <!-- End Breadcrumbs Section -->
+
+    <div class="w-lg-60 mx-lg-auto">
+      <div class="mb-4">
+        <h1 class="h2 font-weight-medium">Draw a basic flow chart in diagrams.net</h1>
+      </div>
+
+      <p>You can create many different types of diagrams with diagrams.net. One of the easiest ones to start with to learn how to use the diagram editor is a basic flow chart which documents a process.</p>
+
+<p>Flow charts let you visually describe a process or system. The shapes and very short labels let readers quickly understand what they need to do.</p>
+
+<p>There are many different types of flow charts, ranging from the very simple to complex, including process flow and workflow diagrams, decision trees, data flow diagrams, swimlane flow charts and</p>
+
+<p>Follow this tutorial to create and style a basic flow chart and learn to use the diagrams.net editor.</p>
+
+<ul>
+  <li><a href="#create-a-new-blank-diagram">Create a new blank diagram</a></li>
+  <li><a href="#add-shapes-to-the-drawing-canvas">Add shapes to the drawing canvas</a></li>
+  <li><a href="#move-resize-rotate-and-delete-shapes">Move, resize, rotate, and delete shapes</a></li>
+  <li><a href="#connect-shapes">Connect shapes</a></li>
+  <li><a href="#add-labels">Add labels</a></li>
+  <li><a href="#style-your-flow-chart">Add styles to your shapes and connectors</a></li>
+  <li><a href="#export-and-share-your-flow-chart">Export and share your flow chart</a></li>
+</ul>
+
+<h2 id="create-a-new-blank-diagram">Create a new blank diagram</h2>
+
+<ol>
+  <li>Go to <a href="https://app.diagrams.net">app.diagrams.net</a>.</li>
+  <li>Select <em>Device</em> to save your flow chart to your device.
+<br /><strong>Note:</strong> You can <a href="/doc/faq/storage-location-select">select another location to store your diagram file</a>, but you may be prompted to grant diagrams.net permission if you select a cloud storage platform.
+<br /><img src="/assets/img/blog/basic-flow-save-to-device.png" style="width=100%;max-width:200px;height:auto;" alt="Select Device to save your diagram to your local device" /></li>
+  <li>Click on <em>Create New Diagram</em>.
+<br /><img src="/assets/img/blog/basic-flow-create-new-diagram.png" style="width=100%;max-width:200px;height:auto;" alt="Click Create New Diagram to start a new diagram" /></li>
+  <li>In the template manager, enter a filename for your flow chart, ensure <em>Blank Diagram</em> is selected, then click <em>Create</em>.
+<br /><img src="/assets/img/blog/basic-flow-create-blank-diagram.png" style="width=100%;max-width:300px;height:auto;" alt="Enter a filename, select Blank Diagram, and click Create" /></li>
+</ol>
+
+<h2 id="add-shapes-to-the-drawing-canvas">Add shapes to the drawing canvas</h2>
+
+<p>There are a number of different ways to add shapes to the drawing canvas in diagrams.net.</p>
+
+<p><strong>Add the first step</strong> - Use one of the following methods to add a rectangle to the drawing canvas. Rectangles represent the steps in your process.</p>
+
+<ul>
+  <li>Click on a rectangle in the <em>General</em> shape library to add it the drawing canvas.</li>
+  <li>Double-click on an empty area on the drawing canvas and select a rectangle shape.</li>
+  <li>Drag a rectangle from the <em>General</em> shape library to a specific position on the drawing canvas.</li>
+</ul>
+
+<p><img src="/assets/img/blog/basic-flow-add-shape.gif" style="max-width:100%;height:auto;" alt="Add a rectangle - click on it in the shape library, double click on a blank area, or drag it from the shape library" /></p>
+
+<p><strong>Add more shapes</strong> - Use one of the following methods to add extra shapes to represent the next steps in your process.</p>
+<ul>
+  <li>Hover over the first shape you placed to see the four direction arrows. Click on one of the shapes, then select a shape to add and connect it in that direction.</li>
+  <li>Drag a shape from the shape library and hover over an existing shape until you can see the four direction arrows. Move over one of these direction arrows, and drop the shape you have dragged. It will be added to the drawing canvas and connected in that direction.</li>
+</ul>
+
+<p><img src="/assets/img/blog/basic-flow-add-connect-shape.gif" style="max-width:100%;height:auto;" alt="Add a second shape and connect it from the first - hover and click on the direction arrow, or drag a shape over another and drop it on a direction arrow" /></p>
+
+<p>If you added multiple shapes by simply clicking on them in the shape library, you can connect them later. See <a href="#connect-shapes">how to connect shapes below</a>.</p>
+
+<h3 id="shapes-for-flow-charts">Shapes for flow charts</h3>
+
+<p>There are many different shapes used to visualise processes in a flow chart.</p>
+
+<ul>
+  <li><strong>Rectangle</strong> - Basic steps in your process.</li>
+  <li><strong>Diamond (rhombus)</strong> - Decisions, usually yes/no questions, that split the process into two or more branches.</li>
+  <li><strong>Circle or oval</strong> - Optional start and stop points in your process.</li>
+  <li><strong>Parallelogram</strong> - Input or output, where your process needs or gives information to an external party or system.</li>
+  <li><strong>Cylinder</strong> - Disk drives, used to indicate that data is stored during that step in the process.</li>
+  <li><strong>Rectangle with a wavy bottom line</strong> - Documents that are produced as a result of a process step.</li>
+</ul>
+
+<p><img src="/assets/img/blog/flow-chart-shapes.png" style="max-width:100%;height:auto;" alt="A selection of shapes available in diagrams.net commonly used in flow charts" /></p>
+
+<p>In addition to the shapes in the <em>General</em> and <em>Advanced</em> shape libraries, you can use shapes from the <em>Flowchart</em> shape library.</p>
+
+<ol>
+  <li>Click on <em>More Shapes</em> at the bottom of the left panel.</li>
+  <li>Click on the checkbox next to the <em>Flowchart</em> shape library’s name to enable it.
+<br /><img src="/assets/img/blog/shape-library-dialog.png" style="width=100%;max-width:300px;height:auto;" alt="Select the shape libraries you want to work with in diagrams.net" /></li>
+  <li>Click <em>Apply</em>. The <em>Flowchart</em> shape library is now available in the left panel.</li>
+</ol>
+
+<h2 id="move-resize-rotate-and-delete-shapes">Move, resize, rotate, and delete shapes</h2>
+
+<p>To select a shape, click on it. To <a href="/doc/faq/select-multiple-shapes.html">select multiple shapes</a>, hold down <code class="language-plaintext highlighter-rouge">Shift</code> or <code class="language-plaintext highlighter-rouge">Cmd</code> and click on them.</p>
+
+<p><strong>Move</strong> - Select and drag a shape that is on the drawing canvas to another position.</p>
+
+<p><strong>Resize</strong> - Select a shape. Drag any of the round ‘grab’ handles to make the shape smaller or larger. Hold down <code class="language-plaintext highlighter-rouge">Control</code> when you resize shapes to keep them centered.</p>
+
+<p><strong>Rotate</strong> - Select a shape. Drag the rotate grab handle (the round arrow) at the top right corner of the shape to <a href="/blog/rotate-shapes.html">rotate the shape</a> around its center point.
+<br /><img src="/assets/img/blog/rotate.png" style="width=100%;max-width:300px;height:auto;" alt="Rotate a shape using the rotate grab handle" /></p>
+
+<p><strong>Delete</strong> - Select a shape, then press <code class="language-plaintext highlighter-rouge">Backspace</code> or <code class="language-plaintext highlighter-rouge">Delete</code>, or click on the <em>Delete</em> tool in the toolbar.</p>
+
+<p><img src="/assets/img/blog/basic-flow-move-resize-rotate-delete.gif" style="width=100%;max-width:400px;height:auto;" alt="Move, resize, rotate and delete shapes in diagrams.net" /></p>
+
+<p>If one of the connectors, the arrows between the shapes, is going in the wrong direction, you can select and delete it, just like a shape. Follow the steps below to <a href="#draw-a-floating-connector">draw a new connector</a> so it goes in the right direction.</p>
+
+<h2 id="connect-shapes">Connect shapes</h2>
+
+<p>Connectors are lines that <a href="/blog/connect-shapes.html">connect your shapes together</a> and may or may not have arrows at one or both ends. There are two types of connectors.</p>
+
+<p><strong>Floating connectors</strong> - These move around the perimeter of your shape as you move it around the drawing canvas, or change the route that the connector takes.</p>
+
+<p><strong>Fixed connectors</strong> - These stay attached to a fixed point on your shape, even when you move the shape around the drawing canvas.</p>
+
+<h3 id="draw-a-floating-connector">Draw a floating connector</h3>
+
+<ol>
+  <li>Hover over the source shape until you see the light direction arrows appear.</li>
+  <li>Move your mouse cursor over the direction arrow you want to draw the connector from, then drag the connector out from the arrow towards the target shape.</li>
+  <li>Hover over the target shape and release when the outline of the shape is blue.</li>
+</ol>
+
+<p><img src="/assets/img/blog/basic-flow-floating-connector.gif" style="width=100%;max-width:400px;height:auto;" alt="Draw  a floating connectors between shapes in diagrams.net" /></p>
+
+<p>When you move the shape to a new position, the connector ends will automatically move around the shape to ensure the shortest distance.</p>
+
+<h3 id="draw-a-fixed-connector">Draw a fixed connector</h3>
+
+<ol>
+  <li>Hover over the source shape until you see the little crosses, connection points, around the shape perimeter.</li>
+  <li>Drag a connector from the connection point on the source shape towards the target shape.</li>
+  <li>Hover over the target shape until you see the connection points, then hover over one of the connection points until it is highlighted in green, and release to attach the connector.</li>
+</ol>
+
+<p><img src="/assets/img/blog/basic-flow-fixed-connector.gif" style="width=100%;max-width:400px;height:auto;" alt="Draw  a fixed connectors between shapes in diagrams.net" /></p>
+
+<p>Now when you drag the shape around on the drawing canvas, the connector will remain attached to exactly those connection points.</p>
+
+<h3 id="change-the-path-of-a-connector">Change the path of a connector</h3>
+
+<p>Waypoints are shown as small circles on a selected connector. They are used to define the path that a connector takes across the drawing canvas.</p>
+
+<ol>
+  <li>Select the connector that you want to change the path of to see its waypoints.</li>
+  <li>Drag one of the waypoints into a new position. New waypoints will be added automatically based on where you grabbed the connector and where you move your mouse too.</li>
+</ol>
+
+<p>If it is a floating connector, the end closest to the waypoints you moved will ‘float’ around the perimeter of your shape. If it is a fixed connector, the end will remain attached to that specific connection point.</p>
+
+<p><img src="/assets/img/blog/basic-flow-move-connector.gif" style="width=100%;max-width:400px;height:auto;" alt="Change the path of a connector between shapes in diagrams.net" /></p>
+
+<p>You can <a href="/blog/waypoints-connectors.html">add and remove waypoints</a> to make connectors follow complex paths.</p>
+
+<h2 id="add-labels">Add labels</h2>
+
+<p>Short labels on shapes make it easier to understand a diagram quickly.</p>
+
+<ol>
+  <li>Double click on a shape. A temporary label will be added, and is selected - simply start typing to replace the label with your own text. Alternatively, single click on a shape and start typing to add or edit the label.</li>
+  <li>Press <code class="language-plaintext highlighter-rouge">Enter</code> to save the label text.</li>
+</ol>
+
+<p><strong>Tip:</strong> Press <code class="language-plaintext highlighter-rouge">Shift+Enter</code> to <a href="/doc/faq/line-breaks.html">add a line break in a label</a>.</p>
+
+<p><img src="/assets/img/blog/basic-flow-add-labels.gif" style="width=100%;max-width:500px;height:auto;" alt="Add labels to shapes and connectors in diagrams.net" /></p>
+
+<h3 id="connector-labels">Connector labels</h3>
+
+<p>You can add more than one label to a connector - at the source end, the target end, and in the middle.</p>
+
+<ul>
+  <li>Double click in the position you want to add a text label there.</li>
+  <li>To reposition the connector label text, click on the label, then drag the small yellow diamond to a new position.</li>
+</ul>
+
+<p>If you reroute the connector, you may need to update any labels you had manually positioned, but usually the label will move intelligently with the connector.</p>
+
+<h2 id="style-your-flow-chart">Style your flow chart</h2>
+
+<p>Once you have finished adding all the shapes, connectors and labels, you can style your flow chart.</p>
+
+<ol>
+  <li>Select a shape, or hold <code class="language-plaintext highlighter-rouge">Shift</code> down and click on multiple shapes and connectors to select many.
+<br /><img src="/assets/img/blog/basic-flow-style-diagram.gif" style="width=100%;max-width:500px;height:auto;" alt="Add colours, styles and change fonts to make your diagrams more attractive in diagrams.net" /></li>
+  <li>Add colours and style your shapes and connectors via the <em>Style</em> tab.
+    <ul>
+      <li>The style palette at the top of the <em>Style</em> tab changes both the fill and outline colour. Click the left or right arrows to view more styles.
+<br /><img src="/assets/img/blog/basic-flow-style-palette.png" style="width=100%;max-width:200px;height:auto;" alt="Set a new shape or connector style easily with the style palette in diagrams.net" /></li>
+      <li>To set your own colour, click on the colour button next to <em>Fill</em> or <em>Line</em>, select a a new colour or enter a hex colour code.
+<br /><img src="/assets/img/blog/colour-picker.png" style="width=100%;max-width:200px;height:auto;" alt="Choose a colour from the default or larger colour palette, or enter your own hex colour code" /></li>
+      <li>Style a selected connector to have <a href="/doc/faq/connector-bidirectional.html">arrows on both ends</a> or <a href="/doc/faq/connector-no-arrows.html">no arrows</a>
+<br /><img src="/assets/img/blog/basic-flow-connector-arrows.png" style="width=100%;max-width:200px;height:auto;" alt="Select an arrow or another connector end style at both the target and source shape in diagrams.net" /></li>
+    </ul>
+  </li>
+  <li>Change the text style of labels on the <em>Text</em> tab.
+    <ul>
+      <li>Select a different <em>Font</em> from the list.</li>
+      <li>Add <em>Bold</em>, <em>Italics</em>, or <em>Underline</em>.</li>
+      <li>Change the justification to be left, right or centered.</li>
+      <li>Click on the colour button next to <em>Font Color</em>.
+<br /><img src="/assets/img/blog/basic-flow-text-tab.png" style="width=100%;max-width:200px;height:auto;" alt="Style label text via the Text tab in the format panel in diagrams.net" /></li>
+    </ul>
+  </li>
+</ol>
+
+<p><strong>Tip:</strong> When you edit the text itself, you will see additional HTML formatting - add a numbered or bulleted list, indent your text, use superscript or subscript text and more.</p>
+
+<h2 id="export-and-share-your-flow-chart">Export and share your flow chart</h2>
+
+<p>You can share your diagram in a number of different ways via the <em>File &gt; Export as</em> menu. The most common export formats are as images or as a URL.</p>
+
+<ul>
+  <li>Export as a <em>PNG</em>, <em>JPEG</em> or <em>SVG</em> to convert your diagram to an image that you can paste into a website or email.
+<br /><img src="/assets/img/blog/basic-flow-export-as-png.png" style="width=100%;max-width:300px;height:auto;" alt="Export your diagram as an image to share it in an email or publish it on a webpage or in a document" />     <img src="/assets/img/blog/basic-flow.png" style="width=100%;max-width:200px;height:auto;" alt="The diagram exported as a PNG image" /></li>
+  <li><a href="/blog/export-url.html">Export as a <em>URL</em></a> to encode your entire diagram in a URL. When you share this (very long) URL, the person viewing the diagram will see a copy - they don’t open or edit your original diagram.</li>
+</ul>
+
+<p><img src="/assets/img/blog/basic-flow-export-as-url.gif" style="max-width:100%;height:auto;" alt="Encode your diagram in a URL in diagrams.net to share it easily" /></p>
+
+
+    </div>
+  </div>
+  <!-- End Article Description Section -->
+</main>
+<!-- ========== END MAIN ========== -->
+
+<!-- JS Global Compulsory -->
+<script src="../../assets/js/jquery.min.js"></script>
+<script src="../../assets/js/jquery-migrate.min.js"></script>
+<script src="../../assets/js/popper.min.js"></script>
+<script src="../../assets/js/bootstrap.min.js"></script>
+
+<!-- JS Implementing Plugins -->
+<script src="../../assets/js/hs.megamenu.js"></script>
+
+<!-- JS Front -->
+<script src="../../assets/js/hs.core.js"></script>
+<script src="../../assets/js/hs.header.js"></script>
+<script src="../../assets/js/hs.unfold.js"></script>
+<script src="../../assets/js/hs.focus-state.js"></script>
+<script src="../../assets/js/hs.show-animation.js"></script>
+
+<!-- JS Plugins Init. -->
+<script>
+  $(window).on('load', function () {
+    // initialization of HSMegaMenu component
+    $('.js-mega-menu').HSMegaMenu({
+      event: 'hover',
+      pageContainer: $('.container'),
+      breakpoint: 767.98,
+      hideTimeOut: 0
+    });
+  });
+
+  $(document).on('ready', function () {
+    // initialization of header
+    $.HSCore.components.HSHeader.init($('#header'));
+
+    // initialization of unfold component
+    $.HSCore.components.HSUnfold.init($('[data-unfold-target]'), {
+      afterOpen: function () {
+        $(this).find('input[type="search"]').focus();
+      }
+    });
+
+    // initialization of show animations
+    $.HSCore.components.HSShowAnimation.init('.js-animation-link');
+
+    // initialization of forms
+    $.HSCore.components.HSFocusState.init();
+  });
+</script>
+
+<!-- ========== FOOTER ========== -->
+<footer class="bg-dark">
+  <div class="container space-2">
+    <div class="row mb-7">
+      <div class="col-lg-4 mb-5 mb-lg-0">
+        <a class="d-inline-flex align-items-center mb-2" href="/index.html" aria-label="Front">
+          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="36px" height="36px" viewBox="0 0 250 250" xml:space="preserve" style="margin-bottom: 0;">
+            <style type="text/css">
+            	.st0{fill:#F08705;}
+            	.st1{fill:#DF6C0C;}
+            	.st2{fill:#FFFFFF;}
+            </style>
+            <path class="st0" d="M237.5,227.9c0,5.3-4.3,9.6-9.5,9.6c0,0,0,0,0,0H22.1c-5.3,0-9.6-4.3-9.6-9.5c0,0,0,0,0,0V22.1
+            	c0-5.3,4.3-9.6,9.5-9.6c0,0,0,0,0,0h205.9c5.3,0,9.6,4.3,9.6,9.5c0,0,0,0,0,0V227.9z"/>
+            <path class="st1" d="M237.5,227.9c0,5.3-4.3,9.6-9.5,9.6c0,0,0,0,0,0H89.6L44.8,192l27.9-45.5l82.7-102.7l82.1,84.5V227.9z"/>
+            <path class="st2" d="M197.1,138.3h-23.7l-25-42.7c5.7-1.2,9.8-6.2,9.7-12V51.5c0-6.8-5.4-12.3-12.2-12.3c0,0-0.1,0-0.1,0h-41.7
+            	c-6.8,0-12.3,5.4-12.3,12.2c0,0,0,0.1,0,0.1v32.1c0,5.8,4,10.8,9.7,12l-25,42.7H52.9c-6.8,0-12.3,5.4-12.3,12.2c0,0,0,0.1,0,0.1
+            	v32.1c0,6.8,5.4,12.3,12.2,12.3c0,0,0.1,0,0.1,0h41.7c6.8,0,12.3-5.4,12.3-12.2c0,0,0-0.1,0-0.1v-32.1c0-6.8-5.4-12.3-12.2-12.3
+            	c0,0-0.1,0-0.1,0h-4l24.8-42.4h19.3l24.9,42.4h-4.1c-6.8,0-12.3,5.4-12.3,12.2c0,0,0,0.1,0,0.1v32.1c0,6.8,5.4,12.3,12.2,12.3
+            	c0,0,0.1,0,0.1,0h41.7c6.8,0,12.3-5.4,12.3-12.2c0,0,0-0.1,0-0.1v-32.1c0-6.8-5.4-12.3-12.2-12.3
+            	C197.2,138.3,197.2,138.3,197.1,138.3z"/>
+          </svg>
+          <span class="brand brand-light">diagrams.net</span>
+        </a>
+      </div>
+
+      <div class="col-6 col-lg-2 mb-5 mb-lg-0">
+        <h4 class="h6 text-white font-weight-medium">Help and advice</h4>
+        <ul class="list-unstyled font-size-1">
+          <li class="py-2"><a class="text-white-70" href="/doc/">Getting started</a></li>
+          <li class="py-2"><a class="text-white-70" href="/integrations.html">Integrations</a></li>
+          <li class="py-2"><a class="text-white-70" href="/doc/">Documentation</a></li>
+          <li class="py-2"><a class="text-white-70" href="/doc/faq/">FAQ</a></li>
+        </ul>
+      </div>
+
+      <div class="col-6 col-lg-2 mb-5 mb-lg-0">
+        <h4 class="h6 text-white font-weight-medium">About us</h4>
+        <ul class="list-unstyled font-size-1">
+          <li class="py-2"><a class="text-white-70" href="/about.html">About diagrams.net</a></li>
+          <li class="py-2"><a class="text-white-70" href="https://github.com/jgraph">Contribute</a></li>
+          <li class="py-2"><a class="text-white-70" href="/trust/">Legal &amp; Privacy</a></li>
+        </ul>
+      </div>
+
+      <div class="col-lg-4">
+        <!-- Form -->
+        <form class="js-validate mb-2">
+          <h4 class="h6 text-white font-weight-medium mb-3">We ran out of footer items</h4>
+          <div class="form-row">
+            <div class="col-12">
+              <div class="js-form-message">
+                <label class="sr-only" for="subscribeSrEmail">Email address</label>
+                <div class="input-group">
+                  <input type="email" class="form-control" name="email" id="subscribeSrEmail" placeholder="Email address" aria-label="Email address" required
+                         data-msg="Please enter a valid email address."
+                         data-error-class="u-has-error"
+                         data-success-class="u-has-success">
+                  <div class="input-group-append">
+                    <button type="button" class="btn btn-primary">
+                      <span class="fas fa-arrow-right"></span>
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </form>
+        <!-- End Form -->
+
+        <p class="text-white-70 small mb-0">This form isn't even posted to a server.</p>
+      </div>
+    </div>
+
+    <p class="small text-white-70 mb-0">&copy; 2005-2020 diagrams.net. All rights reserved.</p>
+  </div>
+</footer>
+<!-- ========== END FOOTER ========== -->
+
+<body>
+</html>

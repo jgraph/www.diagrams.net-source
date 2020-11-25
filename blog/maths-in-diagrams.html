@@ -1,0 +1,755 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Title -->
+  <title>Blog - Maths equations in diagrams</title>
+
+  <!-- Required Meta Tags Always Come First -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="/favicon.ico">
+
+  <!-- Google Fonts -->
+  <link href="//fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
+  <link href="//fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet"
+
+  <!-- CSS Implementing Plugins -->
+  <link rel="stylesheet" href="../assets/css/fontawesome-all.min.css">
+  <link rel="stylesheet" href="../assets/css/animate.min.css">
+  <link rel="stylesheet" href="../assets/css/hs.megamenu.css">
+  <link rel="stylesheet" href="../assets/css/jquery.mCustomScrollbar.css">
+
+  <!-- CSS Front Template -->
+  <link rel="stylesheet" href="../assets/css/theme.css">
+</head>
+<body>
+<!-- Search Content -->
+<div id="searchSlideDown" class="d-none dropdown-unfold u-search-slide-down" aria-labelledby="searchSlideDownInvoker">
+  <form>
+    <!-- Input Group -->
+    <div class="input-group input-group-borderless u-search-slide-down__input rounded mb-2">
+      <div class="input-group-prepend">
+        <span class="input-group-text">
+          <span class="fas fa-search"></span>
+        </span>
+      </div>
+      <input type="search" class="form-control" placeholder="Search Front" aria-label="Search Front">
+      <div class="input-group-append">
+        <a class="input-group-text" href="javascript:;"
+           aria-label="close"
+           data-unfold-event="click"
+           data-unfold-hide-on-scroll="false"
+           data-unfold-target="#searchSlideDown"
+           data-unfold-type="css-animation"
+           data-unfold-animation-in="active"
+           data-unfold-animation-out="fadeOutUp"
+           data-unfold-delay="0"
+           data-unfold-duration="800"
+           data-unfold-overlay='{
+            "className": "u-search-slide-down-bg-overlay",
+            "background": "rgba(55, 125, 255, .1)",
+            "animationSpeed": 400
+           }'>
+          <span class="fas fa-times" aria-hidden="true"></span>
+        </a>
+      </div>
+    </div>
+    <!-- End Input Group -->
+
+    <!-- Suggestions Content -->
+    <div class="rounded bg-white u-search-slide-down__suggestions py-3 px-5">
+      <ul class="list-group list-group-flush list-group-borderless mb-0">
+        <li><a class="list-group-item list-group-item-action" href="../pages/about-agency.html">About Front</a></li>
+        <li><a class="list-group-item list-group-item-action" href="../../starter/index.html">Getting Started</a></li>
+        <li><a class="list-group-item list-group-item-action" href="../../documentation/index.html">Documentation</a></li>
+      </ul>
+    </div>
+    <!-- End Suggestions Content -->
+  </form>
+</div>
+<!-- End Search Content -->
+
+<!-- ========== HEADER ========== -->
+<header id="header" class="u-header u-header--abs-top-md u-header--bg-transparent u-header--show-hide-md"
+        data-header-fix-moment="500"
+        data-header-fix-effect="slide">
+  <div class="u-header__section">
+    <!-- Topbar -->
+    <div class="d-none container u-header__hide-content pt-2">
+      <div class="d-flex align-items-center">
+        <div class="ml-auto">
+          <!-- Jump To -->
+          <div class="d-none d-inline-block d-sm-none position-relative mr-2">
+            <a id="jumpToDropdownInvoker" class="dropdown-nav-link dropdown-toggle d-flex align-items-center" href="javascript:;" role="button"
+               aria-controls="jumpToDropdown"
+               aria-haspopup="true"
+               aria-expanded="false"
+               data-unfold-event="hover"
+               data-unfold-target="#jumpToDropdown"
+               data-unfold-type="css-animation"
+               data-unfold-duration="300"
+               data-unfold-delay="300"
+               data-unfold-hide-on-scroll="true"
+               data-unfold-animation-in="slideInUp"
+               data-unfold-animation-out="fadeOut">
+              Jump to
+            </a>
+
+            <div id="jumpToDropdown" class="dropdown-menu dropdown-unfold" aria-labelledby="jumpToDropdownInvoker">
+              <a class="dropdown-item" href="../../html/pages/help.html">Help</a>
+            </div>
+          </div>
+          <!-- End Jump To -->
+
+          <!-- Links -->
+          <div class="d-none d-sm-inline-block ml-sm-auto">
+            <ul class="list-inline mb-0">
+              <li class="list-inline-item mr-0">
+                <a class="u-header__navbar-link" href="../pages/help.html">Help</a>
+              </li>
+            </ul>
+          </div>
+          <!-- End Links -->
+        </div>
+
+        <ul class="list-inline ml-2 mb-0">
+          <!-- Search -->
+          <li class="list-inline-item">
+            <a id="searchSlideDownInvoker" class="btn btn-xs btn-icon btn-text-secondary u-search-slide-down-trigger" href="javascript:;" role="button"
+               aria-haspopup="true"
+               aria-expanded="false"
+               aria-controls="searchSlideDown"
+               data-unfold-type="css-animation"
+               data-unfold-hide-on-scroll="false"
+               data-unfold-target="#searchSlideDown"
+               data-unfold-animation-in="active"
+               data-unfold-animation-out="fadeOutUp"
+               data-unfold-delay="0"
+               data-unfold-duration="800"
+               data-unfold-overlay='{
+                "className": "u-search-slide-down-bg-overlay",
+                "background": "rgba(55, 125, 255, .1)",
+                "animationSpeed": 400
+               }'>
+              <span class="fas fa-search btn-icon__inner u-search-slide-down-trigger__icon"></span>
+            </a>
+          </li>
+          <!-- End Search -->
+        </ul>
+      </div>
+    </div>
+    <!-- End Topbar -->
+
+    <div id="logoAndNav" class="container">
+      <!-- Nav -->
+      <nav class="js-mega-menu navbar navbar-expand-md u-header__navbar u-header__navbar--no-space">
+        <!-- Logo -->
+        <a class="navbar-brand u-header__navbar-brand u-header__navbar-brand-center" href="/index.html" aria-label="Front">
+          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="46px" height="46px" viewBox="0 0 250 250" xml:space="preserve" style="margin-bottom: 0; flex: none">
+            <style type="text/css">
+            	.st0{fill:#F08705;}
+            	.st1{fill:#DF6C0C;}
+            	.st2{fill:#FFFFFF;}
+            </style>
+            <path class="st0" d="M237.5,227.9c0,5.3-4.3,9.6-9.5,9.6c0,0,0,0,0,0H22.1c-5.3,0-9.6-4.3-9.6-9.5c0,0,0,0,0,0V22.1
+            	c0-5.3,4.3-9.6,9.5-9.6c0,0,0,0,0,0h205.9c5.3,0,9.6,4.3,9.6,9.5c0,0,0,0,0,0V227.9z"/>
+            <path class="st1" d="M237.5,227.9c0,5.3-4.3,9.6-9.5,9.6c0,0,0,0,0,0H89.6L44.8,192l27.9-45.5l82.7-102.7l82.1,84.5V227.9z"/>
+            <path class="st2" d="M197.1,138.3h-23.7l-25-42.7c5.7-1.2,9.8-6.2,9.7-12V51.5c0-6.8-5.4-12.3-12.2-12.3c0,0-0.1,0-0.1,0h-41.7
+            	c-6.8,0-12.3,5.4-12.3,12.2c0,0,0,0.1,0,0.1v32.1c0,5.8,4,10.8,9.7,12l-25,42.7H52.9c-6.8,0-12.3,5.4-12.3,12.2c0,0,0,0.1,0,0.1
+            	v32.1c0,6.8,5.4,12.3,12.2,12.3c0,0,0.1,0,0.1,0h41.7c6.8,0,12.3-5.4,12.3-12.2c0,0,0-0.1,0-0.1v-32.1c0-6.8-5.4-12.3-12.2-12.3
+            	c0,0-0.1,0-0.1,0h-4l24.8-42.4h19.3l24.9,42.4h-4.1c-6.8,0-12.3,5.4-12.3,12.2c0,0,0,0.1,0,0.1v32.1c0,6.8,5.4,12.3,12.2,12.3
+            	c0,0,0.1,0,0.1,0h41.7c6.8,0,12.3-5.4,12.3-12.2c0,0,0-0.1,0-0.1v-32.1c0-6.8-5.4-12.3-12.2-12.3
+            	C197.2,138.3,197.2,138.3,197.1,138.3z"/>
+          </svg>
+          <span class="u-header__navbar-brand-text">diagrams.net</span>
+        </a>
+        <!-- End Logo -->
+
+        <!-- Responsive Toggle Button -->
+        <button type="button" class="navbar-toggler btn u-hamburger"
+                aria-label="Toggle navigation"
+                aria-expanded="false"
+                aria-controls="navBar"
+                data-toggle="collapse"
+                data-target="#navBar">
+          <span id="hamburgerTrigger" class="u-hamburger__box">
+            <span class="u-hamburger__inner"></span>
+          </span>
+        </button>
+        <!-- End Responsive Toggle Button -->
+
+        <!-- Navigation -->
+        <div id="navBar" class="collapse navbar-collapse u-header__navbar-collapse">
+          <ul class="navbar-nav u-header__navbar-nav">
+            <!-- Integrations -->
+            <li class="d-none nav-item hs-has-sub-menu u-header__nav-item"
+                data-event="hover"
+                data-animation-in="slideInUp"
+                data-animation-out="fadeOut">
+              <a id="intMegaMenu" class="nav-link u-header__nav-link u-header__nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false" aria-labelledby="pagesSubMenu">Integrations</a>
+
+              <!-- Integrations - Submenu -->
+              <ul id="pagesSubMenu" class="hs-sub-menu u-header__sub-menu" aria-labelledby="intMegaMenu" style="min-width: 230px;">
+                <!-- Company -->
+                <li class="hs-has-sub-menu">
+                  <a id="navLinkPagesCompany" class="nav-link u-header__sub-menu-nav-link u-header__sub-menu-nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false" aria-controls="navSubmenuPagesCompany">Company</a>
+
+                  <ul id="navSubmenuPagesCompany" class="hs-sub-menu u-header__sub-menu" aria-labelledby="navLinkPagesCompany" style="min-width: 230px;">
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/careers.html">Careers</a></li>
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/careers-single.html">Careers Single</a></li>
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/customers.html">Customers</a></li>
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/customer-story.html">Customer story</a></li>
+                  </ul>
+                </li>
+                <!-- Company -->
+
+                <!-- Portfolio -->
+                <li class="hs-has-sub-menu">
+                  <a id="navLinkPagesPortfolio" class="nav-link u-header__sub-menu-nav-link u-header__sub-menu-nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false" aria-controls="navSubmenuPagesPortfolio">Portfolio</a>
+
+                  <ul id="navSubmenuPagesPortfolio" class="hs-sub-menu u-header__sub-menu" aria-labelledby="navLinkPagesPortfolio" style="min-width: 230px;">
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../portfolio/boxed-classic.html">All layouts</a></li>
+                  </ul>
+                </li>
+                <!-- End Portfolio -->
+
+                <!-- Contacts -->
+                <li class="hs-has-sub-menu">
+                  <a id="navLinkContactsServices" class="nav-link u-header__sub-menu-nav-link u-header__sub-menu-nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false" aria-controls="navSubmenuContactsServices">Contacts</a>
+
+                  <ul id="navSubmenuContactsServices" class="hs-sub-menu u-header__sub-menu" aria-labelledby="navLinkContactsServices" style="min-width: 230px;">
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/contacts-agency.html">Contacts Agency</a></li>
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/contacts-start-up.html">Contacts Start-Up</a></li>
+                  </ul>
+                </li>
+                <!-- Contacts -->
+
+                <!-- Utilities -->
+                <li class="hs-has-sub-menu">
+                  <a id="navLinkPagesUtilities" class="nav-link u-header__sub-menu-nav-link u-header__sub-menu-nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false" aria-controls="navSubmenuPagesUtilities">Utilities</a>
+
+                  <ul id="navSubmenuPagesUtilities" class="hs-sub-menu u-header__sub-menu" aria-labelledby="navLinkPagesUtilities" style="min-width: 230px;">
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/pricing.html">Pricing</a></li>
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/faq.html">FAQ</a></li>
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/terms.html">Terms &amp; Conditions</a></li>
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/privacy.html">Privacy &amp; Policy</a></li>
+                  </ul>
+                </li>
+                <!-- Utilities -->
+
+                <!-- Specialty -->
+                <li class="hs-has-sub-menu">
+                  <a id="navLinkPagesSpecialty" class="nav-link u-header__sub-menu-nav-link u-header__sub-menu-nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false" aria-controls="navSubmenuPagesSpecialty">Specialty</a>
+
+                  <ul id="navSubmenuPagesSpecialty" class="hs-sub-menu u-header__sub-menu" aria-labelledby="navLinkPagesSpecialty" style="min-width: 230px;">
+                    <li><a class="nav-link u-header__sub-menu-nav-link" href="../pages/status.html">Status</a></li>
+                  </ul>
+                </li>
+                <!-- Specialty -->
+              </ul>
+              <!-- End Integrations - Submenu -->
+            </li>
+            <!-- End Integrations -->
+
+            <!-- Blog -->
+            <li class="nav-item"
+                data-event="hover"
+                data-animation-in="slideInUp"
+                data-animation-out="fadeOut">
+              <a id="blogMegaMenu" class="nav-link u-header__nav-link" aria-haspopup="true" aria-expanded="false" aria-labelledby="blogSubMenu" href="/blog">Blog</a>
+            </li>
+            <!-- End Blog -->
+
+            <!-- Security -->
+            <li class="d-none nav-item hs-has-mega-menu u-header__nav-item"
+                data-event="hover"
+                data-animation-in="slideInUp"
+                data-animation-out="fadeOut"
+                data-max-width="900px"
+                data-position="right">
+              <a id="securityMegaMenu" class="nav-link u-header__nav-link u-header__nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false">Security</a>
+
+              <!-- Security - Mega Menu -->
+              <div class="hs-mega-menu w-100 u-header__sub-menu" aria-labelledby="securityMegaMenu">
+                <div class="row no-gutters">
+                  <div class="col-lg-8">
+                    <div class="u-header__promo-card-deck">
+                      <!-- Promo Item -->
+                      <div class="u-header__promo-card u-header__promo-item">
+                        <a class="u-header__promo-link" href="../app-marketplace/index.html">
+                          <div class="media align-items-center">
+                            <img class="js-svg-injector u-header__promo-icon" src="../../assets/svg/icons/icon-45.svg" alt="SVG">
+                            <div class="media-body">
+                              <span class="u-header__promo-title">App Marketplace <span class="badge badge-success badge-pill ml-1">New</span></span>
+                              <small class="u-header__promo-text">Marketplace app demo</small>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <!-- End Promo Item -->
+
+                      <!-- Promo Item -->
+                      <div class="u-header__promo-card u-header__promo-item">
+                        <a class="u-header__promo-link" href="../house/index.html">
+                          <div class="media align-items-center">
+                            <img class="js-svg-injector u-header__promo-icon" src="../../assets/svg/icons/icon-13.svg" alt="SVG">
+                            <div class="media-body">
+                              <span class="u-header__promo-title">House</span>
+                              <small class="u-header__promo-text">Real estate demo</small>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <!-- End Promo Item -->
+                    </div>
+
+                    <div class="u-header__promo-card-deck">
+                      <!-- Promo Item -->
+                      <div class="u-header__promo-card u-header__promo-item">
+                        <a class="u-header__promo-link" href="../job/index.html">
+                          <div class="media align-items-center">
+                            <img class="js-svg-injector u-header__promo-icon" src="../../assets/svg/icons/icon-19.svg" alt="SVG">
+                            <div class="media-body">
+                              <span class="u-header__promo-title">Job</span>
+                              <small class="u-header__promo-text">Job vacancy demo</small>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <!-- End Promo Item -->
+
+                      <!-- Promo Item -->
+                      <div class="u-header__promo-card u-header__promo-item">
+                        <a class="u-header__promo-link" href="../pages/docs.html">
+                          <div class="media align-items-center">
+                            <img class="js-svg-injector u-header__promo-icon" src="../../assets/svg/icons/icon-4.svg" alt="SVG">
+                            <div class="media-body">
+                              <span class="u-header__promo-title">Help Desk</span>
+                              <small class="u-header__promo-text">Help desk</small>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <!-- End Promo Item -->
+                    </div>
+
+                    <div class="u-header__promo-card-deck">
+                      <!-- Promo Item -->
+                      <div class="u-header__promo-card u-header__promo-item">
+                        <a class="u-header__promo-link" href="../crypto/index.html">
+                          <div class="media align-items-center">
+                            <img class="js-svg-injector u-header__promo-icon" src="../../assets/svg/icons/icon-5.svg" alt="SVG">
+                            <div class="media-body">
+                              <span class="u-header__promo-title">Crypto Landing</span>
+                              <small class="u-header__promo-text">Cryptocurrency demo</small>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <!-- End Promo Item -->
+
+                      <!-- Promo Item -->
+                      <div class="u-header__promo-card u-header__promo-item">
+                        <div class="u-header__promo-link">
+                          <div class="media align-items-center">
+                            <img class="js-svg-injector u-header__promo-icon" src="../../assets/svg/icons/icon-23.svg" alt="SVG">
+                            <div class="media-body">
+                              <span class="u-header__promo-title text-secondary">New demos</span>
+                              <small class="u-header__promo-text">coming soon ...</small>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <!-- End Promo Item -->
+                    </div>
+                  </div>
+
+                  <!-- Promo -->
+                  <div class="col-lg-4 u-header__promo d-none d-lg-block">
+                    <a class="d-block u-header__promo-inner" href="#">
+                      <div class="position-relative">
+                        <!-- <img class="img-fluid rounded mb-3" src="../../assets/img/380x227/img6.jpg" alt="Image Description"> -->
+                      </div>
+                      <span class="text-secondary font-size-1">Front makes you look at things from a different perspectives.</span>
+                    </a>
+                  </div>
+                  <!-- End Promo -->
+                </div>
+              </div>
+              <!-- End Security - Mega Menu -->
+            </li>
+            <!-- End Security -->
+
+            <!-- Docs -->
+            <li class="d-none nav-item hs-has-mega-menu u-header__nav-item"
+                data-event="hover"
+                data-animation-in="slideInUp"
+                data-animation-out="fadeOut"
+                data-max-width="260px"
+                data-position="right">
+              <a id="docsMegaMenu" class="nav-link u-header__nav-link u-header__nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false">Docs</a>
+
+              <!-- Docs - Submenu -->
+              <div class="hs-mega-menu u-header__sub-menu" aria-labelledby="docsMegaMenu" style="min-width: 330px;">
+                <!-- Promo Item -->
+                <div class="u-header__promo-item">
+                  <a class="u-header__promo-link" href="../../documentation/index.html">
+                    <div class="media align-items-center">
+                      <img class="js-svg-injector u-header__promo-icon" src="../../assets/svg/icons/icon-2.svg" alt="SVG">
+                      <div class="media-body">
+                        <span class="u-header__promo-title">
+                          Documentation
+                          <span class="badge badge-primary badge-pill ml-1">v2.8</span>
+                        </span>
+                        <small class="u-header__promo-text">Development guides</small>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <!-- End Promo Item -->
+
+                <!-- Promo Item -->
+                <div class="u-header__promo-item">
+                  <a class="u-header__promo-link" href="../../starter/index.html">
+                    <div class="media align-items-center">
+                      <img class="js-svg-injector u-header__promo-icon" src="../../assets/svg/icons/icon-1.svg" alt="SVG">
+                      <div class="media-body">
+                        <span class="u-header__promo-title">Get started</span>
+                        <small class="u-header__promo-text">Components and snippets</small>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+                <!-- End Promo Item -->
+
+                <div class="u-header__promo-footer">
+                  <!-- List -->
+                  <div class="row no-gutters">
+                    <div class="col-6">
+                      <div class="u-header__promo-footer-item">
+                        <small class="text-muted d-block">Check what's new</small>
+                        <a class="small" href="../../documentation/getting-started/changelog.html">
+                          Changelog
+                        </a>
+                      </div>
+                    </div>
+                    <div class="col-6 u-header__promo-footer-ver-divider">
+                      <div class="u-header__promo-footer-item">
+                        <small class="text-muted d-block">Have a question?</small>
+                        <a class="small" href="http://htmlstream.com/contact-us">
+                          Contact us
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- End List -->
+                </div>
+              </div>
+              <!-- End Docs - Submenu -->
+            </li>
+            <!-- End Docs -->
+
+            <!-- Button -->
+            <li class="nav-item u-header__nav-last-item">
+              <a class="btn btn-sm btn-primary transition-3d-hover" href="https://app.diagrams.net/?src=about" target="_blank">
+                Start Now
+              </a>
+            </li>
+            <!-- End Button -->
+          </ul>
+        </div>
+        <!-- End Navigation -->
+      </nav>
+      <!-- End Nav -->
+    </div>
+  </div>
+</header>
+<!-- ========== END HEADER ========== -->
+
+  <!-- ========== MAIN ========== -->
+  <main id="content" role="main">
+    <!-- Article Description Section -->
+    <div class="container space-2 space-top-md-5 space-top-lg-4 space-bottom-lg-3">
+
+	<!-- Breadcrumbs Section -->
+    <div class="w-lg-60 mx-lg-auto">
+      <div class="mb-4">
+        <nav aria-label="breadcrumb">
+          <ol class="breadcrumb breadcrumb-no-gutter font-size-1">
+            <li class="breadcrumb-item"><a href="/">Home</a></li>
+             
+               
+                
+                    <li class="breadcrumb-item"><a href="/blog">blog</a></li>
+                
+              
+                
+
+                
+              
+          </ol>
+        </nav>
+      </div>
+    </div>
+    <!-- End Breadcrumbs Section -->
+
+      <div class="w-lg-60 mx-lg-auto">
+        <div class="mb-4">
+          <h1 class="h2 font-weight-medium">Maths equations in diagrams</h1>
+        </div>
+
+        <!-- Author -->
+        <div class="border-top border-bottom py-4 mb-5">
+          <div class="row align-items-md-center">
+            <div class="col-md-7 mb-5 mb-md-0">
+              <div class="media align-items-center">
+                <div class="u-avatar">
+                  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="46px" height="46px" viewBox="0 0 250 250" xml:space="preserve" style="margin-bottom: 0; flex: none">
+                    <style type="text/css">
+                    	.st0{fill:#F08705;}
+                    	.st1{fill:#DF6C0C;}
+                    	.st2{fill:#FFFFFF;}
+                    </style>
+                    <path class="st0" d="M237.5,227.9c0,5.3-4.3,9.6-9.5,9.6c0,0,0,0,0,0H22.1c-5.3,0-9.6-4.3-9.6-9.5c0,0,0,0,0,0V22.1
+                    	c0-5.3,4.3-9.6,9.5-9.6c0,0,0,0,0,0h205.9c5.3,0,9.6,4.3,9.6,9.5c0,0,0,0,0,0V227.9z"/>
+                    <path class="st1" d="M237.5,227.9c0,5.3-4.3,9.6-9.5,9.6c0,0,0,0,0,0H89.6L44.8,192l27.9-45.5l82.7-102.7l82.1,84.5V227.9z"/>
+                    <path class="st2" d="M197.1,138.3h-23.7l-25-42.7c5.7-1.2,9.8-6.2,9.7-12V51.5c0-6.8-5.4-12.3-12.2-12.3c0,0-0.1,0-0.1,0h-41.7
+                    	c-6.8,0-12.3,5.4-12.3,12.2c0,0,0,0.1,0,0.1v32.1c0,5.8,4,10.8,9.7,12l-25,42.7H52.9c-6.8,0-12.3,5.4-12.3,12.2c0,0,0,0.1,0,0.1
+                    	v32.1c0,6.8,5.4,12.3,12.2,12.3c0,0,0.1,0,0.1,0h41.7c6.8,0,12.3-5.4,12.3-12.2c0,0,0-0.1,0-0.1v-32.1c0-6.8-5.4-12.3-12.2-12.3
+                    	c0,0-0.1,0-0.1,0h-4l24.8-42.4h19.3l24.9,42.4h-4.1c-6.8,0-12.3,5.4-12.3,12.2c0,0,0,0.1,0,0.1v32.1c0,6.8,5.4,12.3,12.2,12.3
+                    	c0,0,0.1,0,0.1,0h41.7c6.8,0,12.3-5.4,12.3-12.2c0,0,0-0.1,0-0.1v-32.1c0-6.8-5.4-12.3-12.2-12.3
+                    	C197.2,138.3,197.2,138.3,197.1,138.3z"/>
+                  </svg>
+                </div>
+                <div class="media-body font-size-1 ml-3">
+                  <span class="h6 font-weight-medium"><a href="blog-profile.html">diagrams.net</a> </span>
+                  <span class="d-block text-muted">20 Jul 2020</span>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-5">
+              <div class="d-md-flex justify-content-md-end align-items-md-center">
+                <h2 class="text-secondary font-size-1 font-weight-medium text-uppercase mb-0">Share:</h2>
+
+                <a class="btn btn-sm btn-icon btn-soft-secondary btn-bg-transparent rounded-circle ml-2" href="https://www.facebook.com/sharer.php?u=/blog/maths-in-diagrams" data-toggle="tooltip" data-placement="top" title="Share this page on Facebook">
+                  <span class="fab fa-facebook-f btn-icon__inner"></span>
+                </a>
+                <a class="btn btn-sm btn-icon btn-soft-secondary btn-bg-transparent rounded-circle ml-2" href="https://twitter.com/share?text=Maths equations in diagrams&url=/blog/maths-in-diagrams" data-toggle="tooltip" data-placement="top" title="Share this page on Twitter">
+                  <span class="fab fa-twitter btn-icon__inner"></span>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- End Author -->
+
+        <p>You can add maths equations to your diagrams by enabling mathematical typesetting via the diagrams.net menu. When you enter an equation into a text shape or label, enabling mathematical typesetting will use <a href="https://www.mathjax.org/">MathJax to render your equation</a>. MathJax renders equations neatly and works in all browsers.</p>
+
+<h2 id="latex-and-asciimath">LaTeX and AsciiMath</h2>
+
+<p>Input equations using LaTeX or AsciiMath.</p>
+
+<p><strong>LaTeX inline:</strong> surround your equation with <code class="language-plaintext highlighter-rouge">\(</code> and <code class="language-plaintext highlighter-rouge">\)</code>.
+<br />Example: <code class="language-plaintext highlighter-rouge">\(\sqrt{3×-1}+(1+x)^2\)</code></p>
+
+<p><strong>AsciiMath inline:</strong> by surrounding your equation with a single backtick <code class="language-plaintext highlighter-rouge">`</code>.
+<br />Example: <code class="language-plaintext highlighter-rouge">`a^b + b^2 = c^2`</code></p>
+
+<p><strong>LaTeX in a block:</strong> surround your equation with two dollar signs <code class="language-plaintext highlighter-rouge">$$</code>.
+<br />Example: <code class="language-plaintext highlighter-rouge">$$\sqrt{3×-1}+(1+x)^2$$</code></p>
+
+<p>You can also mix LaTeX and AsciiMath inline in the one text field.
+<br />Example: <code class="language-plaintext highlighter-rouge">LaTeX \(\sqrt{3×-1}+(1+x)^2\\) and AsciiMath `a^b + b^2 = c^2`</code></p>
+
+<p><a href="https://app.diagrams.net/?title=math-examples.drawio#R%3Cmxfile%3E%3Cdiagram%20id%3D%22Trg0ARunQVTyGifeBPsd%22%20name%3D%22Page-1%22%3E7VhBj5s6EP4t74CUHFgFQ0hyTNjNtqvuodpKfXqXlQMOuGswa5yE7K9%2FYzAh4CTtqq2USpVQYn8ez9gz%2FmYMlhuk5b3AefLII8IsNIpKy721EHKc8Qz%2BFLKvkYnv1EAsaKSFWuCJvhENjjS6oREpOoKScyZp3gVDnmUklB0MC8F3XbE1Z12rOY6JATyFmJnoVxrJpEanaNLiHwiNk8ay4%2BsNp7gR1jspEhzx3RHk3lluIDiXdSstA8KU8xq%2F1POWZ0YPCxMkkz8y4b%2FPy4fl7dur7abp8tvdjL3NPtvutFazxWyjd2whD575szVZpBYKMmsC6Kga8y3klnPLXShgHKxITGF4kcNeBS0rwY4IhECpgaUGjlaDfJzm9fBhDJljoD2MuCzOTWlWNQ7Uc9IqumAVvd8q%2Bq5VwLaH2X2950eiExZ7Ey7sMr2wy%2FT9u2wj3os1yaJepL3qqU623Dd0kaSEw7hIZMoAcKBZ5DikWQy9cdv7wsHorQ0kdxe7hEryBLhSsYMsAhjfErFmFVsSGkUkA2xNGQs44wLAjGdEaZOCv5A%2B2PBMKRd8k0Uk0j3QKilwe85oDCpvU9ANKzeIpLmlxEl5BGli3ROeEin2IKJHfU0jneR8TfldmzGQi2osOc4WIw1inaXig%2BaWyNDQXH4Pr2cneO0zFZtc2dMOAOx1oxLQIoTNE9H2oRXr%2F2rWqgEeIa894LLBYXWrvixgeR%2FbsD7CaIN8AI%2FYrxtYlFQ%2Blfucx6qa7I8UttLm%2FK9cvKjTDMlIbU05Z6UyPxHFRQ0AmsuK6LZzpBuHqJNta7%2FNVcH5jsOwirUg646SRMq8mr6EZ7fb3agq8Q2XN1zEx6pGEouYyM7c5xXD2Ytp0FTTbA4bQRQnXFBtuEF7dD7FzZZSTpfpzaFiZC1PkE0qzi9W6jz%2BPOHQdNZhHPL8m8nYYJ0zG51gnTP9TazzRgbrPuEv5F%2FDr5BN5%2BpyAr2Q4aKgIbgGwCVltTfPeajgGxGSHyD%2B0QG6XPlJ1LkAmR4XhGFJt9370K93nWO4ri4xD89QfTDLEzwoh81FRFWkYpPCL6MplUVdulSSh8o0vgOcZusqmUBzLXAI4wPbGcJYqkRA%2Bh9dWFFQN%2B5xmuJBWhVFXfMqqwcAZlczlVE44YO6qZWX9VhVbdUSAqHO21Avp7o9jE7o%2FltHu7T2GgZpWs%2BQWUj9E5T2vd91LNGfw%2BiGQtfCaNdktA%2BBbig8sFc1IWzlhVchByvgCrI9HA6B6MsBwkOrCfZfaniTbsXzJlOz3I0nJjeaN%2FBfH2DPCPAjLcETaPkxYzQjV0kS%2F7pIMjZ8OC9CStUt%2Byrd516X%2B%2Fxz6VnV2IG6JUBigfrrWoFrTeEXWbOJXb8wLwawrEWpLgUIJNXlAsNbrnFXPgrICBISBvnVoZRXOeuQ08Kqp5IWvIycpMAfmb3au33z1vPT6cxxvF46c8xSP%2FLNdDZ5%2FyszdNvPbNXY0cdK9%2B5%2F%3C%2Fdiagram%3E%3Cdiagram%20id%3D%22HwDBk1RD05lg-dqkWvLn%22%20name%3D%22Page-2%22%3E7VtZU%2BM4EP41roWHTPnIAY%2BTA2apoZZZqGXmiVJsOVaNLXlkOQn8%2Bm3JcmInCiQBc1elsNSSW7K%2B7tanA8sbJPNTjtLonAU4tlw7mFve0HJdx%2Bkcw0NKbgtJr%2BsUggknga60FFySO6yFtpbmJMBZraJgLBYkrQt9Rin2RU2GOGezerWQxfVWUzTBa4JLH8Xr0msSiKiQHrm9pfwbJpOobNnp6g9OUFlZq8giFLBZIVIf540sb8AZE0UqmQ9wLAevHJehF5%2Fax2cZuwnyIRolP8OfvFUMy8kuryw%2BgWMq9lbdds7%2Fa9m8PZjPfHb3z%2BDX77PrlluonqI41%2BNlud0YGumHDNqCjxa3eiS7f3JWFrQyhfNXqOB00%2FmyEFIT%2FVRaxqXg7yRlXCClE%2F%2FJkSCMZrJ3VGGfpLkgdFK%2BBl8xXlUFsqJPpditdc8FeFKZFGgsRX0%2FInHwHd2yXJTSMtcHs%2FpOqDJLW1ZlcZ7QqiQTiAttzG0piEQSQ9qB5CwiAl%2BmyJeFM%2FCaQkOM0oyoppUGjv2cZ2SK%2F8XFYCkpnqeIBjqTMkIF5qMpwFo2HJI4HrCYcfVRXoDwUeirDnH2G1dKuv4RHoeLgZhiLvB8xeQfsBdnYcTg%2FZglWPBbeG%2Fh%2BtqDteO3dXa29KK2p2VRxYPa5XtIe%2B5koXppnZDQBrqDsZaKa9a6agUzksSISgOIGCd3YDEoro636lSnDz%2FQNrC%2FdKwOvDeAvLPMw09W52IAVio4ImocMcrEDGdixT6e0zy2Anuzp6%2BDvSO4x41h6%2ByErZ4t0HJA3x4ijm2GpIKBazeEgSnut9XPtjqDkCPf6vWD0OoN5VPIJ5R4w6I8JgkkbqDoICokXHZPTdeQtw91%2FYWm8ADidj86bEHisFAaqTpFmys4w0iKOoIoJhMK6RiHskSONoEp%2FqsWJyQIVMznErqKUdQ9Xjo1ygXT8DqPQ%2B%2BB6FkPniXdqGDrtQ3Yuo35lwnxj%2Blf8xXfqvpbUzHvhndzSrMJFndXo%2Bj6Rpyll%2FeQr4BMNzKpk5wGKMFqXnPtqwgznkt3ZCH8GaDYz%2BM8e4BIGfSbmuQ7v3pCaCBpHUsFSVQHM%2BBWJdkTTOLGGRhFIvOPaGiVN9rSiqBdEWEuVysk80kaS0b3ZftW3mQc2jCxm%2BOQ01m3ecdg893G4lDvk8M1xOEcb0sS12sM3KOPN8n09iNxT4GBcVLx7mV2ERKSjknuBTQOothBIZ%2BTCo87rHK9DCYXxfiIyCTja0GO0FDcKh2jRQ4qS543P8RSCvVcKEqlWqKiUdmMZH1dlEj46DhL1eDL7Saj%2FE0TxKP7A7NTJ4gG33WflSAef%2FrungTxKXw5adFg%2BKNzx%2BYnZ%2Bc%2FotML%2Bmu4L0FkOSeKBV1xRLOQ8eSl6OCISgORVO%2FsYnS6YGnnF55mb%2BCPGZDD987RjnfiaAazM4WCTlOhoIy4nxztyTmaKaYYOZrTbgzdzocL9IVB707SngQEY2TvbhfZl8RtiuU%2BGiRkREWL%2FTU%2FYKJaoV%2FdqbMrDOo9h9fCoh%2FBtIzgPwXTMmJvWgHvDPRwZUuWR0yyc0x9XfCGmfNueBqOLhZT47PgaVr0PoinIIniRYsaoyqgLau6ey4XUhByidpP6xfb5zWZ%2BGiY99Yxb2w73Yi5abG0O%2BbfVpy4kJ6VaPY3W0E9Drxii2CgKozVtYkp0STg2czEMbEt03ZnY6tq1zTRf0yyteuqujnyZbxHUGFfdukNy3styi8evuVyjuYz6MBf0stHy1suL7P4HuLM52SsQk6kDmYTFmCuD06SnIKHyw5aex7EbD1Meab6gGMwbc4SNKFYkCxZbAfIwyJfntPs0I%2BtI5qPpW2%2Fllmue69vdOrRa%2F3M2LgP8BRnNWY%2FcdbG%2BXPZv9ey39v2fk1jW4nOe5p37rHWlzmJMXfItI2mSaI%2BbonGiG8ieRtIXWdwkZGD%2BhmNPNVx7W9FZln84uTvEWBu8Ketl%2FReU4cn5u56H9W7Xs1ZiWPa1nz4sOTSj7g18Kx%2BNyB0grmibuUF5dfA3MBUBLb0RWnoFxXqts%2Fi6sv7OTq5x7O2XvC521GmPY5OILu86q%2FKKv8w4Y3%2BBw%3D%3D%3C%2Fdiagram%3E%3C%2Fmxfile%3E"><img src="/assets/img/blog/mathematical-typesetting-disabled.png" style="max-width:100%;height:auto;" alt="Click Extras &gt; Mathematical Typesetting to render your equations in MathJax" /></a></p>
+
+<h2 id="enable-mathematical-typesetting">Enable mathematical typesetting</h2>
+
+<p>Select <em>Extras &gt; Mathematical Typesetting</em> in the diagrams.net menu to render your equations in MathJax.</p>
+
+<p>You can disable it at any time and see the equation’s LaTeX or AsciiMath source through the same menu item.</p>
+
+<p><a href="https://app.diagrams.net/?lightbox=1&amp;highlight=0000ff&amp;edit=_blank&amp;layers=1&amp;nav=1&amp;title=math-examples.drawio#R%3Cmxfile%3E%3Cdiagram%20id%3D%22Trg0ARunQVTyGifeBPsd%22%20name%3D%22Page-1%22%3E7VhRb5s6FP4t9wEpeUgFhkDymNBmW7U%2BTJ206b5UDjjg1WDqOAntr7%2FHYELAJFu17U6VJqHE%2Fnx8bB%2F7%2B47BcsOsfCdwkd7xmDAL2XFpudcWQo4zncOfQp5rJPCdGkgEjbVRC9zTF6JBW6M7GpNtx1ByziQtumDE85xEsoNhIfiha7bhrDtqgRNiAPcRZib6hcYyrdEZClr8PaFJ2ozs%2BHrBGW6MtYttimN%2BqKFqce6N5YaCc1mXsjIkTAWviUsdgdWZ1uPEBMnlj3T499PqdnX98jRxs2z17WbOXuafJu6sdrPHbKdXbCEPnsWDFSwzC4W5FQBqV22%2BhdxyYblLBUzDNUkoNC8LWKugZWXYMYEtUG5gqqGj3SAfZ0XdfGxDZht4j2Iut%2Be6NLOahuoZHBVdGBW9flT03VEB2x979%2F2eb4kHRux1uLDK7MIqs9evst3x3l6TPO7ttFc91cmWzw1dJCnhMC5TmTEAHChuCxzRPIHatK195jDo9QRI7i4PKZXkHnDl4gAqAhjfE7FhFVtSGsckB2xDGQs54wLAnOdEeZOCP5I%2B2PBMORd8l8ck1jXwKilwe8FoAi6vM%2FANM68ZAG2kPMst58hYkDrCMyLFM5joDr6mkRY5X4vXoVUM5KIaS0%2FVwtYg1iqVHD23RIaC5vJreD0f4LXP1N4UajwdAMCedkqAlhGslIi2DqVE%2F1e91g1wB7p2i8sGh9mt%2B7aAFX1sx%2FoIow3yHiIyedrBpKSKqXwueKKyyfOJw9ba7P%2BFi0d1mkGM1NJUcNZK%2BYnYXvQAoDmtmO47R7oJiDrZEx23hUo43wkYVnstyKbjJJWyqLqv4DkcDlcqS3zD5RUXyakrW2KRENnp%2B7BmOH80BzTdNIvDxiaKgRBUC27QHp2HuNlSyukyvTlUjGzkANmk4vxyrc7jzxMOzeYdxiHPvwqmBuucuT3AOmf2m1jn2QbrPuLP5KsRV1DThbqcQC1ieLulEYQGwBVldTSrDiQ27ia9%2BIBTvhMR%2BQElODlRl64CZsQFYVjSfXcmvz50zpmLyO0DZB%2FMihSPynFzEVEZabvL4JfRjMptnbqUyENmmt4ATvNNJSZQ3AgcQfto4oyhLVMmYP2PTqworAvvcJbhUVYlRZ3zqlGPAPSueqpB4YSP6qJ2XtZtVbZVUwiFOm9jPZ3q9mAP%2BP6bR7u09hoGaVrPkZlI%2FQFK%2B97vOpboDTPaOxPs%2F4nRrsloHza6ofBosq4JMVGLfhJytAauoImHozEQfTVCeGw1m%2F2XGl7QzXheMDPT3TQwudG8gf%2F6DfaMDb6jJUQCrT7kjObkbZDE%2F6MkmRoxXGwjStUt%2B22Ez%2F2j4fPPybPKsSN1SwBhgfzrWqFrzeAXWfNgUr8wL0cwrWWpLgUILNXlAsNbrnFXPtkQGwQJg%2F36mMorzTpqWlTVlGjBy8ggBd6kerV3%2B%2Bat56flzHG8npw5Zqq3fVPOgte%2FMkO1%2FcxWtZ18rHRv%2FgM%3D%3C%2Fdiagram%3E%3Cdiagram%20id%3D%22HwDBk1RD05lg-dqkWvLn%22%20name%3D%22Page-2%22%3E7VtZU%2BM4EP41roWHTPnIAY%2BTA2apoZZZqGXmiVJsOVaNLXlkOQn8%2Bm3JcmInCiQBc1elsNSSW7K%2B7tanA8sbJPNTjtLonAU4tlw7mFve0HJdx%2Bkcw0NKbgtJr%2BsUggknga60FFySO6yFtpbmJMBZraJgLBYkrQt9Rin2RU2GOGezerWQxfVWUzTBa4JLH8Xr0msSiKiQHrm9pfwbJpOobNnp6g9OUFlZq8giFLBZIVIf540sb8AZE0UqmQ9wLAevHJehF5%2Fax2cZuwnyIRolP8OfvFUMy8kuryw%2BgWMq9lbdds7%2Fa9m8PZjPfHb3z%2BDX77PrlluonqI41%2BNlud0YGumHDNqCjxa3eiS7f3JWFrQyhfNXqOB00%2FmyEFIT%2FVRaxqXg7yRlXCClE%2F%2FJkSCMZrJ3VGGfpLkgdFK%2BBl8xXlUFsqJPpditdc8FeFKZFGgsRX0%2FInHwHd2yXJTSMtcHs%2FpOqDJLW1ZlcZ7QqiQTiAttzG0piEQSQ9qB5CwiAl%2BmyJeFM%2FCaQkOM0oyoppUGjv2cZ2SK%2F8XFYCkpnqeIBjqTMkIF5qMpwFo2HJI4HrCYcfVRXoDwUeirDnH2G1dKuv4RHoeLgZhiLvB8xeQfsBdnYcTg%2FZglWPBbeG%2Fh%2BtqDteO3dXa29KK2p2VRxYPa5XtIe%2B5koXppnZDQBrqDsZaKa9a6agUzksSISgOIGCd3YDEoro636lSnDz%2FQNrC%2FdKwOvDeAvLPMw09W52IAVio4ImocMcrEDGdixT6e0zy2Anuzp6%2BDvSO4x41h6%2ByErZ4t0HJA3x4ijm2GpIKBazeEgSnut9XPtjqDkCPf6vWD0OoN5VPIJ5R4w6I8JgkkbqDoICokXHZPTdeQtw91%2FYWm8ADidj86bEHisFAaqTpFmys4w0iKOoIoJhMK6RiHskSONoEp%2FqsWJyQIVMznErqKUdQ9Xjo1ygXT8DqPQ%2B%2BB6FkPniXdqGDrtQ3Yuo35lwnxj%2Blf8xXfqvpbUzHvhndzSrMJFndXo%2Bj6Rpyll%2FeQr4BMNzKpk5wGKMFqXnPtqwgznkt3ZCH8GaDYz%2BM8e4BIGfSbmuQ7v3pCaCBpHUsFSVQHM%2BBWJdkTTOLGGRhFIvOPaGiVN9rSiqBdEWEuVysk80kaS0b3ZftW3mQc2jCxm%2BOQ01m3ecdg893G4lDvk8M1xOEcb0sS12sM3KOPN8n09iNxT4GBcVLx7mV2ERKSjknuBTQOothBIZ%2BTCo87rHK9DCYXxfiIyCTja0GO0FDcKh2jRQ4qS543P8RSCvVcKEqlWqKiUdmMZH1dlEj46DhL1eDL7Saj%2FE0TxKP7A7NTJ4gG33WflSAef%2FrungTxKXw5adFg%2BKNzx%2BYnZ%2Bc%2FotML%2Bmu4L0FkOSeKBV1xRLOQ8eSl6OCISgORVO%2FsYnS6YGnnF55mb%2BCPGZDD987RjnfiaAazM4WCTlOhoIy4nxztyTmaKaYYOZrTbgzdzocL9IVB707SngQEY2TvbhfZl8RtiuU%2BGiRkREWL%2FTU%2FYKJaoV%2FdqbMrDOo9h9fCoh%2FBtIzgPwXTMmJvWgHvDPRwZUuWR0yyc0x9XfCGmfNueBqOLhZT47PgaVr0PoinIIniRYsaoyqgLau6ey4XUhByidpP6xfb5zWZ%2BGiY99Yxb2w73Yi5abG0O%2BbfVpy4kJ6VaPY3W0E9Drxii2CgKozVtYkp0STg2czEMbEt03ZnY6tq1zTRf0yyteuqujnyZbxHUGFfdukNy3styi8evuVyjuYz6MBf0stHy1suL7P4HuLM52SsQk6kDmYTFmCuD06SnIKHyw5aex7EbD1Meab6gGMwbc4SNKFYkCxZbAfIwyJfntPs0I%2BtI5qPpW2%2Fllmue69vdOrRa%2F3M2LgP8BRnNWY%2FcdbG%2BXPZv9ey39v2fk1jW4nOe5p37rHWlzmJMXfItI2mSaI%2BbonGiG8ieRtIXWdwkZGD%2BhmNPNVx7W9FZln84uTvEWBu8Ketl%2FReU4cn5u56H9W7Xs1ZiWPa1nz4sOTSj7g18Kx%2BNyB0grmibuUF5dfA3MBUBLb0RWnoFxXqts%2Fi6sv7OTq5x7O2XvC521GmPY5OILu86q%2FKKv8w4Y3%2BBw%3D%3D%3C%2Fdiagram%3E%3C%2Fmxfile%3E"><img src="/assets/img/blog/mathematical-typesetting-enabled.png" style="max-width:100%;height:auto;" alt="Click Extras &gt; Mathematical Typesetting to render your equations in MathJax" /></a></p>
+
+<h2 id="maths-equations-in-tables">Maths equations in tables</h2>
+
+<p>Just like you can add shapes to table cells, you can also add maths equations to <a href="/blog/tables.html">table cells and cross-functional tables</a>.</p>
+
+<p><strong>Tip:</strong> Left-justify the text shapes, then reposition them as they are rendered so that you do not get blank areas or pages when you export your diagram to an image or a PDF file.</p>
+
+<p><a href="https://app.diagrams.net/?lightbox=1&amp;highlight=0000ff&amp;edit=_blank&amp;layers=1&amp;nav=1&amp;page-id=HwDBk1RD05lg-dqkWvLn&amp;title=math-examples.drawio#R%3Cmxfile%3E%3Cdiagram%20id%3D%22Trg0ARunQVTyGifeBPsd%22%20name%3D%22Page-1%22%3E7VhRb5s6FP4t9wEpeUgFhkDymNBmW7U%2BTJ206b5UDjjg1WDqOAntr7%2FHYELAJFu17U6VJqHE%2Fnx8bB%2F7%2B47BcsOsfCdwkd7xmDAL2XFpudcWQo4zncOfQp5rJPCdGkgEjbVRC9zTF6JBW6M7GpNtx1ByziQtumDE85xEsoNhIfiha7bhrDtqgRNiAPcRZib6hcYyrdEZClr8PaFJ2ozs%2BHrBGW6MtYttimN%2BqKFqce6N5YaCc1mXsjIkTAWviUsdgdWZ1uPEBMnlj3T499PqdnX98jRxs2z17WbOXuafJu6sdrPHbKdXbCEPnsWDFSwzC4W5FQBqV22%2BhdxyYblLBUzDNUkoNC8LWKugZWXYMYEtUG5gqqGj3SAfZ0XdfGxDZht4j2Iut%2Be6NLOahuoZHBVdGBW9flT03VEB2x979%2F2eb4kHRux1uLDK7MIqs9evst3x3l6TPO7ttFc91cmWzw1dJCnhMC5TmTEAHChuCxzRPIHatK195jDo9QRI7i4PKZXkHnDl4gAqAhjfE7FhFVtSGsckB2xDGQs54wLAnOdEeZOCP5I%2B2PBMORd8l8ck1jXwKilwe8FoAi6vM%2FANM68ZAG2kPMst58hYkDrCMyLFM5joDr6mkRY5X4vXoVUM5KIaS0%2FVwtYg1iqVHD23RIaC5vJreD0f4LXP1N4UajwdAMCedkqAlhGslIi2DqVE%2F1e91g1wB7p2i8sGh9mt%2B7aAFX1sx%2FoIow3yHiIyedrBpKSKqXwueKKyyfOJw9ba7P%2BFi0d1mkGM1NJUcNZK%2BYnYXvQAoDmtmO47R7oJiDrZEx23hUo43wkYVnstyKbjJJWyqLqv4DkcDlcqS3zD5RUXyakrW2KRENnp%2B7BmOH80BzTdNIvDxiaKgRBUC27QHp2HuNlSyukyvTlUjGzkANmk4vxyrc7jzxMOzeYdxiHPvwqmBuucuT3AOmf2m1jn2QbrPuLP5KsRV1DThbqcQC1ieLulEYQGwBVldTSrDiQ27ia9%2BIBTvhMR%2BQElODlRl64CZsQFYVjSfXcmvz50zpmLyO0DZB%2FMihSPynFzEVEZabvL4JfRjMptnbqUyENmmt4ATvNNJSZQ3AgcQfto4oyhLVMmYP2PTqworAvvcJbhUVYlRZ3zqlGPAPSueqpB4YSP6qJ2XtZtVbZVUwiFOm9jPZ3q9mAP%2BP6bR7u09hoGaVrPkZlI%2FQFK%2B97vOpboDTPaOxPs%2F4nRrsloHza6ofBosq4JMVGLfhJytAauoImHozEQfTVCeGw1m%2F2XGl7QzXheMDPT3TQwudG8gf%2F6DfaMDb6jJUQCrT7kjObkbZDE%2F6MkmRoxXGwjStUt%2B22Ez%2F2j4fPPybPKsSN1SwBhgfzrWqFrzeAXWfNgUr8wL0cwrWWpLgUILNXlAsNbrnFXPtkQGwQJg%2F36mMorzTpqWlTVlGjBy8ggBd6kerV3%2B%2Bat56flzHG8npw5Zqq3fVPOgte%2FMkO1%2FcxWtZ18rHRv%2FgM%3D%3C%2Fdiagram%3E%3Cdiagram%20id%3D%22HwDBk1RD05lg-dqkWvLn%22%20name%3D%22Page-2%22%3E7VtZU%2BM4EP41roWHTPnIAY%2BTA2apoZZZqGXmiVJsOVaNLXlkOQn8%2Bm3JcmInCiQBc1elsNSSW7K%2B7tanA8sbJPNTjtLonAU4tlw7mFve0HJdx%2Bkcw0NKbgtJr%2BsUggknga60FFySO6yFtpbmJMBZraJgLBYkrQt9Rin2RU2GOGezerWQxfVWUzTBa4JLH8Xr0msSiKiQHrm9pfwbJpOobNnp6g9OUFlZq8giFLBZIVIf540sb8AZE0UqmQ9wLAevHJehF5%2Fax2cZuwnyIRolP8OfvFUMy8kuryw%2BgWMq9lbdds7%2Fa9m8PZjPfHb3z%2BDX77PrlluonqI41%2BNlud0YGumHDNqCjxa3eiS7f3JWFrQyhfNXqOB00%2FmyEFIT%2FVRaxqXg7yRlXCClE%2F%2FJkSCMZrJ3VGGfpLkgdFK%2BBl8xXlUFsqJPpditdc8FeFKZFGgsRX0%2FInHwHd2yXJTSMtcHs%2FpOqDJLW1ZlcZ7QqiQTiAttzG0piEQSQ9qB5CwiAl%2BmyJeFM%2FCaQkOM0oyoppUGjv2cZ2SK%2F8XFYCkpnqeIBjqTMkIF5qMpwFo2HJI4HrCYcfVRXoDwUeirDnH2G1dKuv4RHoeLgZhiLvB8xeQfsBdnYcTg%2FZglWPBbeG%2Fh%2BtqDteO3dXa29KK2p2VRxYPa5XtIe%2B5koXppnZDQBrqDsZaKa9a6agUzksSISgOIGCd3YDEoro636lSnDz%2FQNrC%2FdKwOvDeAvLPMw09W52IAVio4ImocMcrEDGdixT6e0zy2Anuzp6%2BDvSO4x41h6%2ByErZ4t0HJA3x4ijm2GpIKBazeEgSnut9XPtjqDkCPf6vWD0OoN5VPIJ5R4w6I8JgkkbqDoICokXHZPTdeQtw91%2FYWm8ADidj86bEHisFAaqTpFmys4w0iKOoIoJhMK6RiHskSONoEp%2FqsWJyQIVMznErqKUdQ9Xjo1ygXT8DqPQ%2B%2BB6FkPniXdqGDrtQ3Yuo35lwnxj%2Blf8xXfqvpbUzHvhndzSrMJFndXo%2Bj6Rpyll%2FeQr4BMNzKpk5wGKMFqXnPtqwgznkt3ZCH8GaDYz%2BM8e4BIGfSbmuQ7v3pCaCBpHUsFSVQHM%2BBWJdkTTOLGGRhFIvOPaGiVN9rSiqBdEWEuVysk80kaS0b3ZftW3mQc2jCxm%2BOQ01m3ecdg893G4lDvk8M1xOEcb0sS12sM3KOPN8n09iNxT4GBcVLx7mV2ERKSjknuBTQOothBIZ%2BTCo87rHK9DCYXxfiIyCTja0GO0FDcKh2jRQ4qS543P8RSCvVcKEqlWqKiUdmMZH1dlEj46DhL1eDL7Saj%2FE0TxKP7A7NTJ4gG33WflSAef%2FrungTxKXw5adFg%2BKNzx%2BYnZ%2Bc%2FotML%2Bmu4L0FkOSeKBV1xRLOQ8eSl6OCISgORVO%2FsYnS6YGnnF55mb%2BCPGZDD987RjnfiaAazM4WCTlOhoIy4nxztyTmaKaYYOZrTbgzdzocL9IVB707SngQEY2TvbhfZl8RtiuU%2BGiRkREWL%2FTU%2FYKJaoV%2FdqbMrDOo9h9fCoh%2FBtIzgPwXTMmJvWgHvDPRwZUuWR0yyc0x9XfCGmfNueBqOLhZT47PgaVr0PoinIIniRYsaoyqgLau6ey4XUhByidpP6xfb5zWZ%2BGiY99Yxb2w73Yi5abG0O%2BbfVpy4kJ6VaPY3W0E9Drxii2CgKozVtYkp0STg2czEMbEt03ZnY6tq1zTRf0yyteuqujnyZbxHUGFfdukNy3styi8evuVyjuYz6MBf0stHy1suL7P4HuLM52SsQk6kDmYTFmCuD06SnIKHyw5aex7EbD1Meab6gGMwbc4SNKFYkCxZbAfIwyJfntPs0I%2BtI5qPpW2%2Fllmue69vdOrRa%2F3M2LgP8BRnNWY%2FcdbG%2BXPZv9ey39v2fk1jW4nOe5p37rHWlzmJMXfItI2mSaI%2BbonGiG8ieRtIXWdwkZGD%2BhmNPNVx7W9FZln84uTvEWBu8Ketl%2FReU4cn5u56H9W7Xs1ZiWPa1nz4sOTSj7g18Kx%2BNyB0grmibuUF5dfA3MBUBLb0RWnoFxXqts%2Fi6sv7OTq5x7O2XvC521GmPY5OILu86q%2FKKv8w4Y3%2BBw%3D%3D%3C%2Fdiagram%3E%3C%2Fmxfile%3E"><img src="/assets/img/blog/maths-examples.png" style="width=100%;max-width:400px;height:auto;" alt="Mathematical typesetting will render equations in text shapes, even when they are in tables" /></a></p>
+
+<p><strong>Troubleshooting:</strong> If you find your maths is not converted, you likely have pasted some text containing HTML tags that format the text. Select the text, then click on the HTML button in the toolbar to unhide HTML tags.</p>
+
+<p><img src="/assets/img/blog/maths-unhide-html.png" style="width=100%;max-width:400px;height:auto;" alt="Unhide HTML tags if you have problems rendering your equation" /></p>
+
+<h2 id="change-the-output-font">Change the output font</h2>
+
+<p>The TeX font is used by default, and when converted to an image or PDF format, the equation is converted to SVG. You can change these settings using <a href="/doc/faq/supported-url-parameters">URL parameters</a>.</p>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">math-output=html</code> uses HTML-CSS to render the maths. Use this setting to allow the maths symbols to be selectable in an exported PDF file. Note that not all symbols are selectable.</li>
+  <li><code class="language-plaintext highlighter-rouge">math-font=STIX-Web</code> changes the font to be STIX when generating the SVG version of the equation.</li>
+  <li><code class="language-plaintext highlighter-rouge">math-font=STIX</code> uses the STIX font in the HTML-CSS version of the equation.</li>
+</ul>
+
+      </div>
+
+      <div class="w-lg-60 mx-lg-auto">
+        <p class="h6 font-weight-normal">Follow us on <a class="link-muted" href="https://github.com/jgraph/drawio">GitHub</a>, <a class="link-muted" href="https://twitter.com/drawio">Twitter</a>, <a class="link-muted" href="https://www.facebook.com/drawioapp/">Facebook</a>, <a class="link-muted" href="https://www.youtube.com/channel/UCiTtRN9b8P4CoSfpkfgEJHA">YouTube</a>.</p>
+
+        <!-- Share -->
+        <div class="row justify-content-sm-between align-items-sm-center mt-5">
+          <div class="col-sm-6">
+            <div class="d-flex align-items-center">
+              <h4 class="font-size-1 font-weight-medium text-uppercase mb-0 mr-3">Share:</h4>
+
+              <a class="btn btn-sm btn-icon btn-soft-dark btn-bg-transparent rounded-circle mr-2" href="https://www.facebook.com/sharer.php?u=/blog/maths-in-diagrams" data-toggle="tooltip" data-placement="top" title="Share this page on Facebook">
+                <span class="fab fa-facebook-f btn-icon__inner"></span>
+              </a>
+              <a class="btn btn-sm btn-icon btn-soft-dark btn-bg-transparent rounded-circle mr-2" href="https://twitter.com/share?text=Maths equations in diagrams&url=/blog/maths-in-diagrams" data-toggle="tooltip" data-placement="top" title="Share this page on Twitter">
+                <span class="fab fa-twitter btn-icon__inner"></span>
+              </a>
+            </div>
+          </div>
+
+          <div class="col-sm-6 text-right">
+          </div>
+        </div>
+        <!-- End Share -->
+      </div>
+    </div>
+    <!-- End Article Description Section -->
+  </main>
+  <!-- ========== END MAIN ========== -->
+
+  <!-- JS Global Compulsory -->
+  <script src="../../assets/js/jquery.min.js"></script>
+  <script src="../../assets/js/jquery-migrate.min.js"></script>
+  <script src="../../assets/js/popper.min.js"></script>
+  <script src="../../assets/js/bootstrap.min.js"></script>
+
+  <!-- JS Implementing Plugins -->
+  <script src="../../assets/js/hs.megamenu.js"></script>
+
+  <!-- JS Front -->
+  <script src="../../assets/js/hs.core.js"></script>
+  <script src="../../assets/js/hs.header.js"></script>
+  <script src="../../assets/js/hs.unfold.js"></script>
+  <script src="../../assets/js/hs.focus-state.js"></script>
+  <script src="../../assets/js/hs.show-animation.js"></script>
+
+  <!-- JS Plugins Init. -->
+  <script>
+    $(window).on('load', function () {
+      // initialization of HSMegaMenu component
+      $('.js-mega-menu').HSMegaMenu({
+        event: 'hover',
+        pageContainer: $('.container'),
+        breakpoint: 767.98,
+        hideTimeOut: 0
+      });
+    });
+
+    $(document).on('ready', function () {
+      // initialization of header
+      $.HSCore.components.HSHeader.init($('#header'));
+
+      // initialization of unfold component
+      $.HSCore.components.HSUnfold.init($('[data-unfold-target]'), {
+        afterOpen: function () {
+          $(this).find('input[type="search"]').focus();
+        }
+      });
+
+      // initialization of show animations
+      $.HSCore.components.HSShowAnimation.init('.js-animation-link');
+
+      // initialization of forms
+      $.HSCore.components.HSFocusState.init();
+    });
+  </script>
+
+<!-- ========== FOOTER ========== -->
+<footer class="bg-dark">
+  <div class="container space-2">
+    <div class="row mb-7">
+      <div class="col-lg-4 mb-5 mb-lg-0">
+        <a class="d-inline-flex align-items-center mb-2" href="/index.html" aria-label="Front">
+          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="36px" height="36px" viewBox="0 0 250 250" xml:space="preserve" style="margin-bottom: 0;">
+            <style type="text/css">
+            	.st0{fill:#F08705;}
+            	.st1{fill:#DF6C0C;}
+            	.st2{fill:#FFFFFF;}
+            </style>
+            <path class="st0" d="M237.5,227.9c0,5.3-4.3,9.6-9.5,9.6c0,0,0,0,0,0H22.1c-5.3,0-9.6-4.3-9.6-9.5c0,0,0,0,0,0V22.1
+            	c0-5.3,4.3-9.6,9.5-9.6c0,0,0,0,0,0h205.9c5.3,0,9.6,4.3,9.6,9.5c0,0,0,0,0,0V227.9z"/>
+            <path class="st1" d="M237.5,227.9c0,5.3-4.3,9.6-9.5,9.6c0,0,0,0,0,0H89.6L44.8,192l27.9-45.5l82.7-102.7l82.1,84.5V227.9z"/>
+            <path class="st2" d="M197.1,138.3h-23.7l-25-42.7c5.7-1.2,9.8-6.2,9.7-12V51.5c0-6.8-5.4-12.3-12.2-12.3c0,0-0.1,0-0.1,0h-41.7
+            	c-6.8,0-12.3,5.4-12.3,12.2c0,0,0,0.1,0,0.1v32.1c0,5.8,4,10.8,9.7,12l-25,42.7H52.9c-6.8,0-12.3,5.4-12.3,12.2c0,0,0,0.1,0,0.1
+            	v32.1c0,6.8,5.4,12.3,12.2,12.3c0,0,0.1,0,0.1,0h41.7c6.8,0,12.3-5.4,12.3-12.2c0,0,0-0.1,0-0.1v-32.1c0-6.8-5.4-12.3-12.2-12.3
+            	c0,0-0.1,0-0.1,0h-4l24.8-42.4h19.3l24.9,42.4h-4.1c-6.8,0-12.3,5.4-12.3,12.2c0,0,0,0.1,0,0.1v32.1c0,6.8,5.4,12.3,12.2,12.3
+            	c0,0,0.1,0,0.1,0h41.7c6.8,0,12.3-5.4,12.3-12.2c0,0,0-0.1,0-0.1v-32.1c0-6.8-5.4-12.3-12.2-12.3
+            	C197.2,138.3,197.2,138.3,197.1,138.3z"/>
+          </svg>
+          <span class="brand brand-light">diagrams.net</span>
+        </a>
+      </div>
+
+      <div class="col-6 col-lg-2 mb-5 mb-lg-0">
+        <h4 class="h6 text-white font-weight-medium">Help and advice</h4>
+        <ul class="list-unstyled font-size-1">
+          <li class="py-2"><a class="text-white-70" href="/doc/">Getting started</a></li>
+          <li class="py-2"><a class="text-white-70" href="/integrations.html">Integrations</a></li>
+          <li class="py-2"><a class="text-white-70" href="/doc/">Documentation</a></li>
+          <li class="py-2"><a class="text-white-70" href="/doc/faq/">FAQ</a></li>
+        </ul>
+      </div>
+
+      <div class="col-6 col-lg-2 mb-5 mb-lg-0">
+        <h4 class="h6 text-white font-weight-medium">About us</h4>
+        <ul class="list-unstyled font-size-1">
+          <li class="py-2"><a class="text-white-70" href="/about.html">About diagrams.net</a></li>
+          <li class="py-2"><a class="text-white-70" href="https://github.com/jgraph">Contribute</a></li>
+          <li class="py-2"><a class="text-white-70" href="/trust/">Legal &amp; Privacy</a></li>
+        </ul>
+      </div>
+
+      <div class="col-lg-4">
+        <!-- Form -->
+        <form class="js-validate mb-2">
+          <h4 class="h6 text-white font-weight-medium mb-3">We ran out of footer items</h4>
+          <div class="form-row">
+            <div class="col-12">
+              <div class="js-form-message">
+                <label class="sr-only" for="subscribeSrEmail">Email address</label>
+                <div class="input-group">
+                  <input type="email" class="form-control" name="email" id="subscribeSrEmail" placeholder="Email address" aria-label="Email address" required
+                         data-msg="Please enter a valid email address."
+                         data-error-class="u-has-error"
+                         data-success-class="u-has-success">
+                  <div class="input-group-append">
+                    <button type="button" class="btn btn-primary">
+                      <span class="fas fa-arrow-right"></span>
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </form>
+        <!-- End Form -->
+
+        <p class="text-white-70 small mb-0">This form isn't even posted to a server.</p>
+      </div>
+    </div>
+
+    <p class="small text-white-70 mb-0">&copy; 2005-2020 diagrams.net. All rights reserved.</p>
+  </div>
+</footer>
+<!-- ========== END FOOTER ========== -->
+
+<body>
+</html>
