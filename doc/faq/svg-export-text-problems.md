@@ -11,7 +11,7 @@ diagrams.net uses something called foreign objects in SVG to allow complex, HTML
 
 All modern browsers including Chrome, Firefox, Safari and Microsoft Edge support this functionality. Internet Explorer 11 and earlier versions of IE do not.
 
-We can account for this dynamically if you use diagrams.net in IE11 or earlier. However, the exported SVG will not show all labels when the SVG image file is viewed in IE and most SVG editors (such as Inkscape and Illustrator), as well as some online services such as Wordpress. Instead, you will see a short version of the label and a warning ``Viewer does not support full SVG 1.1`` at the bottom of the SVG export. This warning can be suppressed by using the svg-warning=0 URL parameter.
+We can account for this dynamically if you use diagrams.net in IE11 or earlier. However, the exported SVG will not show all labels when the SVG image file is viewed in IE and most SVG editors (such as Inkscape and Illustrator), as well as some online services such as Wordpress. Instead, you will see a short version of the label and a warning ``Viewer does not support full SVG 1.1`` at the bottom of the SVG export. This warning can be suppressed by using the [svg-warning=0 URL parameter](/doc/faq/supported-url-parameters).
 
 We are aware of the problem and have spent a considerable amount of time researching solutions. However, the subject is very complex and we don't have a fix so far. We will continue to investigate it.
 
