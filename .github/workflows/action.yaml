@@ -1,0 +1,89 @@
+# GitHub Action metadata file.
+# For details, see:
+# https://help.github.com/en/actions/automating-your-workflow-with-github-actions/metadata-syntax-for-github-actions
+---
+name: Jekyll Builder for GitHub Pages
+description: >
+    Build Jekyll sites using the official Jekyll `builder` Docker image,
+    then optionally deploy to GitHub Pages.
+
+inputs:
+
+    #
+    # Repository secrets needed for authentication.
+    #
+    secret_gh_pages_api_token:
+        required: false
+        description: If deploying to GitHub Pages, set this to the value of a GitHub Personal Access Token granted the `public_repo` and `repo_deployment` scopes.
+
+    #
+    # Customization options available to the action's user.
+    #
+    pre_build_commands:
+        required: false
+        description: >
+            Commands to run prior to build and deploy. Useful for
+            ensuring build dependencies are up to date. For example,
+            use `gem install bundler` to update Bundler to the latest
+            available version.
+
+    post_build_commands:
+        required: false
+        description: >
+            Commands to run after the Jekyll build and before
+            a deploy.
+
+    jekyll_build_opts:
+        required: false
+        description: >
+            Extra options to pass to `jekyll build`.
+
+    gh_pages_publishing_source:
+        required: false
+        description: >
+            Branch name to which this action will commit the
+            result of the Jekyll build. Ignored for User or
+            Organization repositories since only `master`
+            can be used as a publishing source for those
+            repos. This is automatically detected if you
+            already have GitHub Pages publishing source
+            defined in your repository settings.
+
+    git_committer_name:
+        required: false
+        description: >
+            Name to use when making commits to the Git repository.
+            This will default to the name associated with the GitHub
+            account running the GitHub Actions workflow.
+
+    git_committer_email:
+        required: false
+        description:
+            Email to use when making commits to the Git repository.
+            This will default to the email associated with the GitHub
+            account running the GitHub Actions workflow if the access
+            token passed as `secret_gh_pages_api_token` has permission
+            to access that data. If not, it will default to the value
+            of `"${GITHUB_ACTOR}@users.noreply.github.com"`.
+
+    git_commit_message:
+        required: false
+        description: >
+            The commit message to use when commtting back to
+            your GitHub Pages branch.
+        default: >
+            Auto-commit Jekyll build from Jekyll Builder
+            for GitHub Pages Action.
+
+# TODO
+#outputs:
+#    action_gh_pages_build_status:
+#        description: The HTTP status code of the response to the API request initiating the GitHub Pages deployment.
+
+runs:
+    using: docker
+    image: Dockerfile
+
+branding:
+    icon: upload-cloud
+    color: gray-dark
