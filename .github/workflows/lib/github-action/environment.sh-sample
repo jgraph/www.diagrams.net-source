@@ -1,0 +1,19 @@
+# This file is used to simulate a GitHub Actions environment
+# in local tests. It is not used during the Action run.
+
+# Input variables from GitHub Action runner.
+export INPUT_SECRET_GH_PAGES_API_TOKEN="Your Secret GitHub Personal Access Token Value"
+#export INPUT_PRE_BUILD_COMMANDS=""
+#export INPUT_GH_PAGES_PUBLISHING_SOURCE=""
+export INPUT_GIT_COMMIT_MESSAGE="Auto-commit Jekyll build from Jekyll Builder for GitHub Pages Action."
+
+# GitHub Actions environment variables.
+export GITHUB_ACTOR="Your GitHub Username"
+export GITHUB_HOME="/github/home"
+export GITHUB_REF="develop"
+export GITHUB_REPOSITORY="Owner/Repository"
+export GITHUB_TOKEN="$INPUT_SECRET_GH_PAGES_API_TOKEN"
+export GITHUB_WORKSPACE="/github/workspace"
+
+export JEKYLL_GID=0
+export JEKYLL_UID=0
