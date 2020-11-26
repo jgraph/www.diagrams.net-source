@@ -84,6 +84,18 @@ runs:
     using: docker
     image: Dockerfile
 
-branding:
-    icon: upload-cloud
-    color: gray-dark
+on:
+  push:
+    branches:
+      - dev
+
+jobs:
+  build-and-publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: jekyll-builder-for-github-pages-action@master
+        with:
+          secret_gh_pages_api_token: ${{ secrets.GH_TOKEN }}
