@@ -12,9 +12,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - uses: fabacab/jekyll-builder-for-github-pages-action@master
+      - uses: jekyll-builder-for-github-pages-action@master
         with:
           secret_gh_pages_api_token: ${{ secrets.GH_TOKEN }}
-          post_build_commands: |
-            mv assets/CNAME .
-            mv assets/favicon.ico .
