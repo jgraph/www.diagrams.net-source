@@ -14,7 +14,7 @@ Use the _Embed draw.io diagram_ macro to add a diagram from a text file that con
 2. Select the _CSV Import_ tab in the _Embed draw.io Diagram_ dialog.
 3. Enter a _Diagram Name_ and the _CSV File URL_ in the textboxes, and click _Generate_ to see a preview. In the example below, the CSV file is stored in our public Github repository.
 4. Click _Insert_ to embed the diagram into your Confluence page.
-<br /><img src="/assets/img/blog/embed-drawio-diagram-csvimport-confluence-server.png" style="max-width:100%;height:auto;" alt="Import a CSV file from a URLand embed it as a draw.io diagram in Confluence">
+<br /><img src="/assets/img/blog/embed-drawio-diagram-csvimport-confluence-server.png" style="max-width:100%;height:auto;" alt="Import a CSV file from a URL and embed it as a draw.io diagram in Confluence">
 
 The _Embed draw.io diagram_ macro will show a preview of the embedded diagram while you are still editing the Confluence page. You can now change the macro settings to display the diagram at a different size.
 
