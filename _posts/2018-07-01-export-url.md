@@ -20,7 +20,7 @@ _[Open this example in the diagrams.net viewer using the exported URL](https://a
 
 1. To export your diagram as a URL, click _File > Export as > URL_.
 2. Choose what you want to include in the diagram that you share, then click _Create_.
-3. Copy the URL to share it by email or chat, or click on the Facebook or Twitter button to add the link to a new post in a new browser tab. Click on _Preview_ to open the link in a new tab. Click _Close_ when you have shared the link to your diagram.
+3. _Copy_ the URL to share it by email or chat, or click on the Facebook button to add the link to a new post in a new browser tab. Click on _Preview_ to open the link in a new tab. Click _Close_ when you have shared the link to your diagram.
 
 <img src="/assets/img/blog/exported-url.png" style="width=100%;max-width:400px;height:auto;" alt="The address created when you export your diagram as a URL is very long">
 
