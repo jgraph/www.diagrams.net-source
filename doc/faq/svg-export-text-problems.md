@@ -7,7 +7,7 @@ categories: [Export]
 
 When you look at a diagram exported to an SVG image in IE or some SVG editors, the text may not display correctly.
 
-diagrams.net uses something called foreign objects in SVG to allow complex, HTML labels on shapes.
+diagrams.net uses foreign objects (``foreignObject``) in SVG to allow complex, HTML labels on shapes.
 
 All modern browsers including Chrome, Firefox, Safari and Microsoft Edge support this functionality. Internet Explorer 11 and earlier versions of IE do not.
 
