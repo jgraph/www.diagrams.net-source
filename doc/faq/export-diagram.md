@@ -102,10 +102,10 @@ When exporting your diagram to a URL, the diagram data is encoded in the link an
 
 ## Export using the advanced options
 
-1. Select _File > Export as > Advanced_ to see some additional export options that can be applied to PDF and image files.
+1. Select _File > Export as > Advanced_ to see some additional export options that can be applied to PDF and image files. Depending on the _Format_ you choose, some options may be disabled.
    * Enter a _Filename_ and select the export _Format_ from the drop down list.
    * Change the _Zoom_ percentage, set a _Width_ and _Height_ for the resulting image/PDF file. 
    * Change the _DPI_ setting to output a higher quality image. 
    * Set a _Transparent_ background and change the _Border Width_.
-<img src="/assets/img/blog/export-settings-pdf.png" style="width=100%;max-width:200px;height:auto;" alt="Change the export settings to scale and add a border around a diagram when exporting to PDF">
+<br /><img src="/assets/img/blog/export-settings-pdf.png" style="width=100%;max-width:200px;height:auto;" alt="Change the advanced export settings when exporting PDF and image files">
 2. Click _Export_ to create a file of the format you chose, then select a location to save the file.
