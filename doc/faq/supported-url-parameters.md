@@ -52,7 +52,7 @@ The following URL parameters are supported in diagrams.net in the precedence ord
 * ``math-output=html``: Sets the math typesetting output to ``HTML-CSS``.
 * ``nowarn=1``: Suppresses the warning before an unload for local files.
 * ``svg-warning=0``: Suppresses the warning for old viewers in SVG export.
-
+* ``search-shapes=value``: Starts with given value in the search shapes box.
 ## Modes
 * ``local=1``: Uses device mode only.
 * ``sync=[none|manual|auto]``: Enables/disables collaborative editing (default is ``auto``).
