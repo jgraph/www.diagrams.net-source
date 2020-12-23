@@ -85,7 +85,7 @@ Diagrams exported to HTML files/code are rendered in the diagrams.net viewer by 
 1. Select _File > Export as > XML_.
 2. Change the [XML export settings](/doc/faq/export-to-xml.html) to suit your requirements, then click _Export_.
 <br /><img src="/assets/img/blog/export-xml-options.png" style="width=100%;max-width:200px;height:auto;" alt="Choose the export settings when exporting a diagram as an XML file">
-2. Enter a _Filename_, then click on one of the save locations, or click _Download_ to save the XML file to your device. 
+3. Enter a _Filename_, then click on one of the save locations, or click _Download_ to save the XML file to your device. 
 <br /><img src="/assets/img/blog/save-as-xml.png" style="width=100%;max-width:200px;height:auto;" alt="Choose where to save your exported XML file">
 
 Depending on your browser, you may be prompted to open it with a default program, or simply save the file.
