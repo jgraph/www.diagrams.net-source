@@ -161,7 +161,7 @@ Once you have finished adding all the shapes, connectors and labels, you can sty
    <br /><img src="/assets/img/blog/basic-flow-style-palette.png" style="width=100%;max-width:200px;height:auto;" alt="Set a new shape or connector style easily with the style palette in diagrams.net">
    * To set your own colour, click on the colour button next to _Fill_ or _Line_, select a a new colour or enter a hex colour code.
    <br /><img src="/assets/img/blog/colour-picker.png" style="width=100%;max-width:200px;height:auto;" alt="Choose a colour from the default or larger colour palette, or enter your own hex colour code">
-   * Style a selected connector to have [arrows on both ends](/doc/faq/connector-bidirectional.html) or [no arrows](/doc/faq/connector-no-arrows.html)
+   * Style a selected connector to have [arrows on both ends](/doc/faq/connector-bidirectional.html) or [no arrows](/doc/faq/connector-no-arrows.html).
    <br /><img src="/assets/img/blog/basic-flow-connector-arrows.png" style="width=100%;max-width:200px;height:auto;" alt="Select an arrow or another connector end style at both the target and source shape in diagrams.net">
 3. Change the text style of labels on the _Text_ tab.
    * Select a different _Font_ from the list.
