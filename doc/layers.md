@@ -138,6 +138,8 @@ In the _Layers_ dialog, a check mark next to the layer's name indicates it is vi
 
 <img src="/assets/img/blog/layers-viewer-display-hide.png" style="max-width:100%;height:auto;" alt="Click on the checkboxes next to layer names in the Layers dialog to hide or display them">
 
+**Tip:** [Use custom links to make your diagram interactive](/blog/interactive-diagram-layers.html) and toggle layers on and off when you click on a shape within the diagram. 
+
 [_Back to top_](#using-layers-in-diagrams)
 
 ## Lock layers to prevent changes
