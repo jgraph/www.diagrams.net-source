@@ -134,7 +134,7 @@ You can [add and remove waypoints](/blog/waypoints-connectors.html) to make conn
 
 Short labels on shapes make it easier to understand a diagram quickly.
 
-1. Double click on a shape. A temporary label will be added, and is selected - simply start typing to replace the label with your own text. Alternatively, single click on a shape and start typing to add or edit the label.
+1. Double click on a shape. Start typing to replace the label with your own text. Alternatively, single click on a shape and start typing to add or edit the label.
 2. Press ``Enter`` to save the label text.
 
 **Tip:** Press ``Shift+Enter`` to [add a line break in a label](/doc/faq/line-breaks.html).
