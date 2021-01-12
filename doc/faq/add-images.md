@@ -35,10 +35,9 @@ Large images slow down the browser and editor, especially when autosaving your d
 
 1. When you first drag an image into the diagram editor, select whether you want to resample/resize an image so that it is not so large, or keep the image quality and size the same as the original file.
 2. Click on the _Remember this setting_ checkbox so you are not prompted every time you add an image to your diagram.
+<br /><img src="/assets/img/blog/image-insert-resize-setting.png" style="width=100%;max-width:300px;height:auto;" alt="Choose whether you want to keep your image quality and size the same as the original file, or resize/resample it to reduce the resources necessary to edit and store your diagram">
 
-<img src="/assets/img/blog/image-insert-resize-setting.png" style="width=100%;max-width:300px;height:auto;" alt="Choose whether you want to keep your image quality and size the same as the original file, or resize/resample it to reduce the resources necessary to edit and store your diagram">
-
-This setting is remembered. To change this setting again, hold down ``Ctrl`` on Windows or ``Cmd`` on macOS when you drop the image file into the diagram editor.
+To change this setting again, you will need to delete two entries from your browser's internal storage.
 
 ### Reset the image quality and size setting
 
@@ -46,9 +45,9 @@ As your browser remembers this setting in its internal storage, you will need to
 
 If you are using Firefox, follow the steps below. These steps are similar in other browsers.
 1. Press ``Ctrl+Alt+I`` on Windows or ``Cmd+Option+I`` on macOS to open the browser debugger console. 
-2. On the _Storage_ tab, right-click on the _database(default) entry under https://app.diagrams.net in the _Indexed DB_ section and select _Delete "database (default)_. 
+2. On the _Storage_ tab, right-click on the _database (default)_ entry under _https://app.diagrams.net_ in the _Indexed DB_ section and select _Delete "database (default)_. 
 <br /><img src="/assets/img/blog/firefox-reset-image-quality-settings-indexeddb.png" style="width=100%;max-width:400px;height:auto;" alt="Delete the database entry for app.diagrams.net in your browser's debugger console">
-3. Right-click on the https://app.diagrams.net entry under the _Local Storage_ section and select _Delete All_.
+3. Right-click on the _https://app.diagrams.net_ entry under the _Local Storage_ section and select _Delete All_.
 <br /><img src="/assets/img/blog/firefox-reset-image-quality-settings-localstorage.png" style="width=100%;max-width:400px;height:auto;" alt="Delete the app.diagrams.net local storage entry via your browser's debugger console">
 
 When you next add an image to your diagram, you will be prompted to choose the image quality and size behaviour.
