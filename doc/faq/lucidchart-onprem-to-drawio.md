@@ -5,11 +5,13 @@ faq: true
 categories: [Import, Lucidchart, Confluence Data Center and Server]
 ---
 
-As Lucidchart OnPrem is being sunsetted, you will need to migrate your Lucidchart diagrams to another diagramming app in Confluence Server.
-
 If you want to import a single Lucidchart diagram into draw.io, you can do this via copy and paste. But that's not efficient if your instance contains many Lucidchart diagrams.
 
 draw.io has a mass import function that converts all of your Lucidchart OnPrem diagrams into the .drawio file format.
+
+__Note:__ the Lucidchart to draw.io import is not 100% fidelity. These are different software products with different data models, so it never can be 100%. We have invested a lot of time to getting the import as close as possible.
+
+You are welcome to report issues, still. Please understand that we’re at boundary cases now and generally we will be unable to improve the import much further. Keep this in mind when deciding whether or not to migrate to draw.io.
 
 ## Convert all of your Lucidchart OnPrem diagrams to .drawio diagrams
 
