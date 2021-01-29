@@ -31,8 +31,22 @@ For example, you can redefine a cloud shape to have just two connection points (
 <br /><img src="/assets/img/blog/edit-style-override-connection-points.png" style="width=100%;max-width:400px;height:auto;" alt="Define your own custom connection points by adding locations in the points[] array in the shape's style">
 3. Click _Apply_. 
 <br />In the example below, the [_snap to point_ shape property](/doc/faq/snap-to-point.html) has been enabled to show how the connector moves to another custom connection point as you move the shape around.
-<br /><img src="/assets/img/blog/connection-points-custom-fixed.gif" style="width=100%;max-width:400px;height:auto;" alt="When you ">
+<br /><img src="/assets/img/blog/connection-points-custom-fixed.gif" style="width=100%;max-width:400px;height:auto;" alt="When you move a shape that has the snap to point shape property enabled, the connector will jump between the defined connection points">
+
+### Clear custom connection points
+
+If you no longer want a shape to have custom connection points, you can delete the ``points[]`` array from the shape style to [reset the connection points of a shape](/doc/faq/reset-connection-points.html) back to their defaults.
+
+### Connect to anywhere on a shape
+
+You can also connect to anywhere on a shape by holding down ``Alt`` as you drag the connector into position. 
+
+The connector will then ignore all of the defined connection points, even when the _snap to point_ shape property is set, and remain attached to the position where you attached the connector. 
+
+<img src="/assets/img/blog/connect-to-shapes-anywhere.gif" style="width=100%;max-width:400px;height:auto;" alt="Hold down Alt key as you connect to a shape to connect to any position on that shape">
+
+### Build your own custom shapes
 
 You can [create your own custom shapes](/doc/faq/custom-shapes.html) in addition to simply modifying an existing shape's connection points by specifying the custom shape's foreground and background geometry, connection points, shape styles and label text.
 
-**Note:** An optional third coordinate in the ``points[]`` coordinate list may function as a toggle (outline/perimeter), or an offset to move the connection point around inside the shape or between its outline and its perimeter, but this works only on some shapes. This third coordinate is therefore only used for development purposes. 
+**Note:** An optional third coordinate in the ``points[]`` array may function as a toggle (outline/perimeter), or an offset to move the connection point around inside the shape or between its outline and its perimeter, but this works only on some shapes. This third coordinate is therefore only used for development purposes. 
