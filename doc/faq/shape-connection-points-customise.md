@@ -37,13 +37,13 @@ For example, you can redefine a cloud shape to have just two connection points (
 
 If you no longer want a shape to have custom connection points, you can delete the ``points[]`` array from the shape style to [reset the connection points of a shape](/doc/faq/reset-connection-points.html) back to their defaults.
 
-### Connect to anywhere on a shape
+### Ignore custom connection points
 
-You can also connect to anywhere on a shape by holding down ``Alt`` as you drag the connector into position. 
+You can [force a floating or fixed connection at any location](/doc/faq/connect-to-shapes-anywhere.html) by using a keyboard shortcut, even if the shape has custom connection points or the _snap to point_ shape property enabled.
 
-The connector will then ignore all of the defined connection points, even when the _snap to point_ shape property is set, and remain attached to the position where you attached the connector. 
-
-<img src="/assets/img/blog/connect-to-shapes-anywhere.gif" style="width=100%;max-width:400px;height:auto;" alt="Hold down Alt key as you connect to a shape to connect to any position on that shape">
+* Hold down ``Shift`` as you drop the connector on a shape to connect it to the shape's outline.
+* Hold down ``Alt`` as you drop the connector on a shape to add a fixed connection inside the shape. 
+<br /><img src="/assets/img/blog/connect-to-shapes-anywhere.gif" style="width=100%;max-width:400px;height:auto;" alt="Hold down Alt key as you connect to a shape to connect to any position on that shape">
 
 ### Build your own custom shapes
 
