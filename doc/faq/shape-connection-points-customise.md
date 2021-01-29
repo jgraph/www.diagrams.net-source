@@ -26,7 +26,7 @@ For example, you can redefine a cloud shape to have just two connection points (
 
 <img src="/assets/img/blog/override-connection-points.png" style="width=100%;max-width:400px;height:auto;" alt="Define your own connection points by adding the points[] array to a shape's style">
 
-1. Select the shape, then click _Edit Style_ in the _Style_ tab of the format panel.
+1. Select the shape, then click _Edit Style_ in the _Style_ tab of the format panel. Alternatively, press ``Ctrl+E`` (on Windows) or ``Cmd+E`` on macOS.
 2. Enter the new connection points in the form of an array of x,y coordinates to the shape style definition. For example, to add only two points, one to the left and one to the right: ``points=[[0,0.5],[1,0.5]];``
 <br /><img src="/assets/img/blog/edit-style-override-connection-points.png" style="width=100%;max-width:400px;height:auto;" alt="Define your own custom connection points by adding locations in the points[] array in the shape's style">
 3. Click _Apply_. 
