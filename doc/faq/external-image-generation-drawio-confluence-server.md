@@ -40,8 +40,10 @@ Enable external image generation by enabling a setting in the Confluence adminis
 3. Enable the _Use external image service_ checkbox.
 <br /><img src="/assets/img/blog/enable-external-image-service.png" style="max-width:100%;height:auto;" alt="Enable the external image service in draw.io in Confluence Server and Data Center">
 
-## Privacy: image generation server
+## Privacy: image generation servers
 
-The external image servers are entirely controlled by JGraph and located in secure US data centres. When generating images the image data is sent securely to the server, the image generated and returned, and the data deleted entirely from the server (including any diagram data in logs).
+The external image servers are entirely controlled by JGraph and located in secure US and EU data centres. When generating images the image data is sent securely to the server end point, the image generated and returned, and the data deleted entirely from the server (including any diagram data in logs).
 
 No diagram data is retained or transmitted from the servers. Nobody except for 2 senior JGraph engineers, with specific security training, have access to the servers and they are not permitted to move any user data off of those servers.
+
+You can [set a specific server endpoint region in the editor configuration](/blog/data-governance-lockdown.html).
