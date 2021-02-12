@@ -20,7 +20,7 @@ Data is encrypted during all network transmission up to the endpoint processing.
 
 diagrams.net is delivered via Cloudflare edge data centers and data transmitted outbound is directed via those same Cloudflare centers. The server endpoints are all located within AWS data centers. The features requiring server-side functionality are:
 
-- Translation of vsd/vss/vdx files to vsdx. draw.io understands vsdx natively in JavaScript on the client.
+- Translation of vsd/vss/vdx files to vsdx. diagrams.net understands vsdx natively in JavaScript on the client.
 - Import of Gliffy files.
 - Migration of EMF images embedded in vsd/vsdx files. EMF licensing means only the Windows operating system be manipulate these.
 - Generation of PlantUML diagrams. PlantUML is written in Java.
