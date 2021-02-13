@@ -152,6 +152,8 @@ This configuration produces the following _More Shapes_ dialog when combined wit
 
 * ``thumbWidth/thumbHeight``: Defines the width and height for the entries in the left panel (6.5.4 and later).
 
+* ``gridSteps``: Defines the number of minor grid steps (14.3.2 and later).
+
 * ``emptyDiagramXml/emptyLibraryXml``: Defines the XML for blank diagrams and libraries (6.5.4 and later).
 
 * ``defaultEdgeLength``: Defines the default length for new connectors (7.2.4 and later).
@@ -169,7 +171,6 @@ This configuration produces the following _More Shapes_ dialog when combined wit
 * ``dataGovernance``: Set the [server endpoint region](/blog/data-governance-lockdown.html). The default is to use your closest region, (either ``EU `` or ``US``).
 
 * ``lockdown``: [Disable data transmission](/blog/data-governance-lockdown.html), apart from directly between your browser and your selected data storage location. Default is ``false``.
-
 ## Additional options for Confluence Server and Data Center
 
 * ``inplaceedits``: Disables the ability to launch the diagram editor from the viewer if set to ``false``. The default is ``true`` (8.3.13 and later).
