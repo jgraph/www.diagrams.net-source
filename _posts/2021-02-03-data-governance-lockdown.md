@@ -22,7 +22,7 @@ diagrams.net is delivered via Cloudflare edge data centers and data transmitted 
 
 - Translation of vsd/vss/vdx files to vsdx. diagrams.net understands vsdx natively in JavaScript on the client.
 - Import of Gliffy files.
-- Migration of EMF images embedded in vsd/vsdx files. EMF licensing means only the Windows operating system be manipulate these.
+- Migration of EMF images embedded in vsd/vsdx files. EMF licensing means only the Windows operating system may manipulate these.
 - Generation of PlantUML diagrams. PlantUML is written in Java.
 - Generation of PDFs of diagrams.
 - Collaborative editing by sending only deltas of changes to other editors.
@@ -45,7 +45,7 @@ Additionally, you can use the ``lockdown`` toggle in the editor configuration to
 1. Select _Extras > Configuration_ to customise diagrams.net.
 <br /><img src="/assets/img/blog/extras-configuration-menu.png" style="width=100%;max-width:300px;height:auto;" alt="Access the diagrams.net configuration via Extras > Configuration">
 2. Add the following [JSON (JavaScript Object Notation)](http://www.json.org/) string: ``"dataGovernance": "EU"`` or ``"dataGovernance": "US"``.
-3. To restrict data transmission to between your browser and your storage location, add the following JSON strong: ``"lockdown": true"``. Note the dataGovernance value is ignored with lockdown set true.
+3. To restrict data transmission to between your browser and your storage location, add the following JSON string: ``"lockdown": true"``. Note the dataGovernance value is ignored with lockdown set to true.
 <br /><img src="/assets/img/blog/edit-configuration-data-governance-lockdown.png" style="width=100%;max-width:300px;height:auto;" alt="Set which diagrams.net server region to use and restrict data transmission to between browser and storage location only in the editor configuration JSON code">
 4. Click _Apply_ to save your changes, and then reload the diagrams.net editor (refresh the browser page).
 
