@@ -36,4 +36,6 @@ Your diagrams are displayed as images inside your Google Document. When you edit
 
 If you want to update all of the diagrams, click _Add-ons > diagrams.net Diagrams for Docs > Update All_.
 
-[Learn more about formatting diagrams within a Google document](/blog/diagrams-google-docs)
+[Learn more about formatting diagrams within a Google document](/blog/diagrams-google-docs.html)
+
+You can also [use diagrams.net to work with diagrams in Google Classroom](/blog/google-classroom-diagrams.html) when you install the free diagrams.net add-on for Google Drive/Workspace. 

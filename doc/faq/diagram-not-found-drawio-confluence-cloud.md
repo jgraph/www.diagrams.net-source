@@ -23,4 +23,5 @@ Check that the page has been published, and is not currently a draft.
 
 ## Related resources
 
-[See how to recover a diagram that was moved to another page in Confluence Cloud](/doc/faq/recover-moved-diagram-confluence-cloud.html)
+* [Recover a diagram that was moved to another page in Confluence Cloud](/doc/faq/recover-moved-diagram-confluence-cloud.html)
+* [Recover a diagram from the ``.tmp`` file attached to a page](/doc/faq/confluence-cloud-recover-diagram-draft-page.html) if your browser or your Confluence Cloud instance had a problem that prevented your diagram/page from being published.

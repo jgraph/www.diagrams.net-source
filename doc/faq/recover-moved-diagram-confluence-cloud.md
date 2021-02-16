@@ -48,3 +48,5 @@ ac:name="height">911</ac:parameter></ac:structured-macro></p>
    * Save the diagram, and save the Confluence page.
 
 Repeat these steps for each draw.io diagram macro on the page that is broken.
+
+**Tip:** You can also [recover a diagram from the ``.tmp`` file attached to a page](/doc/faq/confluence-cloud-recover-diagram-draft-page.html) if your browser or your Confluence Cloud instance had a problem that prevented your diagram/page from being published.
