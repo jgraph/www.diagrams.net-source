@@ -12,7 +12,7 @@ With most teachers and students now working virtually, as schools have been requ
 
 Completing visual learning tasks is an important part of most subjects. Students will both have fun and extend their digital toolbox when creating visualisations in a rich diagramming app like diagrams.net.
 
-With the diagrams.net add-on for Google Workplace (Google Drive), teachers and students can easily attach diagram files to announcements, assessment descriptions, and assignment submissions in Google Classroom. From there, it's only click or two to see a diagram preview, and open it in the free diagrams.net editor.
+With the diagrams.net add-on for Google Workplace (Google Drive), teachers and students can easily attach diagram files to announcements, assessment descriptions, and assignment submissions in Google Classroom. From there, it's only a click or two to see a diagram preview, and open it in the free diagrams.net editor.
 
 **Install the diagrams.net Add-on for Google Drive** 
 
