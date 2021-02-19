@@ -1,5 +1,5 @@
 ---
-title: Configure server settings in draw.io for Confluence Server
+title: Configure server settings in draw.io for Confluence Server and Data Center
 layout: page
 faq: true
 categories: [Confluence Data Center and Server, Customisation]

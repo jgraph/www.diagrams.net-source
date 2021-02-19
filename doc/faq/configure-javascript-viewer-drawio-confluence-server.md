@@ -5,7 +5,7 @@ faq: true
 categories: [Confluence Data Center and Server]
 ---
 
-When you export a diagram to HTML in draw.io for Confluence server, it uses JavaScript hosted on the diagrams.net servers to display the draw.io diagram(s).
+When you export a diagram to HTML in draw.io for Confluence Server/Data Center, it uses JavaScript hosted on the diagrams.net servers to display the draw.io diagram(s).
 
 Instead of using this script over the internet, you can download the JavaScript file from the GitHub repository and host it yourself.
 
