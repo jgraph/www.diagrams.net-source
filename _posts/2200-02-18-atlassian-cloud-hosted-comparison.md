@@ -54,7 +54,11 @@ draw.io for Confluence Cloud has a few additional features based on Atlassian's 
 
 **Update draw.io automatically** - no need to do anything. Like all Marketplace apps in Confluence Cloud, your draw.io app will automatically apply updates as they are released.
 
-**Change the size of a diagram on a page:** As Atlassian hasn't implemented a similar macro-resize function, you can only [resize the draw.io diagram on a Confluence Cloud page](/doc/faq/resize-viewer-confluence-cloud.html) by changing your diagran's zoom percentage.
+**Change the size of a diagram on a page** by changing it's zoom percentage. As Atlassian hasn't implemented a similar macro-resize function, you can only [resize the draw.io diagram on a Confluence Cloud page](/doc/faq/resize-viewer-confluence-cloud.html).
+
+**Enter mathematical equations in LaTeX or AsciiMath** and draw.io for Cloud will use MathJax to render your equation when you enable _Extras > Mathematical Typesetting_ in the draw.io editor. 
+
+**[Insert PlantUML and Graphiz DOT code](https://drawio-app.com/use-plantuml-in-draw-io/)** to add an image of your diagram via _Arrange > Insert > Advanced > PlantUML_.
 
 ## draw.io for Data Center / Server
 
@@ -66,7 +70,6 @@ Allow access to the diagrams.net server functionaltiy and [enable the settings b
 
 * [Open and convert ``vsd``, ``vss``, ``vdx`` and ``vsdx`` files](/doc/faq/open-vsd-files-confluence-server.html) _(enable the ``vsdurl`` option)_.
 * Import ``vsd`` and ``vsdx`` diagrams that have EMF images embedded in them _(enable the  ``emf2png`` option)_.
-* [Use PlantUML diagrams in draw.io](https://drawio-app.com/use-plantuml-in-draw-io/) _(enable the ``plantuml`` option)_.
 * Generate PDF versions of diagrams with the correct fonts.
 * Search for third-party shapes _(enable the ``externaliconsearch`` option)_.
 

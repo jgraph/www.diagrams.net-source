@@ -68,7 +68,7 @@ For detailed steps and examples, see the linked documentation for each feature y
 
 [**Customise the font list:**](/doc/faq/custom-fonts-confluence-cloud.html) The font list appears on the _Text_ tab in the format panel. Set which fonts appear in the draw.io font list by default, add fonts that are hosted on the web (e.g. Google), or add your own custom font file if you need to.
 
-[**Make the draw.io editor UI match your Confluence colours:**](/doc/faq/custom-UI-confluence-cloud.html) If your users are disoriented by opening the draw.io editor when it is a different colour to your Confluence Cloud theme, you can set a new draw.io UI colour for the menu bar.
+[**Make the draw.io editor UI match your Confluence colours:**](/doc/faq/custom-ui-confluence-cloud.html) If your users are disoriented by opening the draw.io editor when it is a different colour to your Confluence Cloud theme, you can set a new draw.io UI colour for the menu bar.
 
 [**Load plugins by default:**](/doc/faq/custom-plugins-confluence-cloud.html) If your employees regularly use one of the draw.io plugins, for example the anonymize plugin, you can add these plugins to the draw.io JSON configuration and load them by default.
 <br />**Note:** that these plugins are provided as-is, as unsupported examples for developers.
@@ -108,7 +108,7 @@ For example, add your own floorplan template for regularly changing seating arra
 
 ## Administration and licensing
 
-* [See the number of draw.io diagrams in a Confluence instance](doc/faq/number-of-diagams-in-confluence-instance.html)
+* [See the number of draw.io diagrams in a Confluence instance](/doc/faq/number-of-diagams-in-confluence-instance.html)
 * [License draw.io for Confluence Cloud correctly](/doc/faq/license-drawio-confluence-jira-cloud.html)
 * [Get a community draw.io license for Confluence or Jira Cloud](/doc/faq/drawio-community-license-cloud.html)
 * [Generate a quote for draw.io for Confluence Cloud (annual billing)](/doc/faq/generate-quote-drawio-confluence-cloud.html)
