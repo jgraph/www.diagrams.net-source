@@ -10,7 +10,8 @@ categories: [features,atlassian]
 
 There are very few differences between the Cloud and Data Center/Server versions of draw.io for Atlassian's Confluence. If you know how to create diagrams in draw.io on one, you know how to use it on the other!
 
-In both Confluence Cloud and Confluence Data Center/Server, your data is secure and private. When you create and edit a diagram, the data stays in your browser and is stored in your Confluence instance. 
+In both Confluence Cloud and Confluence Data Center/Server, the security and privacy of your data is critical. When you create and edit a diagram, the data stays in your browser and is stored in your Confluence instance. 
+Save/load operations are direct to Confluence's server, we don't even see the data in transit.
 
 The diagram editor interface is the same in both Cloud and Data Center/Server. 
 
