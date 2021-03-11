@@ -14,15 +14,13 @@ Some extended editor features, such as PDF generation, are only available from t
 
 Data is encrypted during all network transmission up to the endpoint processing.
 
-
 **Data governance regions for server endpoints**
-
 
 diagrams.net is delivered via Cloudflare edge data centers and data transmitted outbound is directed via those same Cloudflare centers. The server endpoints are all located within AWS data centers. The features requiring server-side functionality are:
 
-- Translation of vsd/vss/vdx files to vsdx. diagrams.net understands vsdx natively in JavaScript on the client.
+- Translation of ``vsd``, ``vss``, and ``vdx`` files to ``vsdx``. diagrams.net understands ``vsdx`` natively in JavaScript on the client.
 - Import of Gliffy files.
-- Migration of EMF images embedded in vsd/vsdx files. EMF licensing means only the Windows operating system may manipulate these.
+- Migration of EMF images embedded in ``vsd``/``vsdx`` files. EMF licensing means only the Windows operating system may manipulate these.
 - Generation of PlantUML diagrams. PlantUML is written in Java.
 - Generation of PDFs of diagrams.
 - Collaborative editing by sending only deltas of changes to other editors.
@@ -53,11 +51,11 @@ Additionally, you can use the ``lockdown`` toggle in the editor configuration to
 ## Data residency in Atlassian Cloud
 
 
-The architectures for draw.io for Confluence and Jira Cloud are indentical to those used with diagrams.net. However, you can set the data governance rules centrally for all users on your Confluence instance if you have the [Enterprise Upgrade](https://marketplace.atlassian.com/apps/1223960/draw-io-enterprise-upgrade) licensed. Non-enterprise users can still test data governance, you get a 12 month trial of the functionality from the point you first activate it.
+The architectures for draw.io for Confluence and Jira Cloud are indentical to those used with diagrams.net. However, you can set the data governance rules centrally for all users on your Confluence instance.
 
- If you are using the draw.io apps for Confluence or Jira Cloud, [Atlassian lets you additionally set your **data residency** region](https://confluence.atlassian.com/cloud/manage-data-residency-976763149.html) to choose where your data or _in-scope product content_ resides. That means the content of your instance and associated metadata will be stored on servers in that region when it is at rest.
+If you are using the draw.io apps for Confluence or Jira Cloud, [Atlassian lets you additionally set your **data residency** region](https://confluence.atlassian.com/cloud/manage-data-residency-976763149.html) to choose where your data or _in-scope product content_ resides. That means the content of your instance and associated metadata will be stored on servers in that region when it is at rest.
 
- Atlassian plan to open data residency in Austraila, we will match all data center options that they provide. You can vote for our existing server endpoint deployments, or submit your own endpoint location request at the issue tracker:
+Atlassian plan to open data residency in Austraila, we will match all data center options that they provide. You can vote for our existing server endpoint deployments, or submit your own endpoint location request at the issue tracker:
 
 - [Endpoint for Brazil](https://github.com/jgraph/drawio/issues/1815)
 - [Endpoint for India](https://github.com/jgraph/drawio/issues/1816)
