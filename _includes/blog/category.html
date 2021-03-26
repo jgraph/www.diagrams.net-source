@@ -1,0 +1,123 @@
+  <!-- ========== MAIN ========== -->
+
+  <main id="content" role="main">
+    <!-- Hero Section -->
+    <div class="container space-2 space-top-lg-3">
+      <!-- Breadcrumbs Section -->
+            <nav aria-label="breadcrumb">
+              <ol class="breadcrumb breadcrumb-no-gutter font-size-1">
+                <li class="breadcrumb-item"><a href="{{ site.url }}{{ site.baseurl }}">Home</a></li>
+                 {% assign crumbs = page.url | split: '/' %}
+                   {% for crumb in crumbs offset: 1 %}
+                    {% if forloop.last %}
+
+                    {% else %}
+                        <li class="breadcrumb-item"><a href="{{ site.url }}{{ site.baseurl }}{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '' }}{% endfor %}">{{ crumb | replace:'-',' ' }}</a></li>
+                    {% endif %}
+                  {% endfor %}
+              </ol>
+            </nav>
+        <!-- End Breadcrumbs Section -->
+
+        <div class="container">
+          <div class="w-md-80 w-lg-90 space-2 text-center mx-md-auto">
+            <div class="mb-2">
+              <p class="h2 font-weight-medium">{{ page.title }}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- End Hero Section -->
+
+    <!-- Blog Listing Section -->
+    <div class="container space-bottom-lg-3">
+      <div class="row">
+        <div class="col-md-7 col-lg-8 mb-7 mb-md-0">
+
+               {{ content }}
+
+          <!-- Sticky Block End Point -->
+          <div id="stickyBlockEndPoint"></div>
+
+          <div class="space-bottom-2"></div>
+        </div>
+
+        <div id="stickyBlockStartPoint" class="col-md-5 col-lg-4">
+          <div class="js-sticky-block pl-lg-4"
+               data-parent="#stickyBlockStartPoint"
+               data-sticky-view="md"
+               data-start-point="#stickyBlockStartPoint"
+               data-end-point="#stickyBlockEndPoint"
+               data-offset-top="16"
+               data-offset-bottom="16">
+            <h3 class="h6 font-weight-semi-bold mb-4">Categories</h3>
+
+            <!-- List Group -->
+            <ul class="list-group list-group-flush list-group-borderless mb-5">
+              {% for category in site.categories %}
+              <li>
+                <a class="list-group-item list-group-item-action d-flex align-items-center" href="{{ site.url }}{{ site.baseurl }}blog/{{ category | first }}.html">
+                  {{ category | first | capitalize | replace:'-',' ' }}{% unless forloop.last %}{% endunless %}
+                  <small class="fas fa-angle-right ml-auto"></small>
+                </a>
+              </li>
+              {% endfor %}
+            </ul>
+            <!-- End List Group -->
+
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End Blog Listing Section -->
+  </main>
+  <!-- ========== END MAIN ========== -->
+
+  <!-- JS Global Compulsory -->
+  <script src="../assets/js/jquery.min.js"></script>
+  <script src="../assets/js/jquery-migrate.min.js"></script>
+  <script src="../assets/js/popper.min.js"></script>
+  <script src="../assets/js/bootstrap.min.js"></script>
+
+  <!-- JS Implementing Plugins -->
+  <script src="../assets/js/hs.megamenu.js"></script>
+
+  <!-- JS Front -->
+  <script src="../assets/js/hs.core.js"></script>
+  <script src="../assets/js/hs.header.js"></script>
+  <script src="../assets/js/hs.unfold.js"></script>
+  <script src="../assets/js/hs.focus-state.js"></script>
+  <script src="../assets/js/hs.show-animation.js"></script>
+
+  <!-- JS Plugins Init. -->
+  <script>
+    $(window).on('load', function () {
+      // initialization of HSMegaMenu component
+      $('.js-mega-menu').HSMegaMenu({
+        event: 'hover',
+        pageContainer: $('.container'),
+        breakpoint: 767.98,
+        hideTimeOut: 0
+      });
+    });
+
+    $(document).on('ready', function () {
+      // initialization of header
+      $.HSCore.components.HSHeader.init($('#header'));
+
+      // initialization of unfold component
+      $.HSCore.components.HSUnfold.init($('[data-unfold-target]'), {
+        afterOpen: function () {
+          $(this).find('input[type="search"]').focus();
+        }
+      });
+
+      // initialization of show animations
+      $.HSCore.components.HSShowAnimation.init('.js-animation-link');
+
+      // initialization of forms
+      $.HSCore.components.HSFocusState.init();
+    });
+  </script>
+</body>

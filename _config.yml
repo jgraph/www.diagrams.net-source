@@ -1,0 +1,11 @@
+name: diagrams.net site
+permalink: /blog/:slug
+
+url: ''
+baseurl: '/'
+
+
+collections:
+  - faq
+
+faq-categories: [Confluence Cloud, Confluence Data Center and Server, Jira Cloud, Jira Data Center and Server, Desktop, Trust, Features, Customisation, Shapes, Connectors, Text, Plugins, Integrations, Export, Import, Google, Troubleshooting, Gliffy, Lucidchart]
