@@ -5,7 +5,7 @@ faq: true
 categories: [Confluence Data Center and Server, Customisation]
 ---
 
-These aspects of diagrams.net are configurable in draw.io for Confluence Server/Cloud, Quip, embed mode, online and Desktop:
+These aspects of diagrams.net are configurable in draw.io for Confluence Server/Data Center/Cloud, Jira Server, Quip, embed mode, online and Desktop:
 
 * Fonts and web fonts
 * Colour palettes and themes
@@ -35,6 +35,10 @@ In the following video, you'll see what can be customised in diagrams.net and dr
 **Confluence Cloud:** As an administrator, go to the _draw.io Configuration_ section in your instance's _Settings_.
 
 <img src="/assets/img/blog/drawio-configuration-confluence-cloud.png" style="max-width:100%;height:auto;" alt="draw.io Configuration in Confluence Cloud">
+
+**Jira Server:** Click on the _Settings_ icon as an administrator.  Select _Manage apps_ (or _Manage add-ons_ in older Jira versions). Open the _draw.io add-on_ configuration in the left navigation, and click on the _Configuration_ tab.
+
+<img src="/assets/img/blog/jira-server-drawio-configuration.png" style="max-width:100%;height:auto;" alt="draw.io Configuration in Jira Server">
 
 **Quip:** As a site administrator, create a new diagram, then select _Diagrams > Preferences > Advanced_.
 
@@ -71,6 +75,42 @@ The configuration is represented as a [JSON (JavaScript Object Notation) string]
 
 * ``defaultVertexStyle`` or ``defaultEdgeStyle``: Defines the initial default styles for vertices and edges (connectors). Note that the styles defined here are copied to the styles of new cells, for each cell. This means that these values override everything else that is inherited from other styles or themes (which may be supported at a later time). Therefore, it is recommended to use a minimal set of values for the default styles. To find the key/value pairs to be used, set the style in the application and find the key and value via _Edit Style_ (``Ctrl+E``) (6.5.2 and later).
 <br />For example, to assign a default ``fontFamily`` of ``Courier New`` to all edges and vertices (and override all other default styles), use ``{"defaultVertexStyle": {"fontFamily": "Courier New"}, "defaultEdgeStyle": {"fontFamily": "Courier New"}}``.
+
+* ``styles``: Defines an array of objects that contain the colours (``fontColor``, ``fillColor``, ``strokeColor`` and ``gradientColor``) for the _Style_ tab of the format panel if the selection is empty. These objects can have a ``commonStyle`` (which is applied to both vertices and edges), ``vertexStyle`` (applied to ``vertices``) and ``edgeStyle`` (applied to ``edges``), and a ``graph`` with ``background`` and ``gridColor``. An empty object will apply the default colors. 
+<br />For example:  
+```
+[ {},
+  {
+    "commonStyle": {
+      "fontColor": "#5C5C5C",
+      "strokeColor": "#006658",
+      "fillColor": "#21C0A5"
+    }
+  },
+  {
+    "commonStyle": {
+      "fontColor": "#095C86",
+      "strokeColor": "#AF45ED",
+      "fillColor": "#F694C1"
+    },
+    "edgeStyle": {
+      "strokeColor": "#60E696"
+    }
+  },
+  {
+    "commonStyle": {
+      "fontColor": "#E4FDE1",
+      "strokeColor": "#028090",
+      "fillColor": "#F45B69"
+    },
+    "graph": {
+      "background": "#114B5F",
+      "gridColor": "#0B3240"
+    }
+  }
+]
+```
+
 
 * ``defaultLibraries``: Defines a semicolon-separated list of library keys (unique names) in a string to be initially displayed in the left panel (e.g. ``"general;uml;company-graphics"``). Possible keys include custom entry IDs from the libraries field, or [keys for the ``libs`` URL parameter](/doc/faq/supported-url-parameters.html) (6.5.2 and later). The default value is ``"general;uml;er;bpmn;flowchart;basic;arrows2"``.
 
@@ -139,7 +179,7 @@ This configuration produces the following _More Shapes_ dialog when combined wit
 
 * ``fontCss``: Defines a string with CSS rules for web fonts to be used in diagrams. This should be one or more ``@font-face`` rule, e.g. to use a font file attached to a Confluence page: ``{"fontCss": "@font-face { font-family: 'Marvel'; src:  url(/confluence/download/attachments/720900/Marvel-Regular.ttf?api=v2) format('truetype')}"}``
 <br />The fonts in this section are used for displaying diagrams in the editor and creating images in Google Chrome, Firefox and Microsoft Edge. All other browsers require the font to be installed on the server-side. To create images in the browser, the font must be on the same domain and contain a CORS header, or it will be proxied via the Confluence server.
-<br />**Confluence Server**: The _Global Stylesheet_ under _Stylesheet_ in the _Look and Feel_ section of the Confluence administration area is used to view the diagram in the page and to print it from the lightbox. In this case, it should match ``fontCss`` with the following rule:
+<br />**Confluence Server and Data Center**: The _Global Stylesheet_ under _Stylesheet_ in the _Look and Feel_ section of the Confluence administration area is used to view the diagram in the page and to print it from the lightbox. In this case, it should match ``fontCss`` with the following rule:
 <br /><img src="/assets/img/blog/configure-font-stylesheet-confluence-server.png" style="max-width:100%;height:auto;" alt="Configure COnfluence Server to use fontCss rules in diagrams.net">
 <br />**Confluence Cloud**: The font URL must be public and must allow access to the diagrams.net origin (CORS header):
 <br /> ``"fontCss": "@font-face { font-family: 'Waltograph'; src:  url(https://fontlibrary.org/assets/fonts/waltograph/23a40698cd1bb84f930b7a0884c134a6/ab260a56f2b852b78f81eac337e0a2fc/WaltographRegular.otf) format('opentype')}" and "customFonts": ["Waltograph”]``
@@ -151,6 +191,8 @@ This configuration produces the following _More Shapes_ dialog when combined wit
 <br />**Note:** All plugins are only available for the diagrams.net editor, and not the viewer. They are provided as-is, as unsupported examples for developers.
 
 * ``thumbWidth/thumbHeight``: Defines the width and height for the entries in the left panel (6.5.4 and later).
+
+* ``gridSteps``: Defines the number of minor grid steps (14.3.2 and later).
 
 * ``emptyDiagramXml/emptyLibraryXml``: Defines the XML for blank diagrams and libraries (6.5.4 and later).
 
@@ -165,6 +207,14 @@ This configuration produces the following _More Shapes_ dialog when combined wit
 * ``globalVars``: Defines global variables for system-wide placeholders using a JSON structure with key, value pairs. Keep the number of global variables small.
 
 * ``compressXml``: Specifies if the XML output should be compressed. The default is ``true`` (``false`` for Confluence Cloud).
+
+* ``dataGovernance``: Set the [server endpoint region](/blog/data-governance-lockdown.html). The default is to use your closest region, (either ``EU `` or ``US``). If ``lockdown`` is set to ``true``, ``dataGovernance`` is ignored.
+
+* ``lockdown``: [Disable data transmission](/blog/data-governance-lockdown.html), apart from directly between your browser and your selected data storage location. Default is ``false``.
+
+* ``maxImageBytes``: Defines the maximum size for images in bytes. Default is _1000000_.
+
+* ``maxImageSize``: Defines the maximum width or height of the image, where the lowest value is used. Default is _520_.
 
 ## Additional options for Confluence Server and Data Center
 
@@ -295,4 +345,4 @@ You can create a link to configure the online version of diagrams.net by clickin
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CVpvbALlgmg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Here If you don't want to code the configuration by hand, use this [third-party app to create the diagrams.net configuration for fonts, colours and default styles](https://drawio-config.herokuapp.com/).
+If you don't want to code the configuration by hand, use this [third-party app to create the diagrams.net configuration for fonts, colours and default styles](https://drawio-config.herokuapp.com/).

@@ -34,3 +34,10 @@ You can start a new diagram via the menu if you are already working in the diagr
 1. Select _File > New_ from the menu.
 <br /><img src="/assets/img/blog/file-new.png" style="width=100%;max-width:300px;height:auto;" alt="Select File > New within the diagrams.net editor to create a new diagram">
 2. Follow the steps above to name your new diagram, select a template and create your new diagram.
+
+**Tip:** If you are new to diagrams.net, [step through the tutorial to build a basic flow chart](/doc/getting-started-basic-flow-chart.html). 
+
+## Related
+
+* [Open an existing diagram file](/doc/faq/open-diagram-file.html)
+* [Import a diagram file, including .drawio, .xml, .vsdx and more formats](/doc/faq/import-diagram.html)

@@ -134,7 +134,7 @@ You can [add and remove waypoints](/blog/waypoints-connectors.html) to make conn
 
 Short labels on shapes make it easier to understand a diagram quickly.
 
-1. Double click on a shape. A temporary label will be added, and is selected - simply start typing to replace the label with your own text. Alternatively, single click on a shape and start typing to add or edit the label.
+1. Double click on a shape. Start typing to replace the label with your own text. Alternatively, single click on a shape and start typing to add or edit the label.
 2. Press ``Enter`` to save the label text.
 
 **Tip:** Press ``Shift+Enter`` to [add a line break in a label](/doc/faq/line-breaks.html).
@@ -161,7 +161,7 @@ Once you have finished adding all the shapes, connectors and labels, you can sty
    <br /><img src="/assets/img/blog/basic-flow-style-palette.png" style="width=100%;max-width:200px;height:auto;" alt="Set a new shape or connector style easily with the style palette in diagrams.net">
    * To set your own colour, click on the colour button next to _Fill_ or _Line_, select a a new colour or enter a hex colour code.
    <br /><img src="/assets/img/blog/colour-picker.png" style="width=100%;max-width:200px;height:auto;" alt="Choose a colour from the default or larger colour palette, or enter your own hex colour code">
-   * Style a selected connector to have [arrows on both ends](/doc/faq/connector-bidirectional.html) or [no arrows](/doc/faq/connector-no-arrows.html)
+   * Style a selected connector to have [arrows on both ends](/doc/faq/connector-bidirectional.html) or [no arrows](/doc/faq/connector-no-arrows.html).
    <br /><img src="/assets/img/blog/basic-flow-connector-arrows.png" style="width=100%;max-width:200px;height:auto;" alt="Select an arrow or another connector end style at both the target and source shape in diagrams.net">
 3. Change the text style of labels on the _Text_ tab.
    * Select a different _Font_ from the list.

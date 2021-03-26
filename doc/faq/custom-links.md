@@ -12,30 +12,30 @@ Custom links can be used where hyperlinks and links to pages are allowed, namely
 
 ## Add a custom link
 
-1. Right-click on a shape, then select _Edit Link_, or select the shape (cell) and use the keyboard shortcut ``Alt+Shift+L``.
+1. Right-click on a shape, then select _Edit Link_, or select the shape and use the keyboard shortcut ``Alt+Shift+L``.
 2. Enter the custom link in the first text field.
 <br /><img src="/assets/img/blog/edit-link.png" style="width:100%; max-width:400px;height:auto;" alt="Edit the custom link">
 
 ### Formatting custom links in diagrams.net
 
 The format for custom links is: ``data:action/json,{"actions":[actions]}`` where ``actions`` is a comma-separated list of [JavaScript objects (JSON)](http://www.json.org/) with the following possible keys:
-* ``"open"``: string - opens a standard or custom link (including page links)
-* ``"toggle"``/``"show"``/``"hide"``/``"highlight"``: cellset - toggles, shows, hides or highlights the given cells
-* ``"select"``: cellset - selects the given cells if the diagram is editable
-* ``"scroll"``: cellset - scrolls to the first cell in the given celllset
-* ``"viewbox"``: ``{"x": int, "y": int, "width": int, "height": int}``
+* ``"open"``: string - opens a standard or custom link (including page links).
+* ``"toggle"``/``"show"``/``"hide"``/``"highlight"``: cellset - toggles, shows, hides or highlights the given diagram elements.
+* ``"select"``: cellset - selects the given cells if the diagram is editable.
+* ``"scroll"``: cellset - scrolls to the first cell in the given celllset.
+* ``"viewbox"``: ``{"x": int, "y": int, "width": int, "height": int}``.
 
-If no ``scroll`` action is specified, then the first cell of the ``select`` or ``highlight`` action is scrolled to be visible (``select`` has precedence).
+If no ``scroll`` action is specified, then the first shape or layer listed in the ``select`` or ``highlight`` action is scrolled to be visible (``select`` has precedence) when you click on the link.
 
-For ``highlight``, a ``color`` (string), ``duration`` (number in milliseconds) and ``opacity`` (1-100) may be specified.
+For ``highlight``, you can specify a ``color`` (string), ``duration`` (number in milliseconds) and ``opacity`` (1-100).
 
-A cellset is an array of cell IDs or tags or both, e.g. ``{"cells": ["id1", "id2"], "tags": ["tag1", "tag2"]}``.
-* If multiple tags are used, then the cells that have all tags are selected (AND).
-* To toggle cells with either tag1 or tag2, use multiple toggle actions instead.
+A cellset is an array of shape and layer IDs, or tags, or both, e.g. ``{"cells": ["id1", "id2"], "tags": ["tag1", "tag2"]}``.
+* If multiple tags are used, then the diagram elements that have _all_ of the tags are selected (``AND``).
+* To toggle cells with either ``tag1`` or ``tag2``, use multiple toggle actions instead.
 * To specify all cells, use ``"cells": ["*"]``.
-* To specify all cells with a tag, use ``"tags": []`` (empty array).
+* To specify all cells with a tag, use ``"tags": []`` (an empty array).
 
-Note that when tags are used to toggle cells, it will change the current visible state of the cell.
+Note that when you use tags to toggle diagram elements, it will change the current visible state of those diagram elements.
 
 #### Example 1
 ```
@@ -55,18 +55,18 @@ data:action/json,{"actions":[{"show": {"tags": []}},{"hide": {"tags": ["pipe", "
 ```
 This shows all cells with a tag and then hides all cells with the tags ``pipe`` and ``water``.
 
-### Find the ID of a shape (cell), page, or layer
+### Find the ID of a shape, page, or layer
 
-* **Shapes**: Right-click on a shape, select _Edit Data_, or select a shape then use the keyboard shortcut ``Ctrl+M`` on Windows or ``Cmd+M`` on macOS.
+* **Shape**: Right-click on a shape, select _Edit Data_, or select a shape then use the keyboard shortcut ``Ctrl+M`` on Windows or ``Cmd+M`` on macOS.
 <br /><img src="/assets/img/blog/id-shape.png" style="width:100%; max-width:300px;height:auto;" alt="Edit Data on a shape or a page will show you its ID">
-* **Pages**: Make sure nothing is selected to get the ID of a page, then press ``Ctrl+M`` on Windows or ``Cmd+M`` on macOS.
-* **Layers**: Select _View > Layers_ from the menu to see the Layers dialog. Click on the three vertical dots (_Edit Data_) to see the ID of the selected layer.
+* **Page**: Make sure nothing is selected to get the ID of a page, then press ``Ctrl+M`` on Windows or ``Cmd+M`` on macOS.
+* **Layer**: Select _View > Layers_ from the menu to see the Layers dialog. Click on the three vertical dots (_Edit Data_) to see the ID of the selected layer.
 <br /><img src="/assets/img/blog/layers-edit-data.png" style="width:100%; max-width:200px;height:auto;" alt="Click Edit Data in the Layers dialog to see the ID of a selected layer">
 
-When the diagram is viewed in the editor, the custom links are shown in a tooltip when you select the shape with the label ``Action``. When you click  on the link, the visible state of the cells is updated and the diagram is saved.
+When you view the diagram is viewed, the custom links are shown as a tooltip when you select the shape with the label ``Action``. When you click on the link, the visible state of the diagram elements are updated and the diagram is saved.
 
-If realtime collaboration is used, the visible state of the cells is updated in all connected diagrams.
+If you are using realtime collaboration, the visible states of the diagram elements are updated in all connected diagrams.
 
-When viewed in the lightbox or in read-only mode, when you click on the shape or text, the visible state of the cells will change, but the change will not be saved.
+When viewed in the lightbox or in read-only mode, when you click on the shape or text, the visible state of the diagram elements will change, but this change will not be saved.
 
-While we're working on a user interface to create and edit custom links, please [use this tool to more easily create custom links](https://jgraph.github.io/drawio-tools/tools/link.html).  
+While we're working on a user interface to create and edit custom links, please [use this tool to easily create custom links](https://jgraph.github.io/drawio-tools/tools/link.html).

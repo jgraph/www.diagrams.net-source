@@ -15,7 +15,7 @@ Custom template libraries are stored in the draw.io Configuration in the Conflue
 2. Go to the _Custom Templates_ tab, then click on the _Templates page_ link.
 <br /><img src="/assets/img/blog/open-custom-templates-confluence-cloud-admin.png" style="width=100%;max-width:400px;height:auto;" alt="Go to the Templates page via the draw.io Configuration in Confluence Cloud">
 3. Add a child page to this Templates page to create a new template category, or edit a child page to add a new template to that category. Make sure _draw.io Configurations_ is selected in the drop down list to ensure your template is available to everyone. Then click _Create_.
-<br /><img src="/assets/img/blog/add-custom-template-library-confluence-cloud.png" wstyle="width=100%;max-width:400px;height:auto;" alt="Add a new category to store custom template diagrams in Confluence Cloud">
+<br /><img src="/assets/img/blog/add-custom-template-library-confluence-cloud.png" style="width=100%;max-width:400px;height:auto;" alt="Add a new category to store custom template diagrams in Confluence Cloud">
 4. Add your template diagrams to this new page and save it.
 
 There may be a small delay before the new templates are available in the template library.

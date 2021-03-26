@@ -132,6 +132,8 @@ Draw your diagram by placing, connecting and styling shapes on the drawing canva
 
 <img src="/assets/img/blog/drawing-canvas.png" style="width=100%;max-width:400px;;height:auto;" alt="The drawing canvas of diagrams.net">
 
+[Move the drawing canvas on touchscreens and in the outline panel](/doc/faq/drawing-canvas-move.md)
+
 #### Page tabs
 
 Organise complex diagrams into multiple pages.

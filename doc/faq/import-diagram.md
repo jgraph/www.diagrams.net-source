@@ -24,3 +24,9 @@ You can import a diagram file into an existing diagram.
 
 1. Drag the diagram file into the drawing canvas. The diagram you just added will appear and be selected.
 2. Drag to reposition the imported diagram on the drawing canvas.
+
+
+## Related
+
+* [Create a new diagram](/doc/faq/new-diagram.html)
+* [Open an existing diagram file](/doc/faq/open-diagram-file.html)

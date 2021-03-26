@@ -15,7 +15,7 @@ Compound shapes, like the entity relationship tables in the diagram above, are a
 
 ## Reset a complex shape's connection points
 
-You can reset any shape where non-standard connection points have been defined by editing the shape style. In this example, we want to edit the row shape.
+You can reset any shape where [custom connection points have been defined by editing the shape style](/doc/faq/shape-connection-points-customise.html). To edit the row shape as in this example, follow the steps below.
 
 1. Select the shape, then click _Edit Style_ in the _Style_ tab of the format panel.
 <br /><img src="/assets/img/blog/edit-style-entity-table-row.png" style="max-width:100%;height:auto;" alt="Edit the style of a shape to reset its connection points">

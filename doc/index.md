@@ -11,6 +11,7 @@ If you are new to diagramming, or diagramming in Confluence, use the training do
 * [Introduction to diagrams.net and types of diagrams](/doc/getting-started-diagram-types.html)
 * [Get to know the diagrams.net editor](/doc/getting-started-editor.html)
 * [Draw a basic flow chart in diagrams.net](/doc/getting-started-basic-flow-chart.html)
+* [Learn how to use layers in your diagrams](/doc/layers.html)
 
 ### Using draw.io in Confluence
 

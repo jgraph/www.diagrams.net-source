@@ -3,7 +3,7 @@ name: Publish to GitHub Pages
 on:
   push:
     branches:
-      - master
+      - dev
 
 jobs:
   build-and-publish:
@@ -15,3 +15,4 @@ jobs:
       - uses: fabacab/jekyll-builder-for-github-pages-action@master
         with:
           secret_gh_pages_api_token: ${{ secrets.GH_TOKEN }}
+

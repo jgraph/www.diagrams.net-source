@@ -32,6 +32,7 @@ The configuration and data are stored in a JSON object in the ``data-mxgraph`` a
 * ``toolbar-nohide=true``: Ensures the toolbar is always displayed.
 * ``max-height=value``: Sets the maximum initial height of the diagram.
 * ``auto-fit=false``: Disables the automatic zoom (if zoom buttons are not visible).
+* ``auto-crop=true``: Enables automatic cropping if layers can be toggled.
 * ``check-visible-state=false``: Disables delayed rendering.
 * ``lightbox=[false|open]``: Disables or forces the lightbox to open in new window.
 * ``layers=[index0 index1 ...]``: Specifies a space-separated list of visible layers (e.g. ``layers=0 1``).

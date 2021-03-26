@@ -43,10 +43,35 @@ Double click on a file to open an existing diagram file in the diagrams.net edit
 
 To allow non-Google users to see your diagram, you can [publicly publish it](/doc/faq/google-drive-publicly-publish-diagram.html). Alternatively, [encode the diagram as a link](/blog/publish-link.html) to share with people online.
 
-Work with [revisions of diagrams stored in Google Drive](/doc/faq/google-drive-revision-history.html) - this tracks all changes made to your diagram by all authorised  Google Drive users.
+All changes made to your diagrams are automatically saved to your Google Drive, and you can see these changes in the [versions of your diagrams](/doc/faq/google-drive-revision-history.html) - you'll see who made what change and when.
+
+You can [rename, copy and move your diagram files stored in Google Drive](google-drive-rename-copy-move-diagrams.md) via the _File_ menu in the diagrams.net editor. 
+
+
+### Return to Google Drive from the diagrams.net editor
+
+Hover over the diagrams.net logo in the top left of the editor, and you'll see it change to the Google Drive logo. Click on the logo to save your diagram and return to Google Drive.
 
 ### Use diagrams.net inside Google Workplace (G Suite) apps
 
 Embed diagrams in documents, slides and sheets with the [diagrams.net add-ons for Google Workplace apps](/blog/diagrams-google-docs.html). Using the diagrams.net add-ons means you don't need to manually export an image and update it in your document every time you edit your diagram. Simply use the _Add-ons_ menu and update all of your embedded diagrams at once.
 
 <img src="/assets/img/blog/addon-google-docs-examples.png" style="max-width:100%;height:auto;"  alt="It's easy to embed diagrams in Google Docs">
+
+### Allow all Google Workplace users to diagram
+
+As a Google Workplace (G Suite) administrator, you will need to [install and approve the diagrams.net add-ons for Google Workplace](/doc/faq/gsuite-addons-domain-wide.html) on behalf of all users on a domain.
+
+## Embed files from Google Drive in Confluence and Jira
+
+You can embed diagram files that you have stored in Google Drive into Atlassian Confluence and Jira using the draw.io app. 
+
+* [Embed from Google Drive to Confluence Cloud](/doc/faq/embed-diagram-googledrive-confluence-cloud.html)
+* [Embed from Google Drive to Confluence Data Center and Server](/doc/faq/embed-diagram-googledrive-confluence-server.html)
+* [Embed from Google Drive to Jira Cloud](/doc/faq/embed-diagram-googledrive-jira-cloud.html)
+
+## Use diagrams in Google Classroom
+
+Both student and teachers can [use diagrams.net to work with diagrams in Google Classroom](/blog/google-classroom-diagrams.html) when the diagrams.net add-on for Google Drive/Workspace is installed. With useful collaboration features supporting groupwork and ongoing feedback, students can work remotely on more complex visualisations in diagrams.net and easily submit diagrams with their assignments. 
+
+<img src="/assets/img/blog/google-classroom-diagram-demonstration.gif" style="max-width:100%;height:auto;" alt="Preview, add comments to and open diagrams in the diagrams.net editor from Google Classroom">

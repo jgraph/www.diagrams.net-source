@@ -26,19 +26,19 @@ diagrams.net is designed to be easy to configure and fast to deploy in a contain
 * [Get the diagrams.net application code on Github](https://github.com/jgraph/docker-drawio)
 * [Learn more about docker and containers](https://www.docker.com/resources/what-container)
 
-### G Suite add-ons for Docs, Sheets and Slides
+### Google Workspace add-ons for Docs, Sheets and Slides
 
-Diagrams.net lets you [store your diagram files in Google Drive](https://app.diagrams.net/?mode=google) and [work with them in G Suite](https://gsuite.diagrams.net/). There are also add-ons available for [Docs](https://docsaddon.diagrams.net/), [Sheets](https://sheetsaddon.diagrams.net/) and [Slides](https://slidesaddon.diagrams.net/).
+Diagrams.net lets you [store your diagram files in Google Drive](https://app.diagrams.net/?mode=google) and [work with them in Google Wordspace](https://gsuite.diagrams.net/). There are also add-ons available for [Docs](https://docsaddon.diagrams.net/), [Sheets](https://sheetsaddon.diagrams.net/) and [Slides](https://slidesaddon.diagrams.net/).
 
 <img src="/assets/img/blog/addon-google-docs-examples.png" width="400" alt="It's easy to embed diagrams in Google Docs">
 
-[See how to use the diagrams.net add-ons for G Suite](/blog/diagrams-google-docs.html)
+[See how to use the diagrams.net add-ons for Google Workspace](/blog/diagrams-google-docs.html)
 
-### Sharepoint, OneDrive and Office 365 integration
+### Microsoft Sharepoint, OneDrive and Office 365 integration
 
 diagrams.net works with [OneDrive and Sharepoint](https://app.diagrams.net/?mode=onedrive). An [Office 365 app](https://office.diagrams.net/) is available for Word, Powerpoint and Excel.
 
-## 3rd-party Integrations
+## 3rd-party integrations
 
 The following integrations are not directly provided by the diagrams.net team. The Atlassian integrations are built by us, but provider via an Atlassian partner.
 
