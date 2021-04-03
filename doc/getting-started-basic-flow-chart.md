@@ -79,6 +79,7 @@ To select a shape, click on it. To [select multiple shapes](/doc/faq/select-mult
 **Move** - Select and drag a shape that is on the drawing canvas to another position.
 
 **Resize** - Select a shape. Drag any of the round 'grab' handles to make the shape smaller or larger. Hold down ``Control`` when you resize shapes to keep them centered.
+<br />[See how to resize groups of shapes](/doc/faq/shape-resize.html)
 
 **Rotate** - Select a shape. Drag the rotate grab handle (the round arrow) at the top right corner of the shape to [rotate the shape](/blog/rotate-shapes.html) around its center point.
 <br /><img src="/assets/img/blog/rotate.png" style="width=100%;max-width:300px;height:auto;" alt="Rotate a shape using the rotate grab handle">
@@ -129,6 +130,8 @@ If it is a floating connector, the end closest to the waypoints you moved will '
 <img src="/assets/img/blog/basic-flow-move-connector.gif" style="width=100%;max-width:400px;height:auto;" alt="Change the path of a connector between shapes in diagrams.net">
 
 You can [add and remove waypoints](/blog/waypoints-connectors.html) to make connectors follow complex paths.
+
+[Learn more about working with and styling connectors](/doc/faq/connectors.html)
 
 ## Add labels
 
