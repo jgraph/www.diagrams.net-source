@@ -5,15 +5,15 @@ faq: true
 categories: [Features,Shapes]
 ---
 
-All shapes can be resized by dragging their perimeter grab handles, or by entering an exact size in the _Arrange_ tab of the format panel. 
+All shapes can be resized by dragging theround blue grab handles on their perimeter, or by entering an exact size in the _Arrange_ tab of the format panel. 
 
 1. Select a shape or group of shapes to see round blue grab handles on its outer perimeter. 
 2. Click and drag one of these grab handles to resize the shape. The corners let you resize both horizontally and vertically.
 <br /><img src="/assets/img/blog/shapes-resize.gif" style="width=100%;max-width:600px;height:auto;" alt="Drag the grab handles of selected shapes or enter a new exact Size in the Arrange tab of the format panel to resize shapes">
 
-To keep shapes centered during resize, hold down ``Ctrl`` on Windows or ``Cmd`` on macOS.
+**Tip:** To keep shapes centred during resize, hold down ``Ctrl`` on Windows or ``Cmd`` on macOS.
 
-**Resize group without resizing child shapes**
+## Resize a group without resizing child shapes
 
 If you want to [resize the container that holds a group of shapes, but not resize the child shapes](/doc/faq/resize-group-disable.html) along with it, under the _Style_ tab in the format panel, expand the _Property_ list and disable the ``Resize Children`` checkbox.
 <br /><img src="/assets/img/blog/properties-disable-resize-children.png" style="max-width:100%;height:auto;" alt="Disable Resize Children in the shape properties to resize grouped shapes individually">
