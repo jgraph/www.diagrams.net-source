@@ -5,7 +5,7 @@ faq: true
 categories: [Features,Shapes]
 ---
 
-All shapes can be resized by dragging theround blue grab handles on their perimeter, or by entering an exact size in the _Arrange_ tab of the format panel. 
+All shapes can be resized by dragging the round blue grab handles on their perimeter, or by entering an exact size in the _Arrange_ tab of the format panel. 
 
 1. Select a shape or group of shapes to see round blue grab handles on its outer perimeter. 
 2. Click and drag one of these grab handles to resize the shape. The corners let you resize both horizontally and vertically.
