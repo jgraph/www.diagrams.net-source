@@ -102,7 +102,7 @@ To make creating a diagram easier, enable only the shape libraries that you need
 
 ### Scratchpad
 
-The scratchpad is your personal shape library where you can add the shapes or groups of shapes that you use the most often.
+The [scratchpad is your personal shape library](/doc/faq/scratchpad.html) where you can add the shapes or groups of shapes that you use the most often.
 
 1. Drag one or more selected shapes from the drawing canvas onto the scratchpad.
 2. Click on one of the shapes or groups of shapes you have saved to the scratchpad to add another copy to the drawing canvas, just like you would a shape from the shape libraries.
@@ -154,7 +154,7 @@ What you see is context sensitive. For example, when you click on a connector, y
 
 #### Style tab
 
-When you have selected one or more shapes, you can change the fill and outline colour of shapes, edit styles, [copy and paste styles](/doc/faq/styles-copy-paste.html) in the Style tab in the format panel on the right. If you have selected a connector, you can change how it is drawn - curved, straight or with sharp right-angles, if it is a broken line or solid, whether line jumps are used and which arrows are used at either end of the connector, and more.
+When you have selected one or more shapes, you can [change the fill and outline colour of shapes](/doc/faq/shape-styles.html), edit styles, [copy and paste styles](/doc/faq/styles-copy-paste.html) in the Style tab in the format panel on the right. You can [change how a selected connector is drawn](/doc/faq/connector-styles.html) - curved, straight or with sharp right-angles, if it is a broken line or solid, whether line jumps are used and which arrows are used at either end of the connector, and more.
 
 Compare the different style options below when a shape is selected (left) and when a connector is selected (right).
 
@@ -166,7 +166,7 @@ To learn how to work with styles, follow our [basic flow chart tutorial](/doc/ge
 
 #### Text tab
 
-Change the font, size and style of your labels using the _Text_ tab of the format panel on the right. You can also change the vertical and horizontal alignment of the text, the writing direction, the font and background colour and opacity, and add spacing around the text.
+Change the font, size and style of your labels using the [_Text_ tab of the format panel](/doc/faq/text-styles.html) on the right. You can also change the vertical and horizontal alignment of the text, the writing direction, the font and background colour and opacity, and add spacing around the text.
 
 _Word Wrap_ and _Formatted Text_ are enabled by default. This lets you style characters and words inside the label text as if it were HTML, which also supports hyperlinks.
 
@@ -180,7 +180,7 @@ Compare the different style options below when a shape is selected (left) and wh
 
 #### Arrange tab
 
-Change the position of shapes and connectors, send them to the front or the back behind other shapes, change their size, or rotate them via the _Arrange_ tab on the format panel.
+Change the position of shapes and connectors, send them to the front or the back behind other shapes, change their size, or rotate them via the [_Arrange_ tab on the format panel](/doc/faq/arrange-tab.html).
 
 Click _Edit Data_ to manually edit the selected shape's metadata, or _Edit Link_ to add a hyperlink.
 
@@ -192,7 +192,7 @@ Click _Edit Data_ to manually edit the selected shape's metadata, or _Edit Link_
 
 #### Global diagram options
 
-If you have nothing selected, you'll see the options that apply to the entire diagram and the drawing canvas.
+If you have nothing selected, you'll see the [options that apply to the entire diagram](/doc/faq/diagram-options.html) and the drawing canvas.
 
 * Change the print and drawing canvas options in the _Diagram_ tab.
 * Apply a new global style to shapes, text and connectors in the _Style_ tab.

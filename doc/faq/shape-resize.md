@@ -21,7 +21,7 @@ If you want to [resize the container that holds a group of shapes, but not resiz
 ## Copy and paste shape sizes
 
 1. Select the source shape that is the size you want to use, then click _Copy Size_ in the _Arrange_ tab of the format panel on the right. 
-2. Select the shape or shapes that you want to be the same size, and click _Paste Size_ in the _Arrange tab. 
+2. Select the shape or shapes that you want to be the same size, and click _Paste Size_ in the _Arrange_ tab. 
 <br /><img src="/assets/img/blog/shapes-copy-size-paste-size.gif" style="width=100%;max-width:350px;height:auto;" alt="Copy and paste a selected shape's size to quickly resize other shapes">
 <br />The height and width of the selected shapes will now match the one you copied, even if they are different shapes.
 
