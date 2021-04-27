@@ -55,3 +55,5 @@ If you find your maths equation is not rendered correctly, the text may be hidin
 1. Select the text, then click ``</>`` in the toolbar to expose hidden HTML tags.
 2. Delete any extra HTML tags, and re-enable _Mathematical Typesetting_ in the menu.
 <br /><img src="/assets/img/blog/maths-unhide-html.png" style="width=100%;max-width:400px;height:auto;" alt="Unhide HTML tags if you have problems rendering your equation">
+
+See also: [Why text in exported SVG images may not display correctly](/doc/faq/svg-export-text-problems)
