@@ -8,17 +8,7 @@ Terms and Conditions
 
 These Terms and Conditions (“Terms”) cover all of the ways in which we communicate with you on this website and in any related communications channels such as our feeds, social media and email. When you access our services, or sign up to hear from us, we understand that you are OK with these Terms.
 
-JGraph Ltd may make changes to this privacy policy by giving 30 days notice of the changes in the [jgraph/security-privacy-legal GitHub repository](https://github.com/jgraph/security-privacy-legal) and on major social media accounts. If you don’t agree with the new Terms, you should unsubscribe, and stop using our services.
-
-## Legal documents and disclaimers for the diagrams.net and draw.io plugins
-
-- [End User License Agreement for Atlassian Server draw.io plugins](https://github.com/jgraph/security-privacy-legal/tree/master/Licenses)
-- [Support and Service Level Agreement for the draw.io apps for Confluence and Jira Privacy](/trust/sla-atlassian.html)
-- [Support and Service Level Agreement for diagrams.net for G Suite](/trust/sla-gsuite.html)
-
-diagrams.net respects and protects your privacy. This Privacy Policy details how diagrams.net collects, uses and shares information gathered from you, as well as explaining how diagrams.net diagram data is processed and stored.
-
-diagrams.net is developed by JGraph. The draw.io apps for Confluence and Jira are developed in partnership with //SEIBERT/MEDIA.
+This Privacy Policy details how diagrams.net collects, uses and shares information gathered from you, as well as explaining how diagrams.net diagram data is processed and stored.
 
 We maintain various privacy and data security policies, as well as documented processes and testing results in the [/jgraph/security-privacy-legal GitHub repository](https://github.com/jgraph/security-privacy-legal)
 
@@ -63,14 +53,7 @@ If you use Google Drive, you are permitted to change the permissions of your dia
 
 #### When you export to a raster or PDF format
 
-Your diagram data may be securely sent to our image export servers and the resulting file returned in the following cases:
-
-- When you export your diagram to a PDF.
-- If you are using IE 11 and export your diagram to a raster image format.
-
-**Note:** Atlassian Cloud products generate a raster format image of your diagram every time you save.
-All data is only ever held in memory, never written to disk. The data is cleared from memory after the file has been successfully delivered to you.
-
+Your diagram data may be securely sent to our image export servers and the resulting file returned when you export your diagram to a PDF.
 #### When errors occur
 
 If an error condition occurs whilst using the application, the application may send an error report back to the servers. This report contains the program line and condition that occurred. Such reports contain no personal information or parts of your diagram data, nor do they contain any substantial information regarding your usage of the application.
@@ -78,10 +61,6 @@ If an error condition occurs whilst using the application, the application may s
 #### When you search for shapes
 
 No data is transmitted from your server or client browser when you use diagrams.net to any third-party with one exception: When you search for an shape, if your keyword has no results in the list of local shapes, the keyword and the list of matching shapes is sent securely to app.diagrams.net. No diagram information, nor any information about you or your system or infrastructure is transmitted.
-
-### When you purchase a draw.io app for Atlassian software (Confluence or Jira)
-
-Atlassian provides access to certain technical contact and billing contact information to JGraph via their Sales API when the app is installed and a license (evaluation or full) is applied. Please see [Atlassian’s privacy policy](https://privacy.microsoft.com/en-us/privacystatement) for details on how they manage your information.
 
 ### Request access to, modify and delete your information
 

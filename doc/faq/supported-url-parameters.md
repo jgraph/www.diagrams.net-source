@@ -16,7 +16,7 @@ The following URL parameters are supported in diagrams.net in the precedence ord
 * ``page=index``: Starts with the given page (the default is the first page, where the index for the first page is ``0``)
 * ``page-id=ID``: Starts with the given page ID (has precedence over the ``page`` URL parameter). To find the ID of the current page, right click on the canvas and select _Edit Data_. The ID is the first entry in this dialog.
 * ``hide-pages=1``: Hides the controls that allow you to change the current page in lightbox mode.
-* ``ui=[min|atlas|dark]``: Uses the Minimal, Atlas or Dark UI theme (default is Kennedy).
+* ``ui=[min|atlas|dark|sketch]``: Uses the Minimal, Atlas, Dark or Sketch UI theme (default is Kennedy).
 * ``drafts=0``: Disables draft states (does not save unsaved files in _IndexedDB_).
 * ``splash=0``: Does not show the splash screen.
 * ``plugins=0``: Does not load [plugins](/doc/faq/plugins.html).

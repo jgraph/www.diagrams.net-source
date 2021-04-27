@@ -79,6 +79,7 @@ To select a shape, click on it. To [select multiple shapes](/doc/faq/select-mult
 **Move** - Select and drag a shape that is on the drawing canvas to another position.
 
 **Resize** - Select a shape. Drag any of the round 'grab' handles to make the shape smaller or larger. Hold down ``Control`` when you resize shapes to keep them centered.
+<br />[See how to resize groups of shapes](/doc/faq/shape-resize.html)
 
 **Rotate** - Select a shape. Drag the rotate grab handle (the round arrow) at the top right corner of the shape to [rotate the shape](/blog/rotate-shapes.html) around its center point.
 <br /><img src="/assets/img/blog/rotate.png" style="width=100%;max-width:300px;height:auto;" alt="Rotate a shape using the rotate grab handle">
@@ -88,6 +89,8 @@ To select a shape, click on it. To [select multiple shapes](/doc/faq/select-mult
 <img src="/assets/img/blog/basic-flow-move-resize-rotate-delete.gif" style="width=100%;max-width:400px;height:auto;" alt="Move, resize, rotate and delete shapes in diagrams.net">
 
 If one of the connectors, the arrows between the shapes, is going in the wrong direction, you can select and delete it, just like a shape. Follow the steps below to [draw a new connector](#draw-a-floating-connector) so it goes in the right direction.
+
+**Tip:** Use the _Arrange_ tab to [precisely rotate, reposition and resize shapes](/doc/faq/arrange-tab.html)
 
 ## Connect shapes
 
@@ -130,6 +133,8 @@ If it is a floating connector, the end closest to the waypoints you moved will '
 
 You can [add and remove waypoints](/blog/waypoints-connectors.html) to make connectors follow complex paths.
 
+[Learn more about working with and styling connectors](/doc/faq/connectors.html)
+
 ## Add labels
 
 Short labels on shapes make it easier to understand a diagram quickly.
@@ -156,14 +161,14 @@ Once you have finished adding all the shapes, connectors and labels, you can sty
 
 1. Select a shape, or hold ``Shift`` down and click on multiple shapes and connectors to select many.
 <br /><img src="/assets/img/blog/basic-flow-style-diagram.gif" style="width=100%;max-width:500px;height:auto;" alt="Add colours, styles and change fonts to make your diagrams more attractive in diagrams.net">
-2. Add colours and style your shapes and connectors via the _Style_ tab.
+2. Add colours and [style your shapes](/doc/faq/shape-styles.html) and [connectors](/doc/faq/connector-styles.html) via the _Style_ tab.
    * The style palette at the top of the _Style_ tab changes both the fill and outline colour. Click the left or right arrows to view more styles.
    <br /><img src="/assets/img/blog/basic-flow-style-palette.png" style="width=100%;max-width:200px;height:auto;" alt="Set a new shape or connector style easily with the style palette in diagrams.net">
    * To set your own colour, click on the colour button next to _Fill_ or _Line_, select a a new colour or enter a hex colour code.
    <br /><img src="/assets/img/blog/colour-picker.png" style="width=100%;max-width:200px;height:auto;" alt="Choose a colour from the default or larger colour palette, or enter your own hex colour code">
    * Style a selected connector to have [arrows on both ends](/doc/faq/connector-bidirectional.html) or [no arrows](/doc/faq/connector-no-arrows.html).
    <br /><img src="/assets/img/blog/basic-flow-connector-arrows.png" style="width=100%;max-width:200px;height:auto;" alt="Select an arrow or another connector end style at both the target and source shape in diagrams.net">
-3. Change the text style of labels on the _Text_ tab.
+3. [Change the text style](/doc/faq/text-styles.html) of labels on the _Text_ tab.
    * Select a different _Font_ from the list.
    * Add _Bold_, _Italics_, or _Underline_.
    * Change the justification to be left, right or centered.
