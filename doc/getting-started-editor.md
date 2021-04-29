@@ -43,7 +43,7 @@ Depending on what you have selected in your diagram, some of the menu entries wi
 * **File** - work with the diagram files (new, open, import/export, and print), as well as to open or custom create shape libraries.
 * **Edit** - select and edit the shapes and connectors in your diagram and their styles.
 * **View** - hide or display the various panels and helper tools in the diagrams.net editor including the scratchpad, layers, ruler and more.
-* **Arrange** - group and organise shapes and connectors, insert templates and images, use the automatic layout features.
+* **Arrange** - group and organise shapes and connectors, [insert templates and images](/doc/faq/arrange-insert-menu.html), use the automatic layout features.
 * **Extras** - enable a different editor theme, use math typesetting, enable/disable the start screen and autosave, and work with tags or add a custom configuration.
 * **Help** - see the keyboard shortcuts, view support information or download the desktop version of diagrams.net.
 

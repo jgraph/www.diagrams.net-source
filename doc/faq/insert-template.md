@@ -24,3 +24,5 @@ You can also import any diagram from its address on the internet (URL) and use i
 For example, to use one of the diagrams in our [diagram example repository on Github](https://github.com/jgraph/drawio-diagrams) as a template, you would paste its address: [``https://jgraph.github.io/drawio-diagrams/diagrams/bulb.xml``](https://jgraph.github.io/drawio-diagrams/diagrams/bulb.xml)
 
 <img src="/assets/img/blog/import-from-url.gif" style="width=100%;max-width:400px;height:auto;" alt="Import any diagram as a template via its URL">
+
+[See all of the elements you can insert into your diagram](/doc/faq/arrange-insert-menu.html)

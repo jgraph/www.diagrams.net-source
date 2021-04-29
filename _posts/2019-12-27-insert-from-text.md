@@ -14,8 +14,9 @@ Click on _Arrange > Insert > Advanced_ to find the text entry features. These in
 
 * **From Text:** Create a simple hierarchical (tree) diagram or add entities containing simple lists.
 * **PlantUML:** Create a variety of UML and flow diagrams, and use the Graphviz DOT code to create tree diagrams, data flows, graphs and more.
+* **Mermaid:** [Generate a diagram from text using the Mermaid syntax](/blog/mermaid-diagrams.html) to build flow charts and UML diagrams.  
 * **SQL:** Add database entities to your diagram by [inserting SQL code](/blog/insert-sql.html).
-* **CSV:** Create flow charts, tree diagrams and more from comma delimited data and some custom styling code.
+* **CSV:** Create flow charts, tree diagrams and more [from comma delimited (CSV) data](/blog/insert-from-csv.html) and some custom styling code.
 
 The dialog that appears when you select one of these features contains sample text to give you an idea of how to use each feature.
 
@@ -96,3 +97,5 @@ Communication
 You can then connect and rearrange these entities to show more clearly how they are related.
 
 <img src="/assets/img/blog/insert-from-text-entities-connected.png" style="max-width:100%;height:auto;" alt="A connected entity diagram example created at diagrams.net">
+
+[See all of the elements you can insert into your diagram](/doc/faq/arrange-insert-menu.html)

@@ -46,3 +46,5 @@ Alternatively, right-click on an entity row, then select ``Duplicate`` from the 
 You can also drag an entity row shape from the library into an entity shape to expand it.
 
 <img src="/assets/img/blog/entity-relation-row-shape-hover.png" style="width=100%;max-width:300px;height:auto;" alt="Add extra rows (attributes) to your entities from the ER shape library">
+
+[See all of the elements you can insert into your diagram](/doc/faq/arrange-insert-menu.html)
