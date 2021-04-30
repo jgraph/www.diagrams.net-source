@@ -10,7 +10,9 @@ categories: [features]
 
 Several features in our diagram editor let you create diagrams automatically from simple text statements.
 
-Click on _Arrange > Insert > Advanced_ to find the text entry features. These include:
+Click on _Arrange > Insert > Advanced_ to find the text entry features. Alternatively, click the ``+`` icon in the toolbar, then select _Advanced_.
+
+The text insert features include:
 
 * **From Text:** Create a simple hierarchical (tree) diagram or add entities containing simple lists.
 * **PlantUML:** Create a variety of UML and flow diagrams, and use the Graphviz DOT code to create tree diagrams, data flows, graphs and more.

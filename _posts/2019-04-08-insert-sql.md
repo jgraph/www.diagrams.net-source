@@ -16,7 +16,7 @@ You can document your existing databases quickly and easily in diagrams.net by i
 
 As SQL and MySQL are the most popular languages used to program and work with relational database systems, diagrams.net has made it easy to automatically create your diagrams from your code.
 
-1. Click _Arrange > Insert > Advanced > SQL_.
+1. Click _Arrange > Insert > Advanced > SQL_. Alternatively, click the ``+`` icon in the toolbar, then select _Advanced > SQL_.
 <br /><img src="/assets/img/blog/arrange-insert-advanced-sql-menu.png" style="max-width:100%;height:auto;" alt="Arrange > Insert > Advanced > SQL to create an ER diagram from SQL code">
 2. You'll see an example of SQL code in the dialog that appears. Copy and paste your SQL or MySQL code into the dialog, then click _Insert_.
 <br /><img src="/assets/img/blog/insert-sql-dialog.png" style="width=100%;max-width:400px;height:auto;" alt="Insert SQL code then click Insert to create an ER diagram automatically">

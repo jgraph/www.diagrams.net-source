@@ -8,7 +8,7 @@ categories: [Shapes]
 1. Insert scalable SVG images into a diagram using one of the methods below.
    * Drag and drop the SVG image file from your computer onto the drawing canvas.
    * Drag the URL of the SVG image from your browser onto the drawing canvas.
-   * Select _Arrange > Insert > Image_, then drag the diagram file or URL onto the dialog and click _Apply_.
+   * Select _Arrange > Insert > Image_, or click ``+`` in the toolbar and select _Image_, then drag the diagram file or URL onto the dialog and click _Apply_.
 2. Select _Actual Size_ to ensure your SVG image is inserted cleanly.
 3. Once the SVG image is added to the drawing canvas as a shape, you can resize it.
 

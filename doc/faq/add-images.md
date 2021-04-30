@@ -21,7 +21,7 @@ Once the image file has been loaded into the editor, you can resize it or [rotat
 
 **Via the menu** 
 
-1. Select _Arrange > Insert > Image_.
+1. Select _Arrange > Insert > Image_.  Alternatively, click the ``+`` icon in the toolbar, then select _Image_.
 <br /><img src="/assets/img/blog/arrange-insert-image.png" style="width=100%;max-width:400px;height:auto;" alt="Select Arrange > Insert > Image in the diagrams.net editor">
 2. Paste the URL to your image file, or drag it from your desktop onto the dialog.
 <br /><img src="/assets/img/blog/image-insert-url.png" style="width=100%;max-width:300px;height:auto;" alt="Paste the URL to your image file, or drag it onto the dialog and click Apply to add an image to your diagram">
@@ -29,6 +29,10 @@ Once the image file has been loaded into the editor, you can resize it or [rotat
 **Note:** Larger image files may take a few moments before they are visible in the diagram editor.
 
 [See all of the elements you can insert into your diagram](/doc/faq/arrange-insert-menu.html)
+
+Alternatively, you can access the _Insert_ tool (``+``) via the toolbar that is just above the drawing canvas.
+
+<img src="/assets/img/blog/toolbar-insert.png" style="width=100%;max-width:400px;height:auto;" alt="You can insert a wide range of shapes, text, links, layouts, images, templates and more via the Insert tool on the toolbar in diagrams.net">
 
 ## Image quality and size
 

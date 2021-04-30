@@ -7,7 +7,7 @@ categories: [Features]
 
 You can use the automatic layout dialog in diagrams.net to build neat flow charts, trees and other common layouts quickly. 
 
-1. Click _Arrange > Insert > Layout_, then select the diagram type and layout you want to use. 
+1. Click _Arrange > Insert > Layout_, then select the diagram type and layout you want to use.  Alternatively, click the ``+`` icon in the toolbar, then select _Layout_ and select the layout you want to use.
 <br /><img src="/assets/img/blog/arrange-insert-layout.png" style="width=100%;max-width:400px;height:auto;" alt="Select Arrange > Insert > Layout then select a layout to quickly build your diagram">
 2. Build your diagram: Click on the arrow at the bottom right of a parent shape to add a child shape. The shapes already in the diagram will be automatically moved to make space for it following the layout you chose.
 <br /><img src="/assets/img/blog/insert-layout-horizontal-flow.png" style="width=100%;max-width:400px;height:auto;" alt="Add child shapes to your diagram by clicking on the blue arrows at the bottom right of the parent shape">

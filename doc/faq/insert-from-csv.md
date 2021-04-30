@@ -9,7 +9,7 @@ You can insert CSV data a along with formatting information to automatically gen
 
 First, [prepare the formatting information and CSV data using this tutorial](/blog/insert-from-csv.html).
 
-1. Select _Arrange > Insert > Advanced > CSV_.
+1. Select _Arrange > Insert > Advanced > CSV_. Alternatively, click the ``+`` icon in the toolbar, then select _Advanced > CSV_.
 <br /><img src="/assets/img/blog/arrange-insert-advanced-csv.png" style="width=100%;max-width:300px;height:auto;" alt="Select Arrange > Insert > Advanced > CSV">
 2. Paste your formatting information and CSV data into the large text field, overwriting the example.
 <br /><img src="/assets/img/blog/csv-dialog.png" style="width=100%;max-width:300px;height:auto;" alt="Paste your formatting information and CSV data into the large text field, then click Import">

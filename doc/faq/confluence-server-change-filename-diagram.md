@@ -1,9 +1,18 @@
 ---
-title: Rename a draw.io diagram file in Confluence Server
+title: Change the filename of an attached diagram file in Confluence Data Center and Server
 layout: page
 faq: true
 categories: [Confluence Data Center and Server]
 ---
+
+**Note:** You can [change the **title** of a diagram in a page from the draw.io diagram macro settings](/doc/faq/confluence-server-change-diagram-title.html). 
+
+The diagram title is displayed when you hover over a diagram in view mode, if the toolbar is displayed at the top (in the _draw.io Macro Settings_ for that diagram).
+<br /><img src="/assets/img/blog/confluence-server-view-diagram-title.png" style="width=100%;max-width:300px;;height:auto;" alt="Change the title of the draw.io diagram in the macro settings in Confluence Data Center and Server">
+
+However, if you want to rename the **filename of the attachments**, follow the steps below.
+
+## Change the filename of a draw.io diagram attachment
 
 Confluence doesn't easily allow you to rename attachments that are used within macros. You can manually rename the two attachment files and edit the source of the Confluence page with a free app.
 

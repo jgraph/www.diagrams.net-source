@@ -9,6 +9,12 @@ Use the _Arrange > Insert_ submenu in the diagrams.net editor to insert various 
 
 <img src="/assets/img/blog/arrange-insert.png" style="width=100%;max-width:400px;height:auto;" alt="You can insert a wide range of shapes, text, links, layouts, images, templates and more via the Arrange > Insert menu in diagrams.net">
 
+Alternatively, you can access the _Insert_ tool (``+``) via the toolbar that is just above the drawing canvas.
+
+<img src="/assets/img/blog/toolbar-insert.png" style="width=100%;max-width:400px;height:auto;" alt="You can insert a wide range of shapes, text, links, layouts, images, templates and more via the Insert tool on the toolbar in diagrams.net">
+
+## What can you insert into a diagram?
+
 **Basic shapes:** Select [_Arrange > Insert_ then select _Rectangle_, _Ellipse_ or _Rhombus_](/doc/faq/insert-shapes.html) to insert that shape.
 <br /><img src="/assets/img/blog/insert-rectangle-ellipse-rhombus.png" style="width=100%;max-width:200px;height:auto;" alt="You can insert rectangle, ellipse, and rhombus shapes via the Arrange > Insert menu in diagrams.net">
 
