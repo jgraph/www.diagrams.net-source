@@ -217,3 +217,5 @@ The number of ``<save/>`` and ``<restore/>`` elements should match.
 As an example, let's change our L shape to include two lines in the foreground : the first vertical line is grey, and the second one is back to the default stroke colour.
 
 <img src="/assets/img/blog/custom-shape-example-style-stack.png" style="width=100%;max-width:400px;height:auto;" alt="Adding style to a custom shape using the stack">
+
+[See all of the elements you can insert into your diagram](/doc/faq/arrange-insert-menu.html)

@@ -28,6 +28,7 @@ Once the image file has been loaded into the editor, you can resize it or [rotat
 
 **Note:** Larger image files may take a few moments before they are visible in the diagram editor.
 
+[See all of the elements you can insert into your diagram](/doc/faq/arrange-insert-menu.html)
 
 ## Image quality and size
 

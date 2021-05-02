@@ -156,3 +156,5 @@ pie title Commits to mxgraph2 on GitHub
 [_Open this example in diagrams.net_](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&page=4&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fmermaid-examples.drawio)
 
 **Did you know:** Mermaid's syntax is similar to Graphviz DOT and PlantUML, both of which can be inserted into diagrams.net to create diagrams from a text description.
+
+[See all of the elements you can insert into your diagram](/doc/faq/arrange-insert-menu.html)
