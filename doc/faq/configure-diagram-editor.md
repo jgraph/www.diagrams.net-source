@@ -54,9 +54,9 @@ In the following video, you'll see what can be customised in diagrams.net and dr
 
 The configuration is represented as a [JSON (JavaScript Object Notation) string](http://www.json.org/) with the following options:
 
-* ``defaultFonts``: An array of font family names in the format panel font drop-down list.
+* ``defaultFonts``: An array of font family names (String) or custom fonts of the firm {"fontFamily": name, "fontUrl": url} for the format panel font drop-down list. See below for an example.
 
-* ``customFonts``: An array of font family names to be added before ``defaultFonts`` (9.2.4 and later).
+* ``customFonts``: An array of font family names or custom fonts of the firm {"fontFamily": name, "fontUrl": url} to be added before ``defaultFonts`` (9.2.4 and later). Eg. ['Helvetica', {'fontFamily': 'Rock Salt', 'fontUrl': 'https://fonts.googleapis.com/css?family=Rock+Salt'}].
 <br />**Note:** Fonts must be installed on the server and all client devices, or be added using the ``fontCss`` option. (6.5.4 and later).
 <br /><img src="/assets/img/blog/custom-fonts-list-confluence-cloud.png" style="width=100%;max-width:200px;height:auto;" alt="Customise the fonts in diagrams.net">
 
@@ -192,7 +192,11 @@ This configuration produces the following _More Shapes_ dialog when combined wit
 
 * ``thumbWidth/thumbHeight``: Defines the width and height for the entries in the left panel (6.5.4 and later).
 
+* ``zoomFactor``: Defines the zoom factor for mouse wheel and trackpad zoom. Default is 1.2. (14.7.0 and later).
+
 * ``gridSteps``: Defines the number of minor grid steps (14.3.2 and later).
+
+* ``simpleLabels``: true - Disables word wrap and complex formatting for labels by default to avoid foreignObjects in the SVG output (14.5.9 and later).
 
 * ``emptyDiagramXml/emptyLibraryXml``: Defines the XML for blank diagrams and libraries (6.5.4 and later).
 
