@@ -56,7 +56,7 @@ The configuration is represented as a [JSON (JavaScript Object Notation) string]
 
 * ``defaultFonts``: An array of font family names (String) or custom fonts of the firm {"fontFamily": name, "fontUrl": url} for the format panel font drop-down list. See below for an example.
 
-* ``customFonts``: An array of font family names or custom fonts of the firm {"fontFamily": name, "fontUrl": url} to be added before ``defaultFonts`` (9.2.4 and later). Eg. ['Helvetica', {'fontFamily': 'Rock Salt', 'fontUrl': 'https://fonts.googleapis.com/css?family=Rock+Salt'}].
+* ``customFonts``: An array of font family names or custom fonts of the firm {"fontFamily": name, "fontUrl": url} to be added before ``defaultFonts`` (9.2.4 and later). Eg. ["Helvetica", {"fontFamily": "Rock Salt", "fontUrl": "https://fonts.googleapis.com/css?family=Rock+Salt"}].
 <br />**Note:** Fonts with no fontUrl must be installed on the server and all client devices, or be added using the ``fontCss`` option. (6.5.4 and later).
 <br /><img src="/assets/img/blog/custom-fonts-list-confluence-cloud.png" style="width=100%;max-width:200px;height:auto;" alt="Customise the fonts in diagrams.net">
 
