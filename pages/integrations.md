@@ -72,6 +72,6 @@ The draw.io apps for Confluence and Jira are available via the Atlassian Marketp
 * [**Redmine:**](https://www.redmine.org/plugins/redmine_drawio) Create diagrams in your project documentation in Redmine, a flexible project management web application, based on Ruby on Rails.
 * [**Samepage:**](https://www.samepage.io/draw-diagram-online) Develop diagrams, track tasks, share files, communicate and work on project content without leaving this team collaboration platform.
 * [**Sandstorm:**](https://apps.sandstorm.io/app/nfqhx83vvzm80edpgkpax8mhqp176qj2vwg67rgq5e3kjc5r4cyh) Create personal/private instances of web apps and create diagrams via Sandstorm.io, an open source hosting platform.
-* [**Tiki Wiki CMS Groupware:**](https://info.tiki.org/HomePage) Manage from the simplest to the most complex [diagrams] (https://doc.tiki.org/Diagram) in Tiki Wiki CMS Groupware, a collaborative, free and open source wiki-based content management system.
+* [**Tiki Wiki CMS Groupware:**](https://info.tiki.org/HomePage) Manage from the simplest to the most complex [diagrams](https://doc.tiki.org/Diagram) in Tiki Wiki CMS Groupware, a collaborative, free and open source wiki-based content management system.
 * [**VS Code:**](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio) Edit and manage diagrams directly inside VS Code.
 * [**XWiki:**](https://extensions.xwiki.org/xwiki/bin/view/Extension/Diagram%20Application) Create diagrams in XWiki, a lightweight wiki software by using the Diagram Application extension.
