@@ -2,7 +2,7 @@
 layout: post
 author: diagrams.net
 slug: waypoint-shape
-date: 2021-05-05 15:24:00
+date: 2021-05-05 12:24:00
 title: Join connectors with the waypoint shape
 tags: [features, connectors]
 categories: [features]
@@ -36,6 +36,7 @@ Now you can use the waypoint shape just like you would any other shape.
 
 **Draw a connector from the waypoint shape:** Hover over the waypoint shape to see the direction arrows. Click on one of the arrows and drag a new connector from the waypoint shape to a target shape to connect them. 
 <br /><img src="/assets/img/blog/waypoint-shape-circuit.gif" style="width=100%;max-width:400px;height:auto;" alt="Use waypoint shapes in diagrams.net to show contact points in electrical circuit diagrams">
+<br />[_Open this circuit diagram in diagram.net_](https://app.diagrams.net/?splash=0&ui=kennedy&ibs=bpmn2&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fwaypoint-shape.drawio)
 
 **Tip:** When you drop a connector onto the waypoint shape, make sure the highlight box around it is blue. Then your connector will float around the circle to the optimal position when you reposition the connector on the drawing canvas. 
 <br /><img src="/assets/img/blog/waypoint-shape-floating-connector.png" style="width=100%;max-width:250px;height:auto;" alt="Drop the connector on the waypoint shape when it is highlighted in blue to form a floating connector">
@@ -63,3 +64,5 @@ In a gitflow diagram, waypoint shapes can indicate where changes are merged, whi
 <img src="/assets/img/blog/waypoint-shape-gitflow.png" style="width=100%;max-width:600px;height:auto;" alt="Use waypoint shapes in diagrams.net to join connectors, such as in this gitflow diagram">
 
 **Tip:** You can style waypoint shapes in the same way as other shapes by changing their colour, size, and so on.
+
+[_Open these examples in diagram.net_](https://app.diagrams.net/?splash=0&ui=kennedy&page=2&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fwaypoint-shape.drawio)
