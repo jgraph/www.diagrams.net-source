@@ -59,19 +59,19 @@ The draw.io apps for Confluence and Jira are available via the Atlassian Marketp
 * [**Aha!:**](https://blog.aha.io/introducing-aha-mockups/) Develop project management mockups and flow diagrams, product roadmaps and marketing planning.
 * [**Atom:**](https://atom.io/packages/atom-drawio) Atom has a package that lets you edit draw.io diagrams directly within the text editor.
 * [**BookStack:**](https://www.bookstackapp.com/blog/beta-release-v0-20-0/) An open source information management system.
-* [**Docstell:**](https://docstell.com/) Docstell aims to make software documentation as easy as possible for developers.
+* [**Docstell:**](https://docstell.com/) Docstell provide software documentation for developers.
 * [**FOSWiki:**](https://foswiki.org/Extensions/DrawIOPlugin) Combine text and structured content, macros and data from web APIs wth FOSWiki.
-* [**Grafana:**](https://github.com/algenty/grafana-flowcharting) Add complex diagrams to this analytics and modelling platform with Arnaud Genty’s open-source plugin.
+* [**Grafana:**](https://github.com/algenty/grafana-flowcharting) Add diagrams to this analytics and modelling platform with Arnaud Genty’s open-source plugin.
 * [**Growi:**](https://growi.org/en/) Growi is team collaboration software that uses markdown. It can integrate diagrams.net into the platform.
-* [**JupyterLab:**](https://github.com/QuantStack/jupyterlab-drawio/) Project Jupyter by QuantStack lets you combine various content types like runnable code snippets, LaTeX, images, embedded interactive diagrams and more.
-* [**LumApps:**](https://www.lumapps.com/blog-post/drawio-integration/) Quickly and easily insert diagrams into your LumApps content.
+* [**JupyterLab:**](https://github.com/QuantStack/jupyterlab-drawio/) Project Jupyter by QuantStack lets you combine various content types like runnable code snippets, LaTeX, images, embedded interactive diagrams.
+* [**LumApps:**](https://www.lumapps.com/blog-post/drawio-integration/) Insert diagrams into your LumApps content.
 * **MediaWiki:** There are two extensions available for MediaWiki, [Drawio](https://www.mediawiki.org/wiki/Extension:Drawio) (not actively maintained) and [DrawioEditor](https://www.mediawiki.org/wiki/Extension:DrawioEditor).
-* [**Nextcloud:**](https://apps.nextcloud.com/apps/drawio) Create diagrams from within Nextcloud, a file sharing and communication platform with strong security and monitoring features thanks to app developer Pawel Rocek.
-* [**Nuclino:**](https://www.nuclino.com/apps/drawio/) Embed your diagrams easily into this lightweight collaborative content development platform.
+* [**Nextcloud:**](https://apps.nextcloud.com/apps/drawio) Create diagrams from within Nextcloud, a file sharing and communication platform, thanks to app developer Pawel Rocek.
+* [**Nuclino:**](https://www.nuclino.com/apps/drawio/) Embed your diagrams easily into this content development platform.
 * [**ownCloud:**](https://marketplace.owncloud.com/apps/drawio/) Create and modify diagrams in the ownCloud open-source collaboration platform's file editor app.
-* [**Redmine:**](https://www.redmine.org/plugins/redmine_drawio) Create diagrams in your project documentation in Redmine, a flexible project management web application, based on Ruby on Rails.
-* [**Samepage:**](https://www.samepage.io/draw-diagram-online) Develop diagrams, track tasks, share files, communicate and work on project content without leaving this team collaboration platform.
+* [**Redmine:**](https://www.redmine.org/plugins/redmine_drawio) Create diagrams in your project documentation in Redmine, a project management web application, based on Ruby on Rails.
+* [**Samepage:**](https://www.samepage.io/draw-diagram-online) Develop diagrams, track tasks, share files, communicate using this team collaboration platform.
 * [**Sandstorm:**](https://apps.sandstorm.io/app/nfqhx83vvzm80edpgkpax8mhqp176qj2vwg67rgq5e3kjc5r4cyh) Create personal/private instances of web apps and create diagrams via Sandstorm.io, an open source hosting platform.
-* [**Tiki Wiki CMS Groupware:**](https://info.tiki.org/HomePage) Manage from the simplest to the most complex [diagrams] (https://doc.tiki.org/Diagram) in Tiki Wiki CMS Groupware, a collaborative, free and open source wiki-based content management system.
+* [**Tiki Wiki CMS Groupware:**](https://info.tiki.org/HomePage) Manage [diagrams] (https://doc.tiki.org/Diagram) in Tiki Wiki CMS Groupware, a collaborative, free and open source wiki-based content management system.
 * [**VS Code:**](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio) Edit and manage diagrams directly inside VS Code.
 * [**XWiki:**](https://extensions.xwiki.org/xwiki/bin/view/Extension/Diagram%20Application) Create diagrams in XWiki, a lightweight wiki software by using the Diagram Application extension.
