@@ -22,7 +22,7 @@ In addition to the 200USD monthly donation to the VSCode extension author, today
 
 We'll continue to investigate further donations to as many upstream projects as possible and we'll start the same process for the [desktop build](https://github.com/jgraph/drawio-desktop). The desktop build pulls in a number of npm projects, many of which are seeking funding.
 
-The initial aim is 1,000USD per month in donations to our little ecosystem, but we hoping we can increase beyond that.
+The initial aim is 1,000USD per month in donations to our little ecosystem, but we hope we can increase beyond that.
 
 **You can help**
 
