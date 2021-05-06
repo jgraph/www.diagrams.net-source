@@ -4,7 +4,7 @@ author: diagrams.net
 slug: sponsorship
 date: 2021-05-06 11:04:00
 title: diagrams.net sponsorship program
-tags: [features, connectors]
+tags: [sponsoring, open source]
 categories: [features]
 ---
 
