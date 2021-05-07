@@ -304,3 +304,4 @@ This complex custom shape is represented by the following XML code. Copy and pas
     </foreground>
 </shape>
 ```
+**Tip:** You can also [edit the XML source code of each page in your diagram](/doc/faq/diagram-source-edit.html) manually in a similar way via _Extras > Edit Diagram_.

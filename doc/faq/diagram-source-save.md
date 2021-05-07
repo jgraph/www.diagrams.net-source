@@ -13,6 +13,7 @@ If your diagram fails to save while you are using a version of diagrams.net, you
 <br /><img src="/assets/img/blog/save-diagram-xml-source.png" style="width=100%;max-width:400px;height:auto;" alt="Copy your diagram's XML source into a text file if you ever encounter a problem with saving">
 3. Open a text editor and a new text file. Paste the copied XML source and save it.
    * If your diagram has multiple pages, you must save the XML source of each page individually.
+   * If you understand the XML, you can also [edit the diagram source](/doc/faq/diagram-source-edit.html) in this way.
 4. Rename the file to have the file extension ``.drawio`` or ``.xml``.
 
 Now you can reload the diagram editor, load the file you just created, and keep editing your diagram.
