@@ -9,8 +9,8 @@ Use the free [draw.io add-in for Microsoft Office products (Word, Excel and Powe
 
 ## Install the draw.io add-in
 
-1. Go to [https://appsource.microsoft.com/en-us/product/office/wa200000113](https://appsource.microsoft.com/en-us/product/office/wa200000113), make sure you are signed in, and click on _Get it now_.
-<br /><img src="/assets/img/blog/microsoft-word-get-drawio.png" style="max-width:100%;height:auto;" alt="Install the draw.io diagrams add-in via Microsoft">
+1. Go to [https://appsource.microsoft.com/en-us/product/office/wa200000113](https://appsource.microsoft.com/en-us/product/office/wa200000113), make sure you are signed in and have entered your contact details (required by Microsoft and AppSource), and click on _Get it now_.
+<br /><img src="/assets/img/blog/microsoft-word-get-drawio.png" style="width=100%;max-width:400px;height:auto;"  alt="Install the draw.io diagrams add-in via Microsoft and AppSource">
 2. Click _Continue_. You'll be redirected to the Office 365 site if you are logged into a personal account.
 3. Click on the product button in which you want to install the add-in, for example, _Open in Word_.
 <br /><img src="/assets/img/blog/microsoft-install-drawio.png" style="width=100%;max-width:300px;height:auto;" alt="Install the draw.io diagrams add-in via Microsoft">

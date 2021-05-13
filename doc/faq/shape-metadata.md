@@ -18,7 +18,7 @@ Right click on the shape or connector, and select _Edit Data_ from the context m
 The shape metadata is displayed in a dialog, with property names on the left, and values on the right.
 <br /><img src="/assets/img/blog/metadata-edit-shape-properties.png" style="width=100%;max-width:300px;height:auto;" alt="Edit the shape properties via the context menu to change the metadata">
 
-**Note:** All shapes and connectors have a unique identifier (ID), which cannot be changed. 
+**Note:** All shapes and connectors have a unique identifier (ID), which can be changed. Hold down ``Ctrl`` on Windows, or ``Cmd`` on macOS, and double click on the ID string to edit it. The new ID you enter will be checked to ensure it is unique.
 
 * **Add a new property:** Type the name in the text field that says _Enter Property Name_ and click _Add Property_. Then enter the value for your new shape property in the text field that is highlighted. 
 * **Delete an existing property:** Click the cross to the right of the shape property that you want to delete. 
