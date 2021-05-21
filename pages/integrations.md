@@ -8,6 +8,8 @@ At diagrams.net, being open source means anyone can take the project, change it,
 
 In fact, the [free online diagrams.net](https://app.diagrams.net) tool has already been integrated into a wide variety of platforms, and is available to be deployed as a self-hosted docker application, or used as a stand-alone private diagramming application.
 
+The integrations are branded under our diagrams.net and draw.io names, it's still the same editor underneath.
+
 ### diagrams.net Desktop
 
 diagrams.net desktop is a stand-alone, offline application available for Windows, macOS and Linux. This is ideal if you want the enhanced security of a desktop application with no reliance on an internet connection. [Get the desktop app today](https://get.diagrams.net/)
