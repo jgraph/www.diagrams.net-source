@@ -74,6 +74,15 @@ Right-click on the diagram, then select _Format Picture_ to display the panel on
 
 **Note:** If you are using an older version of Microsoft Office, the Picture Format options will appear as a new tab on the ribbon.
 
+### Use MS Office-compatible SVG labels
+
+MS Office has some quirks when it come to image formats, especially SVG. When you embed diagrams in PowerPoint and resize them, the label text will have cleaner edges if you set the ``simpleLabels`` option.
+
+1. Select _Extras > Configuration_ in the diagrams.net editor menu. 
+2. Add the following code to the _Configuration_ text box: ``{  "simpleLabels": true }``
+<br /><img src="/assets/img/blog/microsoft-office-svg-simple-labels-configuration.png" style="width=100%;max-width:400px;height:auto;"  alt="When you are embedding a diagram in PowerPoint, to ensure it can be resized cleanly, set the simpleLabels option in the editor configuration">
+3. Click _Apply_. 
+
 ## Update embedded diagrams
 
 After you [edit the diagram files in diagrams.net](https://app.diagrams.net), re-insert the diagrams into your PowerPoint slide to regenerate the embedded image. 
