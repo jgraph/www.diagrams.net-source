@@ -49,7 +49,7 @@ If you prefer to work on a dark background with light outlines and text, or if y
 
 ## Minimal 
 
-If you are diagramming on a tablet or a mobile device, the Minimal theme allows you to collapse the panels around the drawing canvas for less 'clutter'. 
+If you are diagramming on a tablet or a mobile device, the Minimal theme allows you to collapse the panels around the drawing canvas for less 'clutter'. The minimal theme, or the sketch (whiteboard) theme below are ideal for [remote kanban boards](/blog/kanban-boards.html)
 
 **When using the Minimal theme**
 * The menu is minimised to the _Diagram_ tool on the toolbar, panels can be toggled on and off as you need, or minimised to their titles to make room for more drawing. 

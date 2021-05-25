@@ -18,6 +18,8 @@ Placeholders display the value of the nearest matching property - either defined
 
 There are a number of [predefined placeholders](/doc/faq/predefined-placeholders.html) where you can add the date and time in a variety of time formats, page number or title, and more to labels and tooltips.
 
+**Tip:** You can see placeholders in action in the [simple kanban board template](/blog/kanban-boards.html), where the colour and status text of each card changes depending on which column it is in.
+
 ## How to turn a shape into a container
 
 If you want to use the properties defined in an ancestor as a placeholder, you need to turn the parent shape into a container.

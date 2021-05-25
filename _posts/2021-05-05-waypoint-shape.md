@@ -8,7 +8,7 @@ tags: [features, connectors]
 categories: [features]
 ---
 
-The waypoint shape allows you to join two or more connectors together. In electrical circuit diagrams or logic gate diagrams, it is essential to show contact points where wires are connected, as opposed to passing each other without connecting. Waypoint shapes help you organise and route connectors neatly in tree diagrams, org charts, [gitflow diagrams](/blog/gitflow-diagram.html), and more.
+The waypoint shape allows you to join two or more connectors together. In electrical circuit diagrams or logic gate diagrams, it is essential to show contact points where wires are connected, as opposed to passing each other without connecting. Waypoint shapes help you organise and route connectors neatly in tree diagrams, org charts, [gitflow diagrams](/blog/gitflow-diagram.html), hold connector lines together in a fishbone (Ishikawa) diagram, and more.
 
 Waypoint shapes are useful in any diagram where you want to avoid drawing overlapping connectors between source and target shapes. It is a very small, solid circle that is not much bigger than the default line width of a connector in diagrams.net. 
 

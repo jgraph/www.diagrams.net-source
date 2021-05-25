@@ -38,6 +38,8 @@ When you hover over that shape, the custom properties that you added and their v
 
 Once you have added a custom property to your shape, you can use it as a placeholder in the shape's label or tooltip text.
 
+**Tip:** You can see placeholders in action in the [simple kanban board template](/blog/kanban-boards.html), where the colour and status text of each card changes depending on which column it is in.
+
 ### Turn a shape into a container
 
 If you want to use the properties defined in a parent shape as a placeholder, you need to turn the parent into a container shape.
