@@ -47,6 +47,10 @@ You can [fix the end of a connection to any location within a shape](/doc/faq/co
 
 **Tip:** If the target shape is directly above/below or to the right/left of the source shape, hover over the source shape, then click on the arrow pointing towards the target shape to quickly connect the two.
 
+### Join connectors
+
+Use the [waypoint shape in the _Misc_ shape library](/blog/waypoint-shape.html) to join connectors instead of overlapping them. Drop connectors onto or drag connectors from the waypoint shape, just as you would any other shape.
+
 ### Add connectors automatically when you add a new shape
 
 When you add new shapes to the drawing canvas, diagrams.net can automatically add connectors between them.
