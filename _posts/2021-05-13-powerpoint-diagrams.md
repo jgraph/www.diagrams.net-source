@@ -8,7 +8,7 @@ tags: [features, connectors]
 categories: [features]
 ---
 
-Embed images of your diagrams in Microsoft PowerPoint slides with the [free draw.io add-in](https://appsource.microsoft.com/en-us/product/office/wa200000113). The draw.io add-ins can be used in all Microsoft 365 Office applications on both Windows and macOS, and in older versions of PowerPoint, Word and Excel.
+Embed images of your diagrams in Microsoft PowerPoint slides with the [free draw.io branded add-in](https://appsource.microsoft.com/en-us/product/office/wa200000113). The add-ins can be used in all Microsoft 365 Office applications on both Windows and macOS, and in older versions of PowerPoint, Word and Excel.
 
 While the built-in diagramming features in PowerPoint allow you to create simple diagrams, a dedicated diagramming tool makes it easier and faster to create and update more complex diagrams. 
 

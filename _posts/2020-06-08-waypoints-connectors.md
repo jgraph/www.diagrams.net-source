@@ -28,6 +28,8 @@ If you prefer not to drag connectors around, you can use the menu.
 
 <img src="/assets/img/blog/waypoints-add-context-menu.png" style="width=100%;max-width:400px;height:auto;" alt="Use the context menu to add waypoints to a connector">
 
+**Tip:** To join connectors instead of overlapping them, use the [waypoint shape in the _Misc_ shape library](/blog/waypoint-shape.html). It looks like a solid waypoint in your diagram, and acts like a normal shape. Drag connectors from the waypoint shape, and drop connectors onto the waypoint shape to better organise the connectors in your diagram.
+
 ## Remove a waypoint from a connector
 
 1. Select the connector where you want to remove a way point.
