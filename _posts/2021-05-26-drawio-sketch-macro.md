@@ -12,6 +12,7 @@ Embed whiteboard-style diagrams in Confluence Cloud pages with the new draw.io S
 
 When you add or edit a diagram using the draw.io Sketch macro, it uses the sketch [diagram editor theme](/blog/diagram-editor-theme.html), with the [sketch shape and connector styles](/blog/rough-style.html) set as the default global style. The diagram editor has a a white non-paginated background and no gridlines so it feels more like a whiteboard. 
 
+A [discussion thread on the GitHub draw.io project](https://github.com/jgraph/drawio/discussions/2056) is open if you have any questions or suggestions.
 ## Add the draw.io Sketch macro to a Confluence Cloud page
 
 1. Edit the page and type ''/draw'' to see a list of macros you can embed.
