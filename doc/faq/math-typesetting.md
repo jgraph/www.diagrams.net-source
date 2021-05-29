@@ -44,7 +44,7 @@ By default, the output uses SVG and the TeX font. You can use [URL parameters](/
 
 ### Blank space or extra pages
 
-Use Hidden, Block or Width under Style, Property, Text Overflow for the cell.
+Use Block or Width (or in some cases Hidden) under Style, Property, Text Overflow for the cell and resize it to match the math output.
 
 Make sure you use either the left or right justification for your text shapes and keep them away from the diagram edges to avoid extra whitespace when exporting your diagram to an image or a PDF document.
 
