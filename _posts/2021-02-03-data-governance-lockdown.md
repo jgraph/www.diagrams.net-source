@@ -10,7 +10,7 @@ categories: [trust, integrations, atlassian]
 
 diagrams.net is a [unique security-first diagramming tool](/blog/data-protection.html) in that we provide the application platform, but your diagram data only lives in your computer memory while you are working on it.  As you can [store your diagrams on your preferred enterprise-level cloud storage platforms](/blog/secure-diagramming-storage.html) or on your local device, diagrams.net gives you control over your diagram data.
 
-Some extended editor features, such as PDF generation, are only available from the diagrams.net server endpoints. In these cases, your diagram data is securely transmitted from your browser to our server endpoint, and when the converted file is sent back to your browser, your diagram data is deleted from the diagrams.net server.
+Some extended editor features, such as PDF generation (``File > Export As > PDF``), are only available from the diagrams.net server endpoints. In these cases, your diagram data is securely transmitted from your browser to our server endpoint, and when the converted file is sent back to your browser, your diagram data is deleted from the diagrams.net server.
 
 Data is encrypted during all network transmission up to the endpoint processing.
 

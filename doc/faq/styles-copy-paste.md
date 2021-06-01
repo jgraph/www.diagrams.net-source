@@ -14,3 +14,10 @@ Instead of styling every shape individually, you can style one, then apply that 
 <img src="/assets/img/blog/styles-copy-paste.gif" style="max-width:100%;height:auto;" alt="Copy and paste styles from one shape or connector to another in diagrams.net">
 
 **Tip:** There are [many shortcuts for working with styles](/blog/shortcut-styles) in diagrams.net.
+
+## Related
+
+* [Change the styles of shapes](/doc/faq/shape-styles.html)
+* [See how to change the style of text labels and text shapes](/doc/faq/text-styles.html)
+* [Change the style of connectors](/doc/faq/connector-styles.html)
+* [Reset the global default styles](/doc/faq/styles-default-reset.html)
