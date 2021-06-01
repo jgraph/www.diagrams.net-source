@@ -68,7 +68,10 @@ You can draw images with a transparent background with your mouse.
 4. Click _Stop Drawing_ when you are finished, to save it as an image with a transparent background. 
 <br /><img src="/assets/img/blog/sketch-ui-freehand-drawing.gif" style="width=100%;max-width:500px;height:auto;" alt="Use the freehand drawing tool in a draw.io Sketch diagram to markup diagrams or draw shapes with your mouse">
 
+[Learn more about drawing and styling freehand shapes](/blog/freehand-drawing.html)
+
 **Tip:** Use the _Style_ tools in the format panel on the right to change your freehand shape's style, just as you would a shape from the shape libraries.
+
 
 ### Style shapes in the Sketch theme
 

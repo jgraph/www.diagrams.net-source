@@ -28,4 +28,6 @@ By default, diagrams.net uses an A4 paper size in a portrait orientation. You ca
 3. Enter the custom height and width of your page in inches.
 <br /><img src="/assets/img/blog/paper-size-custom.png" style="width=100%;max-width:200px;height:auto;" alt="Set your own custom page size - enter the width and height in inches">
 
+[Learn more about global diagram and editor settings](/doc/faq/diagram-options.html)
+
 
