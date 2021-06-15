@@ -5,7 +5,7 @@ slug: mermaid-diagrams
 date: 2020-04-15 09:10:00
 title: Use Mermaid syntax to create diagrams
 tags: [integrations,uml]
-categories: [integrations,features]
+categories: [integrations,features,use-cases]
 ---
 
 Mermaid is a syntax similar to Markdown where you can use text to describe and automatically generate diagrams. With  Mermaid's Markdown-inspired syntax, you can generate flow charts, UML diagrams, pie charts, Gantt charts, and more.

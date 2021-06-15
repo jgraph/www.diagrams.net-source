@@ -5,7 +5,7 @@ slug: drawio-sketch-macro
 date: 2021-05-26 09:43:00
 title: New draw.io Sketch macro for whiteboard-style diagrams in Confluence Cloud
 tags: [features, Atlassian]
-categories: [features, Atlassian]
+categories: [features,atlassian]
 ---
 
 Embed whiteboard-style diagrams in Confluence Cloud pages with the new draw.io Sketch macro. The Sketch macro is a new feature for our integration with Confluence Cloud, delivered as part of our draw.io brand.
