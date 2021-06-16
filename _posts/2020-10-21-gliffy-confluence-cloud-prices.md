@@ -8,11 +8,13 @@ tags: [data protection]
 categories: [trust, integrations, atlassian]
 ---
 
+diagrams.net and the draw.io branded Atlassian integrations are the leading solution for web based sketching and diagramming functionality. The article describes the draw.io integration for Confluence that we, JGraph, build, deliver and maintain along side the online diagrams.net and desktop tools.
+
 Atlassian recently [deprecated their Confluence Server range](https://www.atlassian.com/blog/announcements/journey-to-cloud). As the software market evolves, accelerating the move to Cloud is the next natural step in Atlassian's strategy.
 
 Users able to move to Cloud have seen an overall cost saving due to reduced maintenance and downtime, as well as benefitting from Atlassian's scalibility and security record. There are [various mechanisms](http://www.atlassian.com/migration/cloud) in place to smooth the road to Cloud, including free Cloud licenses while you migrate away from Server.
 
-At smaller tiers Confluence Cloud is the clear winner, at higher tiers the cost outlay is greater (excluding the benefits). You can see a comparsion between Confluence Server and Confluence Cloud at various tiers below (pricing as per the Feburary 2021 price list, annual renewal in USD):
+At smaller tiers Confluence Cloud is the clear winner, at higher tiers the cost outlay is greater (excluding the benefits). You can see a comparsion between Confluence Server and Confluence Cloud at various tiers below (pricing as per the July 2021 price list, annual renewal in USD):
 
 | Users <code>&nbsp;&nbsp;</code>       | Conf Server   | <code>&nbsp;&nbsp;</code>Conf Cloud |
 |----|---:|---:|
@@ -22,8 +24,8 @@ At smaller tiers Confluence Cloud is the clear winner, at higher tiers the cost 
 | 100          | 5,500        | 5,000      |
 | 250          | 10,900       | 12,500     |
 | 500          | 16,400       | 18,500     |
-| 2,000        | 20,100       | 63,500     |
-| 10,000       | 25,200       | 303,500    |  
+| 2,000        | 20,100       | 61,000     |
+| 10,000       | 25,200       | 256,000    |  
 
 For under 500 users, the cost is largely the same. But that isn't the whole picture, as you're likely to have apps installed, also.
 
@@ -31,15 +33,15 @@ Taking the top selling Confluence app, Gliffy, let's see how the price changes a
 
 | Users <code>&nbsp;&nbsp;</code>      | Gliffy Server  | <code>&nbsp;&nbsp;</code> Gliffy Cloud | <code>&nbsp;&nbsp;</code> draw.io Cloud |
 |----|---:|---:|---:|
-| 10           | 5              | 100          | 55            |
-| 25           | 301            | 950          | 137.50        |
-| 50           | 630            | 1,900        | 275           |
-| 100          | 1,178          | 3,800        | 550           |
-| 250          | 2,406          | 8,000        | 1,150         |
-| 500          | 3,125          | 10,250       | 1,525         |
-| 2,000        | 6,566          | 23,750       | 3,775         |
-| 10,000       | 9,430          | 95,750       | 15,775        |
+| 10           | 5              | 100          | 10            |
+| 25           | 301            | 950          | 187.50        |
+| 50           | 630            | 1,900        | 375           |
+| 100          | 1,178          | 3,800        | 750           |
+| 250          | 2,406          | 8,000        | 1,500         |
+| 500          | 3,125          | 10,250       | 2,000         |
+| 2,000        | 6,566          | 23,750       | 4,500         |
+| 10,000       | 9,430          | 95,750       | 16,500        |
 
-In fact, up to 4k users, you will save money on your Gliffy Server renewal by using draw.io on Confluence Cloud. With 10k users, you will pay 67% more for draw.io on Cloud compared to Gliffy on Server. However, if you have 10k users switching to Cloud and keep Gliffy, you pay over ten times (x10) the Server price.
+In fact, up to 4k users, you will save money on your Gliffy Server renewal by using draw.io on Confluence Cloud. With 10k users, you will pay 75% more for draw.io on Cloud compared to Gliffy on Server. However, if you have 10k users switching to Cloud and keep Gliffy, you pay over ten times (x10) the Server price.
 
-There is a rich selection of apps in the Atlassian ecosystem and it's worth evaluating alternatives when migrating from Confluence Server to Cloud. Some apps, like draw.io with its [one-click Gliffy mass importer](https://desk.draw.io/support/solutions/articles/16000064013-mass-import-gliffy-diagrams-to-draw-io-in-confluence-server), make it easy to  switch whilst saving you money. Of course, you save that amount every year after you have switched.
+There is a rich selection of apps in the Atlassian ecosystem and it's worth evaluating alternatives when migrating from Confluence Server to Cloud. Some apps, like draw.io with its [one-click Gliffy mass importer](https://www.diagrams.net/doc/faq/mass-import-gliffy-confluence-server), make it easy to  switch whilst saving you money. Of course, you save that amount every year after you have switched.
