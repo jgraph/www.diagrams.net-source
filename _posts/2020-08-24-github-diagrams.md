@@ -5,7 +5,7 @@ slug: embed-diagrams-github-markdown
 date: 2020-08-24 09:43:00
 title: Embed a diagram in GitHub markdown
 tags: [github]
-categories: [integrations, features]
+categories: [integrations, features, use-cases]
 ---
 
 You can use a versioned diagram in a Github README file in a number of different ways, and include links to edit the diagram or use it as a template for a new diagram.
