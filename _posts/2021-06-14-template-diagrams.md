@@ -26,7 +26,7 @@ Templates are organised into categories on the left in the template library. Cli
 
 ### Preview a template 
 
-Hover over or click on any of the templates in the template library dialog to see a larger preview of it.
+Click on the magnifying glass icon in the top right of a template in the template library dialog to see a larger preview of it.
 <br /><img src="/assets/img/blog/template-library-preview.png" style="width=100%;max-width:600px;height:auto;" alt="Hover over a template in diagrams.net to see a larger preview of it">
 
 You can freely edit a template that you have added to your diagram: change labels, add and connect new shapes, reposition shapes and connectors, change shape styles, and more.
