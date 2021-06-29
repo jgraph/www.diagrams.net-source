@@ -16,7 +16,7 @@ Make sure nothing is selected in your diagram so you can see the _Diagram_ tab i
 
 **Show/hide the editor grid:** Click on the _Grid_ checkbox in the _Diagram_ tab to display or hide the grid on the drawing canvas. 
 
-**Make the editor grid smaller or larger:** Enter a new size in the _Grid_ text field in the _Diagram_ tab, or use the up and down arrows to increase or decreases the size of the grid. Alternatively, click _File > Page Setup_ and change the _Grid Size_.
+**Make the editor grid smaller or larger:** Enter a new size in the _Grid_ text field in the _Diagram_ tab, or use the up and down arrows to increase or decrease the size of the grid. Alternatively, click _File > Page Setup_ and change the _Grid Size_.
 <br /><img src="/assets/img/blog/page-setup-grid-size.png" style="width=100%;max-width:250px;height:auto;" alt="Change the size of the diagrams.net editor grid via File > Page Setup">
 
 **Set a different editor grid colour:** Click on the colour button next to the _Grid_ size field in the _Diagram_ tab to change the grid's colour, then select a new colour from the palette, or enter a colour's hex code (without a ``#``), and click _Apply_. 

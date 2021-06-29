@@ -34,10 +34,10 @@ While there are a number of connector shapes available in the shape libraries, i
 
 There are several different ways you can draw connectors in diagrams.net.
 
-**Draw a floating connector:** Hover over an existing shape, click and drag a connector from one of the four directional arrows and hover over the target shape. Drop the connector end when the shape outline is blue. 
+**Draw a floating connector:** Hover over an existing shape, click and drag a connector from one of the four directional arrows and hover over the target shape. Drop the connector end when the shape outline is blue. You'll see the end of the connector turn blue with a circle to indicate it's a floating connection.
 <br /><img src="/assets/img/blog/connector-floating.png" style="width=100%;max-width:400px;height:auto;" alt="Floating connector - Drop the connector on the target shape when the outline is blue">
 
-**Draw a fixed connector:** Hover over a shape to see the fixed connection points. Click and drag a connector from one of these points - a cross highlighted in green - and hover over the target shape. Drop the connector end over a fixed connection point when it is highlighted in green to make it into a fixed connection.
+**Draw a fixed connector:** Hover over a shape to see the fixed connection points. Click and drag a connector from one of these points - a cross highlighted in green - and hover over the target shape. Drop the connector end over a fixed connection point when it is highlighted in green. You'll see the end of the connecturn turn green with a cross to indicate it's a fixed connection.
 <br /><img src="/assets/img/blog/connector-fixed.png" style="width=100%;max-width:400px;height:auto;" alt="Fixed connector - Drop the connector on a connection point - a small x - when it is highlighted with a green circle">
 
 Fixed connection points are usually spaced evenly around the outside of a shape. You can override this and [change a shape's style to have custom connection points](/doc/faq/shape-connection-points-customise.html).

@@ -9,7 +9,7 @@ Templates give you a starting point when you create a new diagram. If you have a
 
 1. Go to the diagram page to which you want to add a template.
 2. Select _Arrange > Insert > Template_ from the menu. Alternatively, click the ``+`` icon in the toolbar, then select _Template_.
-3. Templates are organised into logical categories on the left of the dialog. Select a category, then select a template on the right. Click _Insert_.
+3. Templates are organised into logical categories on the left of the dialog. Select a category, then select a template on the right. Click _Insert_. Click on the magnifying glass in top right of a template to see a larger preview.
 <br /><img src="/assets/img/blog/template-insert.png" style="width=100%;max-width:400px;height:auto;" alt="Select a template to insert into your diagram">
 
 The template you selected will be copied to that page in your diagram, and you can now edit it. Add and modify shapes, labels, connectors and styles as you need.
