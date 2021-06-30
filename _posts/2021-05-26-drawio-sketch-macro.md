@@ -81,7 +81,7 @@ To access the format panel, click on the minimised heading. The tools and option
 
 ### Insert a template in the Sketch theme
 
-Click on the Template tool to select and use a diagram template from the template library.
+Click on the Template tool to select and use a diagram template from the template library. Click on the magnifying glass in the top right of a template to see a larger preview of it.
 <br /><img src="/assets/img/blog/sketch-conf-template-manager.png" style="width=100%;max-width:500px;height:auto;" alt="Select a diagram template and click Insert to add it to the drawing canvas in a draw.io Sketch diagram in Confluence Cloud">
 
 

@@ -21,6 +21,8 @@ Depending on the order in which you added these shapes to your diagram, the shap
 
 **Note**: Overlaying shapes does not group them. If you want to be able to move them as a group, select the container shape and the overlaid shape, right-click and select _group_.
 
+You can [move overlapping shapes forwards in front of other shapes](/blog/move-shapes-forwards-backwards.html), or backwards behind shapes using the tools in the _Arrange_ tab in the format panel. 
+
 ## Diagram faster with keyboard shortcuts
 
 There are a large number of keyboard shortcuts which will make it easier and faster to create your diagrams. Print the following shortcut reference to keep all of them on hand.

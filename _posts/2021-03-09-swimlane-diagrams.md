@@ -28,7 +28,9 @@ diagrams.net provides you with a simple swimlane flowchart to get you started. G
 1. Go to app.diagrams.net, select your storage location, and create a new diagram.
 2. Edit the filename, select the _Swimlane Diagram_ template that is in the _Basic_ template collection, then click _Create_.
 <br /><img src="/assets/img/blog/swimlane-diagram-create.png" style="width=100%;max-width:300px;height:auto;" alt="Select the basic swimlane diagram template to work with it in diagrams.net">
-<br />**Tip:** There are more complex swimlane diagram templates in the _Flowcharts_ template category: From the diagrams.net editor, click _Arrange > Insert > Template_, then select _Flowcharts_ on the left. Select the template you want to use, then click _Insert_.
+   * There are more complex swimlane diagram templates in the _Flowcharts_ template category: From the diagrams.net editor, click _Arrange > Insert > Template_, then select _Flowcharts_ on the left. 
+   * Click on the magnifying glass in the top right of a template to see a larger preview. Select the template you want to use, then click _Insert_.
+   <br /><img src="/assets/img/blog/swimlane-flowchart-templates.png" style="width=100%;max-width:300px;height:auto;" alt="More complex flowcharts with swimlanes are found under the Flowchart category in the template library">
 3. The swimlane diagram template is added to the drawing canvas, ready for you to modify and add to it.
 
 **Change the swimlane label text:** Double click on the swimlane heading in the template diagram to edit the text. When you edit a vertical label, you will see it displayed horizontally for ease of reading - deselect the swimlane to save your label text. 

@@ -94,8 +94,8 @@ The example below has been anonymised, but is from an actual use case for a manu
 ## Network diagram templates in diagrams.net
 
 A wide variety of network template diagrams are available in diagrams.net
-1. When you create a new diagram, select the _Cloud_ or the _Networking_ sections on the left.
-2. Hover over a thumbnail of the template diagram to see its name.
+1. When you create a new diagram, expand the _Cloud_ section to see cloud infrastructure templates sorted by platform, or select the _Networking_ section on the left.
+2. Click on the magnifying glass in the top right to [see a larger preview of a template diagram](/blog/template-diagrams.html).
 3. Click _Create_ to create a new diagram using that template.
 
 You can also insert a template diagram. Click _Arrange > Insert > Template_, then follow the two steps above.

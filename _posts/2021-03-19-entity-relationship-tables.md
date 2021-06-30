@@ -65,7 +65,7 @@ Select _Arrange > Insert > Template_ from the diagrams.net menu to open the temp
 There are two categories of templates containing ER diagrams:
 * Select _Basic_, then select the simple _Entity Relationship Diagram_ template for a simple model with three tables.
 <br /><img src="/assets/img/blog/template-library-basic-entity-relationship-diagram-select.png" style="width=100%;max-width:300px;height:auto;" alt="Select the basic Entity Relationship Diagram template in the diagrams.net template manager">
-* Select _Software_, then choose one of the many different example ER diagram templates. These are much more complex than the basic ER diagram template.
+* Select _Software_, then choose one of the many different example ER diagram templates. These are much more complex than the basic ER diagram template. Click on the magnifying glass icon in the top right of a template to see a larger preview.
 <br /><img src="/assets/img/blog/template-library-software-diagrams.png" style="width=100%;max-width:300px;height:auto;" alt="Select one of the many more complex entity relationship diagrams in the Software section of the diagrams.net template manager">
 
 

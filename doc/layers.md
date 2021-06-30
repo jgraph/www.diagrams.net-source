@@ -118,6 +118,8 @@ Layers are arranged from front to back as they are ordered in the _Layers_ dialo
 
 To move one layer's shapes in front of another, you need to change the order of the layers in the _Layers_ dialog. Layers are arranged from top to bottom (front to back on the drawing canvas).
 
+[Learn how the z-order of shapes positions them in front of or behind other shapes](/blog/move-shapes-forwards-backwards.html)
+
 Click and drag a layer in the _Layers_ dialog to place its shapes in front of or behind another layer.
 
 <img src="/assets/img/blog/layer-rearrange.gif" style="max-width:100%;height:auto;" alt="In the Layers dialog, drag a layer higher or lower to move its contents above or below shapes and connectors on the other layers">
