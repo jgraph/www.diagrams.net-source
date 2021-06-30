@@ -29,7 +29,7 @@ There are many AWS shapes available to visualise your infrastructure. When you e
 If you don't want to start with a blank canvas, you can use one of a number of different example AWS infrastructure templates.
 
 1. Click _Arrange > Insert > Template_ to open the template library.
-2. Select the _Cloud_ category in the left. Hover over each template to see a tooltip - those prefixed with aws are examples of Amazon Web Services.
+2. Expand the _Cloud_ category on the left, then select AWS. Click on the magnifying glass in the top right to [see a larger preview of the template diagram](/blog/template-diagrams.html).
 <br /><img src="/assets/img/blog/aws-insert-template.png" style="width=100%;max-width:300px;height:auto;" alt="Start your infrastructure diagram with an AWS template in diagrams.net">
 3. Click _Insert_ to add this template to the drawing canvas. You can replace, move and add more shapes, text and connectors as you need.
 

@@ -50,7 +50,7 @@ First, add a cabinet shape to the drawing canvas. Some are numbered, others are 
 diagrams.net includes a couple of templates for a rack and an electronics cabinet.
 
 1. To add a template to the drawing canvas, select _Arrange > Insert > Template_ from the menu. Alternatively, create a new diagram and you'll see the template dialog.
-2. Select one of the templates:
+2. To see a larger preview of the template, click on the magnifying glass in the top right. Select one of the templates:
    * The electronics cabinet template is in the _Engineering_ section.
    <br /><img src="/assets/img/blog/rack-diagram-electronics-cabinet-template.png" style="width=100%;max-width:400px;height:auto;" alt="Arista rack diagram template in diagrams.net">
    * The Arista rack equipment template is in the _Network_ section.

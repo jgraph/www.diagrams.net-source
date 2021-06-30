@@ -32,7 +32,7 @@ Now that you have installed the draw.io app for Confluence Cloud, you can create
 
 1. Edit a page, and type ``/draw``. Select the _draw.io Diagram_ macro to create and insert a new diagram.
 <br /><img src="/assets/img/blog/drawio-confluence-cloud-new.png" style="width=100%;max-width:200px;height:auto;" alt="Add the draw.io Diagram macro to insert a diagram into Confluence Cloud">
-2. Select one of the template diagrams, enter a name for your diagram file at the top of the dialog, then click _Create_.
+2. Select one of the template diagrams, enter a name for your diagram file at the top of the dialog, then click _Create_. To [see a larger preview of the template diagram](/blog/template-diagrams.html), click on the magnifying glass in the top right.
 <br /><img src="/assets/img/blog/drawio-confluence-cloud-new-template.png" style="width=100%;max-width:300px;height:auto;" alt="Select a template diagram, then click Create to insert a diagram into Confluence Cloud">
 3. The draw.io diagram editor will open, where you can create, edit and style your diagram.
    * Use the shape libraries on the left to add elements to the drawing canvas in the middle.
