@@ -16,5 +16,7 @@ The shape you just dropped may be in front of or behind the container shape.
 
 1. Go to the _Arrange_ tab of the format panel.
 2. Select one of the shapes, then click either _To Front_ or _To Back_ to bring that shape to the front or send it behind all of the other shapes.
+3. Alternatively, step the shape forwards or backwards with _Bring Forwards_ or _Send Backwards_.
+<br /><img src="/assets/img/blog/arrange-tab-forwards-backwards.png" style="width=100%;max-width:200px;height:auto;" alt="Send shapes backwards or bring them forward using the tools on the Arrange tab">
 
 **Note**: Overlaying shapes does not group them. Select the container shape and the overlaid shape, right-click and select _group_.

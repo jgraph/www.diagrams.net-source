@@ -82,6 +82,22 @@ To add or remove waypoints and change the path of a connector, drag a section of
 
 [See how to remove waypoints](/doc/faq/add-remove-waypoints.html)
 
+## Move connectors in front of or behind shapes
+
+**Move connectors directly to the front or back**
+
+1. Select one or more connectors. 
+2. Click _To Front_ or _To Back_ to send them directly in front of or behind all shapes and connectors on that layer.
+
+**Move a connector fowards or backwards**
+
+1. Select one connector, or one group of shapes/connectors.
+2. Click _Bring Forward_ or _Send Backward_ to step the selected connector forwards or backwards, one shape at a time.
+<br /><img src="/assets/img/blog/arrange-tab-connector-bring-forward.gif" style="width=100%;max-width:400px;height:auto;" alt="Move connectors in front of or behind other shapes and connectors using the tools on the Arrange tab">
+
+[Learn more about the z-order of shapes and layers](/blog/move-shapes-forwards-backwards.html)
+
+
 ## Connector style options
 
 There are many different ways in which you can style connectors. 
