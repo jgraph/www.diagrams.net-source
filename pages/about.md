@@ -38,7 +38,7 @@ Our mission statement is __“provide free, high quality diagramming software fo
   NN4 7BF
   Northampton
   UK
-
+</code>
+<code>
   JGraph Ltd is a private limited company registered in England #04051179
-
 </code>
