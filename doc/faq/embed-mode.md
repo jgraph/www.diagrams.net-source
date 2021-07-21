@@ -21,7 +21,7 @@ If the ``embed=1`` URL parameter is used, the client runs in embed mode and the 
 
 ## Configuration
 
-If the ``configure=1`` URL parameter is used, the client sends ``{event: 'configure'}`` and waits for ``{action: 'configure', config: obj}`` before creating the main application and sending the ``init`` event. The ``obj`` is [specified in the configuration](/doc/faq/diagram-editor-configuration.html), e.g. ``config: {defaultFonts: ["Humor Sans"]}``.
+If the ``configure=1`` URL parameter is used, the client sends ``{event: 'configure'}`` and waits for ``{action: 'configure', config: obj}`` before creating the main application and sending the ``init`` event. The ``obj`` is [specified in the configuration](/doc/faq/configure-diagram-editor), e.g. ``config: {defaultFonts: ["Humor Sans"]}``.
 
 
 ## Description of the JSON protocol
