@@ -2,7 +2,7 @@
 layout: post
 author: diagrams.net
 slug: drawio-atlassian-cloud-fortified
-date: 2021-07-26 12:07:00
+date: 2021-07-20 12:07:00
 title: draw.io is now an Atlassian Cloud Fortified app
 tags: [features, Atlassian]
 categories: [features,atlassian,trust]
