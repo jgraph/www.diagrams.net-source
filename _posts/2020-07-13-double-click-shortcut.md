@@ -5,7 +5,7 @@ slug: double-click-shortcut
 date: 2020-07-13 09:24:00
 title: Double click to select a shape
 tags: [shapes, shortcuts]
-categories: [shortcuts]
+categories: [shortcuts, shapes]
 ---
 
 The double click behaviour in diagrams.net has been updated in version 13.4.2 to be more convenient. Now, when you double click on the blank drawing canvas, you can quickly add a shape or text from the selector to your diagram.

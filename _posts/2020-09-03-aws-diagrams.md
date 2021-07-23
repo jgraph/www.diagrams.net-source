@@ -5,7 +5,7 @@ slug: aws-diagrams
 date: 2020-09-03 09:54:00
 title: Use AWS icons to create a free Amazon architecture diagram
 tags: [features, Atlassian]
-categories: [features,use-cases]
+categories: [features,use-cases, templates]
 ---
 
 Draw your Amazon Web Services (AWS) infrastructure with diagrams.net for free. You don't need to register or sign-up, and you can store your diagrams in your favourite cloud storage platforms, like Google Drive, One Drive, and Dropbox.

@@ -5,7 +5,7 @@ slug: rack-diagrams
 date: 2020-05-27 08:02:00
 title: Create a rack diagram in diagrams.net
 tags: [rack-diagrams]
-categories: [use-cases]
+categories: [use-cases, templates]
 ---
 
 diagrams.net has a number of shape libraries and templates for creating rack diagrams. Both electronics cabinets can be visualised, as well as IT racks with servers and networking hardware, including those provided by specific vendors like APC, Cisco, Dell, F5, HP, IBM and Oracle.

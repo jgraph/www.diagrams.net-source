@@ -5,7 +5,7 @@ slug: kanban-boards
 date: 2021-05-21 13:02:00
 title: Create a remote kanban board with diagrams.net
 tags: [kanban]
-categories: [use-cases]
+categories: [use-cases, templates]
 ---
 
 Kanban boards show the breakdown of large projects into smaller tasks that you prioritise and track as they are completed. Collaborative projects benefit from a kanban board as it helps everyone visualise workflows, the state of the project, and the current workload.

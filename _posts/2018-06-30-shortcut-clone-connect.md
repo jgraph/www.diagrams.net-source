@@ -5,7 +5,7 @@ slug: shortcut-clone-connect
 page.date: 2018-09-16
 title: Alt+shift+arrow keys to clone and connect shapes
 tags: [connectors, shortcuts]
-categories: [shortcuts]
+categories: [shortcuts, shapes]
 ---
 
 You can quickly build flow charts, mind maps or tree diagrams using shortcut key combinations.

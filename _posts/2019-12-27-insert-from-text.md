@@ -5,7 +5,7 @@ slug: insert-from-text
 date: 2019-12-27 09:54:00
 title: Insert from text to create tree and entity diagrams
 tags: [features, entity relationship diagrams, org charts, tree diagrams]
-categories: [features]
+categories: [features, text]
 ---
 
 Several features in our diagram editor let you create diagrams automatically from simple text statements.

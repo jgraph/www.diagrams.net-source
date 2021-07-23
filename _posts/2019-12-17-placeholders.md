@@ -5,7 +5,7 @@ slug: placeholders
 date: 2019-12-17 09:54:00
 title: Work with placeholders in labels and tooltips
 tags: [features, shapes, properties, placeholders]
-categories: [features]
+categories: [features, shapes]
 ---
 
 Each shape in a diagram can contain metadata or custom properties - extra information about those shapes.

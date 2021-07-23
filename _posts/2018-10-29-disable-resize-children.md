@@ -5,7 +5,7 @@ slug: disable-resize-children
 page.date: 2018-09-16
 title: Disable resize children to resize grouped shapes individually
 tags: [properties, shapes]
-categories: [features]
+categories: [features, shapes]
 ---
 
 Normally, when you resize a group of shapes, all of the shapes are resized proportionally, and maintain their positions in relation to each other.

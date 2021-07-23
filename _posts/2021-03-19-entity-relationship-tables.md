@@ -5,7 +5,7 @@ slug: entity-relationship-tables
 date: 2021-03-19 14:54:00
 title: Work with entity relationship table shapes in diagrams.net
 tags: [features]
-categories: [features,use-cases]
+categories: [features,use-cases, templates]
 ---
 
 Entity relationship diagrams or ER models in software engineering show the structure of and relationships between database objects. They are used extensively in database modelling to plan new systems, and document existing systems for maintenance and updates.

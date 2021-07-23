@@ -5,7 +5,7 @@ slug: text-alignment
 date: 2020-11-23 09:54:00
 title: Align text labels inside and outside shapes
 tags: [shapes, features, text]
-categories: [features]
+categories: [features, text]
 ---
 
 You can change the alignment of text labels in shapes and on connectors in a number of different ways. The options below are available in the _Text_ tab of the format panel on the right.

@@ -5,7 +5,7 @@ slug: dependency-graphs
 date: 2021-07-09 15:02:00
 title: Draw dependency graphs in diagrams.net
 tags: [graphs]
-categories: [use-cases]
+categories: [use-cases, templates]
 --- 
 
 As a type of directed graph, **dependency graphs** visualise processes or situations where there are dependent components such as in decision making, scheduling, product development, IT or telecommunications infrastructure, supply and manufacturing chains, and more. They help you find the optimal order and identify critical paths or weak links that would constain your application, infrastructure or process.

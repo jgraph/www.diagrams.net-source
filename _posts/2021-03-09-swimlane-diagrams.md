@@ -5,7 +5,7 @@ slug: swimlane-diagrams
 date: 2021-03-09 15:54:00
 title: Use swimlanes with flowcharts to show who does each step
 tags: [features, shapes]
-categories: [features,use-cases]
+categories: [features,use-cases, templates]
 ---
 
 Flowcharts are one of the most common diagram types, showing all of the steps that must be followed to complete a process. Not many processes are limited to just one person or one team, which is why swimlane diagrams and cross-functional flowcharts are used - these show the flow of data or control across different groups.
