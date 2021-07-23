@@ -5,7 +5,7 @@ slug: waypoint-shape
 date: 2021-05-05 12:24:00
 title: Join connectors with the waypoint shape
 tags: [features, connectors]
-categories: [features]
+categories: [features, connectors]
 ---
 
 The waypoint shape allows you to join two or more connectors together. In electrical circuit diagrams or logic gate diagrams, it is essential to show contact points where wires are connected, as opposed to passing each other without connecting. Waypoint shapes help you organise and route connectors neatly in tree diagrams, org charts, [gitflow diagrams](/blog/gitflow-diagram.html), hold connector lines together in a fishbone (Ishikawa) diagram, and more.

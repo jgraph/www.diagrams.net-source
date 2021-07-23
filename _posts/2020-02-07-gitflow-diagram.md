@@ -5,7 +5,7 @@ slug: gitflow-diagram
 date: 2020-02-07 09:54:00
 title: How to create a gitflow diagram
 tags: [flowcharts]
-categories: [use-cases]
+categories: [use-cases, templates]
 ---
 
 It's easier to show new development team members your project's branch structure in your Git repository visually than to describe it in words. Some platforms may illustrate this using built-in tools. If you are using a platform without a convenient visual representation, it's easy to create your own gitflow diagram.

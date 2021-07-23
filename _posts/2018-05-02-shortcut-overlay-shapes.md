@@ -5,7 +5,7 @@ slug: shortcut-overlay-shapes
 page.date: 2018-09-16
 title: Alt+drop to overlay shapes on containers
 tags: [container shapes, shortcuts]
-categories: [shortcuts]
+categories: [shortcuts, shapes]
 ---
 
 When you work with container shapes, dropping a shape over that container inserts that shape into that container. While this is useful for adding steps to a flow chart inside a flow lane (e.g. using the flow layout shape), you may not necessarily want to add the shape for the person responsible into the flow lane container, but instead overlay it.

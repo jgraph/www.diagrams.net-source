@@ -5,7 +5,7 @@ slug: quick-add-shapes
 page.date: 2018-07-24
 title: Click to add shapes to the drawing canvas
 tags: [shapes, features]
-categories: [features]
+categories: [features, shapes]
 ---
 
 Instead of dragging shapes from the shape library in to the drawing canvas, you can quickly add them by simply clicking on the shape. This makes it faster to add a lot of shapes to the canvas at once, and then place, style and connect them later.

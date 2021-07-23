@@ -1,11 +1,11 @@
 ---
 layout: post
 author: diagrams.net
-slug: connectors
+slug: use-connectors
 date: 2021-03-30 09:24:00
 title: Draw and style connectors in diagrams.net
 tags: [features, connectors]
-categories: [features]
+categories: [features, connectors]
 ---
 
 Connectors are lines that connect your shapes together and may or may not have arrows at one or both ends. In a diagram, connectors provide context information, showing how the various shapes and entities in your diagram are related. 

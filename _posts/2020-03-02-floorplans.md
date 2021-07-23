@@ -5,7 +5,7 @@ slug: floorplans
 date: 2020-03-02 09:02:00
 title: Create floorplans and layouts
 tags: [floorplans, shape libraries]
-categories: [use-cases]
+categories: [use-cases, templates]
 ---
 
 Floorplans aren't only useful for real-estate agents and people who are moving to a new apartment. You can also plan new office spaces, show emergency routes, create a seating chart, plan a conference or trade show layout - anything where you need to arrange people and furniture in a space.

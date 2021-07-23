@@ -5,7 +5,7 @@ slug: snap-to-point
 page.date: 2018-09-16
 title: Snap connectors to an anchor point
 tags: [properties, connectors]
-categories: [features]
+categories: [features, connectors]
 ---
 
 Floating connectors are easy to create - drag a connector from one shape, hover over another shape until the outline is blue, then release.

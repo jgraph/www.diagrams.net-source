@@ -5,7 +5,7 @@ slug: rotate-shapes
 date: 2020-10-28 09:54:00
 title: Rotate shapes, connectors and connector labels
 tags: [shapes, features]
-categories: [features]
+categories: [features, shapes]
 ---
 
 Shapes are placed on the drawing canvas in diagrams.net using a default orientation. You can rotate shapes into another position as you need.

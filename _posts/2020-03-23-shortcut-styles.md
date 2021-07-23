@@ -5,7 +5,7 @@ slug: shortcut-styles
 date: 2020-03-23 09:54:00
 title: Use keyboard shortcuts to work faster with styles
 tags: [features, shapes, properties, placeholders]
-categories: [features]
+categories: [features, shapes, connectors]
 ---
 
 There are a large number of keyboard shortcuts that let you create diagrams faster and more easily with diagrams.net. One of the more common and time-consuming tasks when you create a diagram is styling shapes and connectors.

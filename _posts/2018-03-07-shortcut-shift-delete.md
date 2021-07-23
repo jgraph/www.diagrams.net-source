@@ -5,7 +5,7 @@ slug: shortcut-shift-delete
 page.date: 2018-03-07
 title: Shift+toolbar delete to delete shapes and their connections
 tags: [toolbar, shortcuts]
-categories: [shortcuts]
+categories: [shortcuts, shapes, connectors]
 ---
 
 If you want to delete a shape and all of the connections to and from that shape, you can do that with a keyboard + toolbar shortcut.

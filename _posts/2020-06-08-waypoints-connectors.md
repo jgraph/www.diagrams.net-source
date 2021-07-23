@@ -5,7 +5,7 @@ slug: waypoints-connectors
 date: 2020-06-08 09:24:00
 title: Work with waypoints on connectors
 tags: [features, connectors]
-categories: [features]
+categories: [features, connectors]
 ---
 
 Connectors show how the [different shapes in the diagram are related](/blog/connect-shapes.html). In complex diagrams, you are likely to have many overlapping connectors. While line jumps are useful when you have one or two connectors that cross but shouldn't intersect, you can change the path that your connectors take to make your diagram clearer by adding extra waypoints.

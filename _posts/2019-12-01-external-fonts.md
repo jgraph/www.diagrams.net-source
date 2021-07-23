@@ -5,7 +5,7 @@ slug: external-fonts
 date: 2019-12-01 09:21:00
 title: Using external or custom fonts in diagrams.net
 tags: [features, fonts]
-categories: [features]
+categories: [features, text]
 ---
 
 If you don't want to use the fonts that are available by default in diagrams.net, you can use your own custom fonts or external fonts, such as Google's fonts or web fonts stored on your own server. This is useful when you need to match the style guide of a publication, your company's corporate image, or to add interest and emphasis in an infographic.

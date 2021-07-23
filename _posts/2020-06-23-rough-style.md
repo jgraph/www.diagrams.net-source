@@ -5,7 +5,7 @@ slug: rough-style
 date: 2020-06-23 09:24:00
 title: Support for hand-drawn diagrams with rough.js
 tags: [features, handdrawn]
-categories: [features]
+categories: [features, shapes, connectors]
 ---
 
 A more relaxed and informal style for shapes, fills and lines is often used in infographics, teaching materials, maps and reports so that the diagrams are little less sterile and boring. The rough style adds a hand drawn shading options, rough outlines and connectors, and handwritten text labels.
