@@ -8,13 +8,15 @@ tags: [features, Atlassian]
 categories: [features,atlassian,trust]
 ---
 
-The draw.io apps for Confluence and Jira are built, delivered and maintained by JGraph alongside the online diagrams.net and desktop tools. JGraph is pleased to announce that draw.io is the only secure diagramming application to meet Atlassian's new **Cloud Fortified** standard. 
+JGraph is pleased to announce that draw.io is the only secure diagramming application to meet Atlassian's new **Cloud Fortified** standard. 
+
+The draw.io app for Confluence is a diagramming application natively integrated into Confluence. If Confluence is your single point of truth for documentation, draw.io is your most secure choice for diagramming and visualization. draw.io for Confluence is created and maintained by JGraph, alongside the online diagrams.net and draw.io branded desktop application.
 
 ## What is Atlassian Cloud Fortified?
 
 Atlassian developed the more [rigorous Cloud Fortified standard](https://marketplace.atlassian.com/categories/cloud-fortified-apps) to highlight enterprise-grade apps with a particular focus on reliability and service, in addition to increased security requirements. 
 
-By including strict reliability and support requirements, the new standard goes above and beyond the older Atlassian Cloud Security program. 
+By including strict reliability and support requirements, the new standard goes above and beyond the Atlassian Cloud Security program. 
 
 As a security-first diagramming app for Atlassian Cloud products, the draw.io developer JGraph has continued to work closely with Atlassian over the years, participating in security initiatives as they are made available to app developers.
 
@@ -30,7 +32,7 @@ As a Cloud Fortified app, draw.io and JGraph meets the following requirements:
 
 ### Secure diagramming with draw.io and Atlassian
 
-JGraph and draw.io are fully committed to your data security and privacy. 
+JGraph are fully committed to your data security and privacy expectations in all draw.io and diagrams.net products.
 
 Because your sensitive diagram data doesn't leave your infrastructure and is never stored on the draw.io servers, draw.io is an app for Confluence and Jira that lets you comply with a number of data protection certifications (``ISO 27000``, ``27001`` and ``27002``) and the GDPR.
 
