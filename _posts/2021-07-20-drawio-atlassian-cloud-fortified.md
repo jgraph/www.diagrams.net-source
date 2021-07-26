@@ -41,7 +41,7 @@ Because your sensitive diagram data doesn't leave your infrastructure and is nev
 If you are using the draw.io apps for Confluence or Jira Cloud, Atlassian lets you set strict data governance rules, including your [**data residency** region](https://confluence.atlassian.com/cloud/manage-data-residency-976763149.html) to choose where your data or _in-scope product content_ resides. 
 
 Set the draw.io **lockdown** option as a JSON string in the app configuration to additionally restrict data transmission to _only_ between a user's browser and their Confluence Cloud instance: 
-<br />``"lockdown": true"``
+<br />``"lockdown": true``
 
 If you use one of the draw.io features that are not provided within the scope of the Atlassian platform (PDF generation; ``.vdsx``, ``.vsd``, ``.vssx`` and ``.gliffy`` import; and generated PlantUML images), use the draw.io **datagovernance** option to set a server endpoint region in a JSON string in the app configuration: 
 <br />``"dataGovernance": "EU"`` or ``"dataGovernance": "US"``
