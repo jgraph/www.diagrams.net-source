@@ -2,11 +2,13 @@
 layout: post
 author: diagrams.net
 slug: confluence-diagrams-in-jira
-date: 2021-06-08 09:43:00
+date: 2300-06-08 09:43:00
 title: Embed Confluence diagrams in Jira Cloud with the draw.io app
 tags: [features, Atlassian]
 categories: [features,atlassian]
 ---
+
+_**Note:** This no longer works, as Atlassian has changed their authentication process_
 
 You can now embed draw.io diagrams stored in Confluence Cloud in your Jira Cloud issues. This is a new feature for our integration with Confluence Cloud, delivered as part of our draw.io brand.
 
