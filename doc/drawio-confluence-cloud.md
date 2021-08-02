@@ -114,7 +114,7 @@ For example, add your own floorplan template for regularly changing seating arra
 * [Generate a quote for draw.io for Confluence Cloud (annual billing)](/doc/faq/generate-quote-drawio-confluence-cloud.html)
 * [Find the draw.io app version and SEN in Confluence Cloud](/doc/faq/app-version-confluence-cloud.html)
 * [Open the app management pages in Confluence Cloud](/doc/faq/app-management-pages-confluence-jira-cloud.html)
-* [Migrate from Confluence Cloud with draw.io to Confluence Server](/doc/faq/migrate-confluence-cloud-to-confluence-server.html)
+* [Migrate between Confluence instances](/doc/faq/migrate-drawio-confluence.html)
 * [What happens to diagrams when the draw.io app license for Confluence or Jira Cloud becomes invalid](/doc/faq/unlicensed-drawio-app-confluence-jira-cloud.html)
 * [Understand how data is stored and how user data flows in draw.io for Confluence and Jira Cloud](/doc/faq/data-flow-confluence-jira-cloud.html)
 * [Configure draw.io to use a specific server endpoint region or restrict data transmission](/blog/data-governance-lockdown.html)
