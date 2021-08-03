@@ -11,7 +11,7 @@ draw.io diagrams are simply attachments to Jira issues that the app displays whe
 
 ## Migrating attachment format
 
-- Note only perform this step when the Jira on-prem instance is directly going to be migrated to cloud afterwards, it should be set read-only after this point.
+- Note: only perform this step when the Jira on-prem instance is directly going to be migrated to cloud afterwards, it should be set read-only after this point.
 - This is a one-way operation, there is no undo. Always test on a clone of production prior to the production instance.
 - In the admin manage apps page, select draw.io configuration on the left-hand side, then select the "server to cloud migration" tab.
 
