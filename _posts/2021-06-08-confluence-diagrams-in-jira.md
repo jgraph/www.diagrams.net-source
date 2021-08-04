@@ -8,8 +8,6 @@ tags: [features, Atlassian]
 categories: [features,atlassian]
 ---
 
-_**Note:** This no longer works, as Atlassian has changed their authentication process_
-
 You can now embed draw.io diagrams stored in Confluence Cloud in your Jira Cloud issues. This is a new feature for our integration with Confluence Cloud, delivered as part of our draw.io brand.
 
 Visual documentation for systems, processes and software is typically stored in a central knowledge base like Confluence, where all the [teams that are involved](/blog/team-diagramming.html) can access and [collaborate on the diagrams](/blog/collaborative-editing-confluence-cloud.html). 
