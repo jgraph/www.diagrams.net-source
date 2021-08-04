@@ -30,6 +30,8 @@ You need to tell the draw.io app for Jira Cloud which Confluence Cloud instance 
 
 **Troubleshoot:** If you find you have problems during this authorisation process, make sure you have configured your browser to [allow third-party cookies](/doc/faq/enable-third-party-cookies.html) and allow cross-site tracking as this SSO spans multiple Atlassian systems, or use an alternative browser.
 
+**Update:** Atlassian changed their authorisation method recently. If you can't see previously embedded diagrams in your Jira issues or embed new diagrams, clear your browsers' locally saved site data and cookies, and reauthorise the connection between your Jira Cloud and Confluence instances.
+
 ## Embed a diagram from Confluence Cloud to Jira 
 
 1. Search for the name of the draw.io diagram you want to embed from Confluence Cloud.
