@@ -10,8 +10,6 @@ categories: [features,atlassian]
 
 In line with [Microsoft's end of life date of Internet Explorer 11](https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/), we will end support for IE 11 on 15th June 2022.
 
-## How this will affect IE 11 users based on their storage selection
-
 ## Online users of app.diagrams.net
 
 * Saving to local device will stop working.
