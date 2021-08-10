@@ -2,7 +2,7 @@
 title: Revoke access to OneDrive
 layout: page
 faq: true
-categories: [Integrations]
+categories: [Integrations, Microsoft]
 ---
 
 Microsoft allows you to revoke an app's permission to access OneDrive. This works differently in personal and business accounts.

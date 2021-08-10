@@ -30,19 +30,19 @@ diagrams.net is designed to be easy to configure and fast to deploy in a contain
 
 ### Google Workspace add-ons for Docs, Sheets and Slides
 
-Diagrams.net lets you [store your diagram files in Google Drive](https://app.diagrams.net/?mode=google) and [work with them in Google Wordspace](https://gsuite.diagrams.net/). There are also add-ons available for [Docs](https://docsaddon.diagrams.net/), [Sheets](https://sheetsaddon.diagrams.net/) and [Slides](https://slidesaddon.diagrams.net/).
+Diagrams.net lets you [store your diagram files in Google Drive](https://app.diagrams.net/?mode=google) and [work with them in Google Workspace](https://gsuite.diagrams.net/). There are also add-ons available for [Docs](https://docsaddon.diagrams.net/), [Sheets](https://sheetsaddon.diagrams.net/) and [Slides](https://slidesaddon.diagrams.net/).
 
 <img src="/assets/img/blog/addon-google-docs-examples.png" width="400" alt="It's easy to embed diagrams in Google Docs">
 
 [See how to use the diagrams.net add-ons for Google Workspace](/blog/diagrams-google-docs.html)
 
-### Microsoft Sharepoint, OneDrive and Office 365 integration
+### Microsoft Sharepoint, OneDrive, Office 365 and Teams integrations
 
-diagrams.net works with [OneDrive and Sharepoint](https://app.diagrams.net/?mode=onedrive). An [Office 365 app](https://office.diagrams.net/) is available for Word, Powerpoint and Excel.
+diagrams.net works with [OneDrive and Sharepoint](https://app.diagrams.net/?mode=onedrive). An [Office 365 app](https://office.diagrams.net/) is available for Word, Powerpoint and Excel, and a [Microsoft Teams app](/doc/faq/microsoft-teams-diagrams.html) will be announced soon. 
 
 ## 3rd-party integrations
 
-The following integrations are not directly provided by the diagrams.net team. The Atlassian integrations are built by us, but provider via an Atlassian partner.
+The following integrations are not directly provided by the diagrams.net team. The Atlassian integrations are built by us, but provided via an Atlassian partner.
 
 Most integrations use the name draw.io, the previous name for diagrams.net.
 
@@ -56,7 +56,7 @@ The draw.io apps for Confluence and Jira are available via the Atlassian Marketp
 * **Flexible customisation:** By using these apps within your Confluence and Jira environment, you can [customise many aspects to make it easier for your employees to diagram](/doc/faq/): templates, shapes, shape libraries, colour palettes and style to match your corporate image, plugins, and even the user interface can be customised.
 * **Easy migration:** If you have many Gliffy and/or LucidChart OnPrem diagrams in your Confluence instances, you can convert all of these to draw.io diagrams with one click in the app administration section.
 
-### Other third-party Integrations
+### Other third-party integrations
 
 * [**Aha!:**](https://blog.aha.io/introducing-aha-mockups/) Develop project management mockups and flow diagrams, product roadmaps and marketing planning.
 * [**Atom:**](https://atom.io/packages/atom-drawio) Atom has a package that lets you edit draw.io diagrams directly within the text editor.

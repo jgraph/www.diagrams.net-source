@@ -2,7 +2,7 @@
 title: Embed a diagram from OneDrive into Jira Cloud
 layout: page
 faq: true
-categories: [Jira Cloud]
+categories: [Jira Cloud, Microsoft]
 ---
 
 When you have installed draw.io for Jira Cloud, you can attach diagrams from your corporate OneDrive directly to Jira issues.
