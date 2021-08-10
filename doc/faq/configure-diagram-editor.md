@@ -68,7 +68,9 @@ The configuration is represented as a [JSON (JavaScript Object Notation) string]
 * ``defaultColors``: Colour codes for the lower palette in the colour dialog (no leading ``#`` for the colour codes).
 <br /><img src="/assets/img/blog/large-palette-custom.png" style="width=100%;max-width:200px;height:auto;" alt="Modify the colour palettes easily with draw.io for Confluence Cloud">
 
-* ``defaultColorSchemes``: Available colour schemes in the style section at the top of the format panel (use leading ``#`` for the colour codes). Possible colour keys are ``fill``, ``stroke``, ``gradient`` and ``font`` (``font`` is ignored for connectors).
+* ``colorNames``: Names for colors, eg. {'FFFFFF': 'White', '000000': 'Black'} that are used as tooltips (uppercase, no leading ``#`` for the colour codes).
+
+* ``defaultColorSchemes``: Available colour schemes in the style section at the top of the format panel (use leading ``#`` for the colour codes). Possible colour keys are ``fill``, ``stroke``, ``gradient`` and ``font`` (``font`` is ignored for connectors). An optional ``title`` can be added to be used as a tooltip.
 
 * ``customColorSchemes``: Colour schemes to be added before ``defaultColorSchemes`` (9.2.4 and later).
 <br /><img src="/assets/img/blog/style-colour-palette.png" style="width=100%;max-width:200px;height:auto;" alt="The default colour schemes in draw.io modify the style colour palette">
