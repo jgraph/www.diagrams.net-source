@@ -2,7 +2,7 @@
 title: Use diagrams in Microsoft Word, Excel or Powerpoint
 layout: page
 faq: true
-categories: [Integrations]
+categories: [Integrations, Microsoft]
 ---
 
 Use the free [draw.io add-in for Microsoft Office products (Word, Excel and Powerpoint)](https://appsource.microsoft.com/en-us/product/office/wa200000113) to embed your diagrams into your documents. When you make changes to your diagram, you need to update them inside your document to see the changes.

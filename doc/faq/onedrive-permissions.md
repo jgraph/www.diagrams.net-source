@@ -2,7 +2,7 @@
 title: Permissions required to store diagrams in OneDrive
 layout: page
 faq: true
-categories: [Integrations]
+categories: [Integrations, Microsoft]
 ---
 
 OneDrive provides one single level of access, which is to grant permission to diagrams.net to access _all_ files in your OneDrive account.

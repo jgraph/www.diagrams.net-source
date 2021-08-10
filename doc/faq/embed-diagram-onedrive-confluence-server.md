@@ -2,7 +2,7 @@
 title: Embed a diagram from OneDrive into Confluence Data Center and Server
 layout: page
 faq: true
-categories: [Confluence Data Center and Server,Integrations]
+categories: [Confluence Data Center and Server, Integrations, Microsoft]
 ---
 
 Use the _Embed draw.io diagram_ macro to connect to Microsoft OneDrive and embed a diagram file you have stored there.
