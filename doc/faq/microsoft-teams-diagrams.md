@@ -34,7 +34,7 @@ The new tab will be added, and the diagrams.net editor will load with a new blan
 
 1. Click _Add a tab_ at the top of your team's channel, search for and select diagrams.net.
 2. Using the buttons next to _Open Diagram_, click on the location where you have stored your diagram file. 
-<br /><img src="/assets/img/blog/microsoft-teams-open-diagrams.png" style="width=100%;max-width:300px;height:auto;" alt="diagrams.net in Teams: Select the location where your diagrams.net file has been saved to add it to a new tab in Teams">
+<br /><img src="/assets/img/blog/microsoft-teams-open-diagram1.png" style="width=100%;max-width:300px;height:auto;" alt="diagrams.net in Teams: Select the location where your diagrams.net file has been saved to add it to a new tab in Teams">
 3. Browse to its folder and select the diagram file, then click _Open_.
 <br /><img src="/assets/img/blog/microsoft-teams-open-diagram2.png" style="width=100%;max-width:300px;height:auto;" alt="diagrams.net in Teams: Browse to the diagram file, select it, then click Open">
 4. Choose whether you want your diagram to be _Editable_ and a _Post to the channel about this tab_ published, then click _Save_. 
@@ -98,27 +98,32 @@ Click on the diagrams.net logo in the top left to export and print your diagram 
 
 **Tip:** you can right-click on the canvas or on a shape or connector to open a context menu that lets you select and manipute shapes and connectors, add links and metadata to shapes and connectors, and set various options.
 
-### Visual diagrams.net tutorial for Teams
+### Import a diagram file to Teams
+
+You can drag and drop diagram files into the diagrams.net editor in teams to import them. This works for diagrams.net files, as well as diagrams in other formats.
+
+If your team members are new to diagramming, import the following visual diagram.net tutorial into your Teams channel to help your team members get started quickly. 
 
 <img src="/assets/img/blog/diagrams-in-teams-tutorial.png" style="width=100%;max-width:600px;height:auto;" alt="diagrams.net in Teams: A basic visual tutorial">
 
-If your team members are new to diagramming, add this diagram to your Teams channel to help them get started quickly. 
-
 [Right-click to download this tutorial diagram from our Github repository](https://raw.githubusercontent.com/jgraph/drawio-diagrams/master/blog/diagrams-in-teams-tutorial.drawio) 
 
-**Import a diagram:** Add a new diagram tab as described above, and drag the diagram file onto the canvas to import it.
+**Import a diagram:** Add a new diagram tab as described above, and simply drag the diagram file from your device onto the canvas to import it. 
+
+* Alternatively, click on the diagrams.net logo to open the menu, select _Import from_, then select the location or format you want to import. 
+* Add images to the canvas in a similar way - drag and drop, or import them via the menu.
 
 Zoom out and drag the canvas (right mouse button) to position the tutorial so that it lines up with the diagrams.net editor in your Teams browser window.
 <img src="/assets/img/blog/diagrams-in-teams-import-diagram.gif" style="width=100%;max-width:600px;height:auto;" alt="diagrams.net in Teams: Drag and drop a diagram file into a diagram tab in Teams to import it">
 
-## Rename a diagram tab in Teams
+### Rename a diagram tab in Teams
 
 1. Click on the down arrow next to the diagram tab's title, and select _Rename_. 
 <br /><img src="/assets/img/blog/microsoft-teams-rename-diagram1.png" style="width=100%;max-width:500px;height:auto;" alt="diagrams.net in Teams: Rename a diagram tab in Teams">
 2. Enter a new name for your tab and diagram and click _Save_.
 <br /><img src="/assets/img/blog/microsoft-teams-rename-diagram2.png" style="width=100%;max-width:300px;height:auto;" alt="diagrams.net in Teams: Rename a diagram tab in Teams">
 
-## Remove a diagram tab from Teams
+### Remove a diagram tab from Teams
 
 1. Click on the down arrow next to the diagram tab's title, and select _Remove_. 
 <br /><img src="/assets/img/blog/microsoft-teams-remove-diagram1.png" style="width=100%;max-width:500px;height:auto;" alt="diagrams.net in Teams: Remove a diagram tab in Teams - this does not delete the diagram file in your cloud storage">
@@ -126,6 +131,22 @@ Zoom out and drag the canvas (right mouse button) to position the tutorial so th
 <br /><img src="/assets/img/blog/microsoft-teams-remove-diagram2.png" style="width=100%;max-width:300px;height:auto;" alt="diagrams.net in Teams: Remove a diagram tab in Teams - this does not delete the diagram file in your cloud storage">
 
 **Note:** This does not remove your diagram file from your Cloud storage location - it only removes the diagram tab. To add it again, follow the steps to open an existing diagram in a Teams tab at the start of this tutorial.
+
+### Add a diagram to a conversation in Teams
+
+1. Click on _Start Conversation_, then click on the diagrams.net icon.
+<br /><img src="/assets/img/blog/microsoft-teams-add-diagram-chat1.png" style="width=100%;max-width:500px;height:auto;" alt="diagrams.net in Teams: Click on the diagrams.net logo underneath the text field to add a diagram to the conversation">
+2. Select your diagram or add a new diagram following the same steps as for adding a diagram tab above. 
+3. Send your message to the conversation channel. A thumbnail preview of the first page of your diagram will be displayed in the message, but a new diagram tab will not be added to your team's channel. 
+<br /><img src="/assets/img/blog/microsoft-teams-add-diagram-chat2.png" style="width=100%;max-width:500px;height:auto;" alt="diagrams.net in Teams: A diagram added to chat will display the first diagram page as a thumbnail">
+4. Click on _Edit_ to open the diagram file in the diagrams.net editor. 
+5. Click on _View_ to see a larger view of the diagram - you can step through pages, click on embedded links in the diagram and hide or display layers using the toolbar that appears when you hover over the diagram. 
+   * Zoom in and out with the magnifying glass tools in the toolbar. 
+   * Click and drag with the left or middle mouse button to move the canvas around.
+<br /><img src="/assets/img/blog/microsoft-teams-view-diagram.png" style="width=100%;max-width:500px;height:auto;" alt="diagrams.net in Teams: Use the toolbar at the bottom of the viewer to zoom in ">
+
+**Note:** If you don't see the diagrams.net icon underneath the conversation entry field, click on the three dots ``...``, then search for diagrams.net in the list of apps. Click on diagrams.net and follow the remaining steps above to add your diagram to the conversation.
+<br /><img src="/assets/img/blog/microsoft-teams-search-app-chat.png" style="width=100%;max-width:300px;height:auto;" alt="diagrams.net in Teams: Rename a diagram tab in Teams">
 
 ## FAQs
 
