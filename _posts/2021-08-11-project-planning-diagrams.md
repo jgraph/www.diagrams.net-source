@@ -10,6 +10,8 @@ categories: [features, use-cases]
 
 Teams in different departments use many different methods to plan projects, but most of these plans are initially sketched on a whiteboard. Collaborate in real time and online with distributed team members, customers and stakeholders easily in the [diagrams.net whiteboard-like editor theme](https://sketch.diagrams.net) throughout your project development process.
 
+Note that the sketch theme is also available as a macro in our [draw.io branded integration to Confluence Cloud](https://marketplace.atlassian.com/apps/1210933/draw-io-diagrams-for-confluence?hosting=cloud&tab=overview). It is also coming to [draw.io for Confluence Data Center](https://marketplace.atlassian.com/apps/1210933/draw-io-diagrams-for-confluence?hosting=datacenter&tab=overview).
+
 **Create a new whiteboard diagram**
 
 1. Go to [sketch.diagrams.net](https://sketch.diagrams.net/).
