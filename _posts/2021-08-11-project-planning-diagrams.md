@@ -77,7 +77,7 @@ Design mockups and wireframes of web pages and applications together: [Share the
 
 Add comments, notes and links on shapes to share the why behind your decisions.
 
-Add a specific shape - a coloured pin is traditional in agile projects - to the ideas, designs, or changes you, your team members and stakeholders believe should be implemented. why behind your decisions.
+Add a specific shape - a coloured pin is traditional in agile projects - to the ideas, designs, or changes you, your team members and stakeholders believe should be implemented.
 
 When everyone votes on planned changes in such a way, your team will collaborate more effectively, moving your projects forward together with a single shared vision, even when working remotely.
 
