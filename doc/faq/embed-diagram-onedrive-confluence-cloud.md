@@ -2,7 +2,7 @@
 title: Embed a diagram from OneDrive into Confluence Cloud
 layout: page
 faq: true
-categories: [Confluence Cloud]
+categories: [Confluence Cloud, Microsoft]
 ---
 
 Use the _Embed draw.io diagram_ macro to connect to OneDrive and embed a .drawio diagram file hosted there.

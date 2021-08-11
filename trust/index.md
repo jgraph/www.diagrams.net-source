@@ -8,6 +8,11 @@ Terms and Conditions
 
 These Terms and Conditions (“Terms”) cover all of the ways in which we communicate with you on this website and in any related communications channels such as our feeds, social media and email. When you access our services, or sign up to hear from us, we understand that you are OK with these Terms.
 
+See the specific terms for our app integrations:
+* [Privacy policy and SLA for the diagrams.net app in Microsoft Teams](/trust/privacy-microsoft-teams.html)
+* [SLA for the draw.io apps in Atlassian products](/trust/sla-atlassian.html)
+* [SLA for the diagrams.net apps in Google Workspace](/trust/sla-gsuite.html)
+
 This Privacy Policy details how diagrams.net collects, uses and shares information gathered from you, as well as explaining how diagrams.net diagram data is processed and stored.
 
 diagrams.net is a trademark and draw.io is a registered trademark of JGraph Ltd. JGraph Ltd is a company registered in England that develops and owns the software, runs the diagrams.net and draw.io sites and owns the diagrams.net and draw.io brands.
