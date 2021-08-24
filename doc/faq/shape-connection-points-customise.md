@@ -49,4 +49,4 @@ You can [force a floating or fixed connection at any location](/doc/faq/connect-
 
 You can [create your own custom shapes](/doc/faq/custom-shapes.html) in addition to simply modifying an existing shape's connection points by specifying the custom shape's foreground and background geometry, connection points, shape styles and label text.
 
-**Note:** An optional third coordinate in the ``points[]`` array may function as a toggle (outline/perimeter), or an offset to move the connection point around inside the shape or between its outline and its perimeter, but this works only on some shapes. This third coordinate is therefore only used for development purposes. 
+**Note:** An optional third coordinate in the ``points[]`` array may function as a toggle (outline/perimeter), or an offset to move the connection point around inside the shape or between its outline and its perimeter, but this works only on some shapes. This third coordinate is therefore only used for development purposes. An optional fourth and fifth coordinate may be added to define an absolute offset in pixels.
