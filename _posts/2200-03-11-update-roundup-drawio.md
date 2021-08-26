@@ -19,7 +19,7 @@ A few extended features require operations that cannot be performed within your 
 The features that use the server endpoints include:
 
 * Export to ``.pdf`` files.
-* Import from ``.vsdx``, ``.vsd``, and ``.vssx`` diagram files, including embedded EMF images.
+* Import from ``.vdx``, ``.vsd``, and ``.vssx`` diagram files, including embedded EMF images.
 * Generation of diagram images from PlantUML.
 * Import of Gliffy diagrams.
 

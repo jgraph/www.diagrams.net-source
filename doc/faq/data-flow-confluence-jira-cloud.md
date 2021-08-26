@@ -15,7 +15,7 @@ These functions include:
 
 * Export to PDF
 * Export to PNG for IE 11 and Safari
-* Import a .vsdx, .vssx or .gliffy file
+* Import a .vsd, .vdx, .vssx or .gliffy file
 
 **Tip:** Select your server endpoint (``EU`` or ``US``) for these online services with ``dataGovernance`` in the draw.io configuration. If you want to disable all communication except between the user's browser and the location where it is stored in your Atlassian product, set ``lockdown`` to ``true``. 
 

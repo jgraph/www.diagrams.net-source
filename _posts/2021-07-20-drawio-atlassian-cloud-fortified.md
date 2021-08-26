@@ -43,7 +43,7 @@ If you are using the draw.io apps for Confluence or Jira Cloud, Atlassian lets y
 Set the draw.io **lockdown** option as a JSON string in the app configuration to additionally restrict data transmission to _only_ between a user's browser and their Confluence Cloud instance: 
 <br />``"lockdown": true``
 
-If you use one of the draw.io features that are not provided within the scope of the Atlassian platform (PDF generation; ``.vdsx``, ``.vsd``, ``.vssx`` and ``.gliffy`` import; and generated PlantUML images), use the draw.io **datagovernance** option to set a server endpoint region in a JSON string in the app configuration: 
+If you use one of the draw.io features that are not provided within the scope of the Atlassian platform (PDF generation; ``.vdx``, ``.vsd``, ``.vssx`` and ``.gliffy`` import; and generated PlantUML images), use the draw.io **datagovernance** option to set a server endpoint region in a JSON string in the app configuration: 
 <br />``"dataGovernance": "EU"`` or ``"dataGovernance": "US"``
 <br /><img src="/assets/img/blog/confluence-cloud-data-governance-lockdown-configuration.png" style="width=100%;max-width:600px;height:auto;" alt="Set which draw.io server endppoint region to use and restrict data transmission to between browser and Confluence Cloud in the draw.io app configuration JSON code">
 
