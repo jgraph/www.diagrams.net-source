@@ -26,6 +26,12 @@ In addition to using property names as placeholders, you can use the following p
 | ``%page%`` | Prints the title of the current page. |
 | ``%filename%`` | Prints the name of the file. |
 
+### Additional placeholders for Atlassian Confluence Server and DC
+
+| ``%creatorName%`` | Prints the name of the user that created the file. |
+| ``%lastModifiedBy%`` | Prints the name of the user that last modified the file. |
+| ``%lastModifiedTime[:format]%`` |  Prints the last modified date using an optional date format, eg. %lastModifiedTime:dddd, mmmm d, yyyy% |
+
 **Notes:**
 
 * To print some text between ``%`` characters without the text being replaced, use two ``%`` characters. For example, ``%%name%`` prints ``%name%`` even if a property called ``name`` exists.
