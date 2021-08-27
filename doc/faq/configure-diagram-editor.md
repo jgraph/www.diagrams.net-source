@@ -194,7 +194,9 @@ This configuration produces the following _More Shapes_ dialog when combined wit
 
 * ``thumbWidth/thumbHeight``: Defines the width and height for the entries in the left panel (6.5.4 and later).
 
-* ``zoomFactor``: Defines the zoom factor for mouse wheel and trackpad zoom. Default is 1.2. (14.7.0 and later).
+* ``zoomFactor``: Defines the zoom factor for mouse wheel and trackpad zoom. Default is 1.2 (14.7.0 and later).
+
+* ``pageFormat``: Defines the default page format, eg. ``"pageFormat": {"width": 1169, "height": 1654}`` for DIN A3, with inches * 10 for width and height (15.0.0 and later).
 
 * ``gridSteps``: Defines the number of minor grid steps (14.3.2 and later).
 
