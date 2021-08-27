@@ -57,3 +57,5 @@ If you find your maths equation is not rendered correctly, the text may be hidin
 <br /><img src="/assets/img/blog/maths-unhide-html.png" style="width=100%;max-width:400px;height:auto;" alt="Unhide HTML tags if you have problems rendering your equation">
 
 See also: [Why text in exported SVG images may not display correctly](/doc/faq/svg-export-text-problems)
+
+Note: Math typesetting is not available in draw.io for Confluence Server or Data Centre.
