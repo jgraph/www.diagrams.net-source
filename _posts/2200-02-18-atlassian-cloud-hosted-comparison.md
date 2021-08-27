@@ -2,7 +2,7 @@
 layout: post
 author: diagrams.net
 slug: atlassian-cloud-hosted-comparison
-date: 2200-02-18 09:54:00
+date: 2021-07-30 09:54:00
 title: Differences between draw.io for Confluence Cloud and Data Center/Server 
 tags: [features, Atlassian]
 categories: [features,atlassian]
