@@ -28,7 +28,7 @@ Select your foreground page:
 
 <img src="/assets/img/blog/foreground-page.png" style="max-width:100%;height:auto;" alt="Forground page to diagram">
 
-Note that we're using [built-in placeholders](https://www.diagrams.net/doc/faq/predefined-placeholders) within the information block, but we don't yet support placeholders in background pages. For now the text placeholders are on the foreground page.
+Note that we're using [built-in placeholders](https://www.diagrams.net/doc/faq/predefined-placeholders) within the information block.
 
 With nothing in the diagram selected click **change** in the right-hand **diagram** format panel to bring up the background dialog:
 
@@ -38,9 +38,9 @@ In the background dialog we select our background page, named **background** in 
 
 <img src="/assets/img/blog/background-selection.png" style="max-width:100%;height:auto;" alt="Background options dialog">
 
-And the first page now contains the second page as a non-selectable background:
+And the first page now contains the second page as a non-selectable background (click to open the actual diagram):
 
-<img src="/assets/img/blog/diagram-with-background.png" style="max-width:100%;height:auto;" alt="Diagram complete with background">
+<a href="https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=background-page.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fbackground-page.drawio" target="_blank"><img src="/assets/img/blog/diagram-with-background.png" style="max-width:100%;height:auto;" alt="Diagram complete with background"></a>
 
 ## Create a Template
 
