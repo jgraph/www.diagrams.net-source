@@ -216,6 +216,8 @@ This configuration produces the following _More Shapes_ dialog when combined wit
 
 * ``compressXml``: Specifies if the XML output should be compressed. The default is ``true`` (``false`` for Confluence Cloud).
 
+* ``includeDiagram``: Specifies the default for including diagram data in export dialogs.
+
 * ``dataGovernance``: Set the [server endpoint region](/blog/data-governance-lockdown.html). The default is to use your closest region, (either ``EU `` or ``US``). If ``lockdown`` is set to ``true``, ``dataGovernance`` is ignored.
 
 * ``lockdown``: [Disable data transmission](/blog/data-governance-lockdown.html), apart from directly between your browser and your selected data storage location. Default is ``false``.
