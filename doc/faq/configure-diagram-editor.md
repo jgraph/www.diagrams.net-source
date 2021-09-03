@@ -194,6 +194,8 @@ This configuration produces the following _More Shapes_ dialog when combined wit
 
 * ``thumbWidth/thumbHeight``: Defines the width and height for the entries in the left panel (6.5.4 and later).
 
+* ``zoomWheel``: Specifies if the mouse wheel is used for zoom without any modifiers (15.0.6 and later).
+
 * ``zoomFactor``: Defines the zoom factor for mouse wheel and trackpad zoom. Default is 1.2 (14.7.0 and later).
 
 * ``pageFormat``: Defines the default page format, eg. ``"pageFormat": {"width": 1169, "height": 1654}`` for DIN A3, with inches * 10 for width and height (15.0.0 and later).
@@ -216,7 +218,7 @@ This configuration produces the following _More Shapes_ dialog when combined wit
 
 * ``compressXml``: Specifies if the XML output should be compressed. The default is ``true`` (``false`` for Confluence Cloud).
 
-* ``includeDiagram``: Specifies the default for including diagram data in export dialogs.
+* ``includeDiagram``: Specifies the default for including diagram data in export dialogs (15.0.4 and later).
 
 * ``dataGovernance``: Set the [server endpoint region](/blog/data-governance-lockdown.html). The default is to use your closest region, (either ``EU `` or ``US``). If ``lockdown`` is set to ``true``, ``dataGovernance`` is ignored.
 
