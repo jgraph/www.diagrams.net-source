@@ -2,7 +2,7 @@
 layout: post
 author: diagrams.net
 slug: sponsorship
-date: 2021-05-06 11:04:00
+date: 2221-05-06 11:04:00
 title: Open Source sponsorship program
 tags: [sponsoring, open source, news]
 categories: [features]
