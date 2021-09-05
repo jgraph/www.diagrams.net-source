@@ -7,9 +7,16 @@ categories: [Export]
 
 When you look at a diagram exported to an SVG image in IE or some SVG editors, the text may not display correctly.
 
-diagrams.net uses foreign objects (``foreignObject``) in SVG to allow complex, HTML labels on shapes. To disable complex HTML labels by default, click [here](https://app.diagrams.net#_CONFIG_UzV3UjUyyk0tSk8F0qrGjqpggeLM3IKcVJ/EpNScYoh4SVFpqqq5CxABAA==).
+diagrams.net uses foreign objects (``foreignObject``) in SVG to allow complex, HTML labels on shapes. To disable complex HTML labels by default (so that the output does not
+contain foreign objects), click [here](https://app.diagrams.net#_CONFIG_UzV3UjUyyk0tSk8F0qrGjqpggeLM3IKcVJ/EpNScYoh4SVFpqqq5CxABAA==). This sets the JSON configuration in the browser that you load it in. That is why a warning is shown. If you accept, the line:
 
-All modern browsers including Chrome, Firefox, Safari and Microsoft Edge support this functionality. Internet Explorer 11 and earlier versions of IE do not.
+```
+"simpleLabels": true
+```
+
+is added to your configuration. You can see that (after reloading) under Extras, Configuration (or Preferences, Configuration, depending on your theme).
+
+All modern browsers including Chrome, Firefox, Safari and Microsoft Edge support foreign objects. Internet Explorer 11 and earlier versions of IE do not.
 
 We can account for this dynamically if you use diagrams.net in IE11 or earlier. However, the exported SVG will not show all labels when the SVG image file is viewed in IE and most SVG editors (such as Inkscape and Illustrator), as well as some online services such as Wordpress. Instead, you will see a short version of the label and a warning ``Viewer does not support full SVG 1.1`` at the bottom of the SVG export. This warning can be suppressed by using the [svg-warning=0 URL parameter](/doc/faq/supported-url-parameters).
 
