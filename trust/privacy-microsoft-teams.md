@@ -4,9 +4,11 @@ layout: page
 path: /trust/
 ---
 
-This Privacy Policy details how the diagrams.net App for Microsoft Teams collects, uses and shares information gathered from the User ("you"), as well as explaining how diagrams.net data is processed and stored. The App is created by JGraph Ltd ("we/us/diagrams.net").
+This Privacy Policy details how the diagrams.net by JGraph App for Microsoft Teams (hereafter called the "diagram.net app" collects, uses and shares information gathered from the User ("you"), as well as explaining how data is processed and stored. The App is created by JGraph Ltd ("we/us/diagrams.net").
 
-The diagrams.net App for Microsoft Teams enables a user to select a diagram from their OneDrive, then load and edit that diagram within a tab on the Teams interface. Usage of the diagrams.net application is covered by the diagrams.net privacy policy, this policy is specific to just operation of the Teams app.
+The diagrams.net App enables a user to select a diagram from their OneDrive or Sharepoint, then load and edit that diagram within a tab on the Teams interface. Usage of the online app.diagrams.net application is covered by the diagrams.net privacy policy, this policy is specific to just operation of the Microsoft Teams app.
+
+If you have any questions regarding this privacy policy, please email [privacy@jgraph.com](mailto:privacy@jgraph.com).
 
 ## Editing a diagram
 
