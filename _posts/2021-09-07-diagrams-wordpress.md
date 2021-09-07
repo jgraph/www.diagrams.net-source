@@ -36,7 +36,7 @@ SVG versions of a diagram can only display one page, although the exported SVG f
 
 
 
-## Troubleshotting a broken diagram
+## Troubleshooting a broken diagram
 
 The SVG image format does not support HTML text formatting options. Shapes (vertices) can use word wrap, and both shapes and connectors can use text formatting. Both of these must be disabled before you export your diagram.
 
