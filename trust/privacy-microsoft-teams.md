@@ -34,6 +34,8 @@ We do not store your data at any time, nor do we see your data during save/load 
 
 ## Data security
 
-Diagrams data is transmitted to diagrams.net servers if you request a PDF of your diagram. The PDF generation servers are configured to industry standard security level and have penetration testing by a third-party at least every 12 months. 
+Diagrams data is transmitted to diagrams.net servers if you request a PDF of your diagram. The PDF generation servers are configured to industry standard security level and have ongoing security testing as part of a bug bounty program.
 
 Data transmitted from the client browser to the PDF generation servers is encrypted with TLS1.2+ and encrypted at all points in transit between your browser and the endpoint server.
+
+No data is ever retained on JGraph servers, it deleted immediately after export processing is completely.
