@@ -10,9 +10,9 @@ categories: [features]
 
 SVG images load quickly, especially when compared to loading diagram images in other formats. You can embed an SVG image exported from diagrams.net in a website, document or even a WordPress site if you have installed a plugin that support the upload of SVG files.
 
-SVG or Scalable Vector Graphics is a file format that defines vector-graphics using the XML markup language, similar to the ``.drawio`` file format used for diagrams created in diagrams.net. SVG images can be enlarged or shrunk without losing quality or introducing pixellation, unlike ``.JPG``, ``.GIF`` and ``.PNG`` image formats. Because SVG uses XML code, non-image code can be embedded in these files, which has resulted in them not being supported on certain platforms (like WordPress) without third-party plugins.
+SVG or Scalable Vector Graphics is a file format that defines vector-graphics using the XML markup language, similar to the ``.drawio`` file format used for diagrams created in diagrams.net. SVG images can be enlarged or shrunk without losing quality or introducing pixellation, unlike ``.JPG``, ``.GIF`` and ``.PNG`` image formats. Because SVG uses XML code, non-image code can be embedded in these files, which has resulted in them not being supported on certain platforms without third-party plugins.
 
-You must disable text formatting and word wrap on all labels in your diagram before you export it to the SVG image. This makes sure that the text in your diagram will display correctly.
+To make sure your SVG diagram displays correctly when embedded your SVG diagram in an online platform that does not support foreign objects in SVG files, [disable _Text Formatting_ and _Word Wrap_ on all text elements in your diagram](/blog/diagrams-in-wordpress.html).
 
 ## Prepare your diagram for export
 
