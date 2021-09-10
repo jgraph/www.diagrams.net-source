@@ -31,16 +31,11 @@ SVG versions of a diagram can only display one page, although the exported SVG f
 6. Publish your page. Now, when someone clicks on the diagram, it will open in the diagrams.net lightbox or editor according to the settings you selected. 
 <br /><img src="/assets/img/blog/wordpress-embedded-svg.png" style="width=100%;max-width:450px;height:auto;" alt="When viewers click on the embedded SVG in your WordPress page, they will be taken to the diagrams.net lightbox or editor">
 
+### Troubleshooting a broken diagram in WordPress
 
+WordPress does not support SVG images with foreign objects, like the HTML text formatting options that you can use on labels. 
 
-
-
-
-## Troubleshooting a broken diagram
-
-The SVG image format does not support HTML text formatting options. Shapes (vertices) can use word wrap, and both shapes and connectors can use text formatting. Both of these must be disabled before you export your diagram.
-
-These options are not enabled by default, but you may have enabled them as you edited your diagram.
+Shapes (vertices) can use word wrap, and both shapes and connectors can use text formatting by using HTML tags. Both of these must be disabled before you embed your SVG diagram in WordPress.
 
 For example, with both word wrap and text formatting enabled, the diagram above is broken when embedded as an SVG in WordPress.
 <br /><img src="/assets/img/blog/wordpress-embed-broken-svg.png" style="width=100%;max-width:450px;height:auto;" alt="Make sure you disable word wrap and text formatting to get a clean SVG">

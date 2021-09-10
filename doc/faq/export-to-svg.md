@@ -14,3 +14,5 @@ categories: [Export]
    * By default _Links_ will open following the viewer's browser preferences. Select a different behaviour if you want links to always open in a new tab or a new browser window.
    <br /><img src="/assets/img/blog/export-svg-options.png" style="width=100%;max-width:200px;height:auto;" alt="Choose the export settings for the SVG image">
 3. Click _Export_ and select the location to save your SVG file.
+
+**Note:** If you want to add your exported SVG diagram to an online platform that does not support foreign objects in SVG files, you can [disable _Text Formatting_ and _Word Wrap_ on all text elements in your diagram](/blog/diagrams-in-wordpress.html).

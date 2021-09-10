@@ -5,7 +5,7 @@ faq: true
 categories: [Integrations, Features]
 ---
 
-You can embed the SVG markup of your diagram in web pages, or services such as Blogger. Your diagram is not hosted anywhere as it is fully described within this markup. Embedded SVGs support links, display cleanly as a vector images (suited for Retina displays), and load much faster than [embedded HTML](/doc/faq/embed-html.html).
+You can embed the SVG markup of your diagram in web pages, or services such as Blogger or WordPress. Your diagram is not hosted anywhere as it is fully described within this markup. Embedded SVGs support links, display cleanly as a vector images (suited for Retina displays), and load much faster than [embedded HTML](/doc/faq/embed-html.html).
 
 1. Select _File > Embed > SVG_.
 2. Select the options for the exported SVG file:
@@ -24,3 +24,5 @@ You can embed the SVG markup of your diagram in web pages, or services such as B
 
 * [Mathematical typesetting](/blog/maths-in-diagrams.html) is currently not supported in the SVG output.
 * SVG is only supported in IE9 and later, and foreign objects (``foreignObject``), which are used to display HTML labels, are not supported in Internet Explorer (they do work in Microsoft Edge). If you need support for all versions of IE (including IE6) you should export to an image or [embed it as HTML or an iFrame](/doc/faq/embed-html.html). If you need support for IE9 and later then you should use an image, embed HTML or make sure to disable Word Wrap and Formatted Text for all labels as explained here.
+
+If you want to embed your SVG diagram in a platform that does not support foreign objects in SVG files, [disable _Text Formatting_ and _Word Wrap_ on all text elements in your diagram](/blog/diagrams-in-wordpress.html).
