@@ -12,7 +12,7 @@ SVG images load quickly, especially when compared to loading diagram images in o
 
 SVG or Scalable Vector Graphics is a file format that defines vector-graphics using the XML markup language, similar to the ``.drawio`` file format used for diagrams created in diagrams.net. SVG images can be enlarged or shrunk without losing quality or introducing pixellation, unlike ``.JPG``, ``.GIF`` and ``.PNG`` image formats. Because SVG uses XML code, non-image code can be embedded in these files, which has resulted in them not being supported on certain platforms without third-party plugins.
 
-To make sure your SVG diagram displays correctly when embedded your SVG diagram in an online platform that does not support foreign objects in SVG files, [disable _Text Formatting_ and _Word Wrap_ on all text elements in your diagram](/blog/diagrams-in-wordpress.html).
+To make sure your SVG diagram displays correctly when embedding it in an online platform that does not support foreign objects in SVG files (like WordPress), [disable _Text Formatting_ and _Word Wrap_ on all text elements in your diagram](/blog/diagrams-in-wordpress.html).
 
 ## Prepare your diagram for export
 
