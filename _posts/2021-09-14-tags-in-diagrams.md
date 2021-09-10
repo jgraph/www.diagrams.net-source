@@ -2,7 +2,7 @@
 layout: post
 author: diagrams.net
 slug: tags-in-diagrams
-date: 2021-09-10 09:10:00
+date: 2021-09-14 09:10:00
 title: Use tags in diagrams to select, hide and display related shapes and connectors
 tags: [features]
 categories: [features]
