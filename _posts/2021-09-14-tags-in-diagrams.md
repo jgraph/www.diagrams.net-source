@@ -12,6 +12,8 @@ You can now use tags on shapes and connectors which allows you to select, hide o
 
 You can assign multiple tags to each shape and connector, which allows for more complex actions when selecting, hiding or displaying the tagged elements via the new Tags dialog.
 
+**Tags and real-time collaboration:** If you are collaborating on a diagram file at the same time as other editors, your view of which tagged shapes and connectors are visible or hidden does not affect what the others see as they edit the diagram.
+
 <img src="/assets/img/blog/tags-dialog.png" style="width=100%;max-width:500px;height:auto;" alt="Tags on shapes and connectors in diagrams allow you to quickly select, hide or display related shapes without them needing to be grouped or on a single layer">
 
 **Open the Tags dialog**
