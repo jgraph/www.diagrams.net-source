@@ -8,7 +8,7 @@ tags: [features]
 categories: [features,integrations]
 ---
 
-Github.dev allows you to edit files stored in Github repositories in a web-based code editor. It has many of the benefits of Visual Studio Code - search, syntax highlighting, and a source control view. After installing the unofficial draw.io extension for Visual Studio Code into the web-based editor, you can quickly navigate, view and edit diagram files stored in your Github repositories without ever leaving your browser. 
+Github.dev allows you to edit files stored in Github repositories in a web-based code editor. It has many of the benefits of Visual Studio Code - search, syntax highlighting, and a source control view. After installing the [unofficial draw.io extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio) into the web-based editor, you can quickly navigate, view and edit diagram files stored in your Github repositories without ever leaving your browser. 
 
 <img src="/assets/img/blog/github-dev-edit-diagram.png" style="width=100%;max-width:600px;height:auto;" alt="Navigate to and click on a diagram file in your repository via Github.dev to open it in the diagram editor">
 
@@ -16,7 +16,7 @@ Github.dev allows you to edit files stored in Github repositories in a web-based
 
 [Github.dev](https://github.dev/github/dev) is useful when you want to have more editing and syntax hightlighting features in your web browser as you step through, test and edit code in a Github repository. 
 
-This lightweight web-based editor runs entirely within your browser's sandbox, similar to the [diagrams.net editor](https://app.diagrams.net), and does not need to clone a repository to work with the files within it, unlike a desktop code editor. 
+This lightweight web-based editor runs entirely within your browser's sandbox, similar to the [diagrams.net editor](https://app.diagrams.net), and does not need to explicitly clone a repository to work with the files within it, unlike a desktop code editor. 
 
 See the [Github.dev documentation](https://github.co/codespaces-editor-help) for more details.
 
@@ -30,7 +30,7 @@ The [unofficial draw.io extension, developed by Henning Dieterichs](https://gith
 
 1. In your browser, go to the repository you want to work with at Github.com, and make sure you are signed into your Github account.
 2. Replace the ``.com`` part of the URL with ``.dev`` and reload the page.
-<br />_For example, from ``https://github.com/jgraph/drawio-diagrams`` to ``https://github.dev/jgraph/drawio-diagrams``_
+<br />_For example, from [``https://github.com/jgraph/drawio-diagrams``](https://github.com/jgraph/drawio-diagrams) to [``https://github.dev/jgraph/drawio-diagrams``](https://github.dev/jgraph/drawio-diagrams)_
 <br /><img src="/assets/img/blog/github-dev-repository.png" style="width=100%;max-width:600px;height:auto;" alt="Step 1 - Open your repository in the lightweight web-based editor via Github.dev">
 
 
