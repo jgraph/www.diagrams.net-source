@@ -38,7 +38,7 @@ Diagrams.net lets you [store your diagram files in Google Drive](https://app.dia
 
 ### Microsoft Sharepoint, OneDrive, Office 365 and Teams integrations
 
-diagrams.net works with [OneDrive and Sharepoint](https://app.diagrams.net/?mode=onedrive). An [Office 365 app](https://office.diagrams.net/) is available for Word, Powerpoint and Excel, and a [Microsoft Teams app](/doc/faq/microsoft-teams-diagrams.html) will be announced soon. 
+diagrams.net works with [OneDrive and Sharepoint](https://app.diagrams.net/?mode=onedrive). An [Office 365 app](https://office.diagrams.net/) is available for Word, Powerpoint and Excel, and a [Microsoft Teams app](/doc/faq/microsoft-teams-diagrams.html). 
 
 ## 3rd-party integrations
 
