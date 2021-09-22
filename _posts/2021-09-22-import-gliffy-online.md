@@ -26,7 +26,7 @@ Open any text editor on your computer and paste the text in. Then save the file,
 
 Repeat that until you have a file for each Gliffy diagram.
 
-Next, go to [app.diagrams.net](https://app.diagrams.net) and drag and drop the first file into the tab. Your diagram will be imported and you can click on the orange "unsaved diagram" warning to pick your save location.
+Next, go to [app.diagrams.net](https://app.diagrams.net) and drag and drop the first file into the diagrams.net editor. Your diagram will be imported and you can click on the orange "unsaved diagram" warning to pick your save location.
 
 <img src="/assets/img/blog/diagrams-net-save-dialog.png" style="width=100%;max-width:600px;height:auto;" alt="The save option dialog in diagrams.net. At the top is a text field to type in the file name. Below are various storage options to select.">
 
