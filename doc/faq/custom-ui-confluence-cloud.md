@@ -28,3 +28,11 @@ There are four draw.io themes you can set as the default in Confluence Cloud.
 | **kennedy:** The Kennedy theme has no draw.io logo to the left of the menu. | **atlassian:** The default Atlassian theme uses the Atlassian colours and includes the draw.io logo. |
 | <img src="/assets/img/blog/theme-dark-confluence-cloud.png" style="width=100%;max-width:300px;height:auto;" alt="Dark theme in draw.io for Confluence Cloud"> | <img src="/assets/img/blog/theme-minimal-confluence-cloud.png" style="width=100%;max-width:300px;height:auto;" alt="Minimal theme in draw.io for Confluence Cloud"> |
 | **dark:** The Dark theme is for users who prefer working on a dark background.| **min:** The Minimal theme shows you a larger drawing canvas and uses floating instead of fixed panels for shape libraries and format settings. |
+
+### draw.io whiteboard macro
+
+The simpler whiteboard-like sketch UI theme is used by default in the _draw.io Sketch_ macro. 
+
+[Learn how to use the draw.io macro](/blog/online-whiteboard-confluence.html)
+
+<img src="/assets/img/blog/confluence-online-whiteboard-drawio.png" style="width=100%;max-width:600px;height:auto;" alt="With the draw.io Sketch macro, you have a fully featured online whiteboard inside Confluence Cloud">

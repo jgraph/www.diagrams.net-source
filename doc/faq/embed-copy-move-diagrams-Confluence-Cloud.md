@@ -1,68 +1,46 @@
 ---
-title: Embed, copy and move draw.io diagrams in Confluence Cloud
+title: Work with draw.io diagrams in Confluence Cloud
 layout: page
 faq: true
 categories: [Confluence Cloud]
 ---
 
-There are a number of ways to reuse your .drawio diagrams in Confluence Cloud:
-1. Embed (reuse) a diagram - this means you have one diagram in a number of locations, and when you update the original diagram (the master), wherever you have embedded it will update automatically.
-2. Copy a diagram - this creates a new diagram file on another page, with a new version history.
-3. Move a diagram - simply copy the diagram onto the new page, then delete the original.
+You can access the existing draw.io diagram files in your current Confluence Cloud space via the left panel. You can copy these diagrams, move them between pages and embed or reuse a diagram on multiple pages.
+<br /><img src="/assets/img/blog/confluence-cloud-list-drawio-diagrams.png" style="width=100%;max-width:500px;height:auto;" alt="See all of the draw.io diagram in your Confluence Cloud space via the left panel">
 
-## (1) How to embed a draw.io diagram on another page
+## Copy a diagram
 
-This is when you want to display a diagram on another page. Embed diagrams when you want the copy on that page to be updated when the original is edited.
+When you add a draw.io diagram macro to a page, you can choose to make a copy of an existing diagram. This duplicates the diagram file and creates a new version history so you can make changes to the copy without altering the original diagram file.
+<br /><img src="/assets/img/blog/copy-diagram-example.png" style="width=100%;max-width:300px;height:auto;" alt="Select a diagram from the Recent tab, add a new diagram name and click Create to copy a draw.io diagram in Confluence Cloud">
 
-Embedding a diagram works similarly to the "Excerpt" and "Excerpt Include" Confluence macros - there is one master diagram (single source) that is simply displayed (embedded) in other locations using the diagram viewer. You can embed diagrams from one space in pages in another space.
+[See how to make a copy of a diagram file in Confluence Cloud](/doc/faq/confluence-cloud-copy-diagram.html)
 
-1. Edit the page you want to display the diagram on and start typing ``/draw``. Select the _Embed draw.io diagram_ macro from the suggestions.
-<br /><img src="/assets/img/blog/embed-diagram-macro-cloud.png" style="width=100%;max-width:300px;height:auto;" alt="Add the _Embed draw.io diagram_ macro to a Confluence Cloud page">
-2. Choose the diagram you wish to embed - recently updated diagrams are shown by default.  Select the diagram you want to embed, then click _Select_.
-   - If you don’t see your diagram here, click on the _Search_ tab at the top, and search for the name of your diagram. All diagrams with that name will appear in the results. Click on the diagram you want, then click _Select_.
-   - Hover over any diagram preview to see its file name.
-   <br /><img src="/assets/img/blog/select-diagram-embed-confluence-cloud.png" style="max-width:100%;height:auto;" alt="Search for and select the diagram you want to embed in a Confluence Cloud page">
-3. You'll see a preview of the diagram so you can check it is the one you want to embed. Click _Insert_ to embed it in your Confluence page.
-<br /><img src="/assets/img/blog/preview-embed-diagram-confluence-cloud.png" style="max-width:100%;height:auto;" alt="Preview the diagram before embedded it in a Confluence Cloud page">
+There are several additional ways to copy diagram content: 
+- Export your diagram and import that file into a new diagram.
+- In the draw.io editor, select everything, then copy and paste it into a new draw.io diagram.
+- Use the scratchpad to save the contents of your diagram page, add a new draw.io diagram macro, and paste the diagram contents from the scratchpad.
 
-You won't be able to edit the diagram from the Confluence page when you have used the _Embed draw.io diagram_ macro. You'll need to go to the page that has the original diagram and edit it there.
+**Note:** Creating a copy of a diagram does not copy the version history that recorded the edits made to the original diagram file.
+
+## Move a diagram 
+
+To move a diagram, copy the diagram file using one of the methods above, and then delete the original macro from the page. 
+
+[Learn more about moving ``.drawio`` diagrams in Confluence Cloud](/doc/faq/confluence-cloud-move-diagram.html)
+
+## Embed (reuse) a diagram 
+
+If you want to reuse a diagram in a number of locations, perhaps showing different layers or diagram pages, you can embed the diagram instead of making a copy. When you update the original diagram (the master), it will automatically update wherever you have embedded it.
+<br /><img src="/assets/img/blog/embed-diagram-macro-cloud.png" style="width=100%;max-width:200px;height:auto;" alt="Add the _Embed draw.io diagram_ macro to a Confluence Cloud page">
+
+You can select which layers and pages are shown each time you embed a diagram, making it very useful for highlighting different aspects of the diagram in documentation. 
+<br /><img src="/assets/img/blog/preview-embed-diagram-confluence-cloud.png" style="width=100%;max-width:500px;height:auto;" alt="Preview the diagram before embedded it in a Confluence Cloud page">
+
+[Learn how to embed and reuse diagrams, and select which layers and pages to display](/doc/faq/confluence-cloud-embed-diagram.html)
 
 Diagrams in the .drawio file format that are stored on [OneDrive](/doc/faq/embed-diagram-onedrive-confluence-cloud.md) and [Google Drive](/doc/faq/embed-diagram-googledrive-confluence-cloud.md) can also be embedded in Confluence Cloud.
 
+## Related
 
-## (2) How to make a copy of an existing draw.io diagram
-
-This is when you want to duplicate the diagram file and then edit the copy without changing the original diagram.
-
-You can also copy pages from one space to another space using the steps below.
-
-1. Edit the page you want to display the diagram on and start typing ``/draw``. Select the draw.io Diagram macro from the suggestions.
-<br /><img src="/assets/img/blog/insert-drawio-macro-confluence-cloud.png" style="width=100%;max-width:300px;height:auto;" alt="Add the draw.io Diagram macro to a Confluence Cloud page">
-2. Choose the diagram you wish to make a copy of - click on the _Recent_ tab to see the most recently updated diagrams.  Select the diagram you want to copy, edit the _Diagram Name_, then click _Create_.
-<br /><img src="/assets/img/blog/copy-diagram-example.png" style="width=100%;max-width:400px;height:auto;" alt="Select a diagram from the Recent tab, add a new diagram name and click Create to copy a draw.io diagram in Confluence Cloud">
-
-If you don’t see your diagram here, enter the file name of your diagram in the Search field and then click on _Search_.  
-Select the diagram you want to copy, then click _Create_.
-
-Note: You can hover over any diagram preview to see its file name.
-
-<br /><img src="/assets/img/blog/copy-diagram-example-search.png" style="width=100%;max-width:400px;height:auto;" alt="Search for a draw.io diagram file that you want copy in Confluence Cloud">
-
-Copying a diagram adds a new diagram file to the list of draw.io Diagrams in your Confluence Cloud space.
-
-There are several other ways to create a copy of a draw.io diagram:
-- Export your diagram as an XML file and import it into a draw.io diagram at its new location.
-- Select everything in the original diagram, copy and paste it into a new draw.io diagram at the new location (not so good for multi-page diagrams).
-- Select everything and drag it into the scratchpad in draw.io. Create a new diagram on your target page and paste the diagram in from the scratchpad (not so good for multi-page diagrams).
-
-## (3) How to move a draw.io diagram from one page to another
-
-To move a diagram from one page to another, you first need to copy the diagram (create a new diagram file in your instance), and then delete the original page/diagram.
-Note: The new copy (the moved diagram) will not retain its revision history.
-
-1. Make a copy of your draw.io diagram - follow the steps at (2) above.
-2. Once you have made a copy of the diagram on a different page and published it, you can delete the _draw.io_ macro from the source page and save it. This only deletes the diagram from the page - it will still exist as a draw.io diagram in your instance.
-
-### Recommended: Don't delete draw.io diagram files
-
-Note that the draw.io diagram file will still exist as an attachment to that original page and in the draw.io diagrams list of files in your instance. We recommend to leave those in place. If you revert the page to an earlier version after deleting the draw.io diagram file, the _draw.io_ macro on that page will show an error because the attachment is missing.
+* [Change which diagram page and layers are displayed in a draw.io macro](/doc/faq/confluence-cloud-viewer-change-page-layers.html)
+* [Recover a diagram from an unpublished page in Confluence Cloud](/doc/faq/confluence-cloud-recover-diagram-draft-page.html)
