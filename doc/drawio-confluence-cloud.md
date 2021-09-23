@@ -24,7 +24,7 @@ There are a number of ways to reuse your draw.io diagrams in Confluence Cloud:
 
 Embedding a diagram works similarly to the "Excerpt" and "Excerpt Include" Confluence macros - there is one master diagram (single source) that is simply displayed (embedded) in other locations using the diagram viewer.
 
-Use the the _Embed draw.io diagram_ macro and choose an existing diagram.
+[Use the the _Embed draw.io diagram_ macro](/doc/faq/confluence-cloud-embed-diagram.html) and choose an existing diagram.
 
 <img src="/assets/img/blog/embed-diagram-macro-cloud.png" style="width=100%;max-width:300px;height:auto;" alt="Add the _Embed draw.io diagram_ macro to a Confluence Cloud page">
 
@@ -34,15 +34,15 @@ You can also embed diagrams from cloud storage platforms in Confluence Cloud.
 
 **Copy a diagram**
 
-You can duplicate a diagram file and then edit the copy without changing the original diagram. When you add the _draw.io diagram_ macro to the page, select _Recent_ or search for an existing diagram file, select it, then click _Create_.
+You can [duplicate a diagram file](/doc/faq/confluence-cloud-copy-diagram.html) and then edit the copy without changing the original diagram. When you add the _draw.io diagram_ macro to the page, select _Recent_ or search for an existing diagram file, select it, then click _Create_.
 
 <img src="/assets/img/blog/copy-diagram-example.png" style="width=100%;max-width:400px;height:auto;" alt="Select a diagram from the Recent tab, add a new diagram name and click Create to copy a draw.io diagram in Confluence Cloud">
 
 **Move a diagram**
 
-To move a diagram from one page to another, you first need to copy the diagram (create a new diagram file in your instance), and then delete the _draw.io diagram_ macro from the original page. Don't delete the diagram file itself to preserve your page's revision history.
+To [move a diagram from one page to another](/doc/faq/confluence-cloud-move-diagram.html), you first need to copy the diagram (create a new diagram file in your instance), and then delete the _draw.io diagram_ macro from the original page. Don't delete the diagram file itself to preserve your page's revision history.
 
-[Learn more about reusing draw.io diagrams in Confluence Cloud](/doc/faq/embed-copy-move-diagrams-confluence-cloud.html)
+[Learn more about working with draw.io diagrams in Confluence Cloud](/doc/faq/embed-copy-move-diagrams-confluence-cloud.html)
 
 [See how to recover a diagram that was previously moved](/doc/faq/recover-moved-diagram-confluence-cloud.html)
 

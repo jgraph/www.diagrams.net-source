@@ -63,12 +63,15 @@ Now that you have installed the draw.io app for Confluence Cloud, you can create
 
 1. Edit the page where you want to reuse a diagram, and type ``/draw``. Select the _Embed draw.io diagram_ macro.
 2. Search for the diagram name using the _Search_ field, select the diagram, then click _Select_.
-<br /><img src="/assets/img/blog/select-diagram-embed-confluence-cloud.png" style="max-width:100%;height:auto;" alt="Search for and select the diagram you want to embed in a Confluence Cloud page">
-3. Check that the preview shows the correct diagram, then click _Insert_.
+<br /><img src="/assets/img/blog/select-diagram-embed-confluence-cloud.png" style="width=100%;max-width:500px;height:auto;" alt="Search for and select the diagram you want to embed in a Confluence Cloud page">
+3. Check that the preview shows the correct diagram, choose the _Viewer Settings_ on the left, select the page and layers you wish to display using the toolbar above the preview, then click _Insert_.
+<br /><img src="/assets/img/blog/confluence-cloud-embed-diagram-viewer-settings.png" style="width=100%;max-width:500px;height:auto;" alt="Set the viewer settings, select a diagram page and set the visible layers when embedding an existing diagram in another Confluence Cloud page">
 
 You can also use this method to embed a diagram stored [in Google Drive](/doc/faq/embed-diagram-googledrive-confluence-cloud.html) or [in One Drive](/doc/faq/embed-diagram-onedrive-confluence-cloud.html).
 
 <img src="/assets/img/blog/embed-diagrams-confluence-cloud.png" style="max-width:100%;height:auto;" alt="Embedded diagrams in draw.io for Confluence Cloud">
+
+[Learn more about embedding and reusing diagrams in Confluence Cloud](/doc/faq/confluence-cloud-embed-diagrams.html)
 
 
 ## Additional resources

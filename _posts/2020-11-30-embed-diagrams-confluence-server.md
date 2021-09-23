@@ -79,6 +79,8 @@ The _Embed draw.io diagram_ macro won't show a preview of files embedded from cl
 
 ## Embed diagrams on Confluence Cloud
 
-Are you using Confluence Cloud instead? You can embed diagrams similarly from other Confluence Cloud pages, URLs, Google Drive and OneDrive.
+Are you using Confluence Cloud instead? You can embed existing diagrams similarly on multiple pages. 
 
-[Learn how to embed, copy and move diagrams in Confluence Cloud](/doc/faq/embed-copy-move-diagrams-Confluence-Cloud.html)
+[Embed and reuse draw.io diagrams in Confluence Cloud](/doc/faq/confluence-cloud-embed-diagram.html)
+
+You can also embed diagram files stored in online storage platforms like OneDrive or Google Drive into Confluence Cloud pages.
