@@ -4,7 +4,35 @@ layout: page
 categories: [Confluence Cloud]
 ---
 
-## Gliffy mass import
+draw.io is a fully featured diagramming tool, with large shape libraries and templates for a wide range of diagrams. 
+
+**Confluence users** who are new to diagramming can start with the [getting started section](#getting-started) below to learn the basics of draw.io and diagramming. 
+
+**Administrators** can jump to the following sections to see how to [mass-import Gliffy diagrams](#gliffy-mass-import), [customise draw.io](#customising-in-confluence-cloud) with a corporate style, custom libraries or templates, [troubleshooting problems](#troubleshooting), and [managing licenses](#administration-and-licensing).
+
+## Getting started
+
+**Step 1:** Use the [draw.io Board macro](/blog/drawio-board-macro.html) as an online whiteboard. Remote teams find the simpler editor useful for quick collaboration and discussions in meetings.
+<br /><img src="/assets/img/blog/confluence-online-whiteboard-drawio.png" style="width=100%;max-width:600px;height:auto;" alt="With the draw.io Board macro, you have a fully featured online whiteboard inside Confluence Cloud">
+
+**Step 2:** Get familiar with the more complex [draw.io Diagram editor layout](/doc/getting-started-editor.html). **Note:** The draw.io layout is almost identical to the editor at [app.diagrams.net](https://app.diagrams.net).
+<br /><img src="/assets/img/blog/theme-atlassian-confluence-cloud.png" style="width=100%;max-width:400px;height:auto;" alt="Atlassian theme in draw.io for Confluence Cloud">
+
+**Step 3:** [Create a basic flowchart with the draw.io Diagram macro](/doc/getting-started-basic-flow-chart.html) to learn the most common tools.
+<br /><img src="/assets/img/blog/basic-flow-add-labels.gif" style="width=100%;max-width:300px;height:auto;" alt="Draw a basic flowchart to get familiar with the draw.io diagram editor">
+
+**Step 4:** Publish the diagram on your Confluence page. You can also [make your diagram appear larger or smaller](/doc/faq/resize-viewer-confluence-cloud.html).
+
+**Step 5:** [Embed or reuse existing diagrams in your Confluence instance](doc/faq/confluence-cloud-embed-diagram.html). Alternatively, embed diagram files saved in other cloud storage platforms.
+   * [Google Drive](/doc/faq/embed-diagram-googledrive-confluence-cloud.html)
+   * [OneDrive](/doc/faq/embed-diagram-onedrive-confluence-cloud.html)
+<br /><img src="/assets/img/blog/embed-diagrams-confluence-cloud.png" style="max-width:100%;height:auto;" alt="Embedded diagrams in draw.io for Confluence Cloud">
+
+
+
+## draw.io for Confluence administrators
+
+### Gliffy mass import
 
 Administrators can convert all of the Gliffy diagrams in a Confluence Cloud instance into draw.io diagrams via the Confluence Settings.
 
@@ -16,47 +44,12 @@ Administrators can convert all of the Gliffy diagrams in a Confluence Cloud inst
 
 [Learn how to use the Gliffy to draw.io mass import feature](/doc/faq/mass-import-gliffy-confluence-cloud.html)
 
-## Embed, copy and move draw.io diagrams
 
-There are a number of ways to reuse your draw.io diagrams in Confluence Cloud:
-
-**Embed (reuse) a diagram**
-
-Embedding a diagram works similarly to the "Excerpt" and "Excerpt Include" Confluence macros - there is one master diagram (single source) that is simply displayed (embedded) in other locations using the diagram viewer.
-
-[Use the the _Embed draw.io diagram_ macro](/doc/faq/confluence-cloud-embed-diagram.html) and choose an existing diagram.
-
-<img src="/assets/img/blog/embed-diagram-macro-cloud.png" style="width=100%;max-width:300px;height:auto;" alt="Add the _Embed draw.io diagram_ macro to a Confluence Cloud page">
-
-You can also embed diagrams from cloud storage platforms in Confluence Cloud.
-* [Google Drive](/doc/faq/embed-diagram-googledrive-confluence-cloud.html)
-* [OneDrive](/doc/faq/embed-diagram-onedrive-confluence-cloud.html)
-
-**Copy a diagram**
-
-You can [duplicate a diagram file](/doc/faq/confluence-cloud-copy-diagram.html) and then edit the copy without changing the original diagram. When you add the _draw.io diagram_ macro to the page, select _Recent_ or search for an existing diagram file, select it, then click _Create_.
-
-<img src="/assets/img/blog/copy-diagram-example.png" style="width=100%;max-width:400px;height:auto;" alt="Select a diagram from the Recent tab, add a new diagram name and click Create to copy a draw.io diagram in Confluence Cloud">
-
-**Move a diagram**
-
-To [move a diagram from one page to another](/doc/faq/confluence-cloud-move-diagram.html), you first need to copy the diagram (create a new diagram file in your instance), and then delete the _draw.io diagram_ macro from the original page. Don't delete the diagram file itself to preserve your page's revision history.
-
-[Learn more about working with draw.io diagrams in Confluence Cloud](/doc/faq/embed-copy-move-diagrams-confluence-cloud.html)
-
-[See how to recover a diagram that was previously moved](/doc/faq/recover-moved-diagram-confluence-cloud.html)
-
-## Resize the diagram viewer in a page
-
-By changing the zoom within the diagram editor, you can [make your diagram appear larger or smaller on your Confluence Cloud page](/doc/faq/resize-viewer-confluence-cloud.html).
-
-Edit your diagram and make sure you have nothing selected, then click _Zoom_ in the format panel and change the zoom percentage. You changes will appear when you save your diagram and publish your changes.
-
-## Customising draw.io in Confluence Cloud
+### Customising in Confluence Cloud
 
 Confluence Cloud administrators can customise draw.io to make it easier and faster for their users to create diagrams following a consistent style. This is especially useful when they need to use corporate assets, follow corporate style guidelines, or use custom shape libraries and templates.
 
-### Style draw.io to match your corporate image
+#### Style draw.io to match your corporate image
 
 By editing the draw.io JSON configuration code, you can set new default shape and connector styles, colour palettes, and fonts, as well as the colour of the UI.
 
@@ -79,7 +72,7 @@ For detailed steps and examples, see the linked documentation for each feature y
 
 <img src="/assets/img/blog/drawio-configuration-custom-colours.png" style="max-width:100%;height:auto;" alt="Administrators can specify custom colours for draw.io in Confluence Cloud">
 
-### Provide shapes and corporate assets in custom libraries
+#### Provide shapes and corporate assets in custom libraries
 
 [**Make a custom shape library available by default:**](/doc/faq/custom-libraries-confluence-cloud.html) When your users need to add complex or specific shapes to their diagrams, or add images and other corporate assets (like a copyright notice or a logo), you can add a custom shape library to draw.io and make it available by default.
 
@@ -88,7 +81,7 @@ For detailed steps and examples, see the linked documentation for each feature y
 
 <img src="/assets/img/blog/custom-library-confluence-cloud.png" style="width=100%;max-width:400px;height:auto;" alt="Custom libraries appear under the scratchpad in Confluence Cloud">
 
-### Add custom templates to diagram faster
+#### Add custom templates to diagram faster
 
 Custom templates are useful when multiple users need to create a similar set of diagrams, or work from the same foundation. They help users diagram both faster and more consistently in your corporate or departmental styles.
 
@@ -101,12 +94,12 @@ For example, add your own floorplan template for regularly changing seating arra
 
 <br /><img src="/assets/img/blog/new-diagram-custom-template-confluence-cloud.png" style="width=100%;max-width:400px;height:auto;" alt="Create a new diagram from a custom template in draw.io for Confluence Cloud">
 
-## Troubleshooting
+### Troubleshooting
 
 * [Solve PDF export problems under Confluence Cloud](/doc/faq/pdf-problems-confluence-cloud.html)
 * [Resolve a Diagram not Found error](/doc/faq/diagram-not-found-drawio-confluence-cloud.html)
 
-## Administration and licensing
+### Administration and licensing
 
 * [See the number of draw.io diagrams in a Confluence instance](/doc/faq/number-of-diagams-in-confluence-instance.html)
 * [License draw.io for Confluence Cloud correctly](/doc/faq/license-drawio-confluence-jira-cloud.html)

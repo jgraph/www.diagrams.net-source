@@ -10,7 +10,7 @@ categories: [features,atlassian]
 
 With remote working on the rise worldwide, online replacements for analog tools like the whiteboard are increasingly needed. With the draw.io app for Confluence, your teams have an easy-to-use, collaborative online whiteboard, directly in Confluence, that can be used for agile brainstorming, story mapping, mockups, project planning and tracking, flowcharting, and more. 
 
-<img src="/assets/img/blog/confluence-online-whiteboard-drawio.png" style="width=100%;max-width:600px;height:auto;" alt="With the draw.io Sketch macro, you have a fully featured online whiteboard inside Confluence Cloud">
+<img src="/assets/img/blog/confluence-online-whiteboard-drawio.png" style="width=100%;max-width:600px;height:auto;" alt="With the draw.io Board macro, you have a fully featured online whiteboard inside Confluence Cloud">
 
 diagrams.net and the draw.io branded Atlassian integrations are the leading solution for web based sketching and diagramming functionality. We offer security-first diagramming for teams working with Atlassian products. 
 
@@ -33,39 +33,39 @@ More and more businesses are moving to remote work, or at least a hybrid approac
 
 ## draw.io as an online whiteboard in Confluence
 
-With the [draw.io Sketch macro](/blog/drawio-sketch-macro.html), distributed teams can securely and easily collaborate in real time on an online whiteboard, directly in their Confluence instance. 
+With the [draw.io Board macro](/blog/drawio-board-macro.html), distributed teams can securely and easily collaborate in real time on an online whiteboard, directly in their Confluence instance. 
 
 In this way, diagramming and visualisations can be integrated into a remote team's workflow just as easily as an analog whiteboard is used by teams on location.
 
 **[Small teams can diagram for free](/blog/confluence-cloud-free-diagrams.html)** - You can use an unlicensed version of the draw.io app in a free Confluence Cloud instance.
 
-**[Secure and private online whiteboard within Confluence](/blog/data-governance-lockdown.html)** - There are no third-party sign-in or freemium accounts needed to embed the draw.io Sketch or diagram macros. All of your draw.io diagram and sketch data stays within Confluence according to your instance's data residency settings.
+**[Secure and private online whiteboard within Confluence](/blog/data-governance-lockdown.html)** - There are no third-party sign-in or freemium accounts needed to embed the draw.io Board or draw.io Diagram macros. All of your draw.io diagram and board data stays within Confluence according to your instance's data residency settings.
 
 ### Brainstorm with a mindmap in your online whiteboard
 
-1. Edit a page in your Confluence Cloud instance and add the draw.io Sketch macro: type ``/draw.io`` and select the _draw.io Sketch_ macro from the list to open the editor.
-<br /><img src="/assets/img/blog/drawio-sketch-insert.png" style="width=100%;max-width:500px;height:auto;" alt="Add the draw.io Sketch macro to a Confluence Cloud page">
+1. Edit a page in your Confluence Cloud instance and add the draw.io Board macro: type ``/draw.io`` and select the _draw.io Board_ macro from the list to open the editor.
+<br /><img src="/assets/img/blog/drawio-board-insert.png" style="width=100%;max-width:500px;height:auto;" alt="Add the draw.io Board macro to a Confluence Cloud page">
 2. Double click on the drawing canvas and select a shape to represent your central idea to add it to the drawing canvas. 
    * While it is still selected, type a word or two to represent the central idea and press ``Enter``.
-   <br /><img src="/assets/img/blog/confluence-online-whiteboard-mindmap-concept.gif" style="width=100%;max-width:500px;height:auto;" alt="Add a shape to the drawing canvas in the draw.io Sketch online whiteboard macro">
+   <br /><img src="/assets/img/blog/confluence-online-whiteboard-mindmap-concept.gif" style="width=100%;max-width:500px;height:auto;" alt="Add a shape to the drawing canvas in the draw.io Board online whiteboard macro">
 3. Hover over the central concept shape and click on one of the direction arrows to add and connect a sub-topic shape. 
    * Type a word or two to add a label to the sub-topic shape. 
-      <br /><img src="/assets/img/blog/confluence-online-whiteboard-mindmap-topic.gif" style="width=100%;max-width:500px;height:auto;" alt="Connect a new topic shape to your mindmap concept in the draw.io Sketch online whiteboard macro">
+      <br /><img src="/assets/img/blog/confluence-online-whiteboard-mindmap-topic.gif" style="width=100%;max-width:500px;height:auto;" alt="Connect a new topic shape to your mindmap concept in the draw.io Board online whiteboard macro">
 4. Hover over a sub-topic shape, click on the direction arrows to add and connect a branch shape. 
    * Type a word or two to label the branch shape. 
    * Drag the shapes to different position on the online whiteboard canvas, if necessary.
-      <br /><img src="/assets/img/blog/confluence-online-whiteboard-mindmap-branch.gif" style="width=100%;max-width:500px;height:auto;" alt="Connect and add branches to your mindmap in the draw.io Sketch online whiteboard macro">
+      <br /><img src="/assets/img/blog/confluence-online-whiteboard-mindmap-branch.gif" style="width=100%;max-width:500px;height:auto;" alt="Connect and add branches to your mindmap in the draw.io Board online whiteboard macro">
 5. Continue adding shapes for sub-topics and branches.
 6. Style each sub-topic with a single colour to make them stand out. 
    * Click and drag a selection box around the sub-topic and all of its branches.
    * [Select a style in the _Format_ panel](/doc/faq/shape-styles.html), or click on the _Line_ and _Fill_ colours to open the palette and set custom colours.
    * Change the arrow heads on the connectors - right-click on the whiteboard canvas, click _Select Edges_, then uselect ``None`` from the connector arrow list in the _Format_ panel.
-      <br /><img src="/assets/img/blog/confluence-online-whiteboard-mindmap-style.gif" style="width=100%;max-width:500px;height:auto;" alt="Style your mindmap in the draw.io Sketch online whiteboard macro">
+      <br /><img src="/assets/img/blog/confluence-online-whiteboard-mindmap-style.gif" style="width=100%;max-width:500px;height:auto;" alt="Style your mindmap in the draw.io Board online whiteboard macro">
 7. Click on _Publish_ and enter a filename for the attachment, then publish your Confluence page so your team members can see it.
 
-**Tip:** Set up an online whiteboard with the draw.io _Sketch_ macro _before_ remote team discussions. 
+**Tip:** Set up an online whiteboard with the _draw.io Board_ macro _before_ remote team discussions. 
 
-Once you have saved a draw.io Sketch diagram and its Confluence page for the first time, all team members can edit and collaborate in real time on the diagram in the online whiteboard in Confluence Cloud.
+Once you have saved a draw.io Board diagram and its Confluence page for the first time, all team members can edit and collaborate in real time on the diagram in the online whiteboard in Confluence Cloud.
 
 [See how collaborative editing with draw.io works in Confluence Cloud](/blog/collaborative-editing-confluence-cloud.html)
 
@@ -77,7 +77,7 @@ Confluence users with appropriate access to view and comment on the page can cli
 
 ### Turn the rough style off
 
-The draw.io Sketch macro uses the [rough style for shapes and connectors](/blog/rough-style.html) to mimic hand-drawn diagrams on a whiteboard. If you would prefer clean lines and solid fill colours, you can turn this option off. 
+The draw.io Board macro uses the [rough sketch style for shapes and connectors](/blog/rough-style.html) to mimic hand-drawn diagrams on a whiteboard. If you would prefer clean lines and solid fill colours, you can turn this option off. 
 
 1. Make sure nothing is selected in your diagram. 
 2. Expand the floating _Format_ panel on the right, and click on the _Style_ tab to see the global style options.

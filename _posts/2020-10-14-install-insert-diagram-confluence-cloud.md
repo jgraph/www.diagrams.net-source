@@ -26,6 +26,13 @@ Once you purchase draw.io for Confluence Cloud, you can also [install and use dr
 
 Your trial license will automatically convert into monthly billing once the trial period has ended. If you would prefer, you can [request Atlassian generate a quote for annual billing](/doc/faq/generate-quote-drawio-confluence-cloud.html).
 
+## Add a whiteboard to a Confluence Cloud page
+
+To quickly [collaborate with your remote team on an online whiteboard](/blog/online-whiteboard-confluence.html), you can use draw.io in your Confluence instance.
+
+1. Edit a page, type ``/draw``, and select the [_draw.io Board_ macro](/blog/drawio-board-macro.html) to create an insert a new diagram using the simple whiteboard-like Sketch editor theme. 
+2. Save the diagram and publish the page so all of your team member can see and edit it. It's best to set these pages and draw.io Board diagrams up as part of your meeting preparation.
+
 ## Insert diagrams in Confluence Cloud
 
 Now that you have installed the draw.io app for Confluence Cloud, you can create a diagram and insert it into a page.
