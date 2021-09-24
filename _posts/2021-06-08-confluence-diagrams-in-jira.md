@@ -51,7 +51,7 @@ Hover over the embedded diagram in the Jira Cloud issue to see the toolbar, then
 
 The draw.io app for Confluence Cloud offers some additional useful features:
 
-[Embed a whiteboard-style diagram with the draw.io Sketch macro](/blog/drawio-sketch-macro.html) for quick meeting notes, team brainstorming, mockups, remote kanban boards, and more.
+[Embed a whiteboard-style diagram with the draw.io Board macro](/blog/drawio-board-macro.html) for quick meeting notes, team brainstorming, mockups, remote kanban boards, and more.
 <br /><img src="/assets/img/blog/sketch-ui-add-shapes.gif" style="width=100%;max-width:500px;height:auto;" alt="Double click on the drawing canvas to add a shape, or click on a direction arrow, or drag a new connection to a shape in another position in the draw.io editor">
 
 [Customise the draw.io diagram editor for Confluence Cloud](/doc/faq/drawio-confluence-cloud.html) to use specific or custom shape libraries, templates, and corporate styles. You can also customise draw.io to use a different diagram editor style by default - Kennedy, Dark, Minimal, or Sketch.

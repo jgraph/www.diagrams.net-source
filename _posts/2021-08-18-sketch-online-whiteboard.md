@@ -10,13 +10,13 @@ categories: [features, use-cases]
 
 This diagrams.net Sketch editor theme has an endless whiteboard-style canvas and is ideal to use as a collaborative online whiteboard with your remote team. The lack of page and grid lines, along with the simple toolbar, minimised panels and the default hand-drawn [rough style for shape outlines, shading, connectors, and text labels](/blog/rough-style.html) feels like an informal physical whiteboard, much less intimidating than traditional diagramming apps.
 
-Note that the sketch theme is also available as a macro in our [draw.io branded integration to Confluence Cloud](https://marketplace.atlassian.com/apps/1210933/draw-io-diagrams-for-confluence?hosting=cloud&tab=overview). It is also coming to [draw.io for Confluence Data Center](https://marketplace.atlassian.com/apps/1210933/draw-io-diagrams-for-confluence?hosting=datacenter&tab=overview).
+Note that the Sketch editor theme is also available in our [draw.io branded integration to Confluence Cloud](https://marketplace.atlassian.com/apps/1210933/draw-io-diagrams-for-confluence?hosting=cloud&tab=overview). It is also coming to [draw.io for Confluence Data Center](https://marketplace.atlassian.com/apps/1210933/draw-io-diagrams-for-confluence?hosting=datacenter&tab=overview).
 
 The Sketch editor theme is under active development. Please add any suggestions or ask questions in this [discussion thread on the GitHub draw.io project](https://github.com/jgraph/drawio/discussions/2056).
 
-**Tip:** To use the Sketch editor theme in our draw.io branded app in Atlassian Confluence, [add the draw.io Sketch macro to a page](/blog/drawio-sketch-macro.html). Our [secure draw.io integration for Confluence](/blog/drawio-atlassian-cloud-fortified.html) is built, delivered and maintained by JGraph alongside the online diagrams.net and desktop tools.
+**Tip:** To use the Sketch editor theme in our draw.io branded app in Atlassian Confluence, [add the draw.io Board macro to a page](/blog/drawio-board-macro.html). Our [secure draw.io integration for Confluence](/blog/drawio-atlassian-cloud-fortified.html) is built, delivered and maintained by JGraph alongside the online diagrams.net and desktop tools.
 
-<br />[<img src="/assets/img/blog/sketch-theme-tutorial.png" style="width=100%;max-width:600px;height:auto;" alt="Sketch theme is currently being developed">](https://app.diagrams.net/?splash=0&ui=sketch&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fsketch-theme-tutorial.drawio)
+<br />[<img src="/assets/img/blog/sketch-theme-tutorial.png" style="width=100%;max-width:600px;height:auto;" alt="Sketch editor theme is currently being developed">](https://app.diagrams.net/?splash=0&ui=sketch&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fsketch-theme-tutorial.drawio)
 <br />_[Open this tutorial diagram in the Sketch whiteboard editor theme at diagrams.net](https://app.diagrams.net/?splash=0&ui=sketch&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fsketch-theme-tutorial.drawio)_
 
 ## Use the diagrams.net online whiteboard

@@ -14,7 +14,7 @@ When you draw a freehand shape in diagrams.net, it is saved as an image with a t
 
 1. Open the _Freehand_ panel. You can move this panel so it doesn't obstruct where you want to draw.
 * Select _Arrange > Insert > Freehand_.
-* If you are using the [Sketch editor theme](/blog/diagram-editor-theme.html), click on the _Freehand_ tool in the toolbar.
+* If you are using the [Sketch editor theme](/blog/diagram-editor-theme.html) or the [draw.io Board macro in Confluence](/blog/drawio-board-macro.html), click on the _Freehand_ tool in the toolbar.
 <br /><img src="/assets/img/blog/sketch-ui-freehand.png" style="width=100%;max-width:500px;height:auto;" alt="Click on the Freehand tool in the toolbar to open the Freehand panel">
 2. Click _Start drawing_ in the _Freehand_ panel. You'll see the cursor change to a thin 'plus' (``+``) to show it will now record drawing movements.
 3. Click and hold to draw a freehand line on the drawing canvas. You can add multiple separate lines in your freehand drawing.
@@ -30,7 +30,7 @@ Stop drawing in one of the following ways.
 * Style the freehand shape you just drew in the format panel on the right. 
 * Add a new shape from the shape libraries.
 * In the Sketch editor theme, click again on _Freehand_ in the toolbar on the left.
-<br /><img src="/assets/img/blog/sketch-ui-freehand-drawing.gif" style="width=100%;max-width:500px;height:auto;" alt="Use the freehand drawing tool in a draw.io Sketch diagram to markup diagrams or draw shapes with your mouse">
+<br /><img src="/assets/img/blog/sketch-ui-freehand-drawing.gif" style="width=100%;max-width:500px;height:auto;" alt="Use the freehand drawing tool in a draw.io Board diagram to markup diagrams or draw shapes with your mouse">
 
 **Tip:** Freehand drawing also works on mobile devices, using your finger to tap and draw instead of the mouse.
 

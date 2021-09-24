@@ -40,3 +40,12 @@ Say you add and connect a shape to an existing shape on the drawing canvas and a
 2. The existing shape along with any connectors coming from it will be deleted when the other user's diagram is auto-saved.
 
 <img src="/assets/img/blog/confluence-cloud-collaborative-editing-delete.gif" style="max-width:100%;height:auto;" alt="If a parent node is deleted by one user, but a child shape is connected to that parent node by another user, the connector from the parent to the child shape will be deleted when the diagram is auto-saved">
+
+## Use draw.io as an online whiteboard in Confluence
+
+With collaborative editing and the [draw.io Board macro](/blog/drawio-board-macro.html), your remote teams can sketch out proposals, plan project, and explore decisions together in an [online whiteboard in your Confluence instance](/blog/online-whiteboard-confluence.html). 
+
+1. Edit a page in Confluence, type ``/draw`` and select the _draw.io Board_ macro. 
+2. Save your diagram and page so your team members can also see and work on it with you.
+
+<img src="/assets/img/blog/confluence-online-whiteboard-drawio.png" style="width=100%;max-width:600px;height:auto;" alt="With the draw.io Board macro, you have a fully featured online whiteboard inside Confluence Cloud">

@@ -24,6 +24,9 @@ Improve your team's productivity and keep all of your tools within the one workf
 
 [See how you can customise draw.io for Confluence Cloud](/doc/drawio-confluence-cloud.html)
 
+The [draw.io Board macro](/blog/drawio-board-macro.html) provides teams with an easy-to-use [online whiteboard in Confluence](/blog/online-whiteboard-confluence.html). Behind the simpler whiteboard-like interface in a draw.io Board diagram, you can still find and use all of the powerful draw.io diagramming features. 
+<br /><img src="/assets/img/blog/confluence-online-whiteboard-drawio.png" style="width=100%;max-width:600px;height:auto;" alt="With the draw.io Board macro, you have a fully featured online whiteboard inside Confluence Cloud">
+
 ## Diagrams for all teams
 
 Various types of diagrams are used by teams in all departments. Whether you are in IT, software development, HR or marketing, you most likely need to create diagrams regularly.  
@@ -63,7 +66,7 @@ Business teams are increasingly moving to agile methodologies to keep up with th
 * Forecast and present results from CSV data.
 * Define a conference, office or even an apartment layout with a floor plan.
 
-[<img src="/assets/img/blog/floorplan-apartment-ground-floor.png" style="width=100%;max-width:300px;height:auto;" alt="A ground floor apartment floorplan created in diagrams.net">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Ffloorplan-apartment.drawio) [<img src="/assets/img/blog/floorplan-apartment-rooftop-terrace.png" style="width=100%;max-width:300px;height:auto;" alt="The second floor of an apartment floorplan created in diagrams.net">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&page=1&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Ffloorplan-apartment.drawio)
+[<img src="/assets/img/blog/floorplan-apartment-ground-floor.png" style="width=100%;max-width:250px;height:auto;" alt="A ground floor apartment floorplan created in diagrams.net">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Ffloorplan-apartment.drawio)&nbsp;&nbsp;[<img src="/assets/img/blog/floorplan-apartment-rooftop-terrace.png" style="width=100%;max-width:250px;height:auto;" alt="The second floor of an apartment floorplan created in diagrams.net">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&page=1&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Ffloorplan-apartment.drawio)
 
 diagrams.net has a large library of shapes and templates for all of these types of diagrams and more. You can either export your diagrams to PDF files or images for easy printing, or integrate diagrams.net with popular presentation software and cloud storage platforms.
 

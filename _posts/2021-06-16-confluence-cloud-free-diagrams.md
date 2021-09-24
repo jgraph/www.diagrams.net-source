@@ -35,8 +35,8 @@ The draw.io diagram editor is easy to use and powerful. The [draw.io app in Conf
 * Style shapes, connectors and text labels.
 * Draw freehand shapes and create custom shapes.
 * Use a template from the template library to start diagramming quickly.
-* Switch to various editor styles, including a [whiteboard-style sketch macro](/blog/drawio-sketch-macro.html), ideal for brainstorming.
-<br /><img src="/assets/img/blog/sketch-ui-freehand-drawing.gif" style="width=100%;max-width:500px;height:auto;" alt="Use the freehand drawing tool in a draw.io Sketch diagram to markup diagrams or draw shapes with your mouse">
+* Switch to various editor styles, including a [simpler draw.io Board macro](/blog/drawio-board-macro.html), ideal for brainstorming.
+<br /><img src="/assets/img/blog/sketch-ui-freehand-drawing.gif" style="width=100%;max-width:500px;height:auto;" alt="Use the freehand drawing tool in a draw.io Board diagram to markup diagrams or draw shapes with your mouse">
 
 
 
@@ -46,7 +46,7 @@ The draw.io diagram editor is easy to use and powerful. The [draw.io app in Conf
 2. Step through the installation and setup until you see the space landing page and Confluence Quickstart tutorial.
 <br /><img src="/assets/img/blog/confluence-cloud-new-instance.png" style="max-width:100%;height:auto;" alt="Confluence Cloud will step you through the setup of a new instance and space">
 
-**Install the draw.io app for Confluence Cloud.**
+**Install the draw.io app for Confluence Cloud**
 1. Click on the gear icon in the top right, next to your user initials to open the Confluence Cloud administration settings. 
 2. Under the _Atlassian Marketplace_ section, click on _Find new apps_. Search for ``draw.io`` and click on it to see details about the draw.io app for Confluence Cloud.
 <br />Alternatively, go to the [draw.io app on the Atlassian Marketplace](https://marketplace.atlassian.com/apps/1210933/draw-io-diagrams-for-confluence?hosting=cloud&tab=overview) website.
@@ -54,9 +54,18 @@ The draw.io diagram editor is easy to use and powerful. The [draw.io app in Conf
 3. Install the draw.io app by starting a free trial. 
 <br />You can stop the free trial once the draw.io app has been installed. The unlicensed draw.io app will continue to work in your Confluence Cloud instance. 
 
-## Learn to use the draw.io diagram editor
 
-1. Edit a Confluence page, then type ``/draw.io`` and insert the draw.io diagram macro. This will open the draw.io editor. 
+## draw.io as an online whiteboard
+
+1. Edit a Confluence page, type ``/draw.io`` and insert the [_draw.io Board_ macro](/blog/drawio-board-macro.html). The simple whiteboard-like editor will open.
+2. Save your diagram and page so that your remote team members can collaborate on the draw.io Board drawing with you.
+
+[Learn more about using draw.io as an online whiteboard in Confluence](/blog/online-whiteboard-confluence.html)
+<br /><img src="/assets/img/blog/confluence-online-whiteboard-drawio.png" style="width=100%;max-width:600px;height:auto;" alt="With the draw.io Board macro, you have a fully featured online whiteboard inside Confluence Cloud">
+
+## Learn the draw.io diagram editor
+
+1. Edit a Confluence page, then type ``/draw.io`` and insert the _draw.io Diagram_ macro. This will open the draw.io editor. 
 <br /><img src="/assets/img/blog/drawio-confluence-cloud-new.png" style="width=100%;max-width:200px;height:auto;" alt="Add the draw.io Diagram macro to insert a diagram into Confluence Cloud">
 2. Select the _Blank Diagram_ template, enter a filename for your diagram, and click _Create_.
 <br /><img src="/assets/img/blog/template-library-new-diagram.png" style="width=100%;max-width:400px;height:auto;" alt="Choose a diagram template when you create a new diagram at diagrams.net">
