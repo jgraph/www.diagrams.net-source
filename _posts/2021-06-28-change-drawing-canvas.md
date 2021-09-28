@@ -23,7 +23,7 @@ You can change the drawing canvas (editor) grid size and colour, hide or show th
 To see the _Diagram_ tab in the format panel, make sure nothing is selected in your diagram.
 <br /><img src="/assets/img/blog/diagram-tab-grid.png" style="width=100%;max-width:600px;height:auto;" alt="Change how the grid is displayed on the drawing canvas in diagrams.net"> 
 
-* **Show/hide the grid:** Click on the _Grid_ checkbox in the _Diagram_ tab to display or hide the editor grid. By default, the [Sketch editor theme](/blog/diagram-editor-theme.html) does not display a grid to make it feel more like a whiteboard.
+* **Show/hide the grid:** Click on the _Grid_ checkbox in the _Diagram_ tab to display or hide the editor grid. By default, the [whiteboard-like Sketch editor theme](/blog/diagram-editor-theme.html) does not display a grid to make it feel more natural.
 * **Use a different colour for the grid:** Click on the colour button next to the _Grid_ size field in the _Diagram_ tab, then select a new colour from the palette, or enter a colour's hex code (without a ``#``), and click _Apply_. 
 * **Increase or decrease the size of the grid:** Change the value in the _Grid_ text field in the _Diagram_ tab, or use the up and down arrows to set a new grid size. Alternatively, click _File > Page Setup_ and change the _Grid Size_.
 <br /><img src="/assets/img/blog/page-setup-grid-size.png" style="width=100%;max-width:250px;height:auto;" alt="Change the size of the diagrams.net editor grid via File > Page Setup">

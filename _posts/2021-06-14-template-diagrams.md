@@ -31,7 +31,7 @@ Click on the magnifying glass icon in the top right of a template in the templat
 
 You can freely edit a template that you have added to your diagram: change labels, add and connect new shapes, reposition shapes and connectors, change shape styles, and more.
 
-**Note:** If you are using the Sketch interface theme, the [sketch (rough) shape, text and connector styles](/blog/rough-style.html) will be applied by default to the basic shapes in this template. 
+**Note:** If you are using the whiteboard-style editor theme, the [sketch (rough) shape, text and connector styles](/blog/rough-style.html) will be applied by default to the basic shapes in this template. 
 <br /><img src="/assets/img/blog/template-library-preview-sketch.png" style="width=100%;max-width:600px;height:auto;" alt="Hover over a template in diagrams.net to see a larger preview of it">
 
 ### Search for a template

@@ -10,15 +10,15 @@ The following URL parameters are supported in diagrams.net in the precedence ord
 
 * ``open=prefix+ID``: If [location hash properties](/doc/faq/supported-location-hash-properties.html) are not available, use this as a replacement. The browser will add the hash property to the URL immediately and not remove the URL parameter. Existing hash property takes precedence.
 * ``lang=xy``: Specifies the language of the user interface. Possible values for ``xy`` include _i18n_, ``id``: Bahasa Indonesia, ms: Bahasa Melayu, ``bs``: Bosanski, ``ca``: Català, ``cs``: Čeština, ``da``: Dansk, ``de``: Deutsch, ``et``: Eesti, ``en``: English, ``es``: Español, ``fil``: Filipino, ``fr``: Français, ``it``: Italiano, ``hu``: Magyar, ``nl``: Nederlands, ``no``: Norsk, ``pl``: Polski, ``pt-br``: Português (Brasil), ``pt``: Português (Portugal), ``ro``: Română, ``fi``: Suomi, ``sv``: Svenska, ``vi``: Tiếng Việt, ``tr``: Türkçe, ``el``: Ελληνικά, ``ru``: Русский, ``sr``: Српски, ``uk``: Українська, ``he``: עברית, ``ar``: العربية, ``th``: ไทย, ``ko``: 한국어, ``ja``: 日本語, ``zh``: 中文（中国）, ``zh-tw``: 中文（台灣）
-* ``libs=key1;key2;...;keyN``: Specifies the current libraries. Possible keys are allied_telesis, android, archimate, archimate3, arrows2, atlassian, aws3, aws3d, aws4, azure, basic, bootstrap, bpmn, cabinets, cisco, cisco_safe, citrix, clipart, dfd, eip, electrical, er, floorplan, flowchart, gcp2, general, gmdl, ibm, images, infographic, ios, lean_mapping, mockups, mscae, network, office, pid, rack, signs, sitemap, sysml, uml, veeam and webicons.
+* ``libs=key1;key2;...;keyN``: Specifies the current shape libraries. Possible keys are allied_telesis, android, archimate, archimate3, arrows2, atlassian, aws3, aws3d, aws4, azure, basic, bootstrap, bpmn, cabinets, cisco, cisco_safe, citrix, clipart, dfd, eip, electrical, er, floorplan, flowchart, gcp2, general, gmdl, ibm, images, infographic, ios, lean_mapping, mockups, mscae, network, office, pid, rack, signs, sitemap, sysml, uml, veeam and webicons.
 * ``clibs=key1;key2;key;...;keyN``: Specifies custom libraries (keys are file IDs or [URLs with a U-prefix](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ftemplates.xml))
 * ``viewbox={"x": int, "y": int, "width": int, "height": int}``: Sets the initial viewport when you specify file IDs.
 * ``page=index``: Starts with the given page (the default is the first page, where the index for the first page is ``0``)
 * ``page-id=ID``: Starts with the given page ID (has precedence over the ``page`` URL parameter). To find the ID of the current page, right click on the canvas and select _Edit Data_. The ID is the first entry in this dialog.
 * ``hide-pages=1``: Hides the controls that allow you to change the current page in lightbox mode.
-* ``ui=[kennedy|min|atlas|dark|sketch]``: Uses the Minimal, Atlas, Dark or Sketch UI theme (default is Kennedy).
-* ``rough=[0|1]``: Disables/enables sketch style (default is 1 for sketch theme and 0 for all other themes).
-* ``dark=[0|1]``: Disables/enables dark mode in sketch and minimal theme.
+* ``ui=[kennedy|min|atlas|dark|sketch]``: Uses the Minimal, Atlas, Dark or Sketch [editor theme](/blog/diagram-editor-theme.html) (default is Kennedy).
+* ``rough=[0|1]``: Disables/enables the [rough sketch style](/blog/rough-style.html) (default is 1 for sketch theme and 0 for all other themes).
+* ``dark=[0|1]``: Disables/enables dark mode in Sketch and Minimal editor themes.
 * ``drafts=0``: Disables draft states (does not save unsaved files in _IndexedDB_).
 * ``splash=0``: Does not show the splash screen.
 * ``plugins=0``: Does not load [plugins](/doc/faq/plugins.html).
@@ -32,7 +32,7 @@ The following URL parameters are supported in diagrams.net in the precedence ord
 * ``rt=1``: Uses chromeless mode with Google Drive realtime enabled.
 * ``edit=url``: Adds a link for the _Edit_ button in chromeless mode (use ``edit=_blank`` to edit the diagram as a new copy).
 * ``lightbox=1``: Uses the lightbox in chromeless mode (larger zoom, no page visible, chromeless).
-* ``grid=1``: Uses the chromeles mode with the grid enabled.
+* ``grid=1``: Uses the chromeless mode with the grid enabled.
 * ``nav=1``: Enables folding in chromeless mode.
 * ``layers=1``: Adds layer control in chromeless mode
 * ``close=1``: Shows the _Close_ button in chromeless mode which closes the window when selected.
@@ -50,7 +50,7 @@ The following URL parameters are supported in diagrams.net in the precedence ord
 * ``zoom=nocss``: Disables the CSS zoom preview.
 * ``override-mime=1``: Saves all Google Drive files as ``application/vnd.jgraph.mxfile``.
 * ``template-filename=name``: If the #U hash property is used but the URL does not contain a filename to determine binary mode. See the list of [supported location hash properties](/doc/faq/supported-location-hash-properties.html).
-* ``math-font``: Sets the font to use for math typesetting. Possible values are ``STIX-Web`` (SVG) or STIX (HTML-CSS).
+* ``math-font``: Sets the font to use for [math typesetting](/blog/maths-in-diagrams.html). Possible values are ``STIX-Web`` (SVG) or STIX (HTML-CSS).
 * ``math-output=html``: Sets the math typesetting output to ``HTML-CSS``.
 * ``nowarn=1``: Suppresses the warning before an unload for local files.
 * ``svg-warning=0``: Suppresses the warning for old viewers in SVG export.

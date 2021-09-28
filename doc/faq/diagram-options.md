@@ -54,7 +54,7 @@ These options change how the diagram editor behaves, by hiding or displaying cer
 
 Use these options to [apply styles globally](/doc/faq/global-style.html) on all shapes, connectors, text, and the background image and editor grid.
 
-**Sketch:** Apply the [_Sketch_ style](/blog/rough-style.html).
+**Sketch:** Apply the rough [_Sketch_ style](/blog/rough-style.html).
 
 **Rounded:** Round the corners of all rectangles.
 
