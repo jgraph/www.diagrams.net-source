@@ -1,0 +1,150 @@
+  <!-- ========== MAIN ========== -->
+  <main id="content" role="main">
+    <style>
+      /* loader */
+
+      .loader {
+          display: inline-block;
+          position: relative;
+          width: 80px;
+          height: 80px;
+          display: none;
+      }
+
+
+      .loader.show {
+          display: inline-block;
+      }
+
+      .loader div {
+          display: inline-block;
+          position: absolute;
+          left: 8px;
+          width: 16px;
+          background: #d6d6d6;
+          animation: loader 1.2s cubic-bezier(0, 0.5, 0.5, 1) infinite;
+      }
+
+      .loader div:nth-child(1) {
+          left: 8px;
+          animation-delay: -0.24s;
+      }
+
+      .loader div:nth-child(2) {
+          left: 32px;
+          animation-delay: -0.12s;
+      }
+
+      .loader div:nth-child(3) {
+          left: 56px;
+          animation-delay: 0;
+      }
+
+      @keyframes loader {
+          0% {
+              top: 8px;
+              height: 64px;
+          }
+
+          50%,
+          100% {
+              top: 24px;
+              height: 32px;
+          }
+      }
+
+      .limitContentHeight {
+        display: -webkit-box;
+        max-height: 140px;
+        -webkit-line-clamp: 6;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        
+        /* These are technically the same, but use both */
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+
+        -ms-word-break: break-all;
+        /* This is the dangerous one in WebKit, as it breaks things wherever */
+        word-break: break-all;
+        /* Instead use this non-standard one: */
+        word-break: break-word;
+
+        /* Adds a hyphen where the word breaks, if supported (No Blink) */
+        -ms-hyphens: auto;
+        -moz-hyphens: auto;
+        -webkit-hyphens: auto;
+        hyphens: auto;
+      }
+    </style>
+    <div class="container space-bottom-lg-2">
+      <div class="row">
+        <div class="col-md-12 col-lg-12 mb-7 mb-md-0">
+
+
+          <!-- Search Section -->
+          <div class="container space-top-md-2 space-top-lg-2">
+                <div class="container space-1">
+                  <div class="w-lg-80 mx-lg-auto">
+                    <!-- Input -->
+                    <form id="searchForm" class="w-lg-75 mx-lg-auto">
+                      <div class="d-flex align-items-center">
+                        <label class="sr-only" for="signupSrEmail">Search</label>
+                        <div class="input-group">
+                          <input type="text" class="form-control" name="search" id="search" placeholder="Search blog" aria-label="Search blog">
+                        </div>
+                        <button id="searchBtn" type="submit" class="btn btn-primary text-nowrap ml-3">
+                          <span class="fas fa-search font-size-1 mr-2"></span> Search
+                        </button>
+                      </div>
+                    </form>
+                    <!-- End Input -->
+                  </div>
+                </div>
+          </div>
+          <!-- End Search Section -->
+
+          <!-- FAQ Section -->
+          <div class="container">
+            <div class="border-bottom space-bottom-2">
+              <div id="resultsList" class="w-lg-80 mx-lg-auto">
+
+              </div>
+              <div id="controls" style="width:100%;text-align:center;">
+                <div class="loader">
+                  <div></div>
+                  <div></div>
+                  <div></div>
+                </div>
+                <div id="moreBlock" style="display:none;">
+                  <button id="moreBtn" type="submit" class="btn btn-primary text-nowrap">
+                    More
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+    <!-- End FAQ Section -->
+
+
+  </main>
+  <!-- ========== END MAIN ========== -->
+  <!-- JS Global Compulsory -->
+  <script src="/assets/js/jquery.min.js"></script>
+  <script src="/assets/js/jquery-migrate.min.js"></script>
+  <script src="/assets/js/popper.min.js"></script>
+
+  <!-- JS Implementing Plugins -->
+  <script src="/assets/js/hs.megamenu.js"></script>
+
+  <!-- JS Front -->
+  <script src="/assets/js/hs.core.js"></script>
+  <script src="/assets/js/hs.header.js"></script>
+  <script src="/assets/js/hs.unfold.js"></script>
+
+  <!-- Our search script -->
+  <script src="/assets/js/search.js"></script>
