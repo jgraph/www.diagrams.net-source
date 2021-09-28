@@ -9,7 +9,7 @@ With the draw.io app for Microsoft Teams, you and your team can collaborate in r
 
 **Secure and private:** Your diagrams are securely stored in your linked Microsoft OneDrive or Google Drive account, and in your browser or the Teams app while you are working on them. 
 
-**Fully-featured diagramming app:** With draw.io in Teams, your team has an easy-to-use diagramming application for quick online whiteboard sketches through to complex diagrams: [BPMN diagrams](/blog/bpmn-2-0.html), [flowcharts](/doc/getting-started-basic-flow-chart.html), mindmaps, org charts, UML diagrams, infographics, network diagrams, mockups, rack diagrams, and many more types of diagrams.
+**Fully-featured diagramming app:** With draw.io in Teams, your team has an easy-to-use diagramming application for quick [online whiteboard sketches](/blog/sketch-online-whiteboard.html) through to complex diagrams: [BPMN diagrams](/blog/bpmn-2-0.html), [flowcharts](/doc/getting-started-basic-flow-chart.html), mindmaps, org charts, UML diagrams, infographics, network diagrams, mockups, rack diagrams, and many more types of diagrams.
 
 ## Install the draw.io app in your channel
 
@@ -43,7 +43,7 @@ The new tab will be added, and the draw.io editor will load your existing diagra
 
 ## Introduction to the draw.io editor
 
-The draw.io editor in Teams uses the minimal Sketch editor theme by default so it feels like an easy-to-use whiteboard. 
+The draw.io editor in Teams uses the simpler Sketch editor theme by default so it feels like an easy-to-use whiteboard. 
 
 * A **toolbar on the left** contains the most common shapes and connectors. 
 * Another **toolbar on the bottom right** allows you to move around the canvas. 

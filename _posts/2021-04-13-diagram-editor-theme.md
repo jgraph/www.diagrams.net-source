@@ -15,7 +15,7 @@ There are four different themes to choose from, with a fifth currently under dev
 **Change the editor theme via the diagrams.net menu**
 
 1. Select _File > Extras_ in the diagrams.net menu. 
-2. Choose Kennedy, Minimal, Atlas, dark or Sketch.
+2. Choose Kennedy, Minimal, Atlas, Dark, or Sketch (a whiteboard-style theme).
 3. Reload the diagrams.net editor to start using your select UI theme. 
 
 _Please visit Github to [leave feedback about the Sketch and Minimal editor themes](https://github.com/jgraph/drawio/discussions/1924) and help guide their development._
@@ -62,7 +62,7 @@ If you are new to diagramming and feel overwhelmed with the number of tools disp
 
 ## Sketch 
 
-If you prefer minimal tools and the rough style enabled by default, like you would in a whiteboarding app, the new Sketch editor theme is for you. The Sketch editor theme is set by default in the easy-to-use [draw.io Board macro](/blog/drawio-board-macro.html) in draw.io for Confluence.
+If you prefer minimal tools and the rough style enabled by default, like you would in a whiteboarding app, the Sketch editor theme is for you. This easy-to-use theme is set by default in the [draw.io Board macro](/blog/drawio-board-macro.html) for Confluence.
 
 The Sketch editor theme may also be useful to introduce younger children to diagramming or support them as they [add diagrams to their documents and in Google Classroom](/blog/google-classroom-diagrams.html) with the Google Drive add-in.
 

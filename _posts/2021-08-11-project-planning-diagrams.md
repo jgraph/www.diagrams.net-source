@@ -10,7 +10,7 @@ categories: [features, use-cases]
 
 Teams in different departments use many different methods to plan projects, but most of these plans are initially sketched on a whiteboard. Collaborate in real time and online with distributed team members, customers and stakeholders easily in the [diagrams.net whiteboard-like editor theme](https://sketch.diagrams.net) throughout your project development process.
 
-Note that the sketch theme is also available as a macro in our [draw.io branded integration to Confluence Cloud](https://marketplace.atlassian.com/apps/1210933/draw-io-diagrams-for-confluence?hosting=cloud&tab=overview). It is also coming to [draw.io for Confluence Data Center](https://marketplace.atlassian.com/apps/1210933/draw-io-diagrams-for-confluence?hosting=datacenter&tab=overview).
+Note that this sketch editor theme is also available as the [draw.io Board macro](/blog/online-whiteboard-confluence.html) in our [draw.io branded integration to Confluence Cloud](https://marketplace.atlassian.com/apps/1210933/draw-io-diagrams-for-confluence?hosting=cloud&tab=overview). It is also coming to [draw.io for Confluence Data Center](https://marketplace.atlassian.com/apps/1210933/draw-io-diagrams-for-confluence?hosting=datacenter&tab=overview).
 
 **Create a new whiteboard diagram**
 
@@ -34,7 +34,7 @@ Break the whiteboard canvas up into regions or columns.
 * Format the sticky notes or shapes with different colours to indicate difficulty, priorities, targets or the person who contributed the idea. 
 * Show dependencies, relationships or a flow with connectors. 
 
-<img src="/assets/img/blog/online-whiteboard-brainstorming1.png" style="width=100%;max-width:600px;height:auto;" alt="Brainstorm and plan projects on an online whiteboard with sketch.diagrams.net">
+<img src="/assets/img/blog/online-whiteboard-brainstorming.png" style="width=100%;max-width:600px;height:auto;" alt="Brainstorm and plan projects on an online whiteboard with sketch.diagrams.net">
 
 Alternatively or additionally, brainstorm topics and subtopics, or problems and solutions around a central theme in a mindmap. 
 

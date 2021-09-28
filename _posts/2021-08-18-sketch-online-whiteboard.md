@@ -16,13 +16,13 @@ The Sketch editor theme is under active development. Please add any suggestions 
 
 **Tip:** To use the Sketch editor theme in our draw.io branded app in Atlassian Confluence, [add the draw.io Board macro to a page](/blog/drawio-board-macro.html). Our [secure draw.io integration for Confluence](/blog/drawio-atlassian-cloud-fortified.html) is built, delivered and maintained by JGraph alongside the online diagrams.net and desktop tools.
 
-<br />[<img src="/assets/img/blog/sketch-theme-tutorial.png" style="width=100%;max-width:600px;height:auto;" alt="Sketch editor theme is currently being developed">](https://app.diagrams.net/?splash=0&ui=sketch&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fsketch-theme-tutorial.drawio)
-<br />_[Open this tutorial diagram in the Sketch whiteboard editor theme at diagrams.net](https://app.diagrams.net/?splash=0&ui=sketch&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fsketch-theme-tutorial.drawio)_
+<br />[<img src="/assets/img/blog/sketch-theme-tutorial.png" style="width=100%;max-width:600px;height:auto;" alt="Sketch editor theme is currently being developed">](https://app.diagrams.net/?splash=0&ui=sketch&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fboard-visual-tutorial.drawio)
+<br />_[Open this tutorial diagram in the Sketch whiteboard editor theme at diagrams.net](https://app.diagrams.net/?splash=0&ui=sketch&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fboard-visual-tutorial.drawio)_
 
 ## Use the diagrams.net online whiteboard
 
-1. Open the diagram above in the Sketch diagrams.net editor. 
-   * If you have [sketch.diagrams.net](https://sketch.diagrams.net) already open, drag the .png image into that browser tab - it contains the diagram information with individual shapes.
+1. Open the diagram above in diagrams.net usting the Sketch editor theme. 
+   * Alternatively, if you have [sketch.diagrams.net](https://sketch.diagrams.net) already open, drag the .png image from this page into that browser tab - the image contains all of the diagram information with individual shapes.
 2. If prompted, choose where you want to save the file.
 3. Resize your browser to line the tutorial up with the interface elements.
 
@@ -78,8 +78,6 @@ Online whiteboards are more flexible than their physical components. Select a si
 
 **Zoom in and out:** Use the scroll wheel on your mouse, or click on the magnifying glass tools in the bottom right. Click on the number in the center to reset the zoom to 100%, or again to fit the whiteboard content to your browser window.
 
-**Work on a dark background:** Click on the sun/moon tool in the bottom right. 
-
 **See an outline of the entire online whiteboard:** Click on the _Outline_ tool in the bottom right to open a floating panel. The area highlighted in blue is your current browser window. Drag the blue area to move quickly to another section of the whiteboard. 
 <br /><img src="/assets/img/blog/online-whiteboard-canvas.gif" style="width=100%;max-width:600px;height:auto;" alt="Move and zoom the online whiteboard canvas with your mouse or the tools in the bottom right at sketch.diagrams.net">
 
@@ -96,6 +94,11 @@ Click on the minimised _Format_ panel's title to expand the format panel.
 The tools and options available in the format panel will depend on what you have selected in your diagram. 
 <br /><img src="/assets/img/blog/online-whiteboard-formatting.gif" style="width=100%;max-width:600px;height:auto;" alt="Format shapes, connectors and text with the floating Format panel in the sketch.diagrams.net online whiteboard">
 
+With nothing selected, you can change the colours of all shapes and connectors with a global style. 
+1. Click on the _Style_ tab in the format panel.
+2. Hover over one of the styles to see a preview, and click on it to apply it to your diagram. 
+<img src="/assets/img/blog/online-whiteboard-global-style.png" style="width=100%;max-width:500px;height:auto;" alt="Apply a global style to the online whiteboard via the Style tab in the floating format panel when nothing is selected in your diagram">
+
 ### Export your whiteboard diagram
 
 Click on the draw.io logo in the top left to open the simplified menu. You can export your whiteboard diagram to various formats, and access additional tools from this menu. 
@@ -110,7 +113,7 @@ There are many shapes available in diagrams.net that aren't in the toolbar on th
 **Search for shapes:** At the top of the _Shape_ panel, type the name of a shape in the search field and press ``Enter``. 
 
 **Open a different shape library:** click _More Shapes_, select the shape library you wish to use, and click _Apply_.
-<br /><img src="/assets/img/blog/online-whiteboard-shape-libraries.png" style="width=100%;max-width:400px;height:auto;" alt="Enable additional shape libraries to use a greater variety of shapes">
+<br /><img src="/assets/img/blog/online-whiteboard-shape-libraries.png" style="width=100%;max-width:500px;height:auto;" alt="Enable additional shape libraries to use a greater variety of shapes">
 <br />There are many shape libraries for specific types of diagrams, as well as broad categories: software and networking categories with many shape libraries for different types of IT diagrams and service platforms, flowcharts, floorplans, electrical, threat modeling, cabinets for rack diagrams, and many more.
 
 **Draw a freehand shape:** Click on the _Freehand_ tool to draw a freehand shape with your mouse, finger or touchscreen pen, which will be saved as an image with a transparent background.
@@ -118,7 +121,7 @@ There are many shapes available in diagrams.net that aren't in the toolbar on th
 [Learn more about drawing and styling freehand shapes](/blog/freehand-drawing.html)
 
 **Manipulate shapes with a context menu:** Right-click on a shape to see the context menu. Move shapes forward and backwards, duplicate them, set a style as a new default, add links to shape and see the shape metadata and style information.
-<br /><img src="/assets/img/blog/online-whiteboard-context-menu.png" style="width=100%;max-width:400px;height:auto;" alt="Right click on a shape or connector to open a context menu - add and edit links, shape style information and metadata, as well as move shapes forward and backwards">
+<br /><img src="/assets/img/blog/online-whiteboard-context-menu.png" style="width=100%;max-width:250px;height:auto;" alt="Right click on a shape or connector to open a context menu - add and edit links, shape style information and metadata, as well as move shapes forward and backwards">
 
 ### Use a template diagram on the whiteboard
 
@@ -129,6 +132,3 @@ If you don't want to start with a blank diagram, you can choose one of the many 
 3. Select the template you want to use, then click _Insert_. 
 
 <img src="/assets/img/blog/online-whiteboard-template-preview.png" style="width=100%;max-width:500px;height:auto;" alt="Preview a template from the large template library before adding it to your online whiteboard at sketch.diagrams.net">
-
-
-
