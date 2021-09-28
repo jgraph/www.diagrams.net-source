@@ -65,7 +65,7 @@
         moreBlock.style.display = 'none';
 
         var req = new XMLHttpRequest();
-        req.open('GET', 'https://solitary-sound-cd90.jgraph.workers.dev/?q=' + 
+        req.open('GET', 'https://www.diagrams.net/doSearch?q=' + 
                 encodeURIComponent(search) + '&return=title,url&highlight.content={format:%20%27text%27}&start=' + start);
         
         req.onreadystatechange = function()
@@ -102,12 +102,12 @@
                     }
                     catch(e)
                     {
-                        showError(prevDiv, mxResources.get('attCorrupt', [fileInfo.diagramName]));
+                        resultsList.innerHTML = 'An error occurred. Please try again later.';
                     }
                 }
                 else
                 {
-                    showError(prevDiv, mxResources.get('loadAttFailed', [fileInfo.diagramName]));
+                    resultsList.innerHTML = 'An error occurred. Please try again later.';
                 }
             }
         };
