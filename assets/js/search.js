@@ -28,7 +28,12 @@
     {
         var anchor = document.createElement('a');
         anchor.className = 'card card-frame mb-3';
-        anchor.href = hit.fields.url;
+        
+        if (new RegExp('^https?://.*').test(hit.fields.url))
+        {
+            anchor.href = hit.fields.url;
+        }
+        
         var card = document.createElement('div');
         card.className = 'card-body p-4';
         anchor.appendChild(card);
