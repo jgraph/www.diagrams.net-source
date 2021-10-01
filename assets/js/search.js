@@ -6,18 +6,28 @@
         return elem.querySelector(selector);
     }
 
-    var params = location.search.substring(1).split('&'), search;
-
-    for (var i = 0; i < params.length; i++) 
+    function getUrlParam(param, escape, url)
     {
-        var p = params[i].split('=');
-
-        if (p[0] == 'search') 
+        try
         {
-            search = decodeURIComponent(p[1].replace(/\+/g, '%20'));
-            break;
+            var url = url || window.location.search;
+
+            var result = (new RegExp(param + '=([^&]*)')).exec(url);
+            
+            if (result != null && result.length > 0)
+            {
+                // decode URI with plus sign fix.
+                return (escape) ? decodeURIComponent(result[1].replace(/\+/g, '%20')) : result[1];
+            }
+            
+            return null;
         }
-    }
+        catch (e)
+        {
+            return undefined;
+        }
+    };
+    var search = getUrlParam('search', true), srcPage = getUrlParam('src');
 
     var resultsList = _$('#resultsList'), loading = _$('.loader'), 
         controls = _$('#controls'), moreBlock = _$('#moreBlock'), 
@@ -71,7 +81,8 @@
 
         var req = new XMLHttpRequest();
         req.open('GET', 'https://www.diagrams.net/doSearch?q=' + 
-                encodeURIComponent(search) + '&return=title,url&highlight.content={format:%20%27text%27}&start=' + start);
+                encodeURIComponent(search) + '&return=title,url&highlight.content={format:%20%27text%27}&start=' + start
+                + (srcPage? '&src=' + srcPage : '')); //Note: srcPage is pass-through parameter that is already encoded
         
         req.onreadystatechange = function()
         {
