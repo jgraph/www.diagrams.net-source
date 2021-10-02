@@ -32,7 +32,7 @@ The following URL parameters are supported in diagrams.net in the precedence ord
 * ``rt=1``: Uses chromeless mode with Google Drive realtime enabled.
 * ``edit=url``: Adds a link for the _Edit_ button in chromeless mode (use ``edit=_blank`` to edit the diagram as a new copy).
 * ``lightbox=1``: Uses the lightbox in chromeless mode (larger zoom, no page visible, chromeless).
-* ``grid=1``: Uses the chromeless mode with the grid enabled.
+* ``grid=1``: Sets the default grid enabled to true.
 * ``nav=1``: Enables folding in chromeless mode.
 * ``layers=1``: Adds layer control in chromeless mode
 * ``close=1``: Shows the _Close_ button in chromeless mode which closes the window when selected.
