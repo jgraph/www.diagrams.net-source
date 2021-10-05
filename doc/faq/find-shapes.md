@@ -22,5 +22,3 @@ Note that _Find_ attempts to match the search term to the first string in the la
 3. Click _Find_ or press ``Enter``.
 
 <img src="/assets/img/blog/find-regular-expression.gif" style="max-width:100%;height:auto;" alt="Highlight shapes based on their metadata or labels">
-
-**Tip:** This also works with the [tags plugin](/doc/faq/tags-plugin.html).
