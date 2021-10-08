@@ -14,7 +14,7 @@ Individual licenses for educational apps can be quite expensive. This is especia
 
 You can create and edit an unlimited number of diagrams for free with diagrams.net
 
-Because diagrams.net works on a [bring-your-own-storage model](/blog/secure-diagramming-storage.html), your files are not locked behind a paywall. You can choose to store your files in many different cloud storage locations (Google Drive, OneDrive, Github, ... ), in your browser, or on your local computer. You are free to view, edit, publish share them at any time. 
+Because diagrams.net works on a [bring-your-own-storage model](/blog/secure-diagramming-storage.html), your files are not locked behind a paywall. You can choose to store your files in many different cloud storage locations (Google Drive, OneDrive, Github, ... ), in your browser, or on your local computer. You are free to view, edit, publish and share them at any time. 
 
 **Tip:** [diagrams.net also integrates well with Google Classroom](/blog/google-classroom-diagrams.html). See below for more details.
 
@@ -30,13 +30,13 @@ By using the free diagrams.net and draw.io Importer extension for the Google Chr
 
 All of the selected diagrams will be converted and saved in a ``.zip`` file in your default downloads folder. Expand this ZIP file to access all of the diagrams, now in the ``.drawio`` format. 
 
-* Drag the file into a new diagram in the app.diagrams.net editor or select _File > Import from_ in the menu then select your file to open it in diagrams.net.
+* Drag a ``.drawio`` diagram file into a new diagram in the app.diagrams.net editor or select _File > Import from_ in the menu then select your file to open it.
 
-* If you have installed the [desktop version of diagrams.net](http://get.diagrams.net/), double click on a file to open it in the desktop application.
+* If you have installed the [desktop version of diagrams.net](http://get.diagrams.net/), double click on a ``.drawio`` file to open it in the desktop application.
 
 ## Import a single Lucidchart diagram
 
-You can import diagrams individually from Lucidchart into diagrams.net. You'll need to do this for every individual diagram you want to migrate from Lucidchart to diagrams.net.
+You can import diagrams individually from Lucidchart into diagrams.net. 
 
 **Note:** It is important that you **use these keyboard shortcuts** to copy and to past your diagram.
 
@@ -66,6 +66,7 @@ Related shapes are arranged into categories and shape libraries. You can use any
 **Free template diagrams**
 
 diagrams.net comes with a [large free template library](/blog/template-diagrams.html) which can be used for a wide range of diagrams: simple flowcharts and tree diagrams, highly technical IT and business diagrams, infographics, and many more.
+
 1. Open the template library in diagrams.net - click _Arrange > Insert > Template_.
 2. Click on the magnifying glass icon in the top right of a template in the template library dialog to see a larger preview of it.
 <br /><img src="/assets/img/blog/template-library-preview.png" style="width=100%;max-width:400px;height:auto;" alt="Hover over a template in diagrams.net to see a larger preview of it">
