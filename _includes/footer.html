@@ -38,27 +38,24 @@
         <h4 class="h6 text-white font-weight-medium">About us</h4>
         <ul class="list-unstyled font-size-1">
           <li class="py-2"><a class="text-white-70" href="/about.html">About diagrams.net</a></li>
-          <li class="py-2"><a class="text-white-70" href="https://github.com/jgraph">Contribute</a></li>
+          <li class="py-2"><a class="text-white-70" href="https://github.com/jgraph">GitHub</a></li>
           <li class="py-2"><a class="text-white-70" href="/trust/">Legal &amp; Privacy</a></li>
         </ul>
       </div>
 
       <div class="col-lg-4">
         <!-- Form -->
-        <form class="js-validate mb-2">
-          <h4 class="h6 text-white font-weight-medium mb-3">We ran out of footer items</h4>
+        <form class="js-validate mb-2" action="/search">
+          <h4 class="h6 text-white font-weight-medium mb-3">Search the site</h4>
           <div class="form-row">
             <div class="col-12">
               <div class="js-form-message">
-                <label class="sr-only" for="subscribeSrEmail">Email address</label>
+                <label class="sr-only" for="subscribeSrEmail">Search</label>
                 <div class="input-group">
-                  <input type="email" class="form-control" name="email" id="subscribeSrEmail" placeholder="Email address" aria-label="Email address" required
-                         data-msg="Please enter a valid email address."
-                         data-error-class="u-has-error"
-                         data-success-class="u-has-success">
+                  <input type="text" class="form-control" name="search" id="signupSrEmail" placeholder="Search site" aria-label="Search site">
                   <div class="input-group-append">
-                    <button type="button" class="btn btn-primary">
-                      <span class="fas fa-arrow-right"></span>
+                    <button type="submit" class="btn btn-primary text-nowrap ml-3">
+                      <span class="fas fa-search font-size-1 mr-2"></span>
                     </button>
                   </div>
                 </div>
@@ -67,8 +64,6 @@
           </div>
         </form>
         <!-- End Form -->
-
-        <p class="text-white-70 small mb-0">This form isn't even posted to a server.</p>
       </div>
     </div>
 
