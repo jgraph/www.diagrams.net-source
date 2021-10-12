@@ -208,6 +208,10 @@ This configuration produces the following _More Shapes_ dialog when combined wit
 
 * ``defaultEdgeLength``: Defines the default length for new connectors (7.2.4 and later).
 
+* ``defaultPageVisible``: Defines whether the page is initially visible (true/false).
+
+* ``defaultGridEnabled``: Defines whether the grid is initially enabled (true/false).
+
 * ``autosaveDelay``: Defines the delay (in ms) between the last change and the autosave of the file (10.4.7 and later).
 
 * ``version``: The current version of the configuration (any string, e.g. ``"1.0"``). If this is different from the last used version, then the current settings on the client-side (``.drawio-config``) will be reset. The default is ``null``. Change this to force the stored settings in the client to be reset and apply the current configuration (7.2.8 and later).
