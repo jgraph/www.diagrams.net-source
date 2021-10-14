@@ -44,7 +44,7 @@ And the first page now contains the second page as a non-selectable background (
 
 ## Create a Template
 
-If you are using draw.io for Confluence you could add templates of your background pages in both [cloud](https://www.diagrams.net/doc/faq/custom-templates-confluence-cloud) and [data centre](https://www.diagrams.net/doc/faq/custom-templates-confluence-server).
+If you are using draw.io for Confluence you could add templates of your background pages in both [Cloud](https://www.diagrams.net/doc/faq/custom-templates-confluence-cloud) and [Data Center](https://www.diagrams.net/doc/faq/custom-templates-confluence-server).
 
 If you are storing your diagrams in Google Drive, you could create a background pages folder in your shared team drive that users can copy and use as a basis for their own diagrams.
 

@@ -10,7 +10,8 @@ Instead of the default transparent background in your diagram or a [solid backgr
 **Note:** Only use images in your diagram and background that you have a license to use.
 
 1. Make sure nothing is selected in your diagram to see the _Diagram_ tab in the format panel.
-2. Click on _Image_ next to _Background_ in the _View_ settings. 
+2. Click on _Change_ next to _Background_ in the _View_ settings. 
+<br /><img src="/assets/img/blog/background-option.png" style="width=100%;max-width:250px;height:auto;" alt="Click Change next to Background to select an image to use as a diagram background">
 3. Drag the image file onto the dialog, or enter the URL in the text fieldThe _Width_ and _Height_ are added automatically - change these if you want to resize the background image.
 <br /><img src="/assets/img/blog/background-image-dialog.png" style="width=100%;max-width:250px;height:auto;" alt="Set an image to use as your diagram's background">
 4. Click _Apply_.
