@@ -22,7 +22,7 @@ The Sketch editor theme is under active development. Please add any suggestions 
 ## Use the diagrams.net online whiteboard
 
 1. Open the diagram above in diagrams.net usting the Sketch editor theme. 
-   * Alternatively, if you have [sketch.diagrams.net](https://sketch.diagrams.net) already open, drag the .png image from this page into that browser tab - the image contains all of the diagram information with individual shapes.
+   * Alternatively, if you have [sketch.diagrams.net](https://sketch.diagrams.net) already open, drag the ``.png`` image from this page into that browser tab - the image contains all of the diagram information with individual shapes.
 2. If prompted, choose where you want to save the file.
 3. Resize your browser to line the tutorial up with the interface elements.
 
