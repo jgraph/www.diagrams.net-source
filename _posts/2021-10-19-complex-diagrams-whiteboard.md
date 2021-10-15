@@ -60,6 +60,18 @@ Some options are available in the format panel on the right. Make sure nothing i
 * **Mathmatical Typesetting:** Enter LaTeX or AsciiMath to render equations neatly using MathJax. [Learn more about using maths in diagrams](/blog/maths-in-diagrams.html)
 <br /><img src="/assets/img/blog/online-whiteboard-diagram-tab-features.png" style="width=100%;max-width:500px;height:auto;" alt="Additional diagramming features can be enabled or disabled via the Diagram tab in the format panel on the sketch.diagrams.net online whiteboard">
 
+## Do more with shapes
+
+Right-click on a shape to open the context menu, then select _Edit_. From there, you can work with shapes in many different ways.
+* **Edit Style** to define a specific shape style with key-value pairs.
+* **Edit Data** to add custom properties (metadata) and placeholders to shapes.
+* **Edit Link** to add a URL or a custom JSON link.
+* **Edit Image** to change the image used in a shape label. 
+* **Edit Tooltip** to define a tooltip that appears when you hover over the shape. 
+* **Edit Geometry** to change the shape's geometry. 
+* **Edit** to highlight and edit the shape label.
+<br /><img src="/assets/img/blog/online-whiteboard-context-menu-edit.png" style="width=100%;max-width:500px;height:auto;" alt="Right-click and select Edit, to specify custom shape styles, properties, links, image labels, tooltips, and geometry">
+
 ## Create a diagram from CSV, text, UML and SQL
 
 1. Open the menu, then select _Import from_ to see the various advanced diagram creation tools. 
