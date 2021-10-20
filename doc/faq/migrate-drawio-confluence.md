@@ -15,7 +15,7 @@ Note that no diagram data is stored outside of your Confluence instance, whether
 
 Both the macros and attachments will port as part of a standard Confluence to Confluence migration.
 
-**Important:** To ensure links inside diagrams work after migrating, you must perform an additional step. Links in diagrams to Confluence pages contain the page ID of the page. Page names are not used since these break when a page is renamed. Migrating to another Confluence instance will change all of the page ID values, breaking these links.
+**Important:** To ensure links inside diagrams work after migrating, you must perform the export and import steps detailed below. Links in diagrams to Confluence pages contain the page ID of the page. Page names are not used since these break when a page is renamed. Migrating to another Confluence instance will change all of the page ID values, breaking these links.
 
 ## Use the draw.io Page IDs Export tool
 

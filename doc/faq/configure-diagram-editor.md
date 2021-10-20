@@ -198,6 +198,8 @@ This configuration produces the following _More Shapes_ dialog when combined wit
 
 * ``zoomFactor``: Defines the zoom factor for mouse wheel and trackpad zoom. Default is 1.2 (14.7.0 and later).
 
+* ``darkColor``: Defines the background color for dark mode. Default is #2A2A2A.
+
 * ``pageFormat``: Defines the default page format, eg. ``"pageFormat": {"width": 1169, "height": 1654}`` for DIN A3, with inches * 10 for width and height (15.0.0 and later).
 
 * ``gridSteps``: Defines the number of minor grid steps (14.3.2 and later).
@@ -231,6 +233,10 @@ This configuration produces the following _More Shapes_ dialog when combined wit
 * ``maxImageBytes``: Defines the maximum size for images in bytes. Default is _1000000_.
 
 * ``maxImageSize``: Defines the maximum width or height of the image, where the lowest value is used. Default is _520_.
+
+* ``oneDriveInlinePicker``: Specifies if the inline picker for OneDrive should be used. Default is true if inlinePicker URL parameter isn't used.
+
+* ``settingsName``: Specifies a name for storing user settings, usually in embed mode, in the form .{name}-config, in local storage.
 
 ## Additional options for Confluence Server and Data Center
 
