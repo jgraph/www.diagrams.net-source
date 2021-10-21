@@ -13,7 +13,7 @@ Many people prefer a minimal interface for diagramming, as there are fewer distr
 As the interface is simpler at [sketch.diagrams.net](https://sketch.diagrams.net/), the advanced diagramming tools are in less obvious places.
 
 <img src="/assets/img/blog/online-whiteboard-additional-tools.png" style="width=100%;max-width:600px;height:auto;" alt="There are many additional tools to create more complex diagrams and customise the sketch.diagrams.net online whiteboard">
-<br />_To work dark background, select Dark from the sketch.diagrams.net menu_
+<br />_To work with a dark background, select Dark from the sketch.diagrams.net menu_
 
 **Display and hide panels and floating dialogs**
 
