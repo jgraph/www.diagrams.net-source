@@ -8,7 +8,7 @@ tags: [data protection]
 categories: [trust, features]
 ---
 
-diagrams.net is a unique security-first diagramming tool in that we provide the application platform, but your diagram data only lives in your browser on your local device while you are working on it. Upon saving, your diagram data will be stored at the location you have chosen: in your cloud platform, on your local device, in GitHub, or to whichever integration you have selected. Your diagram data is never sent to the our servers when you save your diagram.
+diagrams.net is a unique security-first diagramming tool in that we provide the application platform, but your diagram data only lives in your browser on your local device while you are working on it. Upon saving, your diagram data will be stored at the location you have chosen: in your cloud platform, on your local device, in GitHub, or to whichever integration you have selected. Your diagram data is never sent to our servers when you save your diagram.
 
 If you export your diagram to an image (raster) format using an outdated browser such as Internet Explorer, or if you export your diagram to a PDF file, this is the only time your diagram data is sent to the diagrams.net servers - diagram conversation on our servers is obviously not possible without seeing your diagram! As soon as the conversion to an image or a PDF file has completed and it has been delivered to you, all diagram data is immediately deleted - your diagram data is never saved or stored on our servers.
 
