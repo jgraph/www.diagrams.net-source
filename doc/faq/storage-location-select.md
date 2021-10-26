@@ -5,7 +5,7 @@ faq: true
 categories: [Features,Integrations]
 ---
 
-diagrams.net can use a number of different locations to store your diagram files, including your local device and several cloud storage locations: Google Drive, OneDrive, Dropbox, Github and GitLab.
+diagrams.net can use a number of different locations to store your diagram files, including your local device and several cloud storage locations: Google Drive, OneDrive, Dropbox, GitHub and GitLab.
 
 1. Go to [app.diagrams.net](https://app.diagrams.net).
 2. Select the location or online platform where you want to save your diagrams.

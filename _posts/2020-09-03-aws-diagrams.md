@@ -158,6 +158,6 @@ Save the time you'd normally spend exporting your diagram to an image format, th
 * [Google Docs](/doc/faq/google-docs-diagrams.html)
 * [Microsoft Word, Excel and Powerpoint](/doc/faq/microsoft-office-diagrams.html)
 * [Google Sites](/doc/faq/embed-diagrams-google-sites.html)
-* [Github markdown pages](/_posts/2020-08-24-github-diagrams.html)
+* [GitHub markdown pages](/_posts/2020-08-24-github-diagrams.html)
 
 <img src="/assets/img/blog/aws-example-embed-google-docs.png" style="max-width:100%;height:auto;" alt="Embed your diagram in your system documentation in Google Docs">

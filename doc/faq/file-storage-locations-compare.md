@@ -21,7 +21,7 @@ Diagrams.net can use the following online platforms for your diagrams, after you
 
 * [Google Drive](https://app.diagrams.net/?mode=google)
 * [Microsoft OneDrive](https://app.diagrams.net/?mode=onedrive)
-* [Github](https://app.diagrams.net/?mode=github) and [GitLab](https://app.diagrams.net/?mode=gitlab)
+* [GitHub](https://app.diagrams.net/?mode=github) and [GitLab](https://app.diagrams.net/?mode=gitlab)
 * [Dropbox](https://app.diagrams.net/?mode=dropbox)
 
 Your diagram files are hosted in the cloud on the servers provided by these platforms.

@@ -17,7 +17,7 @@ In line with [Microsoft's end of life date of Internet Explorer 11](https://blog
 * Dropbox dropped IE 11 support October 2020.
 * Google Drive dropped support March 2021.
 * OneDrive dropped support August 2021.
-* Github [do not list IE in their supported browsers](https://docs.github.com/en/get-started/using-github/supported-browsers).
+* GitHub [do not list IE in their supported browsers](https://docs.github.com/en/get-started/using-github/supported-browsers).
 * Gitlab [ended support for IE 11 in the 13.4 release](https://gitlab.com/gitlab-org/gitlab/-/issues/197987). The gitlab.com site does not support IE.
 
 ## Users of draw.io with Confluence and Jira Cloud

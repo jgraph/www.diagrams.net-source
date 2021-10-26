@@ -85,7 +85,7 @@ The text that replaces this placeholder is set in the swimlane's custom properti
 
 The [many different diagrams.net integrations](/integrations.html) let you use your kanban boards with the tools you use. 
 
-Embed your kanban diagram wherever you are working: HTML pages, [VSCode](/blog/embed-diagrams-vscode.html) and [Github](/blog/embed-diagrams-github-markdown.html) projects, [Google Workplace](/blog/diagrams-google-docs.html) and [Microsoft Office](/doc/faq/microsoft-office-diagrams.html) documents and slides, [Atlassian Confluence](/doc/drawio-confluence-cloud.html), [Notion pages](/embed-diagrams-notion.html), and more. 
+Embed your kanban diagram wherever you are working: HTML pages, [VSCode](/blog/embed-diagrams-vscode.html) and [GitHub](/blog/embed-diagrams-github-markdown.html) projects, [Google Workplace](/blog/diagrams-google-docs.html) and [Microsoft Office](/doc/faq/microsoft-office-diagrams.html) documents and slides, [Atlassian Confluence](/doc/drawio-confluence-cloud.html), [Notion pages](/embed-diagrams-notion.html), and more. 
 
 See the [diagrams.net editor embedding walkthrough](/blog/embedding-walkthrough.html) if you want to embed your kanban board and diagrams.net in another application.
 

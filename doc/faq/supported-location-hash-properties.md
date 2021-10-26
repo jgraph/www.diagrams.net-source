@@ -17,7 +17,7 @@ The following references are supported where ``{id}`` is used for the unique fil
 * ``W{id}``: Microsoft OneDrive
 * ``T{id}``: Trello
 * ``D{path}``: Dropbox (path must be relative to ``Apps/drawio``)
-* ``H{path}``: Github (path must be in the format ``org/repo/branch/path``)
+* ``H{path}``: GitHub (path must be in the format ``org/repo/branch/path``)
 * ``A{path}``: GitLab (path must be in the format ``org/repo/branch/path``)
 * ``L{path}``: Browser storage
 * ``U{url}``: Opens the diagram from a URL ([example](https://app.diagrams.net/#Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-diagrams%2Fdiagrams%2Fbulb.xml)). If the URL does not end with a filename, then use the ``template-filename`` [URL parameter](/doc/faq/supported-url-parameters.html) to specify the filename.

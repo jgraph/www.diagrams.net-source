@@ -3,12 +3,12 @@ layout: post
 author: diagrams.net
 slug: example-diagrams-github
 date: 2019-05-13 09:54:00
-title: Example diagrams are on Github
+title: Example diagrams are on GitHub
 tags: [open source, templates]
 categories: [integrations]
 ---
 
-We regularly publish new example diagrams in the [jgraph/drawio-diagrams](https://github.com/jgraph/drawio-diagrams) repository on Github so they are easy to access. In this repository you'll find diagram examples that are used in:
+We regularly publish new example diagrams in the [jgraph/drawio-diagrams](https://github.com/jgraph/drawio-diagrams) repository on GitHub so they are easy to access. In this repository you'll find diagram examples that are used in:
 
 * blog posts
 * FAQ answers
@@ -28,4 +28,4 @@ Click _Create_, and diagrams.net will open the template diagram in a new browser
 
 <img src="/assets/img/blog/inserted-from-template-diagram.png" style="max-width:100%;height:auto;" alt="An example diagram inserted as a template from GitHub">
 
-See the [drawio-diagrams repository on Github](https://github.com/jgraph/drawio-diagrams) for more ways to use these examples as templates for your diagrams.
+See the [drawio-diagrams repository on GitHub](https://github.com/jgraph/drawio-diagrams) for more ways to use these examples as templates for your diagrams.

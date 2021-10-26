@@ -14,7 +14,7 @@ Individual licenses for educational apps can be quite expensive. This is especia
 
 You can create and edit an unlimited number of diagrams for free with diagrams.net
 
-Because diagrams.net works on a [bring-your-own-storage model](/blog/secure-diagramming-storage.html), your files are not locked behind a paywall. You can choose to store your files in many different cloud storage locations (Google Drive, OneDrive, Github, ... ), in your browser, or on your local computer. You are free to view, edit, publish and share them at any time. 
+Because diagrams.net works on a [bring-your-own-storage model](/blog/secure-diagramming-storage.html), your files are not locked behind a paywall. You can choose to store your files in many different cloud storage locations (Google Drive, OneDrive, GitHub, ... ), in your browser, or on your local computer. You are free to view, edit, publish and share them at any time. 
 
 **Tip:** [diagrams.net also integrates well with Google Classroom](/blog/google-classroom-diagrams.html). See below for more details.
 
