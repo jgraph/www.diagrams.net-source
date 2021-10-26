@@ -44,7 +44,7 @@ You can filter what viewers see in the _Embed draw.io Diagram_ macro to display 
 You can also embed a draw.io diagram stored somewhere publicly on the internet using its URL. 
 
 1. Add the _Embed draw.io Diagram_ macro to your page. 
-2. Select the _From URL_ tab, enter a _Diagram Name_ and the _Diagram URL_ in the textboxes, and click _Show diagram_ to see a preview. In the example below, the diagram is stored in our public Github repository.
+2. Select the _From URL_ tab, enter a _Diagram Name_ and the _Diagram URL_ in the textboxes, and click _Show diagram_ to see a preview. In the example below, the diagram is stored in our public GitHub repository.
 4. Click _Insert_ to embed the diagram into your Confluence page.
 <br /><img src="/assets/img/blog/embed-drawio-diagram-fromurl-confluence-server.png" style="max-width:100%;height:auto;" alt="Add a diagram name, its public URL, then insert it into your Confluence page">
 

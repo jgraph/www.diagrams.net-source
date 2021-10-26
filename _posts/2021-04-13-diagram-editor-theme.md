@@ -18,7 +18,7 @@ There are four different themes to choose from, with a fifth currently under dev
 2. Choose Kennedy, Minimal, Atlas, Dark, or Sketch (a whiteboard-style theme).
 3. Reload the diagrams.net editor to start using your select UI theme. 
 
-_Please visit Github to [leave feedback about the Sketch and Minimal editor themes](https://github.com/jgraph/drawio/discussions/1924) and help guide their development._
+_Please visit GitHub to [leave feedback about the Sketch and Minimal editor themes](https://github.com/jgraph/drawio/discussions/1924) and help guide their development._
 
 **Tip:** If you are new to diagramming, read the [introduction to the diagrams.net editor](/doc/getting-started-editor.html) that looks at all the various important elements.
 

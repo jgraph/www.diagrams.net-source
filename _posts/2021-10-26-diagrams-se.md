@@ -54,4 +54,4 @@ Change the se.diagrams.net editor theme to show a minimal whiteboard-like collec
 2. Reload your browser tab to switch to the simpler editor theme.
 
 <img src="/assets/img/blog/sketch-theme-tutorial.png" style="width=100%;max-width:500px;height:auto;" alt="Sketch editor theme is currently being developed">
-<br />_[Download this tutorial from Github](https://se.diagrams.net/?splash=0&ui=sketch&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fboard-visual-tutorial.drawio), add it to your Google Drive account, and open it in [se.diagrams.net](https://se.diagrams.net/?splash=0&ui=sketch)_
+<br />_[Download this tutorial from GitHub](https://se.diagrams.net/?splash=0&ui=sketch&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fboard-visual-tutorial.drawio), add it to your Google Drive account, and open it in [se.diagrams.net](https://se.diagrams.net/?splash=0&ui=sketch)_

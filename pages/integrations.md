@@ -19,13 +19,13 @@ diagrams.net desktop is a stand-alone, offline application available for Windows
 Create, edit and view diagrams using the free diagrams.net application online at [app.diagrams.net](https://app.diagrams.net). You can even use it as [a diagram viewer for files created by another diagramming tool](/blog/online-diagram-viewer.html).
 
 * **Mobile diagramming:** Add a web link to diagrams.net on your mobile device's home screen to diagram on-the-go. The Minimal theme is great for mobile devices.
-* **Flexible file storage:** Store your diagrams where you need them - on [Google Drive](https://app.diagrams.net/?mode=google), [OneDrive](https://app.diagrams.net/?mode=onedrive), [Github](https://app.diagrams.net/?mode=github), [GitLab](https://app.diagrams.net/?mode=gitlab), [Dropbox](https://app.diagrams.net/?mode=dropbox), or on your local device.
+* **Flexible file storage:** Store your diagrams where you need them - on [Google Drive](https://app.diagrams.net/?mode=google), [OneDrive](https://app.diagrams.net/?mode=onedrive), [GitHub](https://app.diagrams.net/?mode=github), [GitLab](https://app.diagrams.net/?mode=gitlab), [Dropbox](https://app.diagrams.net/?mode=dropbox), or on your local device.
 
 ### Self-hosted, secure, container-deployable
 
 diagrams.net is designed to be easy to configure and fast to deploy in a container.
 
-* [Get the diagrams.net application code on Github](https://github.com/jgraph/docker-drawio)
+* [Get the diagrams.net application code on GitHub](https://github.com/jgraph/docker-drawio)
 * [Learn more about docker and containers](https://www.docker.com/resources/what-container)
 
 ### Google Workspace add-ons for Docs, Sheets and Slides

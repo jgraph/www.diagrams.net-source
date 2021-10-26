@@ -66,7 +66,7 @@ The following URL parameters are supported in diagrams.net in the precedence ord
 * ``db=0``: Disables the Dropbox integration.
 * ``od=0``: Disables the OneDrive integration.
 * ``tr=0``: Disables the Trello integration.
-* ``gh=0``: Disables the Github integration.
+* ``gh=0``: Disables the GitHub integration.
 * ``gl=0``: Disables the GitLab integration.
 * ``drive=0``: Simulates [app.diagrams.net](https://app.diagrams.net) regardless of the domain name (uses the old app ID).
 * ``mode=[google|onedrive|github|dropobox|device|browser]``: Switches to the specified mode.

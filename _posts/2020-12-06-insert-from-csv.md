@@ -45,7 +45,7 @@ There are several important formatting commands, explained below.
 <br />``# "column1-style2": "ellipse;fillColor=#d5e8d4;"}``
 <br />Defining multiple connector styles in the CSV data works similarly.
 
-See the comments in the following examples stored on Github for more information on the available formatting commands.
+See the comments in the following examples stored on GitHub for more information on the available formatting commands.
 * [Basic functionality](https://github.com/jgraph/drawio-diagrams/blob/master/examples/csv/basic.txt)
 * [Labels](https://github.com/jgraph/drawio-diagrams/blob/master/examples/csv/labels.txt)
 * [Connectors](https://github.com/jgraph/drawio-diagrams/blob/master/examples/csv/edges.txt)

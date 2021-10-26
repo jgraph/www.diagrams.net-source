@@ -61,7 +61,7 @@ Now that you have generated the embed code, you can add this as an embedded link
 
 * [Embed diagrams from various locations in Confluence Cloud](/doc/faq/embed-copy-move-diagrams-Confluence-Cloud.html)
 * [Embed diagrams in Confluence Data Center and Server](/blog/embed-diagrams-confluence-server.html)
-* [Add diagrams in Github markdown pages](/blog/embed-diagrams-confluence-server.html)
+* [Add diagrams in GitHub markdown pages](/blog/embed-diagrams-confluence-server.html)
 * [Generate HTML to embed diagrams.net in a web page](/doc/faq/embed-html.html)
 * [Use diagrams within Google Docs, Sheets and Slides](/doc/faq/google-docs-diagrams.html)
 * [Use diagrams within Microsoft Word, Powerpoint and Excel](/doc/faq/microsoft-office-diagrams.html)

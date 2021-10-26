@@ -6,7 +6,7 @@ categories: [features]
 
 diagrams.net is a free and open source diagramming app that you can use online, offline (desktop).
 
-As a security-first diagramming app for teams, we provide the diagramming functionality, and you choose where to keep your diagram data. There are many different [integrations with other platforms and applications](/integrations.html), including [Atlassian Confluence Cloud](/doc/drawio-confluence-cloud.html), Google Documents, Github, Microsoft Word.
+As a security-first diagramming app for teams, we provide the diagramming functionality, and you choose where to keep your diagram data. There are many different [integrations with other platforms and applications](/integrations.html), including [Atlassian Confluence Cloud](/doc/drawio-confluence-cloud.html), Google Documents, GitHub, Microsoft Word.
 
 The diagram editor looks the same and offers the same main features no matter where you are using it. You can open a diagram created in one integration in another.
 
@@ -200,3 +200,10 @@ If you have nothing selected, you'll see the [options that apply to the entire d
 <img src="/assets/img/blog/diagram-options.png" style="width=100%;max-width:300px;;height:auto;" alt="The page and drawing canvas options available in diagrams.net">   <img src="/assets/img/blog/diagram-options-style.png" style="width=100%;max-width:300px;;height:auto;" alt="The style options let you globally change the shape, connector and text styles in diagrams.net">
 
 [_Back to top_](#the-diagramsnet-editor)
+
+## Keyboard shortcuts
+
+Use the following keyboard shortcuts to work more efficiently with diagrams.net.
+
+[<img src="https://app.diagrams.net/shortcuts.svg" style="width=100%;max-width:600px;;height:auto;" alt="The page and drawing canvas options available in diagrams.net">](https://app.diagrams.net/shortcuts.svg)
+<br />[_View and print these keyboard shortcuts_](https://app.diagrams.net/shortcuts.svg)

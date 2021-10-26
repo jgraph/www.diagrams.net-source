@@ -9,7 +9,7 @@ When you export a diagram to HTML in draw.io for Confluence Server/Data Center, 
 
 Instead of using this script over the internet, you can download the JavaScript file from the GitHub repository and host it yourself.
 
-1. Copy the ``viewer.min.js`` file from the diagrams.net Github repository at [https://github.com/jgraph/drawio/tree/master/src/main/webapp/js](https://github.com/jgraph/drawio/tree/master/src/main/webapp/js).
+1. Copy the ``viewer.min.js`` file from the diagrams.net GitHub repository at [https://github.com/jgraph/drawio/tree/master/src/main/webapp/js](https://github.com/jgraph/drawio/tree/master/src/main/webapp/js).
 2. Store that file in a location where all of your Confluence users can access it, either online or within your company's intranet, and copy its URL.
 3. As an administrator, click on the gear in the Confluence menu, then select _General configuration_ to go to your instance's administration area.
 4. In the left panel, under the _draw.io add-on_ heading, select _Configuration_. Then select the _Configuration tab_.

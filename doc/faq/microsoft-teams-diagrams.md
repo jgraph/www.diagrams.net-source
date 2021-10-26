@@ -106,7 +106,7 @@ If your team members are new to diagramming, import the following visual diagram
 
 <img src="/assets/img/blog/diagrams-in-teams-tutorial.png" style="width=100%;max-width:600px;height:auto;" alt="draw.io in Teams: A basic visual tutorial">
 
-[Right-click to download this tutorial diagram from our Github repository](https://raw.githubusercontent.com/jgraph/drawio-diagrams/master/blog/diagrams-in-teams-tutorial.drawio) 
+[Right-click to download this tutorial diagram from our GitHub repository](https://raw.githubusercontent.com/jgraph/drawio-diagrams/master/blog/diagrams-in-teams-tutorial.drawio) 
 
 **Import a diagram:** Add a new diagram tab as described above, and simply drag the diagram file from your device onto the canvas to import it. 
 

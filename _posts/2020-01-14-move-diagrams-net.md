@@ -40,4 +40,4 @@ When we're happy with the new app sub-domain we'll mark it as the canonical doma
 
 Hopefully, nothing. If you use draw.io within your group or company, maybe send a message to let your colleagues know the name is changing. There is time to feedback any concerns you may have.
 
-If you have questions, please post them to [https://groups.google.com/forum/#!forum/drawio](https://groups.google.com/forum/#!forum/drawio). If it's technical you can open an [issue at Github](https://github.com/jgraph/drawio/issues).
+If you have questions, please post them to [https://groups.google.com/forum/#!forum/drawio](https://groups.google.com/forum/#!forum/drawio). If it's technical you can open an [issue at GitHub](https://github.com/jgraph/drawio/issues).

@@ -35,4 +35,4 @@ As there is a rigorous application process with a well-defined [registration and
 
 Go to [diagram.new](https://diagram.new) and create a new diagram.
 
-If you have any questions, please post them to [https://groups.google.com/forum/#!forum/drawio](https://groups.google.com/forum/#!forum/drawio). If it's technical, you can open an [issue at Github](https://github.com/jgraph/drawio/issues).
+If you have any questions, please post them to [https://groups.google.com/forum/#!forum/drawio](https://groups.google.com/forum/#!forum/drawio). If it's technical, you can open an [issue at GitHub](https://github.com/jgraph/drawio/issues).
