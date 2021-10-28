@@ -194,6 +194,12 @@ This configuration produces the following _More Shapes_ dialog when combined wit
 
 * ``thumbWidth/thumbHeight``: Defines the width and height for the entries in the left panel (6.5.4 and later).
 
+* ``sidebarWidth``: Specifies the initial width of the sidebar.
+
+* ``sidebarTitles``: Specifies if titles in the sidebar should be visible. Default is false.
+
+* ``sidebarTitleSize``: Specifies the font size in pt for titles in the sidebar. Default is 8.
+
 * ``zoomWheel``: Specifies if the mouse wheel is used for zoom without any modifiers (15.0.6 and later).
 
 * ``zoomFactor``: Defines the zoom factor for mouse wheel and trackpad zoom. Default is 1.2 (14.7.0 and later).
