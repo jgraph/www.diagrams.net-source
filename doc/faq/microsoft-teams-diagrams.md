@@ -7,6 +7,8 @@ categories: [Integrations, Microsoft]
 
 With the draw.io app for Microsoft Teams, you and your team can collaborate in real time on diagrams directly from your team's channel in a Teams tab.
 
+**Note:** On smaller and mobile screens a view-only display of your diagams is offered. This is to avoid a poor experience for users trying to edit. Our research shows us that viewing is the only required use case in the vast majority of situations on mobile.
+
 **Secure and private:** Your diagrams are securely stored in your linked Microsoft OneDrive account, and in your browser or the Teams app while you are working on them. 
 
 **Fully-featured diagramming app:** With draw.io in Teams, your team has an easy-to-use diagramming application for quick [online whiteboard sketches](/blog/sketch-online-whiteboard.html) through to complex diagrams: [BPMN diagrams](/blog/bpmn-2-0.html), [flowcharts](/doc/getting-started-basic-flow-chart.html), mindmaps, org charts, UML diagrams, infographics, network diagrams, mockups, rack diagrams, and many more types of diagrams.
