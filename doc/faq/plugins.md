@@ -21,7 +21,7 @@ To [permanently add plugins](/doc/faq/add-plugin.html), select a plugin from the
 
 **Note:** Plugins are not part of the core functionality of diagrams.net, they are intended as examples for developers to create additional functionality.
 
-The following plugins are available from the [diagrams.net Github repository](https://github.com/jgraph/drawio/tree/master/src/main/webapp/plugins).
+The following plugins are available from the [diagrams.net GitHub repository](https://github.com/jgraph/drawio/tree/master/src/main/webapp/plugins).
 
 | **Filename** | **ID** | **Description** |
 |--------|----------|----------|

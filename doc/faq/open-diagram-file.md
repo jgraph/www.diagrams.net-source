@@ -5,7 +5,7 @@ faq: true
 categories: [Features]
 ---
 
-1. From within the diagrams.net editor, select _File > Open From_, and then select the location where you diagram file is saved. It may be on cloud storage platforms (Google Drive, OneDrive, Dropbox), on Github or GitLab, stored in your browser's local storage, on your device or at a URL on the web. 
+1. From within the diagrams.net editor, select _File > Open From_, and then select the location where you diagram file is saved. It may be on cloud storage platforms (Google Drive, OneDrive, Dropbox), on GitHub or GitLab, stored in your browser's local storage, on your device or at a URL on the web. 
 <br /><img src="/assets/img/blog/file-open-from.png" style="width=100%;max-width:300px;height:auto;" alt="Select File > Open From in the diagrams.net editor, then select the location where your diagram file is saved">
 2. If you need to, navigate to the folder where you have saved the diagram file. Select the diagram file and click _Select_. 
 <br /><img src="/assets/img/blog/google-drive-select-diagram-file-preview.png" style="width=100%;max-width:400px;height:auto;" alt="Open an existing diagram from Google Drive">

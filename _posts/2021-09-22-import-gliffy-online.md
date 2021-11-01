@@ -30,6 +30,6 @@ Next, go to [app.diagrams.net](https://app.diagrams.net) and drag and drop the f
 
 <img src="/assets/img/blog/diagrams-net-save-dialog.png" style="width=100%;max-width:600px;height:auto;" alt="The save option dialog in diagrams.net. At the top is a text field to type in the file name. Below are various storage options to select.">
 
-You can choose to save back to your computer or to one of the cloud storage options, Google Drive, OneDrive, Dropbox, Github or Gitlab.
+You can choose to save back to your computer or to one of the cloud storage options, Google Drive, OneDrive, Dropbox, GitHub or Gitlab.
 
 If you're worried about trusting SaaS vendors with your data, when they can change usage terms at any time, we have a [desktop app under our draw.io brand](https://get.diagrams.net). Note that it cannot import Gliffy files, but once imported using the online app, you can open, edit and save your files without limitations for free.

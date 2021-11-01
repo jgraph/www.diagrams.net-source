@@ -25,6 +25,8 @@ To work with tags, open the tags dialog in one of two ways.
 
 ## Add new tags, remove and assign tags
 
+Tags are case sensitive. It is best to consistently use a case style for all tags - for example CamelCase or all lowercase.
+
 1. In the Tags dialog, click _Add_.
 <br /><img src="/assets/img/blog/tags-dialog-add.png" style="width=100%;max-width:120px;height:auto;" alt="Add a new tag in the Tags dialog in diagrams.net">
 2. Enter the name of the tag without spaces - use CamelCase, underscores or dashes to separate words - and click _Add_.

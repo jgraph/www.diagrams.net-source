@@ -8,7 +8,9 @@ tags: [features]
 categories: [features,integrations]
 ---
 
-[Notion is a collaboration platform](https://www.notion.so) with web, desktop and mobile applications, providing individuals and teams with a range of features for collaboration, documentation and personal organisation: notes, databases, kanban boards, wikis, calendars, and reminders. 
+[Notion is a collaboration platform](https://www.notion.so) with web, desktop and mobile applications, providing individuals and teams with a range of features for collaboration, documentation and personal organisation: notes, databases, kanban boards, wikis, calendars, and reminders.
+
+**Note:** A [Chrome Extension](https://chrome.google.com/webstore/detail/drawio-for-notion/plhaalebpkihaccllnkdaokdoeaokmle) also exists that allows you to store your diagrams in Notion and edit them directly.
 
 The block based editor allows you to embed diagrams into your pages, by embedding the diagrams.net viewer. Embedded diagrams are visible both in the page view and when you view the embedded content in the full screen view. You can see all of the pages in a diagram and interact with the layers on each page, if you have chosen these settings when creating the embed code. 
 
@@ -61,7 +63,7 @@ Now that you have generated the embed code, you can add this as an embedded link
 
 * [Embed diagrams from various locations in Confluence Cloud](/doc/faq/embed-copy-move-diagrams-Confluence-Cloud.html)
 * [Embed diagrams in Confluence Data Center and Server](/blog/embed-diagrams-confluence-server.html)
-* [Add diagrams in Github markdown pages](/blog/embed-diagrams-confluence-server.html)
+* [Add diagrams in GitHub markdown pages](/blog/embed-diagrams-confluence-server.html)
 * [Generate HTML to embed diagrams.net in a web page](/doc/faq/embed-html.html)
 * [Use diagrams within Google Docs, Sheets and Slides](/doc/faq/google-docs-diagrams.html)
 * [Use diagrams within Microsoft Word, Powerpoint and Excel](/doc/faq/microsoft-office-diagrams.html)

@@ -10,7 +10,7 @@ categories: [trust, integrations, atlassian]
 
 Increasingly more of the information and data your teams work with is moving into the cloud. This is not a bad thing – there are many advantages to cloud storage, when you are using an experienced, large and trusted provider. 
 
-diagrams.net does not store your diagram data – you are free to choose from many of the integrated enterprise-level cloud storage platforms, including Google Drive and Microsoft OneDrive. If you prefer, you can also use Github, GitLab, Dropbox, Atlassian Confluence or Jira, or your own company servers.
+diagrams.net does not store your diagram data – you are free to choose from many of the integrated enterprise-level cloud storage platforms, including Google Drive and Microsoft OneDrive. If you prefer, you can also use GitHub, GitLab, Dropbox, Atlassian Confluence or Jira, or your own company servers.
 
 diagrams.net provides secure diagramming for teams in [_your choice_ of file storage location](/doc/faq/storage-location-select.html), whether that be in the cloud or not.
 
@@ -54,13 +54,13 @@ This beats single-sign-on, as you don’t even need to have an account at diagra
 
 ### Integrations with many apps, platforms and tools
 
-If you prefer to store your information in enterprise collaboration platforms such as Atlassian Confluence Cloud, Jira Cloud, Github, GitLab, Google Workspace, Microsoft Office 365, you can. There are [many third-party integrations with other applications](/integrations.html) to provide diagramming wherever your teams are working. 
+If you prefer to store your information in enterprise collaboration platforms such as Atlassian Confluence Cloud, Jira Cloud, GitHub, GitLab, Google Workspace, Microsoft Office 365, you can. There are [many third-party integrations with other applications](/integrations.html) to provide diagramming wherever your teams are working. 
 
 Store your diagrams.net files securely in your choice of cloud platform, and embed them into many different collaboration platforms and apps. 
 
 #### Use diagrams.net integrations in your teams
 * [Embed the diagrams.net viewer into another app](/blog/embedding-walkthrough.html)
-* [Add diagrams.net to Github markdown](/blog/embed-diagrams-github-markdown.html)
+* [Add diagrams.net to GitHub markdown](/blog/embed-diagrams-github-markdown.html)
 * [Insert diagrams to Notion](/blog/embed-diagrams-notion.html)
 * [Use Dropbox to store diagrams](/doc/faq/dropbox-diagrams-store.html)
 * [Install diagrams.net for Google Workspace (G Suite) domain wide](/doc/faq/gsuite-addons-domain-wide.html)

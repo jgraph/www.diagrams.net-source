@@ -5,7 +5,7 @@ faq: true
 categories: [Features,Integrations]
 ---
 
-When you collaborate on a diagram, synchronize the changes made by others to merge them into the diagram you are currently editing. The manual _Synchronize_ feature works in the online version of diagrams.net with [Github](https://app.diagrams.net/?mode=github), [GitLab](https://app.diagrams.net/?mode=gitlab), and [Dropbox](https://app.diagrams.net/?mode=dropbox), and with the [Desktop](https://get.diagrams.net/) version on any files stored on any network drive.
+When you collaborate on a diagram, synchronize the changes made by others to merge them into the diagram you are currently editing. The manual _Synchronize_ feature works in the online version of diagrams.net with [GitHub](https://app.diagrams.net/?mode=github), [GitLab](https://app.diagrams.net/?mode=gitlab), and [Dropbox](https://app.diagrams.net/?mode=dropbox), and with the [Desktop](https://get.diagrams.net/) version on any files stored on any network drive.
 
 If you collaborate on a diagram stored in [Google Drive](https://app.diagrams.net/?mode=google) or [OneDrive](https://app.diagrams.net/?mode=onedrive), external changes to your diagram are detected and merged automatically, unless you have disabled autosave or are working offline. In this case, you can also manually synchronize and merge the changes made by others.
 

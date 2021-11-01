@@ -7,7 +7,9 @@ categories: [Integrations, Microsoft]
 
 With the draw.io app for Microsoft Teams, you and your team can collaborate in real time on diagrams directly from your team's channel in a Teams tab.
 
-**Secure and private:** Your diagrams are securely stored in your linked Microsoft OneDrive or Google Drive account, and in your browser or the Teams app while you are working on them. 
+**Note:** On smaller and mobile screens a view-only display of your diagams is offered. This is to avoid a poor experience for users trying to edit. Our research shows us that viewing is the only required use case in the vast majority of situations on mobile.
+
+**Secure and private:** Your diagrams are securely stored in your linked Microsoft OneDrive account, and in your browser or the Teams app while you are working on them. 
 
 **Fully-featured diagramming app:** With draw.io in Teams, your team has an easy-to-use diagramming application for quick [online whiteboard sketches](/blog/sketch-online-whiteboard.html) through to complex diagrams: [BPMN diagrams](/blog/bpmn-2-0.html), [flowcharts](/doc/getting-started-basic-flow-chart.html), mindmaps, org charts, UML diagrams, infographics, network diagrams, mockups, rack diagrams, and many more types of diagrams.
 
@@ -23,7 +25,7 @@ With the draw.io app for Microsoft Teams, you and your team can collaborate in r
 <br /><img src="/assets/img/blog/microsoft-teams-add-tab1.png" style="width=100%;max-width:600px;height:auto;" alt="draw.io in Teams: Add a new tab to add a diagram to your team's channel">
 2. Search for and select draw.io.
 <br /><img src="/assets/img/blog/microsoft-teams-add-tab2.png" style="width=100%;max-width:300px;height:auto;" alt="draw.io in Teams: Search for draw.io and click on the logo to add a diagram tab">
-3. Enter a _Diagram Name_ in the text field. This will be used as the name of the tab in your Teams channel. Click on the location where you want to save your file: _Sharepoint_, _OneDrive_ or _Google Drive_. 
+3. Enter a _Diagram Name_ in the text field. This will be used as the name of the tab in your Teams channel. Click on the location where you want to save your file: _Sharepoint_ or _OneDrive_. 
 <br /><img src="/assets/img/blog/microsoft-teams-new-diagram1.png" style="width=100%;max-width:300px;height:auto;" alt="draw.io in Teams: Enter the name of your new diagram and then click where you want to save the diagram file">
 4. Choose whether you want your diagram to be _Editable_ and a _Post to the channel about this tab_ published, then click _Save_. 
 <br /><img src="/assets/img/blog/microsoft-teams-new-diagram2.png" style="width=100%;max-width:300px;height:auto;" alt="draw.io in Teams: Choose whether you want the new diagram to be editable by others and whether it should be announced to the team, then click Save">
@@ -106,14 +108,14 @@ If your team members are new to diagramming, import the following visual diagram
 
 <img src="/assets/img/blog/diagrams-in-teams-tutorial.png" style="width=100%;max-width:600px;height:auto;" alt="draw.io in Teams: A basic visual tutorial">
 
-[Right-click to download this tutorial diagram from our Github repository](https://raw.githubusercontent.com/jgraph/drawio-diagrams/master/blog/diagrams-in-teams-tutorial.drawio) 
+[Right-click to download this tutorial diagram from our GitHub repository](https://raw.githubusercontent.com/jgraph/drawio-diagrams/master/blog/drawio-in-teams-tutorial.drawio) 
 
 **Import a diagram:** Add a new diagram tab as described above, and simply drag the diagram file from your device onto the canvas to import it. 
 
 * Alternatively, click on the draw.io logo to open the menu, select _Import from_, then select the location or format you want to import. 
 * Add images to the canvas in a similar way - drag and drop, or import them via the menu.
 
-Zoom out and drag the canvas (right mouse button) to position the tutorial so that it lines up with the draw.io editor in your Teams browser window.
+Zoom out (``Ctrl`` or ``Cmd`` + scroll wheel) and drag the canvas (right mouse button) to position the tutorial so that it lines up with the draw.io editor in your Teams browser or app window. Click on the zoom percentage in the botom right to center and display the entire diagram.
 <img src="/assets/img/blog/diagrams-in-teams-import-diagram.gif" style="width=100%;max-width:600px;height:auto;" alt="draw.io in Teams: Drag and drop a diagram file into a diagram tab in Teams to import it">
 
 ### Rename a diagram tab in Teams
@@ -150,6 +152,6 @@ Zoom out and drag the canvas (right mouse button) to position the tutorial so th
 
 ## FAQs
 
-* [Use the draw.io/draw.io app in Microsoft Office applications](/doc/faq/microsoft-office-diagrams.html)
+* [Use the draw.io app in Microsoft Office applications](/doc/faq/microsoft-office-diagrams.html)
 * [See FAQs for all of the draw.io diagramming apps](/doc/faq/)
 * [Browse our blog for use cases, feature details, and news](/blog/)
