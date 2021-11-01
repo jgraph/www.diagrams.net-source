@@ -8,7 +8,9 @@ tags: [features]
 categories: [features,integrations]
 ---
 
-[Notion is a collaboration platform](https://www.notion.so) with web, desktop and mobile applications, providing individuals and teams with a range of features for collaboration, documentation and personal organisation: notes, databases, kanban boards, wikis, calendars, and reminders. 
+[Notion is a collaboration platform](https://www.notion.so) with web, desktop and mobile applications, providing individuals and teams with a range of features for collaboration, documentation and personal organisation: notes, databases, kanban boards, wikis, calendars, and reminders.
+
+**Note:** A [Chrome Extension](https://chrome.google.com/webstore/detail/drawio-for-notion/plhaalebpkihaccllnkdaokdoeaokmle) also exists that allows you to store your diagrams in Notion and edit them directly.
 
 The block based editor allows you to embed diagrams into your pages, by embedding the diagrams.net viewer. Embedded diagrams are visible both in the page view and when you view the embedded content in the full screen view. You can see all of the pages in a diagram and interact with the layers on each page, if you have chosen these settings when creating the embed code. 
 
