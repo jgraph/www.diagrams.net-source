@@ -33,7 +33,7 @@ Atlassian are [removing IE 11 support on specific versions of Jira and Confluenc
 
 ## Users of the draw.io/diagrams.net codebase
 
-If you deploy your own version of the project from source code, releases up to and including the 15th June 2022 will support IE 11. For any releases after that date you can expect complete failure when using IE 11. Specifically, we may remove IE 11 specific functionality from the codebase to simpify the code.
+If you deploy your own version of the project from source code, releases up to and including the 15th June 2022 will support IE 11. For any releases after that date you can expect complete failure when using IE 11. Specifically, we may remove IE 11 specific functionality from the codebase to simplify the code.
 
 If you wish to have a IE 11 supported deployment, deploy the last release prior to this date and do not update it.
 

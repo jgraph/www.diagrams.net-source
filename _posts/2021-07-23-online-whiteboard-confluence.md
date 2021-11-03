@@ -99,7 +99,7 @@ Do you prefer a more traditional mindmap look? Use the draw.io mindmap shapes in
 
 **Use an automated layout shape for the mindmap**
 
-If you would prefer to use an automatical layout, use the mindmap layout shape in the _Advanced_ shape library. You can drag and drop shapes inside this container mindmap layout shape. To work faster, clone and connect branches and topics from within the layout shape as follows.
+If you would prefer to use an automatic layout, use the mindmap layout shape in the _Advanced_ shape library. You can drag and drop shapes inside this container mindmap layout shape. To work faster, clone and connect branches and topics from within the layout shape as follows.
 
 * **Add extra subtopics or branches _at the same level_ in your mind map:** Hover over a sibling shape and click on the up or down direction arrow to clone it.
 * **Add child topics or branches:** Hover over an existing shape and click on the left or right direction arrows.

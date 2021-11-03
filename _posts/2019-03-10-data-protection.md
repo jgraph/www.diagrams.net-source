@@ -24,7 +24,7 @@ Read more about [data protection and the GDPR at the European Commission's websi
 
 ## Application provision and error logging
 
-In order to serve the diagrams.net online application, it needs to know your IP address and limited information about your device. This information is stored in logs to help the engineering staff debug errors when they occur, and non-technical staff do not have access. These logs are cyclicly overwritten every 10 days.
+In order to serve the diagrams.net online application, it needs to know your IP address and limited information about your device. This information is stored in logs to help the engineering staff debug errors when they occur, and non-technical staff do not have access. These logs are cyclically overwritten every 10 days.
 
 If an error happens (software always causes errors), an error report is sent to the diagrams.net servers with the line of code in the diagrams.net application where the error occurred. These error reports never contain any diagram data or personal information.
 

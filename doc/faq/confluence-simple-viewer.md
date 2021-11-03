@@ -36,7 +36,7 @@ Now, your diagram will be displayed as a PNG image within your page. Users can s
 You can set a specific page and layers to be displayed in the Simple Viewer when looking at a draw.io diagram on a Confluence page.
 
 * Confluence Data Center/Server: [Edit the draw.io diagram macro settings](/doc/faq/confluence-server-simple-viewer-change-page-layers.html).  
-* Confluence Cloud: [Edit the Viewer Setings in the _Embed draw.io diagram_ macro](/doc/faq/confluence-cloud-change-page-layers.html) 
+* Confluence Cloud: [Edit the Viewer Settings in the _Embed draw.io diagram_ macro](/doc/faq/confluence-cloud-change-page-layers.html) 
 
 ## Related
 

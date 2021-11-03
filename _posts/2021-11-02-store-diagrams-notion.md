@@ -33,7 +33,7 @@ When you visit Notion, you'll see that the draw.io for Notion extension has been
 * The toolbar on the left contains basic shapes as well as tools to insert tables, draw a freehand shape, and access the full shape library, template library
 * The menu is in the top left. 
 
-If you click away from the diagram editor on another location in your notion page, the diagram editor will close, and the diagram will be automatically centered and resized to the contents of your diagram. 
+If you click away from the diagram editor on another location in your notion page, the diagram editor will close, and the diagram will be automatically centred and resized to the contents of your diagram. 
 
 ### Use the embedded diagram editor in Notion
 
@@ -64,9 +64,9 @@ Here's a quick recap:
 * Click on the _Templates_ tool to open the template library and insert a diagram template.
 * In the menu, click on [_Layers_](/doc/layers.html) and [_Tags_](/blog/tags-in-diagrams.html) to display these tools in floating panels.
 
-<img src="/assets/img/blog/notion-chrome-extension-floating-panels.png" style="width=100%;max-width:600px;height:auto;" alt="Move, expand and collapse the floating panels and dialogs as you need">
+<img src="/assets/img/blog/notion-chrome-extension-floating-panels.png" style="width=100%;max-width:600px;height:auto;" alt="Move, expand and collapse the floating panels as you need">
 
-Drag and move any of the floating panels and dialogs to another location within the page to keep the drawing canvas clear. To expand or collapse a floating panel, click on the arrow in the title. To close a floating panel, click on the cross in the top right.
+Drag and move any of the floating panels to another location within the page to keep the drawing canvas clear. To expand or collapse a floating panel, click on the arrow in the title. To close a floating panel, click on the cross in the top right.
 
 **Tip:** If you prefer to work with a grid, click on an empty space in your diagram so you can see the _Diagram_ tab in the format panel, then enable the _Grid_ checkbox.
 
@@ -84,12 +84,12 @@ You can download the diagram files that you have stored in your Notion pages.
 1. In the menu, click on _Export as_.
 <br /><img src="/assets/img/blog/notion-chrome-extension-export-as.png" style="width=100%;max-width:600px;height:auto;" alt="Export a diagram from Notion using the draw.io for Notion Chrome extension">
 2. Select the format that you wish to export your diagram to. 
-   * Some of these formats will let you choose additional options, such as embedding your diagram data. Click _Export_.
+   * Some of these formats will let you choose additional options, such as embedding your diagram data. Once you've chosen the settings, click _Export_.
 3. If you selected to export to a file, click _Download_ to save the file to your device.
 
-[Learn more about export formats for diagrams](/blog/)
+[Learn more about export formats for diagrams](/doc/faq/export-diagram.html)
 
 ### Delete a diagram
 
-Delete a diagram from a Notion page just like you would any other content with ``Backspace`` or ``Delete``. Alternatively, select the diagram, then click on the little cross in the top right of the draw.io for Notion editor.
+Delete a diagram from a Notion page just like you would any other content with ``Backspace`` or ``Delete``. Alternatively, select the diagram, then click on the little cross (``x``) in the top right of the draw.io for Notion editor.
 <br /><img src="/assets/img/blog/notion-chrome-extension-delete-diagram.png" style="width=100%;max-width:600px;height:auto;" alt="Delete a diagram just as you would any other content in a Notion page">

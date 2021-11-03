@@ -8,7 +8,7 @@ categories: [Confluence Cloud]
 You can check which version of the draw.io app is currently installed in your instance, and retrieve your Support Entitlement Number (SEN).
 
 1. While editing a draw.io diagram in your Confluence Cloud instance, select _Help > Support_ from the menu.
-<br /><img src="/assets/img/blog/drawio-help-support-confluence.png" style="width=100%;max-width:400px;height:auto;" alt="From withint the draw.io diagram editor, click on Help > Support">
+<br /><img src="/assets/img/blog/drawio-help-support-confluence.png" style="width=100%;max-width:400px;height:auto;" alt="From within the draw.io diagram editor, click on Help > Support">
 2. The **version** number and your Support Entitlement Number (SEN) are listed at the top of the draw.io Support page.
 <br /><img src="/assets/img/blog/drawio-support-confluence-cloud.png" style="max-width:100%;height:auto;" alt="draw.io app settings in Jira Cloud">
 

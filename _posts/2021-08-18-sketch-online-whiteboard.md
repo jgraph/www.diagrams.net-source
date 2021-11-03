@@ -19,9 +19,11 @@ The Sketch editor theme is under active development. Please add any suggestions 
 <br />[<img src="/assets/img/blog/sketch-theme-tutorial.png" style="width=100%;max-width:600px;height:auto;" alt="Sketch editor theme is currently being developed">](https://app.diagrams.net/?splash=0&ui=sketch&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fboard-visual-tutorial.drawio)
 <br />_[Open this tutorial diagram in the Sketch whiteboard editor theme at diagrams.net](https://app.diagrams.net/?splash=0&ui=sketch&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fboard-visual-tutorial.drawio)_
 
+This editor theme is also used in our [draw.io for Notion Chrome extension](https://chrome.google.com/webstore/detail/drawio-for-notion/plhaalebpkihaccllnkdaokdoeaokmle) that allows you to [embed, edit and store single-page diagrams in Notion](/blog/store-diagrams-notion.html).
+
 ## Use the diagrams.net online whiteboard
 
-1. Open the diagram above in diagrams.net usting the Sketch editor theme. 
+1. Open the diagram above in diagrams.net using the Sketch editor theme. 
    * Alternatively, if you have [sketch.diagrams.net](https://sketch.diagrams.net) already open, drag the ``.png`` image from this page into that browser tab - the image contains all of the diagram information with individual shapes.
 2. If prompted, choose where you want to save the file.
 3. Resize your browser to line the tutorial up with the interface elements.
@@ -114,7 +116,7 @@ There are many shapes available in diagrams.net that aren't in the toolbar on th
 
 **Open a different shape library:** click _More Shapes_, select the shape library you wish to use, and click _Apply_.
 <br /><img src="/assets/img/blog/online-whiteboard-shape-libraries.png" style="width=100%;max-width:500px;height:auto;" alt="Enable additional shape libraries to use a greater variety of shapes">
-<br />There are many shape libraries for specific types of diagrams, as well as broad categories: software and networking categories with many shape libraries for different types of IT diagrams and service platforms, flowcharts, floorplans, electrical, threat modeling, cabinets for rack diagrams, and many more.
+<br />There are many shape libraries for specific types of diagrams, as well as broad categories: software and networking categories with many shape libraries for different types of IT diagrams and service platforms, flowcharts, floorplans, electrical, threat modelling, cabinets for rack diagrams, and many more.
 
 **Draw a freehand shape:** Click on the _Freehand_ tool to draw a freehand shape with your mouse, finger or touchscreen pen, which will be saved as an image with a transparent background.
 

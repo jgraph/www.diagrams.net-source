@@ -22,7 +22,7 @@ Store your diagram files with the software code or website source they explain. 
 3. If you haven't previously connected to GitHub, you'll need to grant permission to access your account and repositories. Click on _Authorize_.
 <br /><img src="/assets/img/blog/authorize-github1.png" style="width=100%;max-width:200px;height:auto;" alt="Click on Authorize to allow access to your GitHub account and repositories">
 4. You'll be redirected to the GitHub website. Sign in to your account, and click on _Authorize jgraph_.
-<br /><img src="/assets/img/blog/authorize-github2.png" style="width=100%;max-width:200px;height:auto;" alt="Log into your account, then click on _Authorize jgraph_ to allow access to your GitHub account and repositories">
+<br /><img src="/assets/img/blog/authorize-github2.png" style="width=100%;max-width:200px;height:auto;" alt="Log into your account, then click on _Authorize JGraph_ to allow access to your GitHub account and repositories">
 4. Navigate to the file you want to open and click on it. Or navigate to the location where you want to save your new diagram, and click _OK_.
 <br /><img src="/assets/img/blog/open-diagram-git.png" style="width=100%;max-width:200px;height:auto;" alt="Open an existing diagram stored in a GitHub repository that you have access to">
 

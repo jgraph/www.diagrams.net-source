@@ -78,7 +78,7 @@ To select a shape, click on it. To [select multiple shapes](/doc/faq/select-mult
 
 **Move** - Select and drag a shape that is on the drawing canvas to another position.
 
-**Resize** - Select a shape. Drag any of the round 'grab' handles to make the shape smaller or larger. Hold down ``Control`` when you resize shapes to keep them centered.
+**Resize** - Select a shape. Drag any of the round 'grab' handles to make the shape smaller or larger. Hold down ``Control`` when you resize shapes to keep them centred.
 <br />[See how to resize groups of shapes](/doc/faq/shape-resize.html)
 
 **Rotate** - Select a shape. Drag the rotate grab handle (the round arrow) at the top right corner of the shape to [rotate the shape](/blog/rotate-shapes.html) around its center point.
@@ -171,7 +171,7 @@ Once you have finished adding all the shapes, connectors and labels, you can sty
 3. [Change the text style](/doc/faq/text-styles.html) of labels on the _Text_ tab.
    * Select a different _Font_ from the list.
    * Add _Bold_, _Italics_, or _Underline_.
-   * Change the justification to be left, right or centered.
+   * Change the justification to be left, right or centred.
    * Click on the colour button next to _Font Color_.
    <br /><img src="/assets/img/blog/basic-flow-text-tab.png" style="width=100%;max-width:200px;height:auto;" alt="Style label text via the Text tab in the format panel in diagrams.net">   
 

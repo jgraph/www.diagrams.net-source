@@ -12,7 +12,7 @@ Kanban boards show the breakdown of large projects into smaller tasks that you p
 
 <img src="/assets/img/blog/kanban-template-example.png" style="width=100%;max-width:300px;height:auto;"  alt="The kanban template in diagrams.net automatically updates colours and labels when you move tasks to another column">
 
-The [kanban method or system](https://en.wikipedia.org/wiki/Kanban) is commonly used by project and production managers, agile and system developers, designers and content marketers. Almost all areas of a business can use this method to track work, identify bottlenecks, and improve processes. 
+The [anban method or system](https://en.wikipedia.org/wiki/Kanban) is commonly used by project and production managers, agile and system developers, designers and content marketers. Almost all areas of a business can use this method to track work, identify bottlenecks, and improve processes. 
 
 You can draw remote kanban boards in diagrams.net in many different ways - you don't have to use the simple kanban template as shown above. You can use simple sticky note shapes over coloured rectangles, list elements, or entity table shapes - whichever you find most convenient. 
 

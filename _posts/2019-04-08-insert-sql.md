@@ -26,7 +26,7 @@ As SQL and MySQL are the most popular languages used to program and work with re
 ## Enable the entity relation shape library
 
 1. Click _More Shapes_ at the bottom of the left panel.
-2. In the Software section, click on the checkbox next to the _Entity Relation_ shape library to enable it, then click _Appy_.
+2. In the Software section, click on the checkbox next to the _Entity Relation_ shape library to enable it, then click _Apply_.
 <img src="/assets/img/blog/entity-relation-shape-library-dialog.png" style="width=100%;max-width:400px;height:auto;" alt="Enable the Entity Relation shape library to create database diagrams">
 
 ## Use the entity relation connectors

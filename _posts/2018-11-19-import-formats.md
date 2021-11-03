@@ -42,7 +42,7 @@ If you are using the draw.io app for Atlassian Confluence, you can even convert 
 diagrams.net works with diagrams and images stored at a number of locations.
 
 - Local storage: in-browser only, or stored on your local hard drive (desktop or mobile).
-- Cloud platforms: Google Drive, OneDrive, Nextcloud, and Dropbox.
+- Cloud platforms: Google Drive, OneDrive, NextCloud, and Dropbox.
 - GitHub and GitLab.
 
 And because diagrams.net is open source, there is an ever-increasing ecosystem of diagrams.net integrations which support even more storage locations and applications!

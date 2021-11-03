@@ -57,7 +57,7 @@ Some options are available in the format panel on the right. Make sure nothing i
 * **Background:** Change the background colour, set a background image, or [use one diagram page as a background image for other pages](/blog/background-pages-diagrams.html). You must enable _Preferences > Pages_ to use this feature. 
 * **Shadow:** Add a shadow globally to shape outlines, connectors and stand-alone text shapes. Disabled by default.
 * **Connection Arrows, Connection Points & Guides:** Display or hide the features that appear when you hover over a shape, or move a shape near other shapes on the drawing canvas. 
-* **Mathmatical Typesetting:** Enter LaTeX or AsciiMath to render equations neatly using MathJax. [Learn more about using maths in diagrams](/blog/maths-in-diagrams.html)
+* **Mathematical Typesetting:** Enter LaTeX or AsciiMath to render equations neatly using MathJax. [Learn more about using maths in diagrams](/blog/maths-in-diagrams.html)
 <br /><img src="/assets/img/blog/online-whiteboard-diagram-tab-features.png" style="width=100%;max-width:500px;height:auto;" alt="Additional diagramming features can be enabled or disabled via the Diagram tab in the format panel on the sketch.diagrams.net online whiteboard">
 
 ## Do more with shapes

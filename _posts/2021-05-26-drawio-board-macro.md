@@ -10,7 +10,7 @@ categories: [features,atlassian]
 
 Embed whiteboard-style diagrams in Confluence Cloud pages with the new draw.io Board macro. The Board macro is a new feature for our integration with Confluence Cloud, delivered as part of our draw.io brand.
 
-When you add or edit a diagram using the **draw.io Board macro**, it uses the [Sketch editor theme](/blog/diagram-editor-theme.html), with the rough [sketch shape and connector styles](/blog/rough-style.html) set as the default global style. The diagram editor has a a white non-paginated background and no gridlines so it feels more like a whiteboard. 
+When you add or edit a diagram using the **draw.io Board macro**, it uses the [Sketch editor theme](/blog/diagram-editor-theme.html), with the rough [sketch shape and connector styles](/blog/rough-style.html) set as the default global style. The diagram editor has a a white non-paginated background and no grid lines so it feels more like a whiteboard. 
 
 A [discussion thread on the GitHub draw.io project](https://github.com/jgraph/drawio/discussions/2056) is open if you have any questions or suggestions.
 

@@ -117,7 +117,7 @@ There are so many shapes organised into so many libraries, that they can be hard
 
 **Tip:** If you don't find the shape you are looking for, try searching for a related word.
 
-<img src="/assets/img/blog/search-shapes.png" style="width=100%;max-width:150px;height:auto;" alt="Searching for a pie chart shape for an inforgraphic in diagrams.net">
+<img src="/assets/img/blog/search-shapes.png" style="width=100%;max-width:150px;height:auto;" alt="Searching for a pie chart shape for an infographic in diagrams.net">
 
 [_Back to top_](#the-diagramsnet-editor)
 

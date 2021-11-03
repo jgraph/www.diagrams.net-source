@@ -70,7 +70,7 @@ You can change how a text label is displayed in a shape by changing its position
 **Tip:** [Change the _Writing Direction_](/doc/faq/writing-direction-change.html) to read the text vertically from the top downwards.
 
 **Text position:** Click _Left_, _Center_ or _Right_ to change the horizontal position, and _Top_, _Middle_ or _Bottom_ to change the vertical position.
-<br /><img src="/assets/img/blog/text-horizontal-align.png" style="width=100%;max-width:250px;height:auto;" alt="Change the text alignment of labels to left, right or centered"> <img src="/assets/img/blog/text-vertical-align.png" style="width=100%;max-width:250px;height:auto;" alt="Change where the text label sits vertically within a shape">
+<br /><img src="/assets/img/blog/text-horizontal-align.png" style="width=100%;max-width:250px;height:auto;" alt="Change the text alignment of labels to left, right or centred"> <img src="/assets/img/blog/text-vertical-align.png" style="width=100%;max-width:250px;height:auto;" alt="Change where the text label sits vertically within a shape">
 
 **Text spacing:** Select the shape, then change the _Top_, _Left_, _Bottom_, _Right_ and/or _Global_ values in the _Spacing_ section of the _Text_ tab in the format panel.
 <br /><img src="/assets/img/blog/text-spacing.png" style="width=100%;max-width:250px;height:auto;" alt="Add spacing to ensure text labels stay that distance away from the shape perimeter">

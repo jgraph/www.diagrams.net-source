@@ -22,11 +22,11 @@ Please refer to the privacy policy of OneDrive for more details:
 
 At no point is any personally identifiable information (PII) transmitted to draw.io servers and, therefore, PII is never stored, retained, require deletion or be subject to security controls around that data.
 
-## Diagram data and authenication
+## Diagram data and authentication
 
-Authenication to OneDrive is performed directly to Microsoft and your browser holds the authenication token. The token is not stored in draw.io servers, so we cannot act on your behalf without your knowledge.
+Authentication to OneDrive is performed directly to Microsoft and your browser holds the authentication token. The token is not stored in draw.io servers, so we cannot act on your behalf without your knowledge.
 
-draw.io does not have an additional authenication mechanism, there is no authenication exchange (Single Sign On).
+draw.io does not have an additional authentication mechanism, there is no authentication exchange (Single Sign On).
 
 Once a diagram is loaded for editing, it is loaded directly from Microsoft servers to your browser. It does not transmit via draw.io servers. The same principle applies when saving.
 

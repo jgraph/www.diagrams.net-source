@@ -11,7 +11,7 @@ Tip: You can drag a custom stencil from the drawing canvas into your Scratchpad,
 
 ## General structure
 
-The basic diagrams.net stencils use XML. Click _Arrange > Insert > Shape_ to open the _Edit Shape_ dialog where you can see the XML structure of the stencil. Let's customise this stencil to be a large L with a vertical line inside.
+The basic diagrams.net stencils use XML. Click _Arrange > Insert > Shape_ to open the _Edit Shape_ dialog where you can see the XML structure of the stencil. Let's customise this stencil to be a large 'L' with a vertical line inside.
 
 <img src="/assets/img/blog/custom-shape-example.png" style="width=100%;max-width:200px;height:auto;" alt="A complex custom shape, created in diagrams.net">
 
@@ -26,7 +26,7 @@ Its attributes are:
 - **``h``** - height.
 - **``w``** - width.
 - **``aspect``** - if "variable", you can have any aspect ratio. if "fixed", h and w are fixed to the ratio you defined in h and w.
-- **``strokewidth``** - "inherit" sets strokewidth to the style you define in the UI. Set it to a positive number and it will be fixed to that width.
+- **``strokewidth``** - "inherit" sets _strokewidth_ to the style you define in the UI. Set it to a positive number and it will be fixed to that width.
 
 The shape block can contain three child elements defined in the following order:
 - **``<connections>``** - connection points for edges.
@@ -35,7 +35,7 @@ The shape block can contain three child elements defined in the following order:
 
 We will deal with connections later.
 
-Let's create the geometry for the background (the L part of the stencil):
+Let's create the geometry for the background (the 'L' part of the stencil):
 
 ```
 <background>
@@ -51,9 +51,9 @@ Let's create the geometry for the background (the L part of the stencil):
 </background>
 ```
 
-The coordinate 0, 0 is always the top left point. The bottom right is w, h, so in this case it's 100, 50.
+The coordinate ``0, 0`` is always the top left point. The bottom right is ``w, h``, so in this case it's ``100, 50``.
 
-Now add some foreground geometry (the vertical line inside the L):
+Now add some foreground geometry (the vertical line inside the 'L'):
 
 ```
 <foreground>
@@ -214,7 +214,7 @@ metacode
 
 The number of ``<save/>`` and ``<restore/>`` elements should match.
 
-As an example, let's change our L shape to include two lines in the foreground : the first vertical line is grey, and the second one is back to the default stroke colour.
+As an example, let's change our 'L' shape to include two lines in the foreground : the first vertical line is grey, and the second one is back to the default stroke colour.
 
 <img src="/assets/img/blog/custom-shape-example-style-stack.png" style="width=100%;max-width:400px;height:auto;" alt="Adding style to a custom shape using the stack">
 

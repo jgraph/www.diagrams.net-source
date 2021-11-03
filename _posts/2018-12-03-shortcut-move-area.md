@@ -10,7 +10,7 @@ categories: [shortcuts]
 
 Quickly move an entire area of your diagram: hold down the ``Control`` and ``Shift`` keys, then click on a blank section of the drawing canvas and drag to move it. You'll see guide lines appear to show you the origin and displacement of the area you are moving.
 
-<img src="/assets/img/blog/move-area-example.gif" wstyle="width=100%;max-width:400px;height:auto;" alt="Ctrl+Shift+drag to move an area of the drawing canvas and the shapes it contains">
+<img src="/assets/img/blog/move-area-example.gif" style="width=100%;max-width:400px;height:auto;" alt="Ctrl+Shift+drag to move an area of the drawing canvas and the shapes it contains">
 
 Any shapes that are fully inside the area you move will move to match how far you dragged the canvas. If these shapes were connected, their connectors will reroute automatically.
 

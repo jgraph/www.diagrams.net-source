@@ -22,11 +22,11 @@ You can configure a number of settings for the draw.io backend in Confluence Ser
 * ``emailpreview``: Toggle whether diagram previews in emails and rest API calls are enabled or disabled. The default is ``1`` (enabled).
 * ``macrooutputtype``: Sets viewer container layout. Available values are block and inline. Default is ``block``. (since 9.4.1)
 * ``serveroffline``: Set a flag to enable or disable the use of any external services from the Confluence server(s). These are extended icon search and cross-domain proxy load. 
-The extended icon search uses external draw.io servers to find additional matches for shape search queries search service for icons after the built-in search runs out of matching icons. Queries are anonymised at the draw.io servers and deleted after the request is made. Enabling serveroffline disables extended searches.
+The extended icon search uses external draw.io servers to find additional matches for shape search queries search service for icons after the built-in search runs out of matching icons. Queries are anonymised at the draw.io servers and deleted after the request is made. Enabling _serveroffline_ disables extended searches.
 
-If external images are embedded into the diagrams, that are hosted cross-domain from the domain of the Confluence server, the browser cannot generate an image output of the diagram due to CORS errors. In order for cross-domain images to be displayed in diagram image representations, they must be loaded via a proxy server. The server is external to avoid SSRF issues with the Confluence Server loading the images. Enabling serveroffline disables proxying.
+If external images are embedded into the diagrams, that are hosted cross-domain from the domain of the Confluence server, the browser cannot generate an image output of the diagram due to CORS errors. In order for cross-domain images to be displayed in diagram image representations, they must be loaded via a proxy server. The server is external to avoid SSRF issues with the Confluence Server loading the images. Enabling _serveroffline_ disables proxying.
 
-The default is 0 (external calls enabled).
+The default is ``0`` (external calls enabled).
 
 For example, several of these settings have been added to the Server Configuration field.
 

@@ -53,10 +53,10 @@ Select the shape and use the _Style_ tab of the format panel to style your freeh
 
 ## Resize, rotate and reposition a freehand shape
 
-You can change the size, rotation angle and postion of a freehand shape, just like you would any other shape. 
+You can change the size, rotation angle and position of a freehand shape, just like you would any other shape. 
 * **Resize:** Drag the round grab handles of a selected freehand shape to resize it, or edit the _Width_ and _Height_ values in the _Arrange_ tab of the format panel. If you want the freehand shape to be resized proportionally, make sure _Constrain Proportions_ is selected in the _Arrange_ tab.
 * **Rotate:** Drag the circular arrow in the top right of a selected freehand shape, or enter a new _Angle_ in the _Arrange_ tab of the format panel. Alternatively, _Flip_ the shape horizontally or vertically via the _Arrange_ tab.
-* **Reposition:** Drag the freehand shape to a new position on the drawing canvasm, or enter a new _Position_ in the _Arrange_ tab of the format panel. Bring it to the front or send it to the back by clicking _To Front_ or _To Back_ in the _Arrange tab_.
+* **Reposition:** Drag the freehand shape to a new position on the drawing canvas, or enter a new _Position_ in the _Arrange_ tab of the format panel. Bring it to the front or send it to the back by clicking _To Front_ or _To Back_ in the _Arrange tab_.
 <br /><img src="/assets/img/blog/freehand-shape-rotate.png" style="width=100%;max-width:400px;height:auto;" alt="Use the Arrange tab in the format panel to resize, rotate, and reposition the freehand shape">
 
 ## Use connectors with freehand shapes

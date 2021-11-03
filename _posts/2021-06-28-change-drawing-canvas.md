@@ -45,4 +45,4 @@ Select _View > Guides_ to enable to disable the vertical and horizontal guidelin
 
 **Note:** Your diagram may still print across multiple pages. 
 
-When page view is disabled, the page edge lines are only hidden and the grid expands to fill the drawing canvas - your diagram is not centered or shrunk to fit one page. See how to [set a different page size or orientation](/doc/faq/page-size-orientation.html) or [print and fit a diagram to a page](/doc/faq/print-fit-to-page.html)
+When page view is disabled, the page edge lines are only hidden and the grid expands to fill the drawing canvas - your diagram is not centred or shrunk to fit one page. See how to [set a different page size or orientation](/doc/faq/page-size-orientation.html) or [print and fit a diagram to a page](/doc/faq/print-fit-to-page.html)

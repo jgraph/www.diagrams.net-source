@@ -44,7 +44,7 @@ There are several keyboard shortcuts that let you add and connect shapes in your
 
 **``Alt+X`` to add and connect shapes from the shape library**
 
-This adds and connects shapes vertically, and is therefor good for building simple flows or Entity Relationship Diagrams.
+This adds and connects shapes vertically, and is therefore good for building simple flows or Entity Relationship Diagrams.
 
 1. Select a shape or connector.
 2. Hold down ``Alt+X`` and click on a shape in the shape library to connect it. (``Option+X`` on macOS).

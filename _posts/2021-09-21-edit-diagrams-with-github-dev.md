@@ -14,7 +14,7 @@ For developers, github.dev allows you to edit files stored in GitHub repositorie
 
 ## Use a web-based code editor for GitHub
 
-The [github.dev](https://github.dev/github/dev) version of the site is useful when you want to have more editing and syntax hightlighting features in your web browser as you step through, test and edit code in a GitHub repository. 
+The [github.dev](https://github.dev/github/dev) version of the site is useful when you want to have more editing and syntax highlighting features in your web browser as you step through, test and edit code in a GitHub repository. 
 
 This lightweight web-based editor runs entirely within your browser's sandbox, similar to the [diagrams.net editor](https://app.diagrams.net), and does not need to explicitly clone a repository to work with the files within it, unlike a desktop code editor. 
 

@@ -60,7 +60,7 @@ If you are a developer using VSCode, you can also use github.dev with diagrams.n
 
 When you commit changes in VSCode, when you have installed the unofficial draw.io extension developed by Henning Dieterichs, you'll see the two diagrams side-by-side in the diagram editor so you can easily compare the two versions.
 
-[Use github.dev and VSCode extensions to edit diagrams](/blog/edit-diagrams-with-github-dev.html)
+[See how to use github.dev with the VSCode extension to edit diagrams](/blog/edit-diagrams-with-github-dev.html)
 
 <img src="/assets/img/blog/github-dev-compare-commit-changes.png" style="width=100%;max-width:600px;height:auto;" alt="Compare and commit the changes you made to the diagram files in your repository via github.dev">
 

@@ -12,7 +12,7 @@ When you look at a diagrams.net or draw.io diagram in the lightbox viewer, and n
 
 <img src="/assets/img/blog/diagram-viewer-toolbar.png" style="max-width:100%;height:auto;" alt="Hover over a diagram in the diagrams.net viewer or lightbox to see the viewer toolbar">
 
-The viewer toolbar lets you export a diagram as an image from the online diagrams.net application, as well as from the draw.io branded Atlassian integrations for Confluence and Jira Cloud and Server/Data Center that Jgraph builds, delivers and maintains alongside the diagrams.net and desktop apps.
+The viewer toolbar lets you export a diagram as an image from the online diagrams.net application, as well as from the draw.io branded Atlassian integrations for Confluence and Jira Cloud and Server/Data Center that JGraph builds, delivers and maintains alongside the diagrams.net and desktop apps.
 
 If you do not have the appropriate level of permissions to edit the Confluence page, Jira issue or the attached draw.io diagram, this is how to export it to a PNG image or print it to a PDF file without opening the draw.io editor.
 

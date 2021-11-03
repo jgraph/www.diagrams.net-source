@@ -22,7 +22,7 @@ This plugin uses [``ntc`` (Name that Color) by Chirag Mehta](http://chir.ag/proj
   <source src="/assets/img/blog/voice-plugin-example.mp4">
 </video>
 
-## Start using voice intput in Google Chrome
+## Start using voice input in Google Chrome
 
 You will hear a short beep when the plugin starts and stops listening. The button above the toolbar will contain current status information if the voice plugin is listening.
 
@@ -68,7 +68,7 @@ You will hear a short beep when the plugin starts and stops listening. The butto
 
 **quick start:** Opens the introductory video in a new tab (pop-ups must be enabled).
 
-**help _topic_:** Shows help for the (optional) topic or the coice plugin in a new tab (pop-ups must be enabled).
+**help _topic_:** Shows help for the (optional) topic or the voice plugin in a new tab (pop-ups must be enabled).
 
 **insert _shape_:** Inserts the shape at the current mouse position or the end of a selected connector if that end is not connected using the first search result for shape (e.g. ``insert rectangle``, ``insert triangle``, ``insert cylinder``, ``insert actor``).
 

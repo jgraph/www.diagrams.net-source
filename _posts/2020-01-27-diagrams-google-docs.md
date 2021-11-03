@@ -57,7 +57,7 @@ You don't need to export an image from your diagram to paste into the Google Doc
 
 **Resize the diagram:** Select a diagram, then drag any of the square handles around the edge of the diagram to resize it.
 
-**Rotate your diagram:** Select a diagram, then drag the circlular handle at the top of the diagram to rotate it.
+**Rotate your diagram:** Select a diagram, then drag the circular handle at the top of the diagram to rotate it.
 <br /><img src="/assets/img/blog/addon-google-docs-rotate.png" style="width=100%;max-width:400px;height:auto;" alt="Apply a new colour filter to your diagram in your Google document">
 
 ### Update the embedded diagrams to see changes

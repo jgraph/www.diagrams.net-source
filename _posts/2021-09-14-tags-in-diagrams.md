@@ -63,6 +63,8 @@ Now that you have assigned shapes and connectors to tags, you can select, hide a
 **Hold down ``Shift`` and click on a tag name** to select all of the shapes and connectors that have that tag. 
 <br /><img src="/assets/img/blog/tags-dialog-shift-click-tag-name.png" style="width=100%;max-width:500px;height:auto;" alt="Shift+Click on the tag name to select all of the shapes and connectors with that tag">
 
+**Tags and container shapes:** You can add tags to the child shapes inside container shapes, as well as to the parent container shape. When you hide the container shape, note that all child elements contained within the parent container shape will also be hidden.
+
 ### Use tags in the diagrams.net lightbox viewer
 
 Tags work much the same way in the lightbox viewer - click on the tags tool in the toolbar to see all the tags in the diagram.

@@ -38,7 +38,7 @@ Instead of dragging and hovering over a shape to replace it, use the keyboard sh
 1. Select a shape on the drawing canvas.
 2. Hold down ``Shift``, then click on the new shape you want to use.
 
-The new shape will replace the one on the drawing canvas, but will be stretched to the original's dimensions. Hold down ``Shift`` as you resize the shape to keep it centered.
+The new shape will replace the one on the drawing canvas, but will be stretched to the original's dimensions. Hold down ``Shift`` as you resize the shape to keep it centred.
 
 <img src="/assets/img/blog/shapes-replace-shortcut.gif" style="width=100%;max-width:400px;height:auto;" alt="Replace a shape easily - select a shape, then hold down Shift and click on your target shape in the shape library">
 

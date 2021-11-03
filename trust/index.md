@@ -48,7 +48,7 @@ diagrams.net is as fully a client-side application as is technically possible �
 - OneDrive – [Microsoft’s privacy policy](https://privacy.microsoft.com/en-us/privacystatement)
 - Quip – [Quip’s privacy policy](https://quip.com/about/privacy)
 - Trello – [Trello’s privacy policy](https://trello.com/privacy)
-- NextCloud - [NextCloud's privacy policy](nextcloud privacy policy)
+- NextCloud - [NextCloud's privacy policy](https://nextcloud.com/privacy/)
 - GitHub - [GitHub's privacy policy](https://help.github.com/en/github/site-policy/github-privacy-statement)
 - GitLab - [GitLab's privacy policy](https://about.gitlab.com/privacy/)
 

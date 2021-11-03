@@ -89,5 +89,5 @@ Several features in diagrams.net make it more convenient to view layered diagram
 
 * **[Multi-page diagrams](/blog/multiple-page-diagrams.html):** Keep all of the related diagrams together in one file.
 * **Links between pages:** Add a link to each system, container and component shape which jumps to the appropriate page in your diagram.
-* **UML, infrastrucure and other shape libraries:** If you want to go into more detail at the implementation level with UML or [network diagrams](/blog/network-diagrams.html), or supporting diagrams such as [threat modelling](/blog/threat-modelling.html) you can use the many other shape libraries available in diagrams.net.
+* **UML, infrastructure and other shape libraries:** If you want to go into more detail at the implementation level with UML or [network diagrams](/blog/network-diagrams.html), or supporting diagrams such as [threat modelling](/blog/threat-modelling.html) you can use the many other shape libraries available in diagrams.net.
 * **[Use smart labels and placeholders](/blog/placeholders.html):** For advanced diagrammers, you can define placeholder styles that can automatically style shapes as in-scope or out-of-scope.

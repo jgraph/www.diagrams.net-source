@@ -51,15 +51,15 @@ Additionally, you can use the ``lockdown`` toggle in the editor configuration to
 ## Data residency in Atlassian Cloud
 
 
-The architectures for draw.io for Confluence and Jira Cloud are indentical to those used with diagrams.net. However, you can set the data governance rules centrally for all users on your Confluence instance.
+The architectures for draw.io for Confluence and Jira Cloud are identical to those used with diagrams.net. However, you can set the data governance rules centrally for all users on your Confluence instance.
 
 If you are using the draw.io apps for Confluence or Jira Cloud, [Atlassian lets you additionally set your **data residency** region](https://confluence.atlassian.com/cloud/manage-data-residency-976763149.html) to choose where your data or _in-scope product content_ resides. That means the content of your instance and associated metadata will be stored on servers in that region when it is at rest.
 
-Atlassian plan to open data residency in Austraila, we will match all data center options that they provide. You can vote for our existing server endpoint deployments, or submit your own endpoint location request at the issue tracker:
+Atlassian plan to open data residency in Australia, we will match all data center options that they provide. You can vote for our existing server endpoint deployments, or submit your own endpoint location request at the issue tracker:
 
 - [Endpoint for Brazil](https://github.com/jgraph/drawio/issues/1815)
 - [Endpoint for India](https://github.com/jgraph/drawio/issues/1816)
 - [Endpoint for Japan](https://github.com/jgraph/drawio/issues/1817)
-- [Endpoint for Austraila](https://github.com/jgraph/drawio/issues/1818)
+- [Endpoint for Australia](https://github.com/jgraph/drawio/issues/1818)
 
 [See how to configure draw.io in Confluence Cloud](/doc/drawio-confluence-cloud.html)
