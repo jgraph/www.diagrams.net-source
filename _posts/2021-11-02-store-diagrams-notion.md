@@ -87,9 +87,11 @@ You can download the diagram files that you have stored in your Notion pages.
    * Some of these formats will let you choose additional options, such as embedding your diagram data. Click _Export_.
 3. If you selected to export to a file, click _Download_ to save the file to your device.
 
+Alternatively, you can download the image from the Notion page as you would any other image. It will download as a drawio.svg file (with embedded diagram data).
+
 [Learn more about export formats for diagrams](/blog/)
 
 ### Delete a diagram
 
-Delete a diagram from a Notion page just like you would any other content with ``Backspace`` or ``Delete``. Alternatively, select the diagram, then click on the little cross in the top right of the draw.io for Notion editor.
+Delete a diagram from a Notion page just like you would any other content with ``Backspace`` or ``Delete``. Alternatively, click on the move handle and select Delete.
 <br /><img src="/assets/img/blog/notion-chrome-extension-delete-diagram.png" style="width=100%;max-width:600px;height:auto;" alt="Delete a diagram just as you would any other content in a Notion page">
