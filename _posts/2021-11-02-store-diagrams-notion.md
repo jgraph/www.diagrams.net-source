@@ -89,7 +89,7 @@ You can download the diagram files that you have stored in your Notion pages.
 
 Alternatively, you can download the image from the Notion page as you would any other image. It will download as a drawio.svg file (with embedded diagram data).
 
-[Learn more about export formats for diagrams](/doc/faq/export-diagram.html)
+[Learn more about export formats for diagrams](/blog/)
 
 ### Delete a diagram
 
