@@ -80,7 +80,7 @@ Hover over a shape in the shape library to see a tooltip that tells you what it 
 
 **Styles**
 * Select a shape then change its colours, background or outline style using the palettes in the _Style_ tab in the format panel on the right.
-* Set the fill colour of a shape to transparent by removing the fill colour: Select the shape, then delesect the _Fill_ check box in the _Style_ tab.
+* Set the fill colour of a shape to transparent by removing the fill colour: Select the shape, then deselect the _Fill_ check box in the _Style_ tab.
 * Copy the style of one shape to another: Select the first shape, then click _Copy Style_ in the _Style_ tab. Select the second shape or multiple shapes, then click _Paste Style_.
 
 <img src="/assets/img/blog/aws-example-copy-paste-style.png" style="width=100%;max-width:400px;height:auto;" alt="Copy and paste styles via the Style tab in the format panel">

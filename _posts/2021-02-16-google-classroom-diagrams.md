@@ -23,12 +23,12 @@ With the diagrams.net add-on for Google Workplace (Google Drive), teachers and s
 
 Google Classroom makes it easy to attach files, from Google Drive, on the web with a URL, or upload them from your computer. 
 
-For example, when you are writing an announcemnt on your subject's _Stream_, click on _Add_, then select from the following locations.
+For example, when you are writing an announcement on your subject's _Stream_, click on _Add_, then select from the following locations.
 * **Google Drive** - Attach a file that is stored in your Google Drive. 
 * **Link** - Attach a [diagram that was published or exported as a URL](/doc/faq/export-to-url.html).
 * **File** - Attach a diagram that is stored on your local device.
 
-<img src="/assets/img/blog/google-classroom-attach-diagram-announcement.png" style="width=100%;max-width:600px;height:auto;" alt="Attach a diagram file to an announcment in Google Classroom">
+<img src="/assets/img/blog/google-classroom-attach-diagram-announcement.png" style="width=100%;max-width:600px;height:auto;" alt="Attach a diagram file to an announcement in Google Classroom">
 
 **Tip:** When the diagram file is stored in Google Drive, you will also see a diagram thumbnail wherever it is attached.
 

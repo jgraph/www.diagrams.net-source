@@ -8,7 +8,7 @@ categories: [Integrations,Google]
 You can create a new diagram file from any folder in your Google Drive.
 
 1. Navigate to the folder in which you want to store your diagram file in Google Drive.
-2. Click _New_ or right-click anywhwere on your file list, then select _More > diagrams.net_ to create a new diagram in that folder.
+2. Click _New_ or right-click anywhere on your file list, then select _More > diagrams.net_ to create a new diagram in that folder.
 <br /><img src="/assets/img/blog/google-drive-new-diagram.png" style="width=100%;max-width:300px;height:auto;" alt="Create a new diagram from within Google Drive">
 
 ## Work with diagrams stored in Google Drive within diagrams.net

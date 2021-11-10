@@ -8,7 +8,7 @@ tags: [features]
 categories: [features]
 ---
 
-One of the [most requested features](https://github.com/jgraph/drawio/issues/60) for diagrams.net and draw.io was the concept of using one or more pages as backgrounds for other pages. This could be a background graphic to provide a consistent branding across your diagrams. Another popular use case is more technical diagrams where each page displays a border with an information block in a specifc format and dimensions.
+One of the [most requested features](https://github.com/jgraph/drawio/issues/60) for diagrams.net and draw.io was the concept of using one or more pages as backgrounds for other pages. This could be a background graphic to provide a consistent branding across your diagrams. Another popular use case is more technical diagrams where each page displays a border with an information block in a specific format and dimensions.
 
 Background pages are now implemented in the [15.0.0 editor release](https://github.com/jgraph/drawio/tree/v15.0.0).
 
@@ -26,7 +26,7 @@ In that page build your background:
 
 Select your foreground page:
 
-<img src="/assets/img/blog/foreground-page.png" style="max-width:100%;height:auto;" alt="Forground page to diagram">
+<img src="/assets/img/blog/foreground-page.png" style="max-width:100%;height:auto;" alt="Foreground page to diagram">
 
 Note that we're using [built-in placeholders](https://www.diagrams.net/doc/faq/predefined-placeholders) within the information block.
 

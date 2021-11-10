@@ -11,7 +11,7 @@ To move a ``.drawio`` diagram from one page to another in Confluence Cloud, you 
 
 1. There are [several ways to make a copy of your draw.io diagram contents](/doc/faq/confluence-cloud-copy-diagram.html). The easiest is to add a new _draw.io diagram macro_ to your Confluence Cloud page, search for and select the diagram you want to make a copy of, edit the _Diagram Name_, then click _Create_. 
 <br /><img src="/assets/img/blog/copy-diagram-example.png" style="width=100%;max-width:400px;height:auto;" alt="Select a diagram from the Recent tab, add a new diagram name and click Create to copy a draw.io diagram in Confluence Cloud">
-2. Publish the diagram and the Conlfuence page to save the diagram file as an attachment.
+2. Publish the diagram and the Confluence page to save the diagram file as an attachment.
 2. Once you have made a copy of the diagram on a different page and published it, you can delete the _draw.io_ macro from the source page and save the source page. This only deletes the diagram macro from the page - it will still exist as a draw.io diagram in your instance.
 
 ### Recommended: Don't delete draw.io diagram files

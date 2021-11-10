@@ -40,6 +40,11 @@ Diagrams.net lets you [store your diagram files in Google Drive](https://app.dia
 
 diagrams.net works with [OneDrive and Sharepoint](https://app.diagrams.net/?mode=onedrive). An [Office 365 app](https://office.diagrams.net/) is available for Word, Powerpoint and Excel, and a [Microsoft Teams app](/doc/faq/microsoft-teams-diagrams.html). 
 
+
+### GitHub app
+
+The [draw.io app for GitHub](https://github.com/apps/draw-io-app) lets you authorise access to individual repositories, and will replace the older OAuth authorisation method.
+
 ## 3rd-party integrations
 
 The following integrations are not directly provided by the diagrams.net team. The Atlassian integrations are built by us, but provided via an Atlassian partner.
@@ -75,5 +80,5 @@ The draw.io apps for Confluence and Jira are available via the Atlassian Marketp
 * [**Samepage:**](https://www.samepage.io/draw-diagram-online) Develop diagrams, track tasks, share files, communicate using this team collaboration platform.
 * [**Sandstorm:**](https://apps.sandstorm.io/app/nfqhx83vvzm80edpgkpax8mhqp176qj2vwg67rgq5e3kjc5r4cyh) Create personal/private instances of web apps and create diagrams via Sandstorm.io, an open source hosting platform.
 * [**Tiki Wiki CMS Groupware:**](https://info.tiki.org/HomePage) Manage [diagrams](https://doc.tiki.org/Diagram) in Tiki Wiki CMS Groupware, a collaborative, free and open source wiki-based content management system.
-* [**VS Code:**](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio) Edit and manage diagrams directly inside VS Code.
+* [**VS Code:**](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio) Edit and manage diagrams directly inside VS Code. [See how to use the VS Code extension with github.dev](/blog/edit-diagrams-with-github-dev.html)
 * [**XWiki:**](https://extensions.xwiki.org/xwiki/bin/view/Extension/Diagram%20Application) Create diagrams in XWiki, a lightweight wiki software by using the Diagram Application extension.

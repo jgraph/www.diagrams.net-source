@@ -12,9 +12,9 @@ diagrams.net and the draw.io branded Atlassian integrations are the leading solu
 
 Atlassian recently [deprecated their Confluence Server range](https://www.atlassian.com/blog/announcements/journey-to-cloud). As the software market evolves, accelerating the move to Cloud is the next natural step in Atlassian's strategy.
 
-Users able to move to Cloud have seen an overall cost saving due to reduced maintenance and downtime, as well as benefitting from Atlassian's scalibility and security record. There are [various mechanisms](http://www.atlassian.com/migration/cloud) in place to smooth the road to Cloud, including free Cloud licenses while you migrate away from Server.
+Users able to move to Cloud have seen an overall cost saving due to reduced maintenance and downtime, as well as benefiting from Atlassian's scalability and security record. There are [various mechanisms](http://www.atlassian.com/migration/cloud) in place to smooth the road to Cloud, including free Cloud licenses while you migrate away from Server.
 
-At smaller tiers Confluence Cloud is the clear winner, at higher tiers the cost outlay is greater (excluding the benefits). You can see a comparsion between Confluence Server and Confluence Cloud at various tiers below (pricing as per the July 2021 price list, annual renewal in USD):
+At smaller tiers Confluence Cloud is the clear winner, at higher tiers the cost outlay is greater (excluding the benefits). You can see a comparison between Confluence Server and Confluence Cloud at various tiers below (pricing as per the July 2021 price list, annual renewal in USD):
 
 | Users <code>&nbsp;&nbsp;</code>       | Conf Server   | <code>&nbsp;&nbsp;</code>Conf Cloud |
 |----|---:|---:|

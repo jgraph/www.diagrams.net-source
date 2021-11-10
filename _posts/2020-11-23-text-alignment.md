@@ -25,7 +25,7 @@ Vertical text labels can improve readability in some use cases, for example on l
 ## Horizontal alignment
 
 * Select the shape or connector label or text box you want to change, then click one of the three horizontal alignment buttons to realign the text: _Left_, _Center_ or _Right_.
-<br /><img src="/assets/img/blog/text-horizontal-align.png" style="width=100%;max-width:250px;height:auto;" alt="Change the text alignment of labels to left, right or centered">
+<br /><img src="/assets/img/blog/text-horizontal-align.png" style="width=100%;max-width:250px;height:auto;" alt="Change the text alignment of labels to left, right or centred">
 
 Add spacing (details below) to keep the text away from the shape perimeter.
 

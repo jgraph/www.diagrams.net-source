@@ -10,7 +10,7 @@ categories: [features]
 
 You can store and collaborate on diagrams using your company's shared drives in G Suite, previously known as Google Team Drives, in the same way as you can use your personal Google Drive with diagrams.net.
 
-## Use Google shared drives with didagrams.net
+## Use Google shared drives with diagrams.net
 
 1. Go to [app.diagrams.net](http://app.diagrams.net). Select Google Drive as the location to which you want to save your diagrams to. If you don't see Google Drive as an option, click on the _Change storage_ link.
 <br /><img src="/assets/img/blog/storage-google-drive-1.png" style="width=100%;max-width:200px;height:auto;" alt="Select Google Drive as the storage location for your diagrams">

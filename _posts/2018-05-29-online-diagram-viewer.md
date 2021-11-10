@@ -21,7 +21,7 @@ To create a shareable link to your diagram file, follow the steps below.
 <img src="/assets/img/blog/online-diagram-viewer-form.png" style="max-width:100%;height:auto;" alt="Share a diagram using diagram.net's free online diagram viewer">
 3. Paste the URL of the diagram file in the _Link to Diagram_ text field.
 4. Choose how you'd like the diagram to appear:
-   - **Full Screen Mode** (default) generates a link that when clicked on, opens the diagram in the lightbox. From here, you can print the diagram, export it as a PNG image, or create a copy to edit in the didagram editor.
+   - **Full Screen Mode** (default) generates a link that when clicked on, opens the diagram in the lightbox. From here, you can print the diagram, export it as a PNG image, or create a copy to edit in the diagram editor.
    - **Editor** generates a link that when clicked on, immediately converts the diagram at that address and opens it in the diagram editor.
    - **IFrame** generates HTML code for an iFrame that you can paste into your website. Set a _Height_ for the iFrame - the default is 400px.
 5. _Click Here!_ to generate the link or the iFrame code. Copy the link and share it, or copy the iFrame code and add it to a web page.

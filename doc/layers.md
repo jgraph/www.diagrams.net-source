@@ -36,7 +36,7 @@ From the Layers dialog, you can add new layers and rename them, select which lay
 
 You can also display and hide layers, which will display or hide all of the shapes, connectors and text that are on those layers. 
 
-Finally, locking a layer makes sure you can't make any inadvertant changes.
+Finally, locking a layer makes sure you can't make any inadvertent changes.
 
 ### Add a new layer 
 

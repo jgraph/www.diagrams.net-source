@@ -40,7 +40,7 @@ You can import diagrams individually from Lucidchart into diagrams.net.
 
 **Note:** It is important that you **use these keyboard shortcuts** to copy and to past your diagram.
 
-1. Open the diagram you wish to import in the Ludidchart editor.
+1. Open the diagram you wish to import in the Lucidchart editor.
 2. Select everything in the diagram with the keyboard shortcut ``Ctrl+A`` on Windows, ``Cmd+A`` on macOS.
 3. Copy everything you have selected with the keyboard shortcut ``Ctrl+C`` on Windows, ``Cmd+C`` on macOS. 
 4. Open a [new, blank diagram in diagrams.net](https://app.diagrams.net/?splash=0).
@@ -50,7 +50,7 @@ You can import diagrams individually from Lucidchart into diagrams.net.
 ## Work with educational diagrams
 
 With the [free diagrams.net add-on for Google Workspace](https://workspace.google.com/marketplace/app/diagramsnet/671128082532), you can [embed diagrams stored in Google Drive into Google Classroom](/blog/google-classroom-diagrams.html) announcements.
-<br /><img src="/assets/img/blog/google-classroom-attach-diagram-announcement.png" style="width=100%;max-width:500px;height:auto;" alt="Attach a diagram file to an announcment in Google Classroom">
+<br /><img src="/assets/img/blog/google-classroom-attach-diagram-announcement.png" style="width=100%;max-width:500px;height:auto;" alt="Attach a diagram file to an announcement in Google Classroom">
 
 With this add-on, you can also [embed the diagrams you have stored in Google Drive in Google Docs, Sheets and Slides](/doc/faq/google-docs-diagrams.html). 
 

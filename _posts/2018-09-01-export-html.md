@@ -31,6 +31,6 @@ When someone views the HTML version of your diagram, they can click on the diagr
 - If you are using Google Drive to store your diagram, you can choose to include the _Public URL of the diagram_ instead of making a copy of the diagram in the HTML. Otherwise this radio button will not be selectable.
 - Use the _Links_ list to select what happens when the viewer clicks on a link in your diagram. You can also change the colour of these links - click on the _Border Color_ button and select a new link colour from the palette.
 - Set the _Zoom_ and _Fit_ to change how your diagram is displayed in the viewer.
-- _All Pages_ is selected by default. If you don't want to include all of the pages in your multipage diagram, deselect this checkbox.
+- _All Pages_ is selected by default. If you don't want to include all of the pages in your multi-page diagram, deselect this checkbox.
 - Viewers will be able to turn the layers on and off by default. To stop this, deselect the _Layers_ checkbox.
 - If you want your diagram to open directly in the editor, deselect the _Lightbox_ checkbox.

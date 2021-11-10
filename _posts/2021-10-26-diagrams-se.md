@@ -42,7 +42,7 @@ Because your sensitive diagram data doesn't leave your infrastructure and is nev
 
 **PlantUML:** PlantUML is a text description of a UML diagram, which is converted into a SVG or PNG image shape using tools on the diagrams.net servers. PlantUML conversion is not available when you use se.diagrams.net as diagram data is never sent to our servers. 
 
-Use the [Mermaid sytax](/blog/mermaid-diagrams.html) instead: _Arrange > Insert > Advanced > Mermaid_
+Use the [Mermaid syntax](/blog/mermaid-diagrams.html) instead: _Arrange > Insert > Advanced > Mermaid_
 
 **Storage location:** Google Drive is the only cloud storage location available for both diagram files and custom shape libraries. 
 

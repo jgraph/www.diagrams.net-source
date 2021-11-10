@@ -62,7 +62,7 @@ If you are new to diagramming and feel overwhelmed with the number of tools disp
 
 ## Sketch 
 
-If you prefer minimal tools and the rough style enabled by default, like you would in a whiteboarding app, the Sketch editor theme is for you. This easy-to-use theme is set by default in the [draw.io Board macro](/blog/drawio-board-macro.html) for Confluence.
+If you prefer minimal tools and the rough style enabled by default, like you would in a whiteboarding app, the Sketch editor theme is for you. This easy-to-use theme is set by default in the [draw.io Board macro](/blog/drawio-board-macro.html) for Confluence, and in the [draw.io for Notion Chrome extension](/blog/store-diagrams-notion.html).
 
 The Sketch editor theme may also be useful to introduce younger children to diagramming or support them as they [add diagrams to their documents and in Google Classroom](/blog/google-classroom-diagrams.html) with the Google Drive add-in.
 

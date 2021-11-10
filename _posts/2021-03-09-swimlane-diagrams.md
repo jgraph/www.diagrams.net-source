@@ -12,7 +12,7 @@ Flowcharts are one of the most common diagram types, showing all of the steps th
 
 Swimlane diagrams, flowcharts and cross-functional flowcharts are used throughout organisations: 
 * onboard new team members
-* document business processes for accounting, project approvaal and health and safety reporting requirements
+* document business processes for accounting, project approval and health and safety reporting requirements
 * chart decisions made in the development of regulations and guidelines
 
 Visually separating the steps in a process and showing who is responsible for completing those steps makes the information easier to understand, leading to less confusion between teams. 
@@ -113,7 +113,7 @@ Most of the shapes you will need are in the _General_, _Misc_, and _Advanced_ sh
 
 ## Cross-functional flowcharts
 
-Cross-functional flowcharts use both horizontal and vertical swimlanes, allowing you to add more contextaul information and improve cross-team communication. In diagrams.net, cross-functional flowchart shapes are an [advanced form of table](/blog/tables.html), where you can add and remove columns and rows (swimlanes) using the _Arrange_ tab of the format panel on the right. 
+Cross-functional flowcharts use both horizontal and vertical swimlanes, allowing you to add more contextual information and improve cross-team communication. In diagrams.net, cross-functional flowchart shapes are an [advanced form of table](/blog/tables.html), where you can add and remove columns and rows (swimlanes) using the _Arrange_ tab of the format panel on the right. 
 
 Just as with swimlane diagrams, there are templates under the _Basic_ and _Flowcharts_ template categories to give you an idea of how cross-functional flowcharts work. The basic cross-functional flowchart template organises the steps into two actors, and notes the state of one of the actors as the process is stepped through.
 <br /><img src="/assets/img/blog/basic-cross-functional-flowchart-template.png" style="width=100%;max-width:500px;height:auto;" alt="The basic cross-functional flowchart template after being styled, as provided in the diagrams.net template manager">

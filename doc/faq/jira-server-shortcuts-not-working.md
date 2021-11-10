@@ -9,4 +9,4 @@ There is a known issue where you are unable to use some Jira Server keyboard sho
 
 ## Ensure Jira Server shortcuts work in the draw.io diagram editor
 
-* **Stiltsoft Smart Attachments:** Disable the ``smart-attachments-feedback-footer`` to allow the ``c`` keyboard shortcut to function correctly.
+* **Stiltsoft Smart Attachments:** Disable the ``smart-attachments-feedback-footer`` to allow the ``C`` keyboard shortcut to function correctly.

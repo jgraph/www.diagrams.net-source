@@ -73,7 +73,7 @@ Enter a new _Position_ for a selected shape or group of shapes by changing the _
 When you have selected multiple shapes, you can arrange them with respect to each other. 
 
 * Use the _Align_ tools to reposition the selected shapes to a common alignment.
-* Click _Horizontal_ or _Vertical_ to redestribute the shapes with an alternative spacing.
+* Click _Horizontal_ or _Vertical_ to redistribute the shapes with an alternative spacing.
 
 <img src="/assets/img/blog/arrange-tab-align.png" style="width=100%;max-width:400px;height:auto;" alt="Use the Align and Distribute tools on the Arrange tab to reposition multiple selected shapes with respect to each other">
 

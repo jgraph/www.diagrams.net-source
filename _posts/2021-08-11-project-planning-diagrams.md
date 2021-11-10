@@ -54,7 +54,7 @@ Start planning quickly with a template, like the business model canvas below: Cl
 Use the endless drawing canvas as a central project hub for design ideas and decisions. It's easy to add links to supporting documentation or locations where your team's code and files are stored: Right-click on a shape and select _Edit Link_.
 
 Explore ways to optimise your product or process, and highlight areas that could be added to, changed, or safely removed.
-* [Map dependencies](/blog/dependecy-graphs.html) for physical or digital products.
+* [Map dependencies](/blog/dependency-graphs.html) for physical or digital products.
 * [Document your network or cloud](/blog/) in an infrastructure diagram.
 * Detail your complete supply chain or manufacturing process - use flows, [swimlane](/blog/swimlane-diagrams.html) or BPMN diagrams.
 * Use [UML diagrams](/blog/uml-2-5.html) to show the structure and flow of control in your software.

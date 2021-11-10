@@ -11,7 +11,7 @@ Google Drive is a popular cloud platform for storing and sharing files. It's ide
 
 ## Authorise diagrams.net to use Google Drive
 
-After you have selected Google Drive as your [storage location for diagram files](/doc/faq/storage-location-select.html), you may be prompted to authorise diagrams.net to allos access to the files stored there.
+After you have selected Google Drive as your [storage location for diagram files](/doc/faq/storage-location-select.html), you may be prompted to authorise diagrams.net to allow access to the files stored there.
 
 1. Click _Authorise_, then log into your Google Drive account.
 2. Click _Allow_ to grant diagrams.net (draw.io) permission to _Add itself to Google Drive_.
@@ -31,7 +31,7 @@ After you have selected Google Drive as your [storage location for diagram files
 
 You can also create new diagrams directly from your within your Google Drive account, instead of opening diagrams.net first.
 
-1. In Google Drive, click _New_ or right-click anywhwere on your file list.
+1. In Google Drive, click _New_ or right-click anywhere on your file list.
 2. Select _More > diagrams.net_ to create a new diagram.
 <br /><img src="/assets/img/blog/google-drive-new-diagram.png" style="width=100%;max-width:300px;height:auto;" alt="Create a new diagram from within Google Drive">
 3. Edit the _Diagram Name_, select a template from the template library, or use the _Blank Diagram_, then click _Create_ to open it in the diagrams.net editor.
@@ -72,6 +72,6 @@ You can embed diagram files that you have stored in Google Drive into Atlassian 
 
 ## Use diagrams in Google Classroom
 
-Both student and teachers can [use diagrams.net to work with diagrams in Google Classroom](/blog/google-classroom-diagrams.html) when the diagrams.net add-on for Google Drive/Workspace is installed. With useful collaboration features supporting groupwork and ongoing feedback, students can work remotely on more complex visualisations in diagrams.net and easily submit diagrams with their assignments. 
+Both student and teachers can [use diagrams.net to work with diagrams in Google Classroom](/blog/google-classroom-diagrams.html) when the diagrams.net add-on for Google Drive/Workspace is installed. With useful collaboration features supporting group work and ongoing feedback, students can work remotely on more complex visualisations in diagrams.net and easily submit diagrams with their assignments. 
 
 <img src="/assets/img/blog/google-classroom-diagram-demonstration.gif" style="max-width:100%;height:auto;" alt="Preview, add comments to and open diagrams in the diagrams.net editor from Google Classroom">
