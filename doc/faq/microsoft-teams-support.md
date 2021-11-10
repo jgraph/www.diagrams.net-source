@@ -5,7 +5,7 @@ faq: true
 categories: [Integrations, Microsoft]
 ---
 
-Please search existing posts for answers to your question:
+Please search existing posts for answers to your question regarding the [draw.io integration for Microsoft Teams](https://appsource.microsoft.com/product/office/WA200003444):
 
 * [Google Group](https://groups.google.com/forum/#!forum/drawio).
 * [Github project discussion](https://github.com/jgraph/drawio/discussions).

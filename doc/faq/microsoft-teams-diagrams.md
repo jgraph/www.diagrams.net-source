@@ -5,7 +5,7 @@ faq: true
 categories: [Integrations, Microsoft]
 ---
 
-With the draw.io app for Microsoft Teams, you and your team can collaborate in real time on diagrams directly from your team's channel in a Teams tab.
+With the [draw.io app for Microsoft Teams](https://appsource.microsoft.com/product/office/WA200003444), you and your team can collaborate in real time on diagrams directly from your team's channel in a Teams tab.
 
 **Note:** On smaller and mobile screens a view-only display of your diagrams is offered. This is to avoid a poor experience for users trying to edit. Our research shows us that viewing is the only required use case in the vast majority of situations on mobile.
 
