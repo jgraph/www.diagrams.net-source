@@ -14,7 +14,7 @@ Confluence Cloud is a popular tool for team productivity suitable for both small
 
 **Diagram freely**
 
-With an unlicensed version of the draw.io app installed in your free Confluence Cloud instance, you and your small team can draw a wide range of diagrams: 
+With the draw.io app installed in your free Confluence Cloud instance, you and your small team can draw a wide range of diagrams: 
 * flowcharts, business process diagrams, and [gitflows](/blog/gitflow-diagram.html)
 * mindmaps, org charts, and tree diagrams
 * [kanban boards](/blog/kanban-boards.html)
@@ -42,7 +42,7 @@ The draw.io diagram editor is easy to use and powerful. The [draw.io app in Conf
 
 ## Install draw.io in a free Confluence Cloud instance
 
-1. Set up a new Confluence Cloud instance, choosing the Free tier on [Atlassian's Confluence Cloud pricing page](https://www.atlassian.com/software/confluence/pricing). 
+1. Set up a new Confluence Cloud instance, choosing the Free tier of up to 10 users on [Atlassian's Confluence Cloud pricing page](https://www.atlassian.com/software/confluence/pricing). 
 2. Step through the installation and setup until you see the space landing page and Confluence Quickstart tutorial.
 <br /><img src="/assets/img/blog/confluence-cloud-new-instance.png" style="max-width:100%;height:auto;" alt="Confluence Cloud will step you through the setup of a new instance and space">
 
@@ -51,8 +51,8 @@ The draw.io diagram editor is easy to use and powerful. The [draw.io app in Conf
 2. Under the _Atlassian Marketplace_ section, click on _Find new apps_. Search for ``draw.io`` and click on it to see details about the draw.io app for Confluence Cloud.
 <br />Alternatively, go to the [draw.io app on the Atlassian Marketplace](https://marketplace.atlassian.com/apps/1210933/draw-io-diagrams-for-confluence?hosting=cloud&tab=overview) website.
 <br /><img src="/assets/img/blog/confluence-cloud-install-drawio.png" style="max-width:100%;height:auto;" alt="Install the draw.io app in your Confluence Cloud instance">
-3. Install the draw.io app by starting a free trial. 
-<br />You can stop the free trial once the draw.io app has been installed. The unlicensed draw.io app will continue to work in your Confluence Cloud instance. 
+3. Install the draw.io app in your Confluence Cloud instance. 
+**Note:** If you have a team of users larger than 10, start a free trial - when the license expires, you'll still be able to create all types of diagrams, but some advanced features are limited to the licensed version in larger Confluence Cloud instances. 
 
 
 ## draw.io as an online whiteboard
@@ -78,11 +78,13 @@ The draw.io diagram editor is easy to use and powerful. The [draw.io app in Conf
 <br /><img src="/assets/img/blog/drawio-confluence-cloud-demo.gif" style="max-width:100%;height:auto;" alt="Create your diagram from shapes, connectors and text, and add styles">
 5. Instead of exporting your diagram, click _Publish_ to save your new diagram, or _Save & Exit_ to save an existing diagram, then publish your Confluence page.
 
-## Unlock additional draw.io features
+## Unlock additional draw.io features for larger teams
 
-The price of the draw.io app is very affordable in Confluence Cloud instances with few users. See the [tier-price comparison](/blog/gliffy-confluence-cloud-prices.html) when migrating from Confluence Server to Confluence Cloud with draw.io.
+The price of the draw.io app is very affordable in Confluence Cloud. See the [tier-price comparison](/blog/gliffy-confluence-cloud-prices.html) when migrating from Confluence Server to Confluence Cloud with draw.io.
 
-When you [license the draw.io app for your Confluence Cloud instance](https://marketplace.atlassian.com/apps/1210933/draw-io-diagrams-for-confluence?hosting=cloud&tab=overview), you will continue to enjoy the features mentioned above, in addition to the following:
+If you have started a free trial in your team of more than 10 users and let the license expire, you would have noticed that the app continues to work, minus a few features.
+
+When you [license the draw.io app for your larger Confluence Cloud instance](https://marketplace.atlassian.com/apps/1210933/draw-io-diagrams-for-confluence?hosting=cloud&tab=overview), you will continue to enjoy the features covered in the post above, in addition to the following:
 
 * Import and export .vsdx files.
 * Drag and drop diagram files into the editor to import them instead of using the menu.
@@ -99,3 +101,5 @@ When you [license the draw.io app for your Confluence Cloud instance](https://ma
 * Import CSV data with formatting options to automatically create a diagram.
 * Embed diagrams from cloud storage platforms (Google Drive and Microsoft OneDrive).
 <br /><img src="/assets/img/blog/embed-diagrams-confluence-cloud.png" style="width=100%;max-width:500px;height:auto;" alt="Embedded diagrams in draw.io for Confluence Cloud">
+
+Small teams with up to 10 Confluence Cloud users can use all of the features of the draw.io app for free.

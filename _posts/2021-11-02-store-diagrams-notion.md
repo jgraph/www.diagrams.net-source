@@ -8,7 +8,7 @@ tags: [features]
 categories: [features,integrations]
 ---
 
-You can now create and store your diagrams directly in Notion pages using the draw.io for Notion extension for the Chrome web browser. The draw.io for Notion extension uses the whiteboard-like simple editor theme, and resizes the embedded image displayed in your Notion page automatically to display your entire diagram.
+You can now create and store your diagrams directly in Notion pages using the draw.io for Notion extension for the Chrome, Opera and Edge web browsers. The draw.io for Notion extension uses the whiteboard-like simple editor theme, and resizes the embedded image displayed in your Notion page automatically to display your entire diagram.
 
 Diagrams embedded and stored in Notion can only contain one diagram page. If you want to use [multi-page diagrams](/blog/multiple-page-diagrams.html), you can [embed images of these diagram pages in your Notion content](/blog/embed-diagrams-notion.html) but store the diagram files in a cloud storage platform like Google Drive or One Drive.
 
@@ -89,7 +89,7 @@ You can download the diagram files that you have stored in your Notion pages.
 
 Alternatively, you can download the image from the Notion page as you would any other image. It will download as a drawio.svg file (with embedded diagram data).
 
-[Learn more about export formats for diagrams](/blog/)
+[Learn more about export formats for diagrams](/doc/faq/export-diagram.html)
 
 ### Delete a diagram
 
