@@ -20,7 +20,8 @@ You can configure a number of settings for the draw.io backend in Confluence Ser
 * ``viewerurl``: Set the location of the JavaScript file needed to display diagrams exported to HTML. You can host this file within the intranet. The default is [https://www.diagrams.net/js/viewer-static.min.js](https://www.diagrams.net/js/viewer-static.min.js).
 * ``emf2png``: Use our external server to convert .vsd and .vsdx diagrams that contain EMF images to prevent some converted shapes displaying as black rectangles with crosses. You cannot convert EMF images on the Confluence Server instance. Set ``emf2png=https://convert.diagrams.net/emf2png/convertEMF`` to enable this functionality. Only the EMF image is sent to our servers, which have our usual strict security policies applied.
 * ``emailpreview``: Toggle whether diagram previews in emails and rest API calls are enabled or disabled. The default is ``1`` (enabled).
-* ``macrooutputtype``: Sets viewer container layout. Available values are block and inline. Default is ``block``. (since 9.4.1)
+* ``macrooutputtype``: Sets viewer container layout. Available values are block and inline. Default is ``block``. Since 9.4.1
+* ``disableplaceholders``: When set to ``1`` placeholders are disabled across draw.io diagrams. By default placeholders are enabled, this flag is for companies with strict personal information controls that want to avoid accidental leaking of PII like name of last editor. Since 9.8.0
 * ``serveroffline``: Set a flag to enable or disable the use of any external services from the Confluence server(s). These are extended icon search and cross-domain proxy load. 
 The extended icon search uses external draw.io servers to find additional matches for shape search queries search service for icons after the built-in search runs out of matching icons. Queries are anonymised at the draw.io servers and deleted after the request is made. Enabling _serveroffline_ disables extended searches.
 
