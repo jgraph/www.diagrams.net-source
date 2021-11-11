@@ -45,6 +45,10 @@ diagrams.net works with [OneDrive and Sharepoint](https://app.diagrams.net/?mode
 
 The [draw.io app for GitHub](https://github.com/apps/draw-io-app) lets you authorise access to individual repositories, and will replace the older OAuth authorisation method.
 
+### Notion integration
+
+With the [draw.io for Notion extension in the chrome web store](https://chrome.google.com/webstore/detail/drawio-for-notion/plhaalebpkihaccllnkdaokdoeaokmle), you can [embed and edit diagrams directly within your Notion pages](/blog/drawio-notion.html). This browser extension works in Google Chrome, Opera and Microsoft Edge. 
+
 ## 3rd-party integrations
 
 The following integrations are not directly provided by the diagrams.net team. The Atlassian integrations are built by us, but provided via an Atlassian partner.
