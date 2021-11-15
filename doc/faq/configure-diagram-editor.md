@@ -206,6 +206,8 @@ This configuration produces the following _More Shapes_ dialog when combined wit
 
 * ``darkColor``: Defines the background color for dark mode. Default is #2A2A2A.
 
+* ``lightColor``: Defines the foreground color for dark mode. Default is #F0F0F0.
+
 * ``pageFormat``: Defines the default page format, eg. ``"pageFormat": {"width": 1169, "height": 1654}`` for DIN A3, with inches * 10 for width and height (15.0.0 and later).
 
 * ``gridSteps``: Defines the number of minor grid steps (14.3.2 and later).
