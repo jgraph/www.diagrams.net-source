@@ -63,7 +63,7 @@ This shows all cells with a tag and then hides all cells with the tags ``pipe`` 
 * **Layer**: Select _View > Layers_ from the menu to see the Layers dialog. Click on the three vertical dots (_Edit Data_) to see the ID of the selected layer.
 <br /><img src="/assets/img/blog/layers-edit-data.png" style="width:100%; max-width:200px;height:auto;" alt="Click Edit Data in the Layers dialog to see the ID of a selected layer">
 
-When you view the diagram is viewed, the custom links are shown as a tooltip when you select the shape with the label ``Action``. When you click on the link, the visible state of the diagram elements are updated and the diagram is saved.
+When you view the diagram, the custom links are shown as a tooltip when you select the shape with the label ``Action``. When you click on the link, the visible state of the diagram elements are updated and the diagram is saved.
 
 If you are using realtime collaboration, the visible states of the diagram elements are updated in all connected diagrams.
 
