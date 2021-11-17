@@ -79,7 +79,7 @@ When you click on a shape that is used as a toggle and it exists on the layer or
 
 ## Interact with your diagram
 
-When you view the diagram the editor, you can interact with your diagram in three ways:
+When you view the diagram in the editor, you can interact with your diagram in three ways:
 
 * Click on the checkbox in the the _Layers_ dialog. 
 * If the layer you toggle is locked, click directly on the shape in the same way as if you are interacting with the diagram in the viewer. 
