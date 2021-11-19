@@ -47,7 +47,7 @@ This shows or hides the cells with ``ID 5`` and ``ID 7``, depending on their cur
 ```
 data:action/json,{"actions":[{"open": "data:page/id,1"},{"highlight":{"cells":["2"],"opacity":100, "color": "red"}}]}
 ```
-This opens the page with ``ID 1`` and then highlights the cell with ``ID 2`` in red with an opacity of 100%. [See this example in diagrams.net](
+This opens the page with ``ID 1`` and then highlights the cell with ``ID 2`` in red with an opacity of 100%.
 
 #### Example 3
 ```
