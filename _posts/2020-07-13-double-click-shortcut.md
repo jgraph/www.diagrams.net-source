@@ -3,7 +3,7 @@ layout: post
 author: diagrams.net
 slug: double-click-shortcut
 date: 2020-07-13 09:24:00
-title: Double click to select a shape
+title: Double click and select a shape to add it
 tags: [shapes, shortcuts]
 categories: [shortcuts, shapes]
 ---
