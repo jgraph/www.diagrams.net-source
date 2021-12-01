@@ -10,7 +10,7 @@ Huge images cannot be uploaded to or dropped into a diagram in draw.io for Confl
 ## Insert a very large image into a diagram
 
 1. View the page with the diagram, click on the three horizontal dots in the toolbar, then select _Attachments_.
-<br /><img src="/assets/img/blog/view-attachments-confluence-server.png" style="width=100%;max-width:400px;height:auto;" ="View the files attached to your Confluence page">
+<br /><img src="/assets/img/blog/view-attachments-confluence-server.png" style="width=100%;max-width:400px;height:auto;" alt="View the files attached to your Confluence page">
 2. Drag and drop your large image into the attachments page.
 <br />**Note:** Confluence Server allows attachments with a maximum size of 10MB. As an administrator, go to the General Configuration section of your Confluence Server settings, and _Edit_ the Attachment Settings.  
 <br /><img src="/assets/img/blog/attachment-settings-confluence-server.png" style="max-width:100%;height:auto;" alt="Confluence Server attachment settings in the General Configuration section of your Server settings">
