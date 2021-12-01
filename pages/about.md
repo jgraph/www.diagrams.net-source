@@ -32,13 +32,14 @@ Our mission statement is __“provide free, high quality diagramming software fo
 * By picking one commercial ecosystem to charge for the application where the host product is pay-for and the profit margins greatest, and that was the Atlassian ecosystem. Note that you still control access to your data on Confluence and Jira, we don't resort to locking your data away, just because it's a commercial platform.
 
 <code>
-  JGraph Ltd
-  Artisans' House,
-  7 Queensbridge
-  NN4 7BF
-  Northampton
-  UK
+  JGraph Ltd  
+  Artisans' House,  
+  7 Queensbridge  
+  NN4 7BF  
+  Northampton  
+  UK  
 </code>
 <code>
-  JGraph Ltd is a private limited company registered in England #04051179
+  JGraph Ltd is a private limited company registered in England #04051179  
+  Tel : +44 20 8191 1310
 </code>
