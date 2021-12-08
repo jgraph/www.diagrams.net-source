@@ -89,7 +89,7 @@ The example below has been anonymised, but is from an actual use case for a manu
 #### Placeholders make updating network diagrams easier
 **Advanced tip:** You can use placeholders to assign values automatically to device labels based on the subnet of the container shape. For example, then when you drag a device from one subnet to another, its IP will automatically update.
 
-[See how to work with placeholders](http://localhost:4000/blog/placeholders)
+[See how to work with placeholders](/blog/placeholders)
 
 ## Network diagram templates in diagrams.net
 
