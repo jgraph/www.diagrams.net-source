@@ -12,5 +12,3 @@ You can import diagrams from the Lucidchart JSON file format into diagrams.net. 
 3. Copy the selected diagram (``Ctrl+C`` on Windows, ``Cmd+C`` on macOS). You must copy your diagram using this keyboard shortcut.
 4. Open a [new, blank diagram in diagrams.net](https://app.diagrams.net/?splash=0).
 5. Paste the diagram into diagrams.net (``Ctrl+V`` on Windows, ``Cmd+V`` on macOS). Again, you must paste the diagram using this keyboard shortcut.
-
-If you are using Confluence Server, you can use the [Lucidchart to draw.io mass import feature](/doc/faq/lucidchart-onprem-to-drawio.html) to migrate all of your diagrams at once.
