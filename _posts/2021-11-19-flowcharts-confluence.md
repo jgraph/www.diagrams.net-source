@@ -75,7 +75,7 @@ If you prefer a more varied set of shapes to show the difference between types o
 As **marketing teams** need to collaborate with product development and business management teams, Confluence is the best place to store customer analyses and product marketing flows. Visual documentation lets all stakeholders reach a common understanding quickly and easily.
 
 Document customer journeys in UML use case diagrams (below) or [story maps](/blog/story-mapping.html).
-<img src="/assets/img/blog/uml-use-case-example.png" style="width=100%;max-width:600px;height:auto;" alt="An example of a use case diagram">
+<br /><img src="/assets/img/blog/uml-use-case-example.png" style="width=100%;max-width:600px;height:auto;" alt="An example of a use case diagram">
 
 ### Software development and IT flowcharts
 
@@ -90,7 +90,7 @@ Visualise your version control system with development and release flows in [git
 <br /><img src="/assets/img/blog/gitflow-example.png" style="width=100%;max-width:600px;height:auto;" alt="An example gitflow diagram">
 
 Explore infrastructure risks with [application threat models](/blog/threat-modelling.html), including data flow diagrams and process flow diagrams. 
-<br /><img src="/assets/img/blog/threat-modeling-data-flow-example.png" style="width=100%;max-width:600px;height:auto;" alt="An example gitflow diagram">
+<br /><img src="/assets/img/blog/threat-modeling-data-flow-example.png" style="width=100%;max-width:600px;height:auto;" alt="An example application threat model">
 
 * Click on _More Shapes_ in the left panel in the draw.io editor, scroll down to the _Other_ section and enable the _Threat Modeling_ shape library. 
 
