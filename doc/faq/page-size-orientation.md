@@ -14,6 +14,8 @@ By default, diagrams.net uses an A4 paper size in a portrait orientation. You ca
 3. Click on either _Portrait_ or _Landscape_ to change the page orientation. 
 <br /><img src="/assets/img/blog/format-panel-page-size-orientation.png" style="max-width:100%;height:auto;" alt="Change the page size and orientation in the format panel when nothing in your diagram is selected">
 
+**Tip:** If your drawing canvas does not indicate the page edges, make sure the _Page View_ checkbox is enabled in the _Diagram_ tab on the format panel.
+
 ### Change the page setup
 
 1. Select _File > Page Setup_.

@@ -2,7 +2,7 @@
 layout: post
 author: diagrams.net
 slug: flowcharts-atlassian-community
-date: 2021-12-10 09:54:00
+date: 2300-12-10 09:54:00
 title: Flowcharts and templates in Confluence Cloud
 tags: [Atlassian]
 categories: [atlassian, use-cases]
@@ -17,7 +17,10 @@ It's easy to create a basic flowchart.
 2. Draw a diamond for each decision and add a label (usually a question). 
 3. Connect the steps and decisions with arrows indicating in what order they are completed, and label the decision connectors.
 
-For example, when using draw.io for Confluence or Jira, drag a shape from the left shape library, or double click on the drawing canvas to add a new shape. Drag a connector from the direction arrow and drop it on another shape to connect them.
+For example, when using draw.io for Confluence or Jira, drag a shape from the left shape library, or double click on the drawing canvas to add a new shape. Drag a connector from the direction arrow and drop it on another shape to connect them. 
+
+Alternatively, start with a flowchart template, add shapes, labels and style it quickly.
+<br /><img src="/assets/img/blog/drawio-diagram-example.gif" style="width=100%;max-width:600px;height:auto;" alt="Adding a flowchart to Confluence Cloud is easy with draw.io">
 
 ## Use specialised flowcharts in teams
 
