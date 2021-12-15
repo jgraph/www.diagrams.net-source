@@ -31,3 +31,5 @@ This option is not shown if your diagram has only one page.
 
 
 **Tip:** You can also [print your diagram to a PDF file](/doc/faq/pdf-print-to.html) instead of exporting it.
+
+If you want to only print part of a diagram, you'll need to select and copy that part onto a new diagram page, and print just that page.
