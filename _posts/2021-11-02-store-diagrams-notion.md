@@ -94,4 +94,4 @@ Alternatively, you can download the image from the Notion page as you would any 
 ### Delete a diagram
 
 Delete a diagram from a Notion page just like you would any other content with ``Backspace`` or ``Delete``. Alternatively, click on the move handle and select Delete.
-<br /><img src="/assets/img/blog/notion-chrome-extension-delete-diagram.png" style="width=100%;max-width:600px;height:auto;" alt="Delete a diagram just as you would any other content in a Notion page">
+<br /><img src="/assets/img/blog/notion-chrome-extension-delete-diagram.png" style="width=100%;max-width:250px;height:auto;" alt="Delete a diagram just as you would any other content in a Notion page">
