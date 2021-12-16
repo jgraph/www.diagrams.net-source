@@ -8,7 +8,7 @@ categories: [Features,Text]
 
 
 Enter your maths equation using LaTeX or [AsciiMath](http://www.intmath.com/help/send-math-email-syntax.php) in a text shape.
-* **AsciiMath** between `` ` ``, for example: `a^2+b^2 = c^2`
+* **AsciiMath** between `` ` ``, for example: `` `a^2+b^2 = c^2` ``
 * **LaTeX** between ``$$``, for example: ``$$\sqrt{3×-1}+(1+x)^2$$``
 * **Inline LaTeX** between ``\(`` and ``\)``, for example: ``\(\sqrt{3×-1}+(1+x)^2\)``
 
