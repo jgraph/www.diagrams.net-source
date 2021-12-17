@@ -60,12 +60,12 @@ The configuration is represented as a [JSON (JavaScript Object Notation) string]
 <br />**Note:** Fonts with no fontUrl must be installed on the server and all client devices, or be added using the ``fontCss`` option. (6.5.4 and later).
 <br /><img src="/assets/img/blog/custom-fonts-list-confluence-cloud.png" style="width=100%;max-width:200px;height:auto;" alt="Customise the fonts in diagrams.net">
 
-* ``presetColors``: Colour codes for the upper palette in the colour dialog (no leading # for the colour codes).
+* ``presetColors``: Colour codes for the upper palette in the colour dialog (no leading # for the colour codes, ``null`` for a blank entry).
 
-* ``customPresetColors``: Colour codes to be added before ``presetColors`` (no leading ``#`` for the colour codes) (9.2.5 and later).
+* ``customPresetColors``: Colour codes to be added before ``presetColors`` (no leading ``#`` for the colour codes, ``null`` for a blank entry) (9.2.5 and later).
 <br /><img src="/assets/img/blog/preset-colours-new-defaults.png" style="width=100%;max-width:200px;height:auto;" alt="The default present colours can be customised in draw.io">
 
-* ``defaultColors``: Colour codes for the lower palette in the colour dialog (no leading ``#`` for the colour codes).
+* ``defaultColors``: Colour codes for the lower palette in the colour dialog (no leading ``#`` for the colour codes, ``null`` for a blank entry).
 <br /><img src="/assets/img/blog/large-palette-custom.png" style="width=100%;max-width:200px;height:auto;" alt="Modify the colour palettes easily with draw.io for Confluence Cloud">
 
 * ``colorNames``: Names for colors, eg. {'FFFFFF': 'White', '000000': 'Black'} that are used as tooltips (uppercase, no leading ``#`` for the colour codes).
