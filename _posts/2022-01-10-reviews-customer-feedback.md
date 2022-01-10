@@ -8,13 +8,13 @@ tags: [features]
 categories: [use-cases]
 ---
 
-The barrier to anyone diagramming with diagrams.net is lower than with other software and web applications. From reviews and customer feedback, some of the things they like the most include:
-* you don't need an account
-* you can diagram in all three operating systems
-* administration is simple
-* there are no monthly fees
-* you can create a wide range of diagrams
+The barrier to anyone diagramming and whiteboarding with diagrams.net is lower compared to many other SaaS applications. From reviews and customer feedback, some of the things they like the most include:
+* you don't need to register and it costs nothing
+* you can diagram in all major operating systems
+* there is an offline desktop version
+* you can give your diagram to anyone else and they will be able to load and edit it freely
 * you can store unlimited diagram files wherever you prefer
+* project development is in the open and anyone can take part
 
 But don't take our word for it - here is what draw.io and diagrams.net users are actually saying on popular review sites.
 
@@ -65,10 +65,9 @@ The G2 company gathers user reviews of software products from their own communit
 
 ## Thank you to our reviewers
 
-We are grateful for all the reviews that we have received. As we don't track your use of the software, your reviews tell us what features you use the most, and where you are having trouble. 
+Useful as these reviews are, we don't actively monitor review sites regularly - if you have a suggestion or want to report a bug, please go to the [_the support page](https://github.com/jgraph/drawio/wiki/Getting-Support). That is 
+best place to get our attention.
 
-**Note:** We don't monitor review sites regularly - if you have a suggestion or want to report a bug, please go to the [_Discussion_ tab on our GitHub repository](https://github.com/jgraph/drawio/discussions). 
-
-Check if your your suggestion has already been raised and upvote the existing post so it is bumped up the list.
+Check if your your suggestion has already been raised and upvote (thumbs up the existing post so it is bumped up the list.
 
 
