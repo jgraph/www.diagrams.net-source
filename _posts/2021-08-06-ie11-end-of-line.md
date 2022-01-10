@@ -8,7 +8,7 @@ tags: [features, Atlassian]
 categories: [features,atlassian]
 ---
 
-In line with [Microsoft's end of life date of Internet Explorer 11](https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/), we will end support for IE 11 on 15th June 2022.
+Related to [Microsoft's end of life date of Internet Explorer 11](https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/), we will end support for IE 11 on 21th April 2022.
 
 ## Online users of app.diagrams.net
 
@@ -33,7 +33,7 @@ Atlassian are [removing IE 11 support on specific versions of Jira and Confluenc
 
 ## Users of the draw.io/diagrams.net codebase
 
-If you deploy your own version of the project from source code, releases up to and including the 15th June 2022 will support IE 11. For any releases after that date you can expect complete failure when using IE 11. Specifically, we may remove IE 11 specific functionality from the codebase to simplify the code.
+If you deploy your own version of the project from source code, releases up to and including the 20th April 2022 will support IE 11. For any releases after that date you can expect complete failure when using IE 11. Specifically, we may remove IE 11 specific functionality from the codebase to simplify the code.
 
 If you wish to have a IE 11 supported deployment, deploy the last release prior to this date and do not update it.
 
