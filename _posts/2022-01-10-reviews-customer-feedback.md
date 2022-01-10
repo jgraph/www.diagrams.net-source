@@ -65,7 +65,7 @@ The G2 company gathers user reviews of software products from their own communit
 
 ## Thank you to our reviewers
 
-Useful as these reviews are, we don't actively monitor review sites regularly - if you have a suggestion or want to report a bug, please go to the [_the support page](https://github.com/jgraph/drawio/wiki/Getting-Support). That is 
+Useful as these reviews are, we don't actively monitor review sites regularly - if you have a suggestion or want to report a bug, please go to the [the support page on the Github project](https://github.com/jgraph/drawio/wiki/Getting-Support). That is 
 best place to get our attention.
 
 Check if your your suggestion has already been raised and upvote (thumbs up the existing post so it is bumped up the list.
