@@ -2,7 +2,7 @@
 layout: post
 author: diagrams.net
 slug: diagrams-se
-date: 2021-10-26 09:10:00
+date: 2200-10-26 09:10:00
 title: Enhanced security with Google Workplace and se.diagrams.net
 tags: [data protection, integrations]
 categories: [trust, integrations, features]
