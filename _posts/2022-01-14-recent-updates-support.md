@@ -42,9 +42,9 @@ In all of the editor themes, you can also unmerge merged table cells via the _Ar
 
 ## SVG export options for formatted text
 
-Previously, diagrams.net exported shapes and labels with formatted text in a diagram with a warning embedded in the raw SVG data. This warning is only displayed when the SVG file is opened in an SVG viewer that lacks SVG 1.1 support. 
+Previously, diagrams.net exported shapes and labels with HTML formatted text embedded as a foreign object in the SVG. This displays fine in browsers, but a number of users had issues with exporting and editing in SVG editors, which wasn't a use case we had considered.
 
-Now, you can [choose how formatted labels should be exported](https://github.com/jgraph/drawio/issues/774), and whether the SVG file it should contain a warning about the lack of SVG 1.1 support.
+Now, you can [choose how formatted labels should be exported](https://github.com/jgraph/drawio/issues/774), and whether the SVG file it should contain a warning about the text not being SVG.
 
 For example, in the following diagram, some of the shapes have bold and italic words in the label text - they use formatted text.
 <br /><img src="/assets/img/blog/text-label-formatted-text.png" style="width=100%;max-width:400px;height:auto;" alt="You can use different formatting options inside a text label - on part of the label only">
