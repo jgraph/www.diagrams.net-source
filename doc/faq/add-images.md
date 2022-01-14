@@ -17,7 +17,7 @@ Drag the image file on your computer, or drag the image from a web page in your 
 
 <img src="/assets/img/blog/image-insert.gif" style="max-width:100%;height:auto;" alt="Drag and drop your image onto the diagram editor or use the menu to insert it from a URL">
 
-Once the image file has been loaded into the editor, you can resize it or [rotate it just like a shape](/blog/rotate-shapes.html). 
+Once the image file has been loaded into the editor, you can resize it or [rotate it just like a shape](/blog/rotate-shapes.html), or [crop the image](/doc/faq/image-crop.html) into a variety of shapes.
 
 **Via the menu** 
 
