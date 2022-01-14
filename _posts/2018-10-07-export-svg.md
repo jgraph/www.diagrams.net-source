@@ -34,8 +34,17 @@ Your diagram is now ready to be exported to an SVG image.
    - If you have selected part of your diagram before exporting it as an SVG, you'll be able to limit what is saved in the diagram as your _Selection Only_, and _Crop_ the image to fit your selection.
    - Add a _Shadow_ to your diagram.
    - Leave _Include a copy of my diagram_ enabled if you want others to be able to import the SVG back into diagrams.net smoothly.  
+   - Choose how formatted text labels should be output for older SVG viewers that don't support SVG 1.1 - see the note below.
    - Choose how _Links_ behave by altering the setting in the list.
    <br /><img src="/assets/img/blog/export-svg-options.png" style="width=100%;max-width:400px;height:auto;" alt="diagrams.net options when exporting a diagram as an SVG image">
 3. When you have set the options you want, click _Export_ and choose the location to which you want to save the SVG file.
 
 Now you can add the SVG image version of your diagram to your webpage or blog post as you would a normal image file.
+
+### Note: SVG 1.1 and formatted text labels
+
+diagrams.net and the draw.io apps export by default SVG 1.1. Some older viewers have trouble when text contains a variety of formatting information. 
+
+Usually, a warning is embedded in the raw SVG data that only displays when your SVG viewer doesn't support SVG 1.1. When exporting using the steps above, you can choose which _Text Settings_ to use.
+
+See our more recent post for more details about the [_Text Settings_ options for SVG export](/blog/recent-updates-support.html).
