@@ -2,7 +2,7 @@
 title: Add a table to your diagram
 layout: page
 faq: true
-categories: [Features]
+categories: [Features,Tables]
 ---
 
 Use the table tool in the toolbar to add a table to your diagram as you would in Microsoft Word or Google Docs.

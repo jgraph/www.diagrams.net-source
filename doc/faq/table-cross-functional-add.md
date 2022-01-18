@@ -2,7 +2,7 @@
 title: Add a cross-functional table to your diagram
 layout: page
 faq: true
-categories: [Features]
+categories: [Features,Tables]
 ---
 
 Cross-functional flowcharts ([tables](/blog/tables.html)) use categories to group steps in a business process.

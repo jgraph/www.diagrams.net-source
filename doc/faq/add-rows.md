@@ -2,7 +2,7 @@
 title: Add rows to ERD tables, lists and UML classes
 layout: page
 faq: true
-categories: [Shapes]
+categories: [Shapes,Tables]
 ---
 
 There are two types of shapes in diagrams.net where you can add new rows.

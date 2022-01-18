@@ -1,7 +1,7 @@
 ---
 layout: post
 author: diagrams.net
-slug: recent-updates-support.md
+slug: recent-updates-support
 date: 2022-01-14 09:40:00
 title: Reporting issues, suggesting features and upvoting
 tags: [features]
@@ -29,16 +29,26 @@ You can now [crop images](https://github.com/jgraph/drawio/issues/73) in diagram
 
 This is a non-destructive crop. To reset the crop to the original image, click on _Reset_ in the crop image dialog.
 
-## Unmerge table cells in the Sketch editor theme
+## Merge and unmerge table cells in the Sketch editor theme
 
-[Unmerge merged table cells](https://github.com/jgraph/drawio/issues/979) using the _Table_ tool on the toolbar in the Sketch editor theme - our uncluttered [online whiteboard theme](/blog/sketch-online-whiteboard.html). 
+[Merge and unmerge table cells](https://github.com/jgraph/drawio/issues/979) using the _Table_ tool on the toolbar in the Sketch editor theme - our uncluttered [online whiteboard theme](/blog/sketch-online-whiteboard.html). 
+
+These options only appear when you have selected multiple table cells or a previously merged table cell.
+
+**Merge two or more table cells**
+
+1. Select two or more adjacent table cells (hold down ``Shift`` and click on multiple cells).
+2. Click on the _Table_ tool in the toolbar and select _Merge_. Alternatively, click on _Merge_ in the _Arrange_ tab of the format panel.
+<br /><img src="/assets/img/blog/sketch-theme-table-merge.png" style="width=100%;max-width:300px;height:auto;" alt="Merge table cells in the Sketch whiteboard-like editor theme in diagrams.net and draw.io">
+
+**Unmerge merged table cells**
 
 1. Select the merged cells in the table.
 2. Click on the _Table_ tool in the toolbar on the left and select _Unmerge_.
-<br /><img src="/assets/img/blog/sketch-theme-table-unmerge.png" style="width=100%;max-width:400px;height:auto;" alt="Unmerge table cells in the Sketch whiteboard-like editor theme in diagrams.net and draw.io">
+<br /><img src="/assets/img/blog/sketch-theme-table-unmerge.png" style="width=100%;max-width:300px;height:auto;" alt="Unmerge table cells in the Sketch whiteboard-like editor theme in diagrams.net and draw.io">
 
 In all of the editor themes, you can also unmerge merged table cells via the _Arrange_ tab of the format panel. 
-<br /><img src="/assets/img/blog/arrange-tab-unmerge.png" style="width=100%;max-width:300px;height:auto;" alt="Unmerge table cells in the diagrams.net and draw.io editor via the Arrange tab in the format panel">
+<br /><img src="/assets/img/blog/arrange-tab-unmerge.png" style="width=100%;max-width:350px;height:auto;" alt="Unmerge table cells in the diagrams.net and draw.io editor via the Arrange tab in the format panel">
 
 ## SVG export options for formatted text
 
@@ -93,3 +103,4 @@ If you have a question, rather than want to report an issue or request a new fea
 5. Describe your problems or suggested feature in the appropriate sections of the checklist, clearly and in detail.
 6. Click _Submit new issue_ when you have finished.
 <br /><img src="/assets/img/blog/support-github-new-bug-report.png" style="width=100%;max-width:400px;height:auto;" alt="Register that you also have a reported bug or want the requested feature in our drawio repository on GitHub">
+
