@@ -41,4 +41,4 @@ To apply an number label to shapes inside container shapes or table cells, enter
 
 **Note:** Shapes and connectors with a custom _Enumerate Value_ are not included in the automatic numbering.
 
-If you want to number all shapes as you add them to the drawing canvas, use the numbers plugin - this is 
+If you want to number all shapes as you add them to the drawing canvas, use the numbers plugin.
