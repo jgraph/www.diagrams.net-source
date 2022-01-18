@@ -53,3 +53,10 @@ To bring a shape from a lower layer to the front, you need to move it to a highe
 <img src="/assets/img/blog/shapes-move-layers.png" style="max-width:100%;height:auto;" alt="Move the selected shapes to another layer via the Layers dialog">
 
 [Learn how to work with layers in diagrams.net](/doc/layers.html)
+
+## Number shapes based on their z-order
+
+The ``Enumerate`` shape property uses the z-order of shapes and connectors on the drawing canvas - those that are not inside container shapes or tables - to automatically apply an increasing number value. 
+<br /><img src="/assets/img/blog/enumerate-example.png" style="width=100%;max-width:200px;height:auto;" alt="Number shapes in a diagram">
+
+[See how to work with the ``Enumerate`` and ``Enumerate Value`` shape properties](/blog/number-shapes.html)

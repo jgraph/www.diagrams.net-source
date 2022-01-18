@@ -1,13 +1,25 @@
 ---
-title: Number the shapes in your diagram
+title: Automatically number shapes as you insert them
 layout: page
 faq: true
 categories: [Plugins, Confluence Cloud, Confluence Data Center and Server]
 ---
 
+**Important:** The ``Enumerate`` shape property allows you to add a numbered label to selected shapes and connectors. It can not be applied by default to any new shape added to the drawing canvas. 
+
+The ``Enumerate`` shape property, however, gives you control over what parts of your diagram are numbered, and can be customised to work on shapes and connectors inside container shapes or table cells, unlike the number plugin.
+
+[Learn how to use the ``Enumerate`` shape property](/blog/number-shapes.html)
+
+## Use the number plugin instead
+
 _This plugin should be used as-is, as an unsupported example for developers._
 
-Add automatic numbering to the shapes in your diagram with the number plugin. It will number each shape as they are added to your diagram. You can change the order by bring shapes to the front or sending them to the back - the numbering is based on their order (depth) in the diagram.
+Add automatic numbering to the shapes in your diagram with the number plugin. It will number each shape as they are added to your diagram. 
+
+You can change the order by bring shapes to forwards or backwards in the _Arrange_ tab of the format pannel - the numbering is based on their z-order (depth) in the diagram.
+
+**Note:** This does not work on container shapes and table shapes because they are compound shapes - the number plugin will number each part. Use the [``Enumerate`` shape property](/blog/number-shapes.html) instead. 
 
 [<img src="/assets/img/blog/number-plugin.gif" style="max-width:100%;height:auto;" alt="The number plugin automatically includes numbers on shapes as you add them to your diagram">](https://app.diagrams.net/?highlight=0000ff&edit=_blank&p=number&layers=1&nav=1&title=number-plugin#R5VdNj5swEP01HCsBJnxcl2bbSu2hiqpWvTkwAVLDIGNC0l9fE0yAJLCs1DTK9hLhNzMZz%2BP5ARrx0%2F0HTvP4C4bANFMP9xp5r5mma3jytwYODbBwSANEPAkbyOiAVfIbFKgrtExCKAaJApGJJB%2BCAWYZBGKAUc6xGqZtkA275jSCC2AVUHaJfk9CESvUsL0u8BGSKFatXdNpAiltk9UkRUxDrHoQWWrE54iiuUr3PrCau5aXpu55JHraGIdMzCl4%2Bunhj8J59hfbT18zd73aftu9I3bzNzvKSjWx2q04tBRAKBlRS%2BQixggzypYd%2BsSxzEKo%2B%2Bhy1eV8RswlaEhwC0Ic1O2lpUAJxSJlKtr0rBuNDqegAksewMRELd2C8gjE1OiL002Q4gVMQfCDLOTAqEh2w51QJaPolNcxLS8U2a8gvt3mFPEdrTVHVZwIWOX0OH0lD9uQwk3CmI8M%2BbGWhBTcTSDxQnD8Bb2IHbiw3pxI3wEXsJ%2Bm%2FZIkVWBaagx1uttl1Tsq7aRx75TY%2Bo1oJe5b03Mj0zl6du6pZ8v8b4m3Rs7IvyG%2B3eakkcSYrsviZRMZOs64dYyZzd%2BwFHtoKYZz6SnuFUtxb2Up1gynfjBlO3Mtxbursp2XiX8APZ89Isn9n5HeDEEzJt%2Bw4TEc4%2Fwl5IpjXGX4dpZhvAXlWvqZE7u3U65cdl9Cx1jvc5Is%2FwA%3D)
 
