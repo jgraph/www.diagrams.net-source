@@ -31,7 +31,9 @@ Alternatively, you can shift selected connection points to the left/right or up/
 **Delete connection points:** Select one or more connection points, then press _Delete_ or click on the _Delete_ icon just under the editor on the right.
 <br /><img src="/assets/img/blog/connection-points-delete.png" style="width=100%;max-width:250px;height:auto;" alt="Delete connection points on a shape in the visual editor with diagrams.net">
 
-**Add new connection points:** Make sure no connection points are selected, then click _Add_.
+**Add new connection points:** Double click anywhere on or around the shape to add a new connection point. 
+
+Alternatively, make sure no connection points are selected, then click _Add_.
 <br /><img src="/assets/img/blog/connection-points-add.png" style="width=100%;max-width:250px;height:auto;" alt="Specify how many connection points to add, and which edge to add them to">
 * To add multiple connection points at once, change the number in the text field to the left of the _Add_ button.
 * To change which edge the connection points are added to, select another value from the drop down list.  

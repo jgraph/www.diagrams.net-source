@@ -4,7 +4,7 @@ author: diagrams.net
 slug: c4-modelling
 date: 2020-07-29 11:14:00
 title: Create C4 models and diagrams
-tags: [shape libraries]
+tags: [shape-libraries]
 categories: [use-cases]
 ---
 
