@@ -87,6 +87,8 @@ Instead of [using the rotate grab handle](/doc/faq/shape-rotate.html) and draggi
 **Flip a shape:** Click _Horizontal_ or _Vertical_ on the _Arrange tab to flip a shape without also flipping the label text. If the shape is symmetrical, there will be no obvious change, unless there is a is a gradient colour in the fill. 
 <br /><img src="/assets/img/blog/arrange-tab-flip.gif" style="width=100%;max-width:400px;height:auto;" alt="Flip a non-symmetrical shape keeping its label text in place">
 
+You can also [flip a connector horizontally and vertically](/doc/faq/connector-flip.html), and [reverse the source and target ends](/doc/faq/connector-reverse.html) of a connector along with their labels.
+
 ## Reset connector waypoints
 
 You can revert one or more connectors' complex routes back to the most direct routes automatically. 

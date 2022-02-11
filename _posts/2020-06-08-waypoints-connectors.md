@@ -44,6 +44,8 @@ You can also use the context menu to remove way points.
 
 <img src="/assets/img/blog/waypoints-remove-context-menu.png" style="width=100%;max-width:400px;height:auto;" alt="Use the context menu to remove a waypoint from a connector">
 
+**Note:** If you [flip a connector horizontally or vertically](/doc/faq/connector-flip.html) while it is attached to a shape, its waypoints will be changed or deleted automatically.
+
 ## Clear all waypoints
 
 By clearing all of the waypoints in a connector, it will revert to the shortest path between the two shapes.

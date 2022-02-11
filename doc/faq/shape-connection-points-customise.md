@@ -15,10 +15,34 @@ Connection points are also used when you enable the [_snap to point_ shape prope
 
 [Learn more about connecting shapes](/doc/faq/connect-shapes.html)
 
+### Force a fixed or floating connection
 
-## Edit the shape style to customise connection points
+You can [force a floating or fixed connection at any location](/doc/faq/connect-to-shapes-anywhere.html) by using a keyboard shortcut, even if the shape has custom connection points or the _snap to point_ shape property enabled.
 
-To customise the connection points on a shape, you can define your own custom shape style and specify exactly where the connection points should be located around the shape perimeter. The custom coordinates you specify in the shape style override the default connection points. In this way, you can add or delete connection points, or change their positions. 
+* Hold down ``Shift`` as you drop the connector on a shape to connect it to the shape's outline.
+* Hold down ``Alt`` as you drop the connector on a shape to add a fixed connection inside the shape. 
+<br /><img src="/assets/img/blog/connect-to-shapes-anywhere.gif" style="width=100%;max-width:400px;height:auto;" alt="Hold down Alt key as you connect to a shape to connect to any position on that shape">
+
+## Edit a shape's connection points
+
+A visual editor makes it easy to [change the fixed connection points on a shape](/blog/edit-connection-points.html).
+
+Right click on a shape and select _Edit Connection Points_. 
+<br /><img src="/assets/img/blog/connection-points-edit-context-menu.png" style="width=100%;max-width:300px;height:auto;" alt="Use the context menu to edit the connection points of a selected shape">
+
+**Select a connection point:** Click on a connection point, or select multiple connection points by dragging a selection box around them.
+
+**Delete connection points:** Select one or more connection points, then press _Delete_ or click on the _Delete_ icon just under the editor on the right.
+
+**Add new connection points:** Double click anywhere on or around the shape or click _Add_.
+
+**Move connection points:** Drag the selected connection point(s) to a new position or shift selected connection points to the left/right or up/down by entering a positive or negative value in _Dx_ or _Dy_.
+<br /><img src="/assets/img/blog/connection-points-edit.gif" style="width=100%;max-width:250px;height:auto;" alt="Move, delete and add connection points to a shape visually in diagrams.net">
+
+
+## Define connection points in the shape style
+
+You can define your own custom shape style and specify exactly where the connection points should be located around the shape perimeter. The custom coordinates you specify in the shape style override the default connection points. 
 
 Add new points in ``x,y`` pairs, with values between ``0`` and ``1``, which correspond to positions on the shape's outline, relative to the outer four 'corners' of the shape. Top left is ``[0,0]``, top right is ``[1,0]``, bottom left is ``[0,1]``, bottom right is ``[1,1]``.
 
@@ -33,17 +57,7 @@ For example, you can redefine a cloud shape to have just two connection points (
 <br />In the example below, the [_snap to point_ shape property](/doc/faq/snap-to-point.html) has been enabled to show how the connector moves to another custom connection point as you move the shape around.
 <br /><img src="/assets/img/blog/connection-points-custom-fixed.gif" style="width=100%;max-width:400px;height:auto;" alt="When you move a shape that has the snap to point shape property enabled, the connector will jump between the defined connection points">
 
-### Clear custom connection points
-
-If you no longer want a shape to have custom connection points, you can delete the ``points[]`` array from the shape style to [reset the connection points of a shape](/doc/faq/reset-connection-points.html) back to their defaults.
-
-### Ignore custom connection points
-
-You can [force a floating or fixed connection at any location](/doc/faq/connect-to-shapes-anywhere.html) by using a keyboard shortcut, even if the shape has custom connection points or the _snap to point_ shape property enabled.
-
-* Hold down ``Shift`` as you drop the connector on a shape to connect it to the shape's outline.
-* Hold down ``Alt`` as you drop the connector on a shape to add a fixed connection inside the shape. 
-<br /><img src="/assets/img/blog/connect-to-shapes-anywhere.gif" style="width=100%;max-width:400px;height:auto;" alt="Hold down Alt key as you connect to a shape to connect to any position on that shape">
+**Clear custom connection points:** If you no longer want a shape to have custom connection points, you can delete the ``points[]`` array from the shape style to [reset the connection points of a shape](/doc/faq/reset-connection-points.html) back to their defaults.
 
 ### Build your own custom shapes
 

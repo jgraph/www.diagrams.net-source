@@ -13,6 +13,8 @@ By default, connection points are displayed. If you don't want to use connection
 2. Click on the _Connection Points_ checkbox to hide them. 
 <br /><img src="/assets/img/blog/diagram-tab-connection-points.png" style="width=100%;max-width:350px;height:auto;" alt="Display or hide the connection points that appear when you hover over a shape in the Diagram tab of the format panel">
 
+**Tip:** If you want to delete the fixed connection points instead of hide them, you can [edit the shape's connection points](/blog/edit-connection-points.html) from the drawing canvas - right-click on the shape and select _Edit Connection Points_. 
+
 ## Related 
 
 * [Customise a shape's fixed connection points](/doc/faq/shape-connection-points-customise.html)

@@ -40,7 +40,8 @@ Fixed connectors will remain attached to that particular location on a shape, ev
 **Tip:** Click on the direction arrow pointing towards a nearby shape to quickly connect the two.
 <br /><img src="/assets/img/blog/connector-direction-arrow.png" style="width=100%;max-width:250px;height:auto;" alt="Click on a direction arrow near a neighbouring shape to connect it">
 
-* [Make floating connectors snap to the nearest fixed connection point](/blog/snap-to-point). 
+* [Edit the fixed connection points on a shape](/blog/edit-connection-points.html)
+* [Make floating connectors snap to the nearest fixed connection point](/blog/snap-to-point.html). 
 * [Customise a shape to have different connection points](/doc/faq/shape-connection-points-customise.html)
 * [Learn how to use waypoints to change the connector's path](/blog/waypoints-connectors.html)
 
@@ -82,6 +83,8 @@ To add or remove waypoints and change the path of a connector, drag a section of
 
 [See how to remove waypoints](/doc/faq/add-remove-waypoints.html)
 
+**Tip:** You can [reverse the source and target ends of a connector](/doc/faq/connector-reverse.html) (with their labels), and [flip a connector horizontally or vertically](/doc/faq/connector-flip.html) via the _Arrange_ tab in the format panel.
+
 ## Move connectors in front of or behind shapes
 
 **Move connectors directly to the front or back**
@@ -89,14 +92,13 @@ To add or remove waypoints and change the path of a connector, drag a section of
 1. Select one or more connectors. 
 2. Click _To Front_ or _To Back_ to send them directly in front of or behind all shapes and connectors on that layer.
 
-**Move a connector fowards or backwards**
+**Move a connector forwards or backwards**
 
 1. Select one connector, or one group of shapes/connectors.
 2. Click _Bring Forward_ or _Send Backward_ to step the selected connector forwards or backwards, one shape at a time.
 <br /><img src="/assets/img/blog/arrange-tab-connector-bring-forward.gif" style="width=100%;max-width:400px;height:auto;" alt="Move connectors in front of or behind other shapes and connectors using the tools on the Arrange tab">
 
 [Learn more about the z-order of shapes and layers](/blog/move-shapes-forwards-backwards.html)
-
 
 ## Connector style options
 

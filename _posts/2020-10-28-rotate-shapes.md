@@ -41,10 +41,12 @@ Select the label on a connector, and use the rotate grab handle to rotate the te
 
 ## Rotate a connector
 
-Connectors do not usually have a rotate grab handle, as the path they follow between two shapes is set automatically by waypoints.
+Connectors work differently to shapes in that they are defined by a path that goes through waypoints. They don't have a rotate grab handle, so you would typically drag the ends and waypoints to follow a different path when you want to 'rotate' the connector.
 
-[Add waypoints to change the path of a connector](/blog/waypoints-connectors.html)
+[See how to add waypoints to change the path of a connector](/blog/waypoints-connectors.html).
 
-If you have a separate connector that isn't connected to a shape at either end, you can group it with another shape and rotate it.
+You can, however, [flip a selected connector](/doc/faq/connector-flip.html) horizontally and vertically via the _Arrange_ tab of the format panel.
+<br /><img src="/assets/img/blog/connector-flip.gif" style="width=100%;max-width:400px;height:auto;" alt="Flip a connector horizontally or vertically via the Arrange tab of the format panel">
 
-<img src="/assets/img/blog/rotate-connector.gif" style="width=100%;max-width:400px;height:auto;" alt="Rotate a connector in a group with another shape">
+And you can [reverse a selected connector](/doc/faq/connector-reverse.html) via the _Arrange_ tab of the format panel. The arrows and the labels at either end of a connector will be swapped, but the path the connector takes and its waypoints will not be changed.
+<br /><img src="/assets/img/blog/connector-reverse.gif" style="width=100%;max-width:400px;height:auto;" alt="Reverse a connector via the Arrange tab of the format panel">
