@@ -74,6 +74,9 @@ These labels will move with the connector as you move the shapes around on the d
 
 <img src="/assets/img/blog/connector-label.png" style="width=100%;max-width:400px;height:auto;" alt="Connectors can have three labels - double click to add a label to a connector, and drag the labels to a new position using the diamond grab handle.">
 
+**Tip:** When you [reverse a connector](/doc/faq/connector-reverse.html), the labels at the source and target ends are also swapped.
+<br /><img src="/assets/img/blog/connector-reverse.gif" style="width=100%;max-width:300px;height:auto;" alt="Reverse a connector via the Arrange tab of the format panel">
+
 ## Move the path of a connector
 
 Connectors use waypoints to follow a path through your diagram. 
@@ -85,6 +88,11 @@ Drag parts of the connector into a new position to make it take a different rout
 If you want to add extra waypoints manually, right-click on the connector, then select _Add Waypoint_ from the context menu. 
 
 [Learn more about working with waypoints](/doc/faq/add-remove-waypoints.html)
+
+**Reverse a connector:** [Swap the target and source ends of a connector](/doc/faq/connector-reverse.html) along with their labels via the _Arrange_ tab in the format panel.
+
+**Flip a connector:** [Flip a connector horizontally or vertically](/doc/faq/connector-flip.html) via the _Arrange_ tab in the format panel. The path that a connector takes through its waypoints will be changed, which may have unintended consequences where the connector is attached to shapes.
+<br /><img src="/assets/img/blog/connector-flip.gif" style="width=100%;max-width:400px;height:auto;" alt="Flip a connector horizontally or vertically via the Arrange tab of the format panel">
 
 ## Style connectors
 

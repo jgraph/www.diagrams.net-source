@@ -19,3 +19,5 @@ To **remove a waypoint**, use one of the following methods.
 To **remove all waypoints**, right-click on the connector then select _Clear Waypoints_.
 
 <img src="/assets/img/blog/waypoints-remove.gif" style="max-width:100%;height:auto;" alt="Use the right-click context menu to remove individual waypoints or clear them">
+
+**Note:** When you [flip a connector horizontally or vertically](/doc/faq/connector-flip.html), waypoints will be moved and removed automatically when the connector is attached to a shape.

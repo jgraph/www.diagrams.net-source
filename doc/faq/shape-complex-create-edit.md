@@ -37,12 +37,14 @@ The outer element is ``<shape>``, which has the following attributes:
 * ``strokewidth`` - optional string containing either an integer or the string ``"inherit"``. _Inherit_ indicates that the _strokewidth_ of the cell is only changed when you scale it, and not when you resize it. If you use a numeric value, the _strokewidth_ of the cell will change both when you scale and when you resize the shape. This numeric value defines the multiplier that is applied to the width. The default is ``"1"``.
 
 ### ``<connections>``
-If you want to define specific fixed connection points on your custom shape, use the ``<connections>`` element. Each ``<constraint>`` element within the ``<connections>`` element defines a fixed connection point on the shape.
+If you want to [define specific fixed connection points] on your custom shape, use the ``<connections>`` element. Each ``<constraint>`` element within the ``<connections>`` element defines a fixed connection point on the shape.
 
 Constraints have the following attributes:
 * ``perimeter`` - required, either ``1`` or ``0``. A value of ``0`` sets the connection point where specified by ``x,y``. A value of ``1`` extrapolates the position of the connection point from the center of the shape, through ``x,y``, to the point of intersection with the perimeter of the shape.
 * ``x,y`` - the position of the fixed point relative to the bounds of the shape. These are automatically adjusted if ``perimeter=1``. ``(0,0)`` is the top left of the shape, ``(0.5,0.5)`` is the center, ``(1,0.5)`` is the center of the right hand edge of the bounds, etc. Use values less than ``0`` or greater than ``1`` to position the fixed point outside of the shape.
 * ``name`` - optional string. A unique identifier for the port on the shape.
+
+**Tip:** You can also [edit your custom shape's fixed connection points](/blog/edit-connection-points.html) when you have placed it on the drawing canvas.
 
 ### ``<background>`` and ``<foreground>``
 The paths used to draw the shape are split into two elements, ``<foreground>`` and ``<background>``. If a shadow is defined, this is derived from the ``<background>`` element. Generally, the _background_ of the shape is the line that traces the outside of the shape, but this may not always be the case.

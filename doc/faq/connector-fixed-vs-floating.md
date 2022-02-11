@@ -28,7 +28,7 @@ You can have a fixed connection at one end of your connector and a floating conn
 <br /><img src="/assets/img/blog/connector-fixed.png" style="width=100%;max-width:400px;height:auto;" alt="Fixed connector - Drop the connector on a connection point - a small x - when it is highlighted with a green circle">
 <br />The end of the connector will be green with a cross to indicate it's a fixed connection.
 
-Fixed connection points are usually spaced evenly around the outside of a shape. You can [customise the fixed connection points](/doc/faq/shape-connection-points-customise.html) by editing a shape's style.
+Fixed connection points are usually spaced evenly around the outside of a shape. You can [edit the fixed connection points](/blog/edit-connection-points.html) or by [editing a shape's style](/doc/faq/shape-connection-points-customise.html).
 
 In addition to the fixed connection points around a shape, you can drop a [fixed connection anywhere within a shape](/doc/faq/connect-to-shapes-anywhere.html): Hold down ``Alt`` as you drag the connector into position over the target shape, then drop the connector when you see the green shape outline.
 <br /><img src="/assets/img/blog/connect-to-shapes-anywhere.gif" style="width=100%;max-width:300px;height:auto;" alt="Hold down Alt key as you connect to a shape to connect to any position on that shape">
