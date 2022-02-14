@@ -9,6 +9,7 @@ At diagrams.net, being open source means anyone can take the project, change it,
 In fact, the [free online diagrams.net](https://app.diagrams.net) tool has already been integrated into a wide variety of platforms, and is available to be deployed as a self-hosted docker application, or used as a stand-alone private diagramming application.
 
 The integrations are branded under our diagrams.net and draw.io names, it's still the same editor underneath.
+<br /><img src="/assets/img/blog/integrations.png" style="width=100%;max-width:650px;;height:auto;" alt="There is a large ecosystem of diagrams.net and draw.io apps for diagramming in whichever platform or app you are using for documentation">
 
 ### diagrams.net Desktop
 
