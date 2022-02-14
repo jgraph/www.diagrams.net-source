@@ -2,8 +2,8 @@
 layout: post
 author: diagrams.net
 slug: timeline-diagrams
-date: 2022-02-11 09:54:00
-title: Draw timelines and roadmaps
+date: 2022-02-14 09:54:00
+title: Draw timelines and roadmaps in diagrams.net
 tags: [timelines, infographics]
 categories: [use-cases, shapes, templates]
 ---
@@ -50,10 +50,29 @@ If you need to print a document or use it as part of a larger infographic, your 
 
 <img src="/assets/img/blog/timeline-infographic-shapes-vertical.png" style="width=100%;max-width:650px;height:auto;" alt="Use the vertical roadmap shapes from the Infographic shape library in diagrams.net">
 
+## Use a template
+
+There are also several timeline and roadmap templates in the _Business_ section of the template library. 
+
+1. Open a new diagram to see the [template library](/blog/template-diagrams.html), or select _Arrange > Insert > Template_ in the diagrams.net editor.
+2. Select the _Business_ section on the left, and scroll to the bottom of the the section. Click on the magnifying glass to see a larger preview of any template. 
+<br /><img src="/assets/img/blog/timeline-templates-preview.png" style="width=100%;max-width:350px;;height:auto;" alt="diagrams.net provides you with a variety of timeline templates in the Business category - click on the magnifying glass on any template to see a larger preview">
+3. Select a template, then click _Insert_ to add it to the drawing canvs. 
+
 ## Embed your timeline in your presentation or document
 
 There are many integrations of diagrams.net. Those which JGraph develops are branded draw.io. These apps and add-ons work in a range of platforms - Google, Microsoft, Atlassian and more.
+<br /><img src="/assets/img/blog/integrations.png" style="width=100%;max-width:500px;;height:auto;" alt="There is a large ecosystem of diagrams.net and draw.io apps for diagramming in whichever platform or app you are using for documentation">
 
-For example, when you store your diagram file in a Microsoft One Drive or Google Drive, you can embed your diagram into Microsoft Office and Google Workplace documents - presentations, documents and spreadsheets using the draw.io addons. 
+When you store your diagram file in your Microsoft OneDrive or Google Drive account, you can embed your diagram into Microsoft Office and Google Workplace documents easily - presentations, documents and spreadsheets - using the draw.io addins for those platforms. 
 
-Then, after you have edited the timeline diagram, you won't need to replace the image, but just refresh the embedded diagrams using the draw.io add-on.
+For example, when you have installed the draw.io addin in Word (Office 365 online), with the Ribbon expanded, there are multiple draw.io options: 
+* insert a diagram from oneDrive
+* update a selected or all diagrams 
+* open the selected diagram in another window to edit it in [app.diagrams.net](/https://app.diagrams.net)
+
+<img src="/assets/img/blog/word-embed-example-timeline.png" style="width=100%;max-width:600px;;height:auto;" alt="Embed your diagrams easily in your presentations and documents, no matter which office application you are using - there are addins for both Microsoft and Google">
+
+See how to use the draw.io diagramming addin for the following: 
+* [OneDrive, Powerpoint and other Microsoft products](/blog/office-diagrams.html)
+* [Google Docs and other Workplace apps](/blog/diagrams-google-docs)
