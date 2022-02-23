@@ -22,9 +22,12 @@ You can import a diagram file into an existing diagram.
 
 ## Import a diagram from your local device
 
+This method works when you have added shapes to the drawing canvas.
+
 1. Drag the diagram file into the drawing canvas. The diagram you just added will appear and be selected.
 2. Drag to reposition the imported diagram on the drawing canvas.
 
+If you try to drag and drop a file into a blank diagram, it will open that file instead adding the diagram contents to your current diagram.
 
 ## Related
 

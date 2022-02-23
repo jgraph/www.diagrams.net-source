@@ -76,6 +76,7 @@ The draw.io apps for Confluence and Jira are available via the Atlassian Marketp
 * [**Grafana:**](https://github.com/algenty/grafana-flowcharting) Add diagrams to this analytics and modelling platform with Arnaud Genty’s open-source plugin.
 * [**Growi:**](https://growi.org/en/) Growi is team collaboration software that uses markdown. It can integrate diagrams.net into the platform.
 * [**JupyterLab:**](https://github.com/QuantStack/jupyterlab-drawio/) Project Jupyter by QuantStack lets you combine various content types like runnable code snippets, LaTeX, images, embedded interactive diagrams.
+* [**Lark:**](https://larksuite.com) Lark has integrated our diagram editor into their page editor as part of their content and collaboration suite.
 * [**LumApps:**](https://www.lumapps.com/blog-post/drawio-integration/) Insert diagrams into your LumApps content.
 * **MediaWiki:** There are two extensions available for MediaWiki, [Drawio](https://www.mediawiki.org/wiki/Extension:Drawio) (not actively maintained) and [DrawioEditor](https://www.mediawiki.org/wiki/Extension:DrawioEditor).
 * [**Nextcloud:**](https://apps.nextcloud.com/apps/drawio) Create diagrams from within Nextcloud, a file sharing and communication platform, thanks to app developer Pawel Rocek.
