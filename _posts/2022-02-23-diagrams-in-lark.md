@@ -57,9 +57,9 @@ Click on the action menu icon that appears next to the top left corner of a diag
 
 ## See more diagrams.net integrations
 
-We love seeing our diagram editor being adapted and integrated into other applications - it's why we've made it open source. As JGraph, we develop some integrations ourselves - the apps and add-ons branded as draw.io for Atlassian Confluence and Jira, Microsoft Office applications and Teams, and Google Workplace and Classroom.
+We love seeing our diagram editor being adapted and integrated into other applications - it's why we've made it [open source on Github](https://github.com/jgraph/drawio). As JGraph, we develop some integrations ourselves - all of our apps and add-ons are branded as draw.io for Atlassian Confluence and Jira, Microsoft Office applications and Teams, and Google Workplace and Classroom.
 
-[Learn more about the diagrams.net integrations](/integrations.html) - the ones we develop, and those developed by third parties.
+[Learn more about the diagrams.net integrations](/integrations.html) - both those we develop, and those developed by third parties.
 
 [<img src="/assets/img/blog/integrations.png" style="width=100%;max-width:500px;;height:auto;" alt="There is a large ecosystem of diagrams.net and draw.io apps for diagramming in whichever platform or app you are using for documentation">](/integrations.html)
 
