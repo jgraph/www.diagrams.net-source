@@ -8,9 +8,9 @@ tags: [features]
 categories: [features,integrations]
 ---
 
-We aim to make diagramming as accessible as possible. As [diagrams.net is an open-source application](https://www.diagrams.net/about.html), an increasing range of applications have integrated our diagramming editor or provide an add-in with our diagramming technology.
+We aim to make diagramming as accessible as possible. As [draw.io is an open-source application](https://github.com/jgraph/drawio), an increasing range of applications have integrated our diagramming editor or provide an add-in with our diagramming technology.
 
-Lark is a suite of collaboration and communication tools for your workplace, including documentation, messaging, cloud storage, email and more. It has integrated a simplified diagrams.net editor directly into your content creation tools on the platform. 
+[Lark](https://www.larksuite.com/) is a suite of collaboration and communication tools for your workplace, including documentation, messaging, cloud storage, email and more. It has integrated a simplified draw.io editor directly into your content creation tools on the platform. 
 
 ## How to add a new diagram to a Lark page or wiki
 
@@ -18,7 +18,6 @@ Log into your Lark account and click on the menu next to your avatar - select _D
 
 Hover over the page, and click on the ``+``, then select the type of diagram you want to add. Lark provides the shape libraries and tools that you'll need. 
    * Flowchart
-   * Mind map
    * UML diagram
 
 <img src="/assets/img/blog/lark-add-diagram.png" style="width=100%;max-width:650px;;height:auto;" alt="Add a new diagram to a page in Lark">
@@ -55,7 +54,7 @@ Click on the action menu icon that appears next to the top left corner of a diag
 
 <img src="/assets/img/blog/lark-cut-copy-delete-diagram.png" style="width=100%;max-width:650px;;height:auto;" alt="Use the action menu to move (cut), copy or delete a diagram on a Lark page">
 
-## See more diagrams.net integrations
+## See more draw.io integrations
 
 We love seeing our diagram editor being adapted and integrated into other applications - it's why we've made it [open source on Github](https://github.com/jgraph/drawio). As JGraph, we develop some integrations ourselves - all of our apps and add-ons are branded as draw.io for Atlassian Confluence and Jira, Microsoft Office applications and Teams, and Google Workplace and Classroom.
 
