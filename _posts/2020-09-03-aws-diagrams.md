@@ -22,7 +22,7 @@ diagrams.net provides you with several years worth of AWS icon (shape) libraries
 
 There are many AWS shapes available to visualise your infrastructure. When you enable just one of the shape libraries above, you'll see a number of sub-categories of shapes appear in the left panel.
 
-<img src="/assets/img/blog/aws2019-shapes.png" style="max-width:100%;height:auto;" alt="Some of the AWS shapes available in diagrams.net">
+<img src="/assets/img/blog/aws19-update2022.png" style="max-width:100%;height:auto;" alt="Some of the AWS shapes available in diagrams.net">
 
 ## Use an AWS template
 
@@ -61,7 +61,7 @@ Drag and drop shapes from the shape libraries to the drawing canvas. Click on sh
 
 Hover over a shape in the shape library to see a tooltip that tells you what it represents in AWS notation.
 
-<img src="/assets/img/blog/aws-shape-library-hover.png" style="width=100%;max-width:200px;height:auto;" alt="Hover over shapes in the AWS shape library in diagrams.net to see their function">
+<img src="/assets/img/blog/aws-shape-library-hover.png" style="width=100%;max-width:300px;height:auto;" alt="Hover over shapes in the AWS shape library in diagrams.net to see their function">
 
 **Reposition:** Click and drag a shape into a new position on the drawing canvas.
 

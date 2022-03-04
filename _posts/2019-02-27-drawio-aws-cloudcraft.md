@@ -44,7 +44,7 @@ First, enable the AWS libraries. Click _More Shapes_ at the bottom of the left p
 
 There are many AWS shapes available to visualise your AWS infrastructure. When you enable just one of the shape libraries above, you'll see a number of sub-categories of shapes appear in the left panel.
 
-<img src="/assets/img/blog/aws2019-shapes.png" style="max-width:100%;height:auto;" alt="Some of the AWS shapes available in diagrams.net">
+<img src="/assets/img/blog/aws19-update2022.png" style="max-width:100%;height:auto;" alt="Some of the AWS shapes available in diagrams.net">
 
 ### Replace shapes
 
