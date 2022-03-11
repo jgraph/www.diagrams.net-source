@@ -1,6 +1,6 @@
 ---
 title: JGraph Privacy Policy
-layout: page
+layout: default
 path: /trust/
 ---
 
