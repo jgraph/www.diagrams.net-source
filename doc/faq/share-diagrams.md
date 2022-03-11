@@ -5,13 +5,22 @@ faq: true
 categories: [Integrations]
 ---
 
-When you store your diagrams in the Google Drive or Microsoft OneDrive cloud storage platforms, you can easily share and collaborate on the diagram files with others. Use the share functionality that is built into your cloud platform to share your diagram files with other users on the same platform.
+When you store your diagrams in the Google Drive or Microsoft OneDrive cloud storage platforms, you can easily share and collaborate on the diagram files with others. 
+
+Use the share functionality that is built into your cloud platform to share your diagram files with other users on the same platform.
 
 While you can [share diagrams via Dropbox](doc/faq/share-diagram-dropbox.html), there are some limitations, and collaborative editing is not available.
 
 Collaborative editing on diagram files stored in Google Drive and OneDrive let you see everyone's changes in real-time, as you edit a diagram.
 
 **Tip:** We recommend Google Drive as it provides more secure permissions for third-party apps like diagrams.net, and lets you open diagrams easily via your normal file manager.
+
+## Share your mouse cursor
+
+To see each other's mouse cursor in diagrams.net when collaborating in real-time on a diagram stored in OneDrive or Google Drive, right-click and select _Share Cursor_.
+
+Now, each user will be assigned a colour, and you will see their cursor with their names as you edit the shared diagram.
+<br /><img src="/assets/img/blog/remote-cursors.gif" style="max-width:100%;height:auto;" alt="Share your mouse cursor with others who are editing the same diagram file stored in OneDrive or Google Drive">
 
 ## Do more with diagrams in Google Drive
 
