@@ -58,4 +58,4 @@ If you find your maths equation is not rendered correctly, the text may be hidin
 
 See also: [Why text in exported SVG images may not display correctly](/doc/faq/svg-export-text-problems)
 
-Note: Math typesetting is not available in draw.io for Confluence Server or Data Centre.
+Note: Math typesetting is available in draw.io for Confluence Server or Data Centre from release 10.1.4 onwards.
