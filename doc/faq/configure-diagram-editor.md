@@ -252,6 +252,8 @@ This configuration produces the following _More Shapes_ dialog when combined wit
 
 * ``forceSimpleViewer``: Forces simple diagram viewer for every diagram if set to ``true``. The default is ``false`` (8.4.0 and later).
 
+* ``debug``: Set to ``true`` to enable debug output.
+
 * ``defaultMacroParameters``: Defines overrides for default macro parameters using a JSON structure (9.2.5 and later).
    * ``border``: A boolean. Shows a border around the viewer if set to true, where the default is _true_.
    * ``width``: An integer. The default width of the viewer, where the default is _blank_.
