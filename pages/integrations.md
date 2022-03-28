@@ -81,6 +81,7 @@ The draw.io apps for Confluence and Jira are available via the Atlassian Marketp
 * **MediaWiki:** There are two extensions available for MediaWiki, [Drawio](https://www.mediawiki.org/wiki/Extension:Drawio) (not actively maintained) and [DrawioEditor](https://www.mediawiki.org/wiki/Extension:DrawioEditor).
 * [**Nextcloud:**](https://apps.nextcloud.com/apps/drawio) Create diagrams from within Nextcloud, a file sharing and communication platform, thanks to app developer Pawel Rocek.
 * [**Nuclino:**](https://www.nuclino.com/apps/drawio/) Embed your diagrams easily into this content development platform.
+* [**ONLYOFFICE:**](https://www.onlyoffice.com/blog/2022/03/onlyoffice-integrates-draw-io/) Integrates the diagram editor in documents via a plugin to their Docs application.
 * [**ownCloud:**](https://marketplace.owncloud.com/apps/drawio/) Create and modify diagrams in the ownCloud open-source collaboration platform's file editor app.
 * [**Redmine:**](https://www.redmine.org/plugins/redmine_drawio) Create diagrams in your project documentation in Redmine, a project management web application, based on Ruby on Rails.
 * [**Samepage:**](https://www.samepage.io/draw-diagram-online) Develop diagrams, track tasks, share files, communicate using this team collaboration platform.
