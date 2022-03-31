@@ -19,6 +19,8 @@ Note that this sketch editor theme is also available as the [draw.io Board macro
 <br />Cloud platforms, like Google Drive, Microsoft OneDrive and Dropbox, allow you to share your diagrams easily with your team members. 
 3. Add a filename for your diagram and start using your online whiteboard.  
 
+**Tip:** Right-click on the drawing canvas and [share your mouse cursor with your team](/blog/concurrent-editing.html) in real-time with draw.io for Confluence Cloud, as well as in diagrams.net when storing shared diagram files in Google Drive or Microsoft OneDrive.
+
 ## Project planning process
 
 The types of diagrams you will use in each step suit the type of project, your team's preferences, and the project method you choose.

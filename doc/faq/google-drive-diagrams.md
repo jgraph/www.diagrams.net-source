@@ -72,6 +72,10 @@ You can embed diagram files that you have stored in Google Drive into Atlassian 
 
 ## Use diagrams in Google Classroom
 
-Both student and teachers can [use diagrams.net to work with diagrams in Google Classroom](/blog/google-classroom-diagrams.html) when the diagrams.net add-on for Google Drive/Workspace is installed. With useful collaboration features supporting group work and ongoing feedback, students can work remotely on more complex visualisations in diagrams.net and easily submit diagrams with their assignments. 
+Both student and teachers can [use diagrams.net to work with diagrams in Google Classroom](/blog/google-classroom-diagrams.html) when the diagrams.net add-on for Google Drive/Workspace is installed. 
+
+With useful collaboration features supporting group work and ongoing feedback, students can work remotely on more complex visualisations in diagrams.net and easily submit diagrams with their assignments. 
 
 <img src="/assets/img/blog/google-classroom-diagram-demonstration.gif" style="max-width:100%;height:auto;" alt="Preview, add comments to and open diagrams in the diagrams.net editor from Google Classroom">
+
+**Tip:** WHen working in a group on the same diagram stored in Google Drive, right-click on the drawing canvas and [share your mouse cursor with your group members](/blog/concurrent-editing.html) in real-time.

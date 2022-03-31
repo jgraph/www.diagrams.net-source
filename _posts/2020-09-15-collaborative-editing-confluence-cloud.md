@@ -10,9 +10,9 @@ categories: [features,atlassian]
 
 Confluence allows you to collaboratively edit the content of its pages: You and other Confluence users will see each others' changes in real-time as you edit the page.
 
-diagrams.net already supports collaborative editing online when storing in Google Drive or OneDrive, draw.io for Confluence Cloud now supports collaborative editing. Multiple users can edit a diagram at the same time and see all of the changes that everyone makes.
+Both draw.io for Confluence Cloud and diagrams.net (with Google Drive or OneDrive) both support collaborative editing where multiple users can edit a diagram at the same time, see all of the changes being made, as well as everyone's cursor movements.
 
-This is ideal for remote teams who need to brainstorm on mindmaps or vote on agile boards - team members can now all edit the same diagram and see what edits are made.
+This is ideal for remote teams who need to brainstorm on mindmaps or vote on agile boards.
 
 _In the examples, two browser windows are open and editing the same diagram as if they were two different Confluence Cloud users._
 
@@ -30,6 +30,16 @@ If several users add shapes to the same location on a diagram, draw.io will take
 <img src="/assets/img/blog/confluence-cloud-collaborative-editing-overlap.gif" style="max-width:100%;height:auto;" alt="When multiple users add shapes in the same location, draw.io for Confluence Cloud will overlap them">
 
 Drag the top shape into a new position to see the underlying shape.
+
+### Share your cursor in draw.io
+
+Right-click on a blank area of the diagram to open the context menu, and select _Share Cursor_.
+<br /><img src="/assets/img/blog/share-cursor.png" style="max-width:100%;height:auto;" alt="Share your mouse cursor with others who are editing the same draw.io diagram macro on a Confluence Cloud page">
+
+Each person who is editing the diagram is assigned a colour. 
+
+When they share their cursor, their name is shown with their pointer as they move around the diagram in the draw.io editor.
+<br /><img src="/assets/img/blog/remote-cursors.gif" style="max-width:100%;height:auto;" alt="Share your mouse cursor with others who are editing the same diagram file stored in OneDrive or Google Drive">
 
 
 ### When a child shape is added to a parent shape that is deleted

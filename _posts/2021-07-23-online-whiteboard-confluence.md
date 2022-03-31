@@ -41,6 +41,9 @@ In this way, diagramming and visualisations can be integrated into a remote team
 
 **[Secure and private online whiteboard within Confluence](/blog/data-governance-lockdown.html)** - There are no third-party sign-in or freemium accounts needed to embed the draw.io Board or draw.io Diagram macros. All of your draw.io diagram and board data stays within Confluence according to your instance's data residency settings.
 
+**Tip:** When editing a diagram with your team in Confluence Cloud, right-click on a blank area of the diagram and select _Share Cursor_. Now your team will be able to see where you move the mouse and what you select - a smoother experience than new shapes just appearing on the drawing canvas.
+<br /><img src="/assets/img/blog/share-cursor.png" style="width=100%;max-width:300px;height:auto;" alt="Share your mouse cursor with others who are editing the same diagram file stored in OneDrive or Google Drive">
+
 ### Brainstorm with a mindmap in your online whiteboard
 
 1. Edit a page in your Confluence Cloud instance and add the draw.io Board macro: type ``/draw.io`` and select the _draw.io Board_ macro from the list to open the editor.
