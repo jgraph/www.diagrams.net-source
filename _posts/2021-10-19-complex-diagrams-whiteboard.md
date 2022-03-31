@@ -108,3 +108,5 @@ Drop shapes and text into the table cells, then drag connectors between them to 
 [Use tags to display or hide related shapes](/blog/tags-in-diagrams.html). Display the _Tags_ dialog in the whiteboard-style editor via the menu.
 
 [Work with layers in a diagram](/doc/layers.html). Display the _Layers_ dialog in the whiteboard-style editor via the menu, or press ``Ctrl+Shift+L`` on Windows, ``Cmd+Shift+L`` on macOS. 
+
+[Share your cursor](/blog/concurrent-editing.html) and and make collaboration in real-time with your team on diagrams a smoother experience.

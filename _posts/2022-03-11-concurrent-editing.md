@@ -45,3 +45,6 @@ Even if someone has not shared their cursor, the shapes and connectors that they
 While the user on the right in the example below hasn't shared their cursor, the other user can see they have selected the Professor class, as it is highlighted in pink.
 <br /><img src="/assets/img/blog/real-time-collaboration.png" style="max-width:100%;height:auto;" alt="See how others edit and select parts of the diagram in real time in diagrams.net when you store diagram files in OneDrive or Google Drive">
 
+## Related
+
+You can now also share your cursor when [editing a diagram in the draw.io app for Confluence Cloud with your team in real-time](/blog/collaborative-editing-confluence-cloud.html). 
