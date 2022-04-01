@@ -24,8 +24,8 @@ Alternatively, you can access the _Insert_ tool (``+``) via the toolbar that is 
 **Custom shapes:** Select [_Arrange > Insert > Shape_](/doc/faq/custom-shapes.html) then enter the XML that defines the geometry and style of your custom shape.
 <br /><img src="/assets/img/blog/custom-shape-example-code.png" style="width=100%;max-width:400px;height:auto;" alt="A complex custom shape and its code, created in diagrams.net">
 
-**Freehand shapes:** Select [_Arrange > Insert > Freehand_](/doc/faq/insert-freehand-shapes.html) then draw your freehand shape with your mouse, or pen/finger on a mobile device.
-<br /><img src="/assets/img/blog/insert-freehand-drawing.gif" style="width=100%;max-width:400px;height:auto;" alt="Draw a freehand shape in diagrams.net">
+**Freehand shapes:** Select [_Arrange > Insert > Freehand_](/doc/faq/insert-freehand-shapes.html), draw your [freehand shape](/doc/faq/insert-freehand-shapes.html) with your mouse, or pen/finger on a mobile device, and style it as you would any other shape.
+<br /><img src="/assets/img/blog/sketch-ui-freehand-drawing.gif" style="width=100%;max-width:500px;height:auto;" alt="Use the freehand drawing tool in a draw.io Board diagram to markup diagrams or draw shapes with your mouse">
 
 **Images:** Select [_Arrange > Insert > Image_](/doc/faq/add-images.html) then add the URL to your image or drag it onto the dialog and click _Apply_. 
 <br /><img src="/assets/img/blog/image-insert-url.png" style="width=100%;max-width:400px;height:auto;" alt="Paste the URL to your image file, or drag it onto the dialog and click Apply to add an image to your diagram">

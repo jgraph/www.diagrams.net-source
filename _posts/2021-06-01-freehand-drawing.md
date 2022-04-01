@@ -16,9 +16,13 @@ When you draw a freehand shape in diagrams.net, it is saved as an image with a t
 * Select _Arrange > Insert > Freehand_.
 * If you are using the [Sketch editor theme](/blog/diagram-editor-theme.html) or the [draw.io Board macro in Confluence](/blog/drawio-board-macro.html), click on the _Freehand_ tool in the toolbar.
 <br /><img src="/assets/img/blog/board-conf-freehand.png" style="width=100%;max-width:500px;height:auto;" alt="Click on the Freehand tool in the toolbar to open the Freehand panel">
-2. Click _Start drawing_ in the _Freehand_ panel. You'll see the cursor change to a thin 'plus' (``+``) to show it will now record drawing movements.
-3. Click and hold to draw a freehand line on the drawing canvas. You can add multiple separate lines in your freehand drawing.
+2. Click and hold to draw a freehand line on the drawing canvas. 
 <br /><img src="/assets/img/blog/freehand-drawing-cursor.png" style="width=100%;max-width:600px;height:auto;" alt="Click on Start drawing then click and draw on the drawing canvas to add a freehand shape">
+
+**Use the freehand brush**
+
+The freehand brush can draw different line widths. Click the _Brush_ checkbox and move the slider to the width you want to use.
+<br /><img src="/assets/img/blog/freehand-brush-width.gif" style="width=100%;max-width:400px;height:auto;" alt="Use the freehand drawing tool in a draw.io Board diagram to markup diagrams or draw shapes with your mouse">
 
 ### Stop drawing
 
@@ -32,7 +36,10 @@ Stop drawing in one of the following ways.
 * In the Sketch editor theme, click again on _Freehand_ in the toolbar on the left.
 <br /><img src="/assets/img/blog/sketch-ui-freehand-drawing.gif" style="width=100%;max-width:500px;height:auto;" alt="Use the freehand drawing tool in a draw.io Board diagram to markup diagrams or draw shapes with your mouse">
 
-**Tip:** Freehand drawing also works on mobile devices, using your finger to tap and draw instead of the mouse.
+To draw another freehand shape after you have previously stopped drawing, click on _Start Drawing_ in the floating _Freehand_ dialog.
+
+**Tip:** Freehand drawing also works on mobile devices, using your finger or a smart pen to tap and draw instead of the mouse.
+
 
 ## Add a label to your freehand shape
 
@@ -64,3 +71,4 @@ You can change the size, rotation angle and position of a freehand shape, just l
 1. Drag the end of a connector to a freehand shape to connect them like you would any other shape. 
 2. Drop the connector when you see a blue highlight for a floating connector, or when the highlight is green for a fixed connector.
 <br /><img src="/assets/img/blog/freehand-shape-connect.png" style="width=100%;max-width:400px;height:auto;" alt="Drag and drop connectors onto freehand shapes">
+

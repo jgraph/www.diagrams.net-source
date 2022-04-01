@@ -12,7 +12,7 @@ Kanban boards show the breakdown of large projects into smaller tasks that you p
 
 <img src="/assets/img/blog/kanban-template-example.png" style="width=100%;max-width:300px;height:auto;"  alt="The kanban template in diagrams.net automatically updates colours and labels when you move tasks to another column">
 
-The [anban method or system](https://en.wikipedia.org/wiki/Kanban) is commonly used by project and production managers, agile and system developers, designers and content marketers. Almost all areas of a business can use this method to track work, identify bottlenecks, and improve processes. 
+The [Kanban method or system](https://en.wikipedia.org/wiki/Kanban) is commonly used by project and production managers, agile and system developers, designers and content marketers. Almost all areas of a business can use this method to track work, identify bottlenecks, and improve processes. 
 
 You can draw remote kanban boards in diagrams.net in many different ways - you don't have to use the simple kanban template as shown above. You can use simple sticky note shapes over coloured rectangles, list elements, or entity table shapes - whichever you find most convenient. 
 
@@ -48,6 +48,8 @@ Teams can work remotely and collaboratively on their kanban board diagrams, add 
 
 * Hold down ``Alt`` to overlay shapes on the kanban board, such as when prioritising or voting on the next tasks to implement.
 * To make your kanban board more readable, select all of the voting/pin shapes, go to the _Arrange_ tab on the format panel, and click _To Front_ to make sure they will be visible on top of your tasks.
+
+**Tip:** Right-click on the drawing canvas and [share your mouse cursor with your team](/blog/concurrent-editing.html) in real-time with draw.io for Confluence Cloud, as well as in diagrams.net when storing shared diagram files in Google Drive or Microsoft OneDrive.
 
 
 ### Add a new column to the kanban board
