@@ -8,19 +8,15 @@ tags: [features, Atlassian]
 categories: [features,atlassian]
 ---
 
-When comparing diagramming apps for Atlassian Confluence, one feature stands out - concurrent editing. Teams need to be able to collaborate on diagrams remotely, editing diagrams together, in real-time.
+TL;DR : Gliffy on Confluence Cloud saves with last write wins, you lose data concurrently editing. draw.io support real-time collaborative editing with cursors.
 
 **Gliffy vs draw.io for Confluence**
 
 When comparing diagramming apps, you'll see lists of standard Confluence-supported features - sharing, [import](/blog/import-gliffy-online.html) and export, [search](/blog/confluence-diagram-search.html), version history, [customisation](/doc/drawio-confluence-cloud.html), [security](/blog/secure-diagramming-storage.html) - and, of course, [pricing](/blog/gliffy-confluence-cloud-prices.html). 
 
-The decider should be how a diagramming app performs when your team is editing a diagram together on a Confluence page.
-
 Unlike Gliffy, [draw.io has concurrent diagram editing](/blog/collaborative-editing-confluence-cloud.html). All team members' changes are merged and synchronised - visible to each other in the diagram editor. 
 
-When you choose to show your cursor, your team will see where you move your mouse and what you select. 
-
-All in real time.
+When you choose to show your cursor, your team will see where you move your mouse and what you select, all in real-time.
 
 ## Share your cursor with your team in draw.io for Confluence
 Each person who is editing a draw.io diagram in Confluence is assigned a colour. When you share cursors, you'll see everyone's name with their mouse pointer as they move around and edit the diagram.
@@ -29,11 +25,7 @@ Each person who is editing a draw.io diagram in Confluence is assigned a colour.
 Right-click on a blank area of the diagram to open the context menu, and select _Share Cursor_.
 <br /><img src="/assets/img/blog/share-cursor.png" style="width=100%;max-width:400px;height:auto;" alt="Share your mouse cursor with others who are editing the same draw.io diagram in Confluence Cloud">
 
-Now, when you select a shape, everyone else will see it highlighted in your colour. Your name is attached to your pointer on their screens, and they'll see you move it around. 
-
-As your changes are saved and synchronised, the draw.io diagram in their editor is updated.
-
-This is ideal when using the draw.io Board macro as an [online whiteboard in Confluence](/blog/online-whiteboard-confluence.html) with your remote team.
+Additionally, when you select a shape everyone else will see it highlighted in your colour.
 
 ### Don't lose diagram data - use draw.io
 
@@ -61,15 +53,3 @@ Person A must now manually refresh their browser tab to see the updated Gliffy d
 Person B remains unaware that another person had edited the Gliffy diagram.
 
 Use draw.io to avoid this problem - share your cursor and let others see you [collaboratively edit a diagram in Confluence](/blog/collaborative-editing-confluence-cloud.html).
-
-## Using draw.io for Confluence
-
-The draw.io apps for Atlassian Confluence and Jira are developed and maintained by JGraph, the team that develops [diagrams.net](https://app.diagrams.net). 
-
-* [Add diagrams to a Confluence page](//blog/embed-diagrams-confluence-cloud.html),embed and reuse diagrams from within Confluence and other cloud storage platforms, and customise draw.io for Confluence Cloud. 
-* [Attach diagrams stored in Confluence to Jira issues](/blog/confluence-diagrams-in-jira.html). 
-* [Import all of your Gliffy diagrams](/doc/faq/mass-import-gliffy-confluence-cloud.html) in one step. 
-
-Are you a small team? Diagram with [draw.io in small, free Confluence instances](/blog/confluence-cloud-free-diagrams.html).
-
-Worried about data security? Rest reassured - [draw.io is an Atlassian Cloud Fortified app](/blog/drawio-atlassian-cloud-fortified.html). You can also [configure server endpoints and disable data transmission](/blog/data-governance-lockdown.html) if required. 
