@@ -1,8 +1,8 @@
 ---
-title: Insert a freehand shape
+title: Draw a freehand shape
 layout: page
 faq: true
-categories: [Features]
+categories: [Features, Online Whiteboard]
 ---
 
 1. Select _Arrange > Insert > Freehand_ to open the _Freehand_ dialog. 

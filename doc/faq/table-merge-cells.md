@@ -2,7 +2,7 @@
 title: Merge and unmerge table cells
 layout: page
 faq: true
-categories: [Features,Tables]
+categories: [Features,Tables, Online Whiteboard]
 ---
 
 Adjacent table cells can be merged and unmerged.
