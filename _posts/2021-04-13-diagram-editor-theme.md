@@ -8,23 +8,23 @@ tags: [features]
 categories: [features]
 ---
 
-You can customise the diagrams.net editor and choose your preferred theme for the user interface. The UI theme control which editor elements are displayed, minimised or hidden, including the menu, toolbar, panels and dialog boxes.
+You can customise the diagrams.net editor and choose your preferred theme for the user interface. The UI theme controls which editor elements are displayed, minimised or hidden, including the menu, toolbar, panels and dialog boxes.
 
 There are four different themes to choose from, with a fifth currently under development.
 
 **Change the editor theme via the diagrams.net menu**
 
 1. Select _File > Extras_ in the diagrams.net menu. 
-2. Choose Kennedy, Minimal, Atlas, Dark, or Sketch (a whiteboard-style theme).
-3. Reload the diagrams.net editor to start using your select UI theme. 
+2. Choose Default (Kennedy), Minimal, Atlas, Dark, or Sketch (a whiteboard-style theme).
+3. Reload the diagrams.net editor to start using your selected editor theme. 
 
 _Please visit GitHub to [leave feedback about the Sketch and Minimal editor themes](https://github.com/jgraph/drawio/discussions/1924) and help guide their development._
 
 **Tip:** If you are new to diagramming, read the [introduction to the diagrams.net editor](/doc/getting-started-editor.html) that looks at all the various important elements.
 
-## Kennedy 
+## Default 
 
-The Kennedy UI theme, named after the Google UI, is the default style for diagrams.net, and shows the menu, toolbar, file name, language selector, fixed panels either side and diagram pages below the drawing canvas.
+The default editor theme (previously the Kennedy theme), named after the Google UI, is the default style for diagrams.net, and shows the menu, toolbar, file name, language selector, fixed panels either side and diagram pages below the drawing canvas.
 <br /><img src="/assets/img/blog/theme-kennedy.png" style="width=100%;max-width:600px;height:auto;" alt="Choose your favourite UI theme in diagrams.net from Kennedy, Atlas, Dark, Minimal and Sketch">
 <br />_[Start using diagrams.net with the Kennedy theme](https://app.diagrams.net/?ui=kennedy)_
 
@@ -66,7 +66,7 @@ If you prefer minimal tools and the rough style enabled by default, like you wou
 
 The Sketch editor theme may also be useful to introduce younger children to diagramming or support them as they [add diagrams to their documents and in Google Classroom](/blog/google-classroom-diagrams.html) with the Google Drive add-in.
 
-Enable the Sketch editor theme as you would any other theme and refresh the page. Alternatively, go to [sketch.diagrams.net](http://sketch.diagrams.net)
+Enable the [Sketch editor theme](/blog/sketch-online-whiteboard.html) as you would any other theme and refresh the page. Alternatively, go to [sketch.diagrams.net](http://sketch.diagrams.net)
 <br />[<img src="/assets/img/blog/sketch-theme-tutorial.png" style="width=100%;max-width:600px;height:auto;" alt="Sketch theme is currently being developed">](https://app.diagrams.net/?splash=0&ui=sketch&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fsketch-theme-tutorial.drawio)
 <br />_[Open this tutorial in the new Sketch theme at diagrams.net](https://app.diagrams.net/?splash=0&ui=sketch&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fsketch-theme-tutorial.drawio)_
 <br />_**Tip:** Resize your browser to line everything up with the tutorial._
