@@ -4,7 +4,7 @@ layout: page
 path: /doc/
 ---
 
-If you are new to diagramming, or diagramming in Confluence, use the training documents below to learn how to use diagrams.net and draw.io.
+If you are new to diagramming, or diagramming in Confluence, use the training documents below to learn show to use diagrams.net and draw.io.
 
 ## Getting started with diagrams.net
 
@@ -16,12 +16,14 @@ If you are new to diagramming, or diagramming in Confluence, use the training do
 
 <img src="/assets/img/blog/interface-introduction.png" style="width=100%;max-width:400px;height:auto;" alt="The diagrams.net editor, its tools and panels">
 
-### Using draw.io in Confluence
+### Using draw.io in Atlassian Confluence and Jira
 
 The draw.io app for Atlassian's Confluence and Jira uses the diagrams.net editor. Once you are familiar with how to use the editor above, follow the guide below to learn how to customise the draw.io app for Confluence, mass convert all of your images in an instance and troubleshoot problems that are specific to this integration.
 
-[Use, customise and troubleshoot draw.io for Confluence Cloud](/doc/drawio-confluence-cloud.html)
+* [Use draw.io in Jira Cloud](/doc/drawio-jira-cloud.html)
+* [Use, customise and troubleshoot draw.io for Confluence Cloud](/doc/drawio-confluence-cloud.html)
 <br /><img src="/assets/img/blog/drawio-configuration-custom-colours.png" style="width=100%;max-width:400px;height:auto;" alt="Administrators can specify custom colours for draw.io in Confluence Cloud">
+
 
 ## Detailed information and tutorials
 
