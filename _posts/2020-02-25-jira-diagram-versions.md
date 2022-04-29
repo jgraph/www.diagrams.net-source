@@ -10,7 +10,9 @@ categories: [features,atlassian]
 
 Versioning is built into Confluence, and diagrams attached to pages using the draw.io app for Confluence takes advantage of this. When you edit a diagram, the draw.io app creates a new page version so you can easily restore an older version of your diagram.
 
-Now, diagrams attached to issues in Jira Server are also versioned.
+If you are using [draw.io for Jira Cloud](/doc/drawio-jira-cloud.html), we recommend that you embed diagrams stored in your Confluence instance to take advantage of its versioning and [real-time-collaboration tools](/blog/collaborative-editing-confluence-cloud.html). 
+
+If you are using diagrams attached to issues in Jira Server, these are now also versioned, but in a different way.
 
 The draw.io app now adds a compressed zip file to your Jira Server issues containing multiple diagram files. When you open the attached diagram file from the right panel, you can access the revision history of your diagram via the menu.
 
