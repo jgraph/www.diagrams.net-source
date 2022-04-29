@@ -17,7 +17,7 @@ draw.io is a fully featured diagramming tool, with large shape libraries and tem
 
 With the draw.io app for Jira Cloud, you can embed diagrams in issues in four different ways. 
 
-We recommend that you [embed a diagram from a Confluence Cloud instance](/blog/confluence-diagrams-in-jira.html) to take advantage of the real-time collaboration tools, [data security](/blog/data-governance-lockdown.html), [customisation](/doc/faq/drawio-confluence-cloud.html), [mass import](/doc/faq/mass-import-gliffy-confluence-cloud.html), [diagram search](/blog/confluence-diagram-search.html) and versioning capabilities
+We recommend that you [embed a diagram from a Confluence Cloud instance](/blog/confluence-diagrams-in-jira.html) to take advantage of the real-time collaboration tools, [data security](/blog/data-governance-lockdown.html), [customisation](/doc/faq/drawio-confluence-cloud.html), [mass import](/doc/faq/mass-import-gliffy-confluence-cloud.html), [diagram search](/blog/confluence-diagram-search.html) and versioning capabilities.
 
 Alternatives:
 * Store the diagram file in the issue itself (below)
