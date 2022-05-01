@@ -246,6 +246,8 @@ This configuration produces the following _More Shapes_ dialog when combined wit
 
 * ``settingsName``: Specifies a name for storing user settings, usually in embed mode, in the form .{name}-config, in local storage.
 
+* ``shareCursorPosition``: Specifies the default value for shared cursors in real-time collaboration. Default is false.
+
 ## Additional options for Confluence Server and Data Center
 
 * ``inplaceedits``: Disables the ability to launch the diagram editor from the viewer if set to ``false``. The default is ``true`` (8.3.13 and later).
