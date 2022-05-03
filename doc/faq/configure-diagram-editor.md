@@ -246,7 +246,9 @@ This configuration produces the following _More Shapes_ dialog when combined wit
 
 * ``settingsName``: Specifies a name for storing user settings, usually in embed mode, in the form .{name}-config, in local storage.
 
-* ``shareCursorPosition``: Specifies the default value for shared cursors in real-time collaboration. Default is false.
+* ``shareCursorPosition``: Specifies the default value for shared cursors in real-time collaboration. Default is true.
+
+* ``showRemoteCursors``: Specifies the default value for showing remote cursors in real-time collaboration. Default is true.
 
 ## Additional options for Confluence Server and Data Center
 
