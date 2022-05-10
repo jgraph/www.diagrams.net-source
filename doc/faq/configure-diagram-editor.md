@@ -234,7 +234,7 @@ This configuration produces the following _More Shapes_ dialog when combined wit
 
 * ``includeDiagram``: Specifies the default for including diagram data in export dialogs (15.0.4 and later).
 
-* ``dataGovernance``: Set the [server endpoint region](/blog/data-governance-lockdown.html). The default is to use your closest region, (either ``EU `` or ``US`` or ``AU``). If ``lockdown`` is set to ``true``, ``dataGovernance`` is ignored.
+* ``dataGovernance``: Set the [server endpoint region](/blog/data-governance-lockdown.html). The default is to use your closest region, (either ``EU `` or ``US``). If ``lockdown`` is set to ``true``, ``dataGovernance`` is ignored.
 
 * ``lockdown``: [Disable data transmission](/blog/data-governance-lockdown.html), apart from directly between your browser and your selected data storage location. Default is ``false``.
 

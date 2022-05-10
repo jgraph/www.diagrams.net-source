@@ -29,12 +29,11 @@ Administrator can configure these options in the draw.io app for Confluence Clou
 
 When using Confluence Cloud or Jira Cloud, set the region where you want the instance data to reside via your organisation administration (``Security > Data residency``). 
 
-In addition to the EU and US, [Atlassian has now added Australia](https://community.atlassian.com/t5/Atlassian-Migration-Program/Data-Residency-Comes-to-Australia-amp-Update-on-Data-Residency/ba-p/1825538) to its data residency options. You can set the draw.io app server endpoint to the same region.
+You can set the draw.io app server endpoint to the EU (default) or the US.
 
 Add one of the following to the JSON string:
 * ``"dataGovernance": "EU"`` 
 * ``"dataGovernance": "US"`` 
-* ``"dataGovernance": "AU"``
 
 <img src="/assets/img/blog/confluence-cloud-data-governance-lockdown-configuration.png" style="width=100%;max-width:400px;height:auto;" alt="Access the diagrams.net configuration via Extras > Configuration">
 
