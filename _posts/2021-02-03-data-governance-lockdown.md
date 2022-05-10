@@ -29,7 +29,7 @@ Wherever possible we use serverless (AWS Lambda) functionality to reduce the att
 
 diagrams.net has server endpoints in three regions: one in the EU (in Frankfurt, Germany), one in the US (in Northern Virginia), and one in Australia (AU). By default, invoking each of the above functions will use the server endpoint that is nearest to the Cloudflare data center that the request entered via. That is, geolocation is not performed on your IP address to determine the endpoint.
 
-However, you can force the endpoint locations, rather than rely on entering the Cloudflare network at the right place. Specifying ``dataGovernance`` region in the editor configuration to ``EU``, ``US`` or ``AU`` ensures diagrams.net uses your preferred server endpoint. 
+However, you can force the endpoint locations, rather than rely on entering the Cloudflare network at the right place. Specifying ``dataGovernance`` region in the editor configuration to ``EU`` or ``US`` ensures diagrams.net uses your preferred server endpoint. 
 
 
 **Data transmission lockdown**
@@ -55,9 +55,8 @@ The architectures for draw.io for Confluence and Jira Cloud are identical to tho
 
 If you are using the draw.io apps for Confluence or Jira Cloud, [Atlassian lets you additionally set your **data residency** region](https://confluence.atlassian.com/cloud/manage-data-residency-976763149.html) to choose where your data or _in-scope product content_ resides. That means the content of your instance and associated metadata will be stored on servers in that region when it is at rest.
 
-As of Q4 2021, [Atlassian has a data residency option in Australia](https://community.atlassian.com/t5/Atlassian-Migration-Program/Data-Residency-Comes-to-Australia-amp-Update-on-Data-Residency/ba-p/1825538). In the draw.io app configuration in your Confluence instance, add ``"dataGovernance": "AU"`` to the JSON.
-
-We will continue to match [all data center options that Atlassian provides](https://www.atlassian.com/roadmap/cloud?category=dataManagement&) as they are released.
+An administrator can set the server endpoint in the draw.io app Configuration in the administration settings via the JSON string.
+<br /><img src="/assets/img/blog/confluence-cloud-data-governance-lockdown-configuration.png" style="width=100%;max-width:600px;height:auto;" alt="Set which draw.io server endpoint region to use and restrict data transmission to between browser and Confluence Cloud in the draw.io app configuration JSON code">
 
 You can also vote for our existing server endpoint deployments, or submit your own endpoint location request at the issue tracker:
 
