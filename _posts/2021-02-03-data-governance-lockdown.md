@@ -27,9 +27,9 @@ diagrams.net is delivered via Cloudflare edge data centers and data transmitted 
 
 Wherever possible we use serverless (AWS Lambda) functionality to reduce the attack surface of the endpoints.
 
-diagrams.net has server endpoints in two regions: one in the EU (in Frankfurt, Germany), and one in the US (in Northern Virginia). By default, invoking each of the above functions will use the server endpoint that is nearest to the Cloudflare data center that the request entered via. That is, geolocation is not performed on your IP address to determine the endpoint.
+diagrams.net has server endpoints in three regions: one in the EU (in Frankfurt, Germany), one in the US (in Northern Virginia), and one in Australia (AU). By default, invoking each of the above functions will use the server endpoint that is nearest to the Cloudflare data center that the request entered via. That is, geolocation is not performed on your IP address to determine the endpoint.
 
-However, you can force the endpoint locations, rather than rely on entering the Cloudflare network at the right place. Specifying ``dataGovernance`` region in the editor configuration to either ``EU`` or ``US`` ensures diagrams.net uses your preferred server endpoint. 
+However, you can force the endpoint locations, rather than rely on entering the Cloudflare network at the right place. Specifying ``dataGovernance`` region in the editor configuration to ``EU``, ``US`` or ``AU`` ensures diagrams.net uses your preferred server endpoint. 
 
 
 **Data transmission lockdown**
@@ -55,11 +55,14 @@ The architectures for draw.io for Confluence and Jira Cloud are identical to tho
 
 If you are using the draw.io apps for Confluence or Jira Cloud, [Atlassian lets you additionally set your **data residency** region](https://confluence.atlassian.com/cloud/manage-data-residency-976763149.html) to choose where your data or _in-scope product content_ resides. That means the content of your instance and associated metadata will be stored on servers in that region when it is at rest.
 
-Atlassian plan to open data residency in Australia, we will match all data center options that they provide. You can vote for our existing server endpoint deployments, or submit your own endpoint location request at the issue tracker:
+As of Q4 2021, [Atlassian has a data residency option in Australia](https://community.atlassian.com/t5/Atlassian-Migration-Program/Data-Residency-Comes-to-Australia-amp-Update-on-Data-Residency/ba-p/1825538). In the draw.io app configuration in your Confluence instance, add ``"dataGovernance": "AU"`` to the JSON.
+
+We will continue to match [all data center options that Atlassian provides](https://www.atlassian.com/roadmap/cloud?category=dataManagement&) as they are released.
+
+You can also vote for our existing server endpoint deployments, or submit your own endpoint location request at the issue tracker:
 
 - [Endpoint for Brazil](https://github.com/jgraph/drawio/issues/1815)
 - [Endpoint for India](https://github.com/jgraph/drawio/issues/1816)
 - [Endpoint for Japan](https://github.com/jgraph/drawio/issues/1817)
-- [Endpoint for Australia](https://github.com/jgraph/drawio/issues/1818)
 
 [See how to configure draw.io in Confluence Cloud](/doc/drawio-confluence-cloud.html)

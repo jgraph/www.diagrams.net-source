@@ -54,9 +54,9 @@ In the following video, you'll see what can be customised in diagrams.net and dr
 
 The configuration is represented as a [JSON (JavaScript Object Notation) string](http://www.json.org/) with the following options:
 
-* ``defaultFonts``: An array of font family names (String) or custom fonts of the firm {"fontFamily": name, "fontUrl": url} for the format panel font drop-down list. See below for an example.
+* ``defaultFonts``: An array of font family names (String) or custom fonts {"fontFamily": name, "fontUrl": url} for the format panel font drop-down list. See below for an example.
 
-* ``customFonts``: An array of font family names or custom fonts of the firm {"fontFamily": name, "fontUrl": url} to be added before ``defaultFonts`` (9.2.4 and later). Eg. ["Helvetica", {"fontFamily": "Rock Salt", "fontUrl": "https://fonts.googleapis.com/css?family=Rock+Salt"}].
+* ``customFonts``: An array of font family names or custom fonts {"fontFamily": name, "fontUrl": url} to be added before ``defaultFonts`` (9.2.4 and later). Eg. ["Helvetica", {"fontFamily": "Rock Salt", "fontUrl": "https://fonts.googleapis.com/css?family=Rock+Salt"}].
 <br />**Note:** Fonts with no fontUrl must be installed on the server and all client devices, or be added using the ``fontCss`` option. (6.5.4 and later).
 <br /><img src="/assets/img/blog/custom-fonts-list-confluence-cloud.png" style="width=100%;max-width:200px;height:auto;" alt="Customise the fonts in diagrams.net">
 
@@ -234,7 +234,7 @@ This configuration produces the following _More Shapes_ dialog when combined wit
 
 * ``includeDiagram``: Specifies the default for including diagram data in export dialogs (15.0.4 and later).
 
-* ``dataGovernance``: Set the [server endpoint region](/blog/data-governance-lockdown.html). The default is to use your closest region, (either ``EU `` or ``US``). If ``lockdown`` is set to ``true``, ``dataGovernance`` is ignored.
+* ``dataGovernance``: Set the [server endpoint region](/blog/data-governance-lockdown.html). The default is to use your closest region, (either ``EU `` or ``US`` or ``AU``). If ``lockdown`` is set to ``true``, ``dataGovernance`` is ignored.
 
 * ``lockdown``: [Disable data transmission](/blog/data-governance-lockdown.html), apart from directly between your browser and your selected data storage location. Default is ``false``.
 
