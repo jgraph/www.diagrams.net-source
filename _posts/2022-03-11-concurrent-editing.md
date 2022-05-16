@@ -8,7 +8,7 @@ tags: [features]
 categories: [integrations, features]
 ---
 
-When collaborating in real time using diagrams.net, you can now choose to show your mouse cursor. For example, sharing your cursor with your team makes it easier to ask about or explain something in a diagram or on a [quick whiteboard sketch](/blog/sketch-online-whiteboard.html) as you work on it together. 
+When collaborating in real time using diagrams.net, you now share your mouse cursor. Seeing your team members' cursors makes it easier to ask about or explain something in a diagram or on a [quick whiteboard sketch](/blog/sketch-online-whiteboard.html) as you work on it together. 
 
 This feature is particularly useful when you want to follow a user's focus as they step through a mockup or wireframe model of a webpage or application during a usability review.
 
@@ -26,25 +26,20 @@ Go to [app.diagrams.net/clear.html](https://app.diagrams.net/clear.html), then c
 
 Select _File > Open_ from the menu, browse to and select the diagram file in your cloud platform, and open it in the editor.
 
-### Share your cursor in diagrams.net
+### Cursors on shared files are visible by default
 
-Right-click on a blank area of the diagram to open the context menu, and select _Share Cursor_.
-<br /><img src="/assets/img/blog/share-cursor.png" style="max-width:100%;height:auto;" alt="Share your mouse cursor with others who are editing the same diagram file stored in OneDrive or Google Drive">
-
-Each person who is editing the diagram is assigned a colour. 
-
-When they share their cursor, their name is shown with their pointer as they move around diagrams.net and edit the shared diagram.
+Each person who is editing the diagram is assigned a colour. Their name is shown with their pointer as they move around diagrams.net and edit the shared diagram.
 <br /><img src="/assets/img/blog/remote-cursors.gif" style="max-width:100%;height:auto;" alt="Share your mouse cursor with others who are editing the same diagram file stored in OneDrive or Google Drive">
 
-**Tip:** It is less disorienting to see the other users' cursors than to see shapes and connectors 'pop in'.
+**Tip:** It is much less disorienting to see the other users' cursors in real-time than to see shapes and connectors appear suddenly.
 
 ### See selections in real time
 
-Even if someone has not shared their cursor, the shapes and connectors that they select on the drawing canvas will still be highlighted in their assigned colour.
+The shapes and connectors that each user selects on the drawing canvas will be highlighted in their assigned colour.
 
-While the user on the right in the example below hasn't shared their cursor, the other user can see they have selected the Professor class, as it is highlighted in pink.
+You can see how the user on the left has selected a field in the Person class (highlighted in green), and the one on the right has selected the Professor class shape (highlighted in pink).
 <br /><img src="/assets/img/blog/real-time-collaboration.png" style="max-width:100%;height:auto;" alt="See how others edit and select parts of the diagram in real time in diagrams.net when you store diagram files in OneDrive or Google Drive">
 
 ## Related
 
-You can now also share your cursor when [editing a diagram in the draw.io app for Confluence Cloud with your team in real-time](/blog/collaborative-editing-confluence-cloud.html). 
+Cursors are also shared automatically when [editing a diagram in the draw.io app for Confluence Cloud with your team in real-time](/blog/collaborative-editing-confluence-cloud.html). 

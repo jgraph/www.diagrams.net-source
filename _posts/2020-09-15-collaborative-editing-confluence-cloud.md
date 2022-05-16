@@ -31,16 +31,6 @@ If several users add shapes to the same location on a diagram, draw.io will take
 
 Drag the top shape into a new position to see the underlying shape.
 
-### Share your cursor in draw.io
-
-Right-click on a blank area of the diagram to open the context menu, and select _Share Cursor_.
-<br /><img src="/assets/img/blog/share-cursor.png" style="max-width:100%;height:auto;" alt="Share your mouse cursor with others who are editing the same draw.io diagram macro on a Confluence Cloud page">
-
-Each person who is editing the diagram is assigned a colour. 
-
-When they share their cursor, their name is shown with their pointer as they move around the diagram in the draw.io editor.
-<br /><img src="/assets/img/blog/remote-cursors.gif" style="max-width:100%;height:auto;" alt="Share your mouse cursor with others who are editing the same diagram file stored in OneDrive or Google Drive">
-
 
 ### When a child shape is added to a parent shape that is deleted
 
@@ -50,6 +40,13 @@ Say you add and connect a shape to an existing shape on the drawing canvas and a
 2. The existing shape along with any connectors coming from it will be deleted when the other user's diagram is auto-saved.
 
 <img src="/assets/img/blog/confluence-cloud-collaborative-editing-delete.gif" style="max-width:100%;height:auto;" alt="If a parent node is deleted by one user, but a child shape is connected to that parent node by another user, the connector from the parent to the child shape will be deleted when the diagram is auto-saved">
+
+### Cursors are now shared in draw.io
+
+You can now see the cursors of all of the Confluence users that are currently editing the diagram. This is much more useful than having shapes just 'pop in' out of nowhere, as in the example above.
+
+Each person who is editing the diagram is assigned a colour and their name is shown with their pointer as they move around the diagram in the draw.io editor.
+<br /><img src="/assets/img/blog/remote-cursors.gif" style="max-width:100%;height:auto;" alt="Share your mouse cursor with others who are editing the same diagram file stored in OneDrive or Google Drive">
 
 ## Use draw.io as an online whiteboard in Confluence
 

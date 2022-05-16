@@ -30,5 +30,5 @@ Once you have finished granting access to your Google Drive, click on _Create Ne
 Alternatively, click on _Open Existing Diagram_ and navigate to where the diagram is stored, select the diagram, then click on _Select_ to open it in diagrams.net.
 <br /><img src="/assets/img/blog/open-diagram-google-drive.png" style="width=100%;max-width:400px;height:auto;" alt="Open an existing diagram from a Google shared drive">
 
-**Tip:** When editing a shared diagram file from Google Drive with your team, right-click on the drawing canvas and [share your mouse cursor with your team](/blog/concurrent-editing.html) in real-time.
-<br /><img src="/assets/img/blog/share-cursor.png" style="max-width:100%;height:auto;" alt="Share your mouse cursor with others who are editing the same diagram file stored in OneDrive or Google Drive">
+**Tip:** When editing a shared diagram file from Google Drive with your team, you can [see each others' mouse cursors, selections and edits in real-time](/blog/concurrent-editing.html).
+<br /><img src="/assets/img/blog/remote-cursors.gif" style="max-width:100%;height:auto;" alt="Share your mouse cursor with others who are editing the same diagram file stored in OneDrive or Google Drive">
