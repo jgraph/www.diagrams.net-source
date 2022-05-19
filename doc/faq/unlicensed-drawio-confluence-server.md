@@ -12,7 +12,7 @@ draw.io diagrams are stored as attachments to the pages you inserted them on usi
 
 Without a license, you can still view the diagrams in the Confluence pages, but you will not be able to edit them.
 
-As [diagrams.net is an open source application](https://github.com/jgraph/drawio), and the draw.io app is the version for Atlassian Confluence, you can download these attached diagram files and edit/save the diagrams using the [free online version at app.diagrams.net](http://app.diagrams.net), or [download the free Desktop version of diagrams.net](http://get.diagrams.net).
+As [diagrams.net is an open source application](https://github.com/jgraph/drawio), and the draw.io app is the version for Atlassian Confluence, you can download these attached diagram files and edit/save the diagrams using the [free online version at app.diagrams.net](http://app.diagrams.net), or [download the free Desktop version of diagrams.net](https://get.diagrams.net).
 
 ## draw.io is uninstalled
 
