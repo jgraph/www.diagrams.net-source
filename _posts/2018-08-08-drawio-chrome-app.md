@@ -48,6 +48,6 @@ If you are using ChromeOS on a Chromebook, you can use your Chrome apps offline.
 
 On other platforms like Windows, Linux, MacOS, etc., when you use the diagrams.net Chrome app, you must have an active internet connection. If you want to be able to diagram in diagrams.net offline in an operating system other than ChromeOS, please install the diagrams.net desktop app instead.
 
-[Download and install the diagrams.net desktop app](http://get.diagrams.net)
+[Download and install the diagrams.net desktop app](https://get.diagrams.net)
 
 [Learn more about using diagrams.net offline](/blog/diagrams-offline.html)

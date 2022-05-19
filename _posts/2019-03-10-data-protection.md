@@ -34,7 +34,7 @@ All [privacy and security processes and measures are fully documented on GitHub]
 
 ## Offline and secure diagramming with the desktop app
 
-If you want to diagram in a totally secure and offline environment, download and install [diagrams.net desktop](http://get.diagrams.net). This stand-alone version is available for MacOS, Windows and Linux.
+If you want to diagram in a totally secure and offline environment, download and install [diagrams.net desktop](https://get.diagrams.net). This stand-alone version is available for MacOS, Windows and Linux.
 
 ## Do you need to obfuscate your diagram's text before you share it?
 

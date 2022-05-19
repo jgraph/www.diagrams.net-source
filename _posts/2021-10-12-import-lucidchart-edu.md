@@ -32,7 +32,7 @@ All of the selected diagrams will be converted and saved in a ``.zip`` file in y
 
 * Drag a ``.drawio`` diagram file into a new diagram in the app.diagrams.net editor or select _File > Import from_ in the menu then select your file to open it.
 
-* If you have installed the [desktop version of diagrams.net](http://get.diagrams.net/), double click on a ``.drawio`` file to open it in the desktop application.
+* If you have installed the [desktop version of diagrams.net](https://get.diagrams.net/), double click on a ``.drawio`` file to open it in the desktop application.
 
 ## Import a single Lucidchart diagram
 

@@ -25,7 +25,7 @@ Several modifier keyboard shortcuts work directly with or on the drawing canvas.
 
 **Open a diagram file:** Hold ``Shift`` while you ``drag`` a diagram file onto the drawing canvas. Your diagram file will be opened in a new tab if you are using diagrams.net in your browser, instead of being pasted into your current diagram.
 
-If you are using the [diagrams.net Desktop app](http://get.diagrams.net/), and had previously made changes to an open diagram, you will be prompted to _Save_ or _Discard Changes_ before the editor opens the file you dropped on the canvas.
+If you are using the [diagrams.net Desktop app](https://get.diagrams.net/), and had previously made changes to an open diagram, you will be prompted to _Save_ or _Discard Changes_ before the editor opens the file you dropped on the canvas.
 
 **Open the context menu:** Hold ``Ctrl`` and ``left-click`` on the drawing canvas.
 

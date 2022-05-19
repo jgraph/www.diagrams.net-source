@@ -59,4 +59,4 @@ When you use the diagrams.net desktop app, your diagrams will be stored on your 
 
 The desktop app can be used behind a strong firewall or even offline as there is no external communication of diagram data.
 
-[Download and install the latest release of the desktop app](http://get.diagrams.net)
+[Download and install the latest release of the desktop app](https://get.diagrams.net)

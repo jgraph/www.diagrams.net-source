@@ -43,6 +43,6 @@ Once the diagram editor has been refreshed, you will see the most recent release
 To update diagrams.net Desktop, in the menu, select _Help > Check for Updates_ and follow the prompts. 
 <br /><img src="/assets/img/blog/desktop-help-check-for-updates.png" style="width=100%;max-width:400px;height:auto;" alt="Select Help in diagrams.net Desktop, then Check for Updates to update the application to the most recent build">
 
-Alternatively, visit [get.diagrams.net](http://get.diagrams.net/), then download and install the latest version. 
+Alternatively, visit [get.diagrams.net](https://get.diagrams.net/), then download and install the latest version. 
 
 [Learn more about using the standalone desktop version of diagrams.net](https://www.diagrams.net/blog/diagrams-offline.html)

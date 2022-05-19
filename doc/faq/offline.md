@@ -13,7 +13,7 @@ diagrams.net desktop is a free standalone application that runs on Windows, MacO
 
 Creating diagrams in the desktop app doesn't need an internet connection. This is useful when you have to create diagrams where [data protection](/blog/data-protection.html) is important.
 
-[Download the diagrams.net desktop application](http://get.diagrams.net) - choose the installer that matches your operating system.
+[Download the diagrams.net desktop application](https://get.diagrams.net) - choose the installer that matches your operating system.
 
 <img src="/assets/img/blog/desktop.png" style="max-width:100%;height:auto;" alt="The diagrams.net desktop app works on MacOS, Windows and Linux">
 
