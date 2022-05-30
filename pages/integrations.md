@@ -70,6 +70,7 @@ The draw.io apps for Confluence and Jira are available via the Atlassian Marketp
 
 * [**Aha!:**](https://blog.aha.io/introducing-aha-mockups/) Develop project management mockups and flow diagrams, product roadmaps and marketing planning.
 * [**Atom:**](https://atom.io/packages/atom-drawio) Atom has a package that lets you edit draw.io diagrams directly within the text editor.
+* [**Bioiocons:**](https://bioicons.com/extensions/) Open-source icon libraries that work with the diagrams.net web app for life science illustrations and diagrams.
 * [**BookStack:**](https://www.bookstackapp.com/blog/beta-release-v0-20-0/) An open source information management system.
 * [**Docstell:**](https://docstell.com/) Docstell provide software documentation for developers.
 * [**FOSWiki:**](https://foswiki.org/Extensions/DrawIOPlugin) Combine text and structured content, macros and data from web APIs wth FOSWiki.
