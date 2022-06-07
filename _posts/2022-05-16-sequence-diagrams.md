@@ -93,7 +93,7 @@ Surrounding your sequence diagram in an overall frame shape (or the _Diagram_ sh
 **Conditions (guards)** on messages are indicated with square brackets either on the message, or in the frame shape. E.g. ``[value > $1000]``
 
 **Message numbers** can be used to clearly show the sequence of events. This works similar to release numbering, where each lifeline adds another point. Add the message number and a colon at the start of the message label. E.g. ``1.3: searchByItem(itemName)``
-<br /><img src="/assets/img/blog/uml-sequence-example.png" style="width=100%;max-width:500px;height:auto;" alt="Add shale and connector labels and drag text for conditions into a frame shape in a sequence diagram in diagrams.net">
+<br /><img src="/assets/img/blog/uml-sequence-example.png" style="width=100%;max-width:500px;height:auto;" alt="Add shape and connector labels and drag text for conditions into a frame shape in a sequence diagram in diagrams.net">
 
 
 ### Frame labels for sequence fragments
