@@ -13,5 +13,5 @@ As of 8th June 2022 the draw.io for Quip live app is in maintenance mode. From t
 
 Note that no users ever paid for draw.io for Quip commercially, it was provided as-is, for free.
 
-There is an alternative diagramming solution in Quip, [Lucidchart](https://www.diagrams.net/doc/faq/quip-eol), which can import draw.io diagrams.
+There is an alternative diagramming solution in Quip, [Lucidchart](https://appexchange.salesforce.com/appxListingDetail?listingId=a0N3A00000Ecs7FUAR), which can import draw.io diagrams.
 
