@@ -32,13 +32,11 @@ Disable mathematical typesetting via the same menu item to see and edit the equa
 
  [<img src="/assets/img/blog/mathematical-typesetting-enabled.png" style="max-width:100%;height:auto;" alt="Click Extras > Mathematical Typesetting to render your equations in MathJax">](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fdiagrams%2Fmath.xml)
 
-## Change the output format and font
+## Change the output format
 
-By default, the output uses SVG and the TeX font. You can use [URL parameters](/doc/faq/supported-url-parameters) to use HTML-CSS and the STIX font.
+By default, the output uses SVG. You can use [URL parameters](/doc/faq/supported-url-parameters) to use HTML instead.
 
-* [``math-output=html``](https://app.diagrams.net/?math-output=html) to use HTML-CSS. This setting allows you to select most of the maths symbols in an exported PDF file.
-* [``math-font=STIX-Web``](https://app.diagrams.net/?math-font=STIX-Web) to use the STIX font in the SVG render.
-* [``math-font=STIX``](https://app.diagrams.net/?math-output=html&math-font=STIX) to use the STIX font in the HTML-CSS render.
+* [``math-output=html``](https://app.diagrams.net/?math-output=html) to use HTML. This setting allows you to select most of the maths symbols in an exported PDF file.
 
 ## Troubleshooting
 

@@ -50,7 +50,6 @@ The following URL parameters are supported in diagrams.net in the precedence ord
 * ``zoom=nocss``: Disables the CSS zoom preview.
 * ``override-mime=1``: Saves all Google Drive files as ``application/vnd.jgraph.mxfile``.
 * ``template-filename=name``: If the #U hash property is used but the URL does not contain a filename to determine binary mode. See the list of [supported location hash properties](/doc/faq/supported-location-hash-properties.html).
-* ``math-font``: Sets the font to use for [math typesetting](/blog/maths-in-diagrams.html). Possible values are ``STIX-Web`` (SVG) or STIX (HTML-CSS).
 * ``math-output=html``: Sets the math typesetting output to ``HTML-CSS``.
 * ``nowarn=1``: Suppresses the warning before an unload for local files.
 * ``svg-warning=0``: Suppresses the warning for old viewers in SVG export.
