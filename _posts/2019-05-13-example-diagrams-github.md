@@ -10,8 +10,8 @@ categories: [integrations]
 
 We regularly publish new example diagrams in the [jgraph/drawio-diagrams](https://github.com/jgraph/drawio-diagrams) repository on GitHub so they are easy to access. In this repository you'll find diagram examples that are used in:
 
-* blog posts
-* FAQ answers
+* blog posts and FAQ answers
+* the example gallery on the diagrams.net website
 * training courses
 * feature and plugin demonstrations
 * diagrams.net template library
@@ -22,7 +22,11 @@ If you find an example diagram that you want to use as a template in your diagra
 
 <img src="/assets/img/blog/arrange-insert-from-template-menu.png" style="max-width:100%;height:auto;" alt="Insert a template diagram">
 
-In the template library dialog, click on _From Template URL_, and enter the URL of the diagram you want to use. For example: [https://jgraph.github.io/drawio-diagrams/diagrams/math.xml](https://jgraph.github.io/drawio-diagrams/diagrams/math.xml)
+In the template library dialog, click on _From Template URL_, and enter the URL of the diagram you want to use.
+
+For example: [https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/examples/maths-examples.drawio](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/examples/maths-examples.drawio)
+
+**Note:** This must be the file data, not the page on which the file is attached.
 
 Click _Create_, and diagrams.net will open the template diagram in a new browser tab. Name your diagram, and now you can edit it as you need.
 
