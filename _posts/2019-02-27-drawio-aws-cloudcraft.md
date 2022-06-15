@@ -60,6 +60,7 @@ Select a shape that has the style you want to copy. In the Style tab of the form
 
 Select a shape that has the size you want to copy. In the Arrange tab of the format panel, click _Copy Size_. Select one or more shapes, then click _Paste Size_.
 
-In this example, all of the older AWS shapes and 3D shapes have been updated to use the most recent AWS libraries.
+In this example, all of the older AWS shapes and 3D shapes have been updated to use a more recent AWS shape library.
 
-<img src="/assets/img/blog/exported-cloudcraft-diagram-new-shapes.png" style="width=100%;max-width:400px;height:auto;" alt="IOT example using 2019 AWS shapes">
+[<img src="/assets/img/blog/exported-cloudcraft-diagram-new-shapes.png" style="width=100%;max-width:400px;height:auto;" alt="IOT example using 2019 AWS shapes">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Faws-internet-of-things.drawio)
+<br />[_Open this AWS diagram in the diagrams.net viewer_](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Faws-internet-of-things.drawio)

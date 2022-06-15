@@ -12,7 +12,7 @@ The waypoint shape allows you to join two or more connectors together. In electr
 
 Waypoint shapes are useful in any diagram where you want to avoid drawing overlapping connectors between source and target shapes. It is a very small, solid circle that is not much bigger than the default line width of a connector in diagrams.net. 
 
-<img src="/assets/img/blog/waypoint-shape-logic.png" style="width=100%;max-width:300px;height:auto;" alt="Use waypoint shapes in diagrams.net to show contact points and enable line jumps to see where wires pass each other without connecting">
+[<img src="/assets/img/blog/waypoint-shape-logic.png" style="width=100%;max-width:300px;height:auto;" alt="Use waypoint shapes in diagrams.net to show contact points and enable line jumps to see where wires pass each other without connecting">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&page=1&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fcircuit-logic-examples.drawio)
 
 The waypoint shape looks like the waypoints on a connector in diagrams.net that [determine the path that the connector takes](/blog/waypoints-connectors.html). However, the waypoint shape works exactly like a shape - you draw connectors to and from it.
 
@@ -49,7 +49,8 @@ Now you can use the waypoint shape just like you would any other shape.
 
 **Passing wires:** To show that wires pass each other without making contact, use line jumps. Select one of the overlapping connectors, then enable _Line jumps_ in the _Style_ tab of the format panel. 
 
-<img src="/assets/img/blog/waypoint-shape-circuit.png" style="width=100%;max-width:250px;height:auto;" alt="Use waypoint shapes in diagrams.net to show contact points in electrical circuit diagrams"> <img src="/assets/img/blog/waypoint-shape-logic.png" style="width=100%;max-width:300px;height:auto;" alt="Use waypoint shapes in diagrams.net to show contact points and enable line jumps to see where wires pass each other without connecting">
+[<img src="/assets/img/blog/waypoint-shape-circuit.png" style="width=100%;max-width:250px;height:auto;" alt="Use waypoint shapes in diagrams.net to show contact points in electrical circuit diagrams">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fcircuit-logic-examples.drawio) [<img src="/assets/img/blog/waypoint-shape-logic.png" style="width=100%;max-width:300px;height:auto;" alt="Use waypoint shapes in diagrams.net to show contact points and enable line jumps to see where wires pass each other without connecting">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&page=1&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fcircuit-logic-examples.drawio)
+<br />_Click on one of the diagrams to open it in the diagrams.net viewer_
 
 [Learn more about styling connectors](/blog/connectors.html)
 
@@ -57,12 +58,12 @@ Now you can use the waypoint shape just like you would any other shape.
 
 Waypoint shapes make rearranging and aligning the connectors in org charts easier.
 
-<img src="/assets/img/blog/waypoint-shape-tree.png" style="width=100%;max-width:600px;height:auto;" alt="Use waypoint shapes in diagrams.net to join connectors">
+[<img src="/assets/img/blog/waypoint-shape-tree.png" style="width=100%;max-width:600px;height:auto;" alt="Use waypoint shapes in diagrams.net to join connectors">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&page=3&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fwaypoint-shape.drawio)
 
 In a gitflow diagram, waypoint shapes can indicate where changes are merged, while the larger circles are for builds of the code. 
 
-<img src="/assets/img/blog/waypoint-shape-gitflow.png" style="width=100%;max-width:600px;height:auto;" alt="Use waypoint shapes in diagrams.net to join connectors, such as in this gitflow diagram">
+[<img src="/assets/img/blog/waypoint-shape-gitflow.png" style="width=100%;max-width:600px;height:auto;" alt="Use waypoint shapes in diagrams.net to join connectors, such as in this gitflow diagram">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&page=2&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fwaypoint-shape.drawio)
 
 **Tip:** You can style waypoint shapes in the same way as other shapes by changing their colour, size, and so on.
 
-[_Open these examples in diagram.net_](https://app.diagrams.net/?splash=0&ui=kennedy&page=2&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fwaypoint-shape.drawio)
+[_Open these examples in the diagram.net editor_](https://app.diagrams.net/?splash=0&ui=kennedy&page=2&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fwaypoint-shape.drawio)
