@@ -9,7 +9,6 @@ Please search existing posts for answers to your question regarding the [draw.io
 
 * [Google Group](https://groups.google.com/forum/#!forum/drawio).
 * [Github project discussion](https://github.com/jgraph/drawio/discussions).
-* [Discord server](https://discord.gg/7532ynTeuv).
 
 Bug reports or feature requests belong on GitHub issues with the _teams_ label:
 
