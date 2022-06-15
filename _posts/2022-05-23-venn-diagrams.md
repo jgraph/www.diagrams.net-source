@@ -9,7 +9,8 @@ categories: [use-cases, templates, shape-libraries]
 ---
 
 Venn diagrams are widely used in business, education and research to visualise commonalities and differences. Although, you have probably most often seen theme used in memes.
-<br /><img src="/assets/img/blog/venn-template1.png" style="width=100%;max-width:300px;height:auto;" alt="diagrams.net and draw.io have many Venn diagram templates with various numbers of sets">
+<br />[<img src="/assets/img/blog/venn-template1.png" style="width=100%;max-width:500px;height:auto;" alt="diagrams.net and draw.io have many Venn diagram templates with various numbers of sets">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fvenn%2Fvenn_9.xml)
+<br />[_Open this Venn diagram in the diagrams.net viewer_](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fvenn%2Fvenn_9.xml)
 
 ## How to read a Venn diagram
 
@@ -47,7 +48,8 @@ Add two or more **_Circle_ or _Ellipse_ shapes** from the _General_ shape librar
 Use the Style tab in the format panel to **add colour**, and **reduce the opacity** of the shapes so you can clearly see the overlapping segments.
 
 **Add text shapes** from the _General_ shape library, and drag them into good positions on the set circles and intersections to fine-tune the text placement, or list multiple characteristics in each segment.
-<br /><img src="/assets/img/blog/venn-template2.png" style="width=100%;max-width:400px;height:auto;" alt="diagrams.net and draw.io have many Venn diagram templates with various numbers of sets">
+<br />[<img src="/assets/img/blog/venn-template2.png" style="width=100%;max-width:500px;height:auto;" alt="diagrams.net and draw.io have many Venn diagram templates with various numbers of sets">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fvenn%2Fvenn_8.xml)
+<br />[_Open this Venn diagram in the diagrams.net viewer_](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fvenn%2Fvenn_8.xml)
 
 ## Euler diagrams versus Venn diagrams
 
