@@ -117,6 +117,7 @@ Cross-functional flowcharts use both horizontal and vertical swimlanes, allowing
 
 Just as with swimlane diagrams, there are templates under the _Basic_ and _Flowcharts_ template categories to give you an idea of how cross-functional flowcharts work. The basic cross-functional flowchart template organises the steps into two actors, and notes the state of one of the actors as the process is stepped through.
 <br /><img src="/assets/img/blog/basic-cross-functional-flowchart-template.png" style="width=100%;max-width:500px;height:auto;" alt="The basic cross-functional flowchart template after being styled, as provided in the diagrams.net template manager">
+<br />[_Open an uncoloured version as a template in the diagrams.net viewer_](https://viewer.diagrams.net/?splash=0&ui=kennedy&ibs=bpmn2&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fbasic%2Fcross.xml)
 
 The basic cross-functional table shape is in the _Misc_ shape library. Alternatively, you can add your own empty cross-functional table shape using the table tool in diagrams.net.
 

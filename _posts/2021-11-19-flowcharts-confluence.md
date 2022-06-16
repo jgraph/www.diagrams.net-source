@@ -65,7 +65,7 @@ Documenting decision processes and workflows in Confluence is ideal to quickly o
 If you prefer a more varied set of shapes to show the difference between types of tasks, [BPMN notation](/blog/bpmn-2-0.html) is most widely used. 
 
 **BPMN diagrams** are formatted using swimlanes to show the different actors that are responsible for each step. These are also known as [cross-functional flowcharts](/blog/swimlane-diagrams.html), and show clearly where the responsibility for tasks is passed to other teams.
-<br /><img src="/assets/img/blog/bpmn-example-order-process.png" style="width=100%;max-width:600px;height:auto;" alt="An example BPMN diagram that details the steps involved in processing an order">
+<br />[<img src="/assets/img/blog/bpmn-example-order-process.png" style="width=100%;max-width:600px;height:auto;" alt="An example BPMN diagram that details the steps involved in processing an order">](https://viewer.diagrams.net/?splash=0&ui=kennedy&ibs=bpmn2&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fbpmn-2-example.drawio)
 
 * Use a swimlane shape from the _Basic_ shape library. 
 * Hold down ``Ctrl`` (``Cmd`` on macOS) and add a cross-functional table via the _Table_ tool in the draw.io toolbar.
@@ -75,7 +75,7 @@ If you prefer a more varied set of shapes to show the difference between types o
 As **marketing teams** need to collaborate with product development and business management teams, Confluence is the best place to store customer analyses and product marketing flows. Visual documentation lets all stakeholders reach a common understanding quickly and easily.
 
 Document customer journeys in UML use case diagrams (below) or [story maps](/blog/story-mapping.html).
-<br /><img src="/assets/img/blog/uml-use-case-example.png" style="width=100%;max-width:600px;height:auto;" alt="An example of a use case diagram">
+<br />[<img src="/assets/img/blog/uml-use-case-example.png" style="width=100%;max-width:600px;height:auto;" alt="An example of a use case diagram">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fuml-use-case-example.drawio)
 
 ### Software development and IT flowcharts
 
@@ -87,10 +87,10 @@ Maintaining technical documentation visually in flowcharts in Confluence is espe
 <br /><img src="/assets/img/blog/mermaid-sequence-example.png" style="width=100%;max-width:400px;height:auto;" alt="A simple sequence diagram inserted using the Mermaid syntax">
 
 Visualise your version control system with development and release flows in [gitflow diagrams](/blog/gitflow-diagram.html) using simple shapes and connectors.
-<br /><img src="/assets/img/blog/gitflow-example.png" style="width=100%;max-width:600px;height:auto;" alt="An example gitflow diagram">
+<br />[<img src="/assets/img/blog/gitflow-example.png" style="width=100%;max-width:600px;height:auto;" alt="An example gitflow diagram">](https:/viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fgitflow-examples.drawio)
 
 Explore infrastructure risks with [application threat models](/blog/threat-modelling.html), including data flow diagrams and process flow diagrams. 
-<br /><img src="/assets/img/blog/threat-modeling-data-flow-example.png" style="width=100%;max-width:600px;height:auto;" alt="An example application threat model">
+<br />[<img src="/assets/img/blog/threat-modeling-data-flow-example.png" style="width=100%;max-width:600px;height:auto;" alt="An example application threat model">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fthreat-modelling.drawio)
 
 * Click on _More Shapes_ in the left panel in the draw.io editor, scroll down to the _Other_ section and enable the _Threat Modeling_ shape library. 
 
@@ -99,7 +99,7 @@ Explore infrastructure risks with [application threat models](/blog/threat-model
 Examine and optimise supply chains and production processes in detailed flowcharts in Confluence. 
 
 If you have documented your supply chain or production steps in a spreadsheet, [combine the exported CSV data with formatting information](/blog/insert-from-csv.html) to draw your supply chain flowchart automatically. Store the resulting diagram in Confluence. Generate a new flowchart whenever you make changes to analyse and optimise the flow.
-<br /><img src="/assets/img/blog/csv-supply-chain-example.png" style="width=100%;max-width:600px;height:auto;" alt="An example supply chain drawn automatically from CSV data and formatting information">
+<br />[<img src="/assets/img/blog/csv-supply-chain-example.png" style="width=100%;max-width:600px;height:auto;" alt="An example supply chain drawn automatically from CSV data and formatting information">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&page=3&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2FCSVimport-examples.drawio)
 
 
 ## Do more with flowcharts in Confluence

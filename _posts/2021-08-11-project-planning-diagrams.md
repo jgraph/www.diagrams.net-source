@@ -41,14 +41,16 @@ Break the whiteboard canvas up into regions or columns.
 Alternatively or additionally, brainstorm topics and subtopics, or problems and solutions around a central theme in a mindmap. 
 
 These types of rough diagrams and notes are the most common starting point for many types of structured planning documents: user stories, [story mapping (as below)](/blog/story-mapping.html), customer journeys, product features, process optimisation, business models, persona descriptions, and more.
-<br /><img src="/assets/img/blog/story-mapping-example-purchase-groceries.png" style="max-width:100%;height:auto;" alt="An example of a use case diagram">
+<br />[<img src="/assets/img/blog/story-mapping-example-purchase-groceries.png" style="max-width:100%;height:auto;" alt="An example of a use case diagram">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fstory-map.drawio)
+<br />[_Open this story map in the diagrams.net viewer_](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fstory-map.drawio)
 
 **Tip:** If your brainstorm becomes too large to fit comfortably in your browser window, click on the _Outline_ tool in the bottom right toolbar. Drag the blue highlighted section in the floating Outline panel to move quickly around your whiteboard.
 
 **Templates for planning**
 
 Start planning quickly with a template, like the business model canvas below: Click the _Template_ tool on the left to open the template manager. Templates are organised into a wide range of categories. 
-<br /><img src="/assets/img/blog/business-model-in-sketch-theme.png" style="width=100%;max-width:600px;height:auto;" alt="Use a template to start project planning quickly in sketch.diagrams.net">
+<br />[<img src="/assets/img/blog/business-model-in-sketch-theme.png" style="width=100%;max-width:600px;height:auto;" alt="Use a template to start project planning quickly in sketch.diagrams.net">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fbusiness%2Fbusiness_model_canvas_1.xml)
+<br />[_Open the business model canvas template in the diagrams.net viewer_](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fbusiness%2Fbusiness_model_canvas_1.xml)
 
 
 ### Keep all research and design ideas in one place
@@ -72,7 +74,8 @@ Create, compare and evaluate marketing and business graphics. Click the _Shapes_
 You can also drag and drop images and screenshots directly onto the whiteboard canvas, then add notes and [draw freehand shapes](/blog/freehand-drawing.html) to add your suggestions. 
 
 Design mockups and wireframes of web pages and applications together: [Share the mockups with stakeholders or customers](/blog/share-diagrams-via-google.html) and invite them to add their feedback directly on your whiteboard diagram. 
-<br /><img src="/assets/img/blog/online-whiteboard-mockup-template.png" style="width=100%;max-width:600px;height:auto;" alt="Use a mockup template to design your site or app online with your team in sketch.diagrams.net">
+<br />[<img src="/assets/img/blog/online-whiteboard-mockup-template.png" style="width=100%;max-width:600px;height:auto;" alt="Use a mockup template to design your site or app online with your team in sketch.diagrams.net">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Flayout%2Fbootstrap_1.xml)
+<br />[_Open this application mockup template in the diagrams.net viewer_](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Flayout%2Fbootstrap_1.xml)
 
 
 ### Vote on what to implement
@@ -92,7 +95,8 @@ When everyone votes on planned changes in such a way, your team will collaborate
 2. Expand on the [simple Kanban board](/blog/kanban-boards.html) template to indicate the state of each implementation step in your project, or link to a Jira board for more detailed tracking. 
 3. Use a Gantt chart or roadmap template to plan the project schedule. Check in the _Tables_ category in the template manager dialog for examples.
 
-<img src="/assets/img/blog/online-whiteboard-gantt-template.png" style="width=100%;max-width:600px;height:auto;" alt="Use a Gantt chart template to schedule the implementation of your project in sketch.diagrams.net">
+[<img src="/assets/img/blog/online-whiteboard-gantt-template.png" style="width=100%;max-width:600px;height:auto;" alt="Use a Gantt chart template to schedule the implementation of your project in sketch.diagrams.net">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Ftables%2Fgantt_1.xml)
+<br />[_Open this Gantt chart template in the diagrams.net viewer_](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Ftables%2Fgantt_1.xml)
 
 Don't forget to update this whiteboard project plan for (remote) standup meetings, during sprint planning and retrospectives.
 
