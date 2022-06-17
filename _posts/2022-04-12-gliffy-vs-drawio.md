@@ -18,12 +18,9 @@ Unlike Gliffy, [draw.io has concurrent diagram editing](/blog/collaborative-edit
 
 When you choose to show your cursor, your team will see where you move your mouse and what you select, all in real-time.
 
-## Share your cursor with your team in draw.io for Confluence
-Each person who is editing a draw.io diagram in Confluence is assigned a colour. When you share cursors, you'll see everyone's name with their mouse pointer as they move around and edit the diagram.
+## Shared cursors mean better collaboration in draw.io for Confluence
+Each person who is editing a draw.io diagram in Confluence is assigned a colour. Cursors are shared by default - you'll see everyone's name with their mouse pointer as they move around and edit the diagram.
 <br /><img src="/assets/img/blog/remote-cursors.gif" style="max-width:100%;height:auto;" alt="Share your mouse cursor with others who are editing the same draw.io diagram in Confluence Cloud">
-
-Right-click on a blank area of the diagram to open the context menu, and select _Share Cursor_.
-<br /><img src="/assets/img/blog/share-cursor.png" style="width=100%;max-width:400px;height:auto;" alt="Share your mouse cursor with others who are editing the same draw.io diagram in Confluence Cloud">
 
 Additionally, when you select a shape everyone else will see it highlighted in your colour.
 
