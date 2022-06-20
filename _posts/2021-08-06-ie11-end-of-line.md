@@ -8,7 +8,7 @@ tags: [features, Atlassian]
 categories: [features,atlassian]
 ---
 
-Related to [Microsoft's end of life date of Internet Explorer 11](https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/), we will end support for IE 11 on 18th August 2022.
+In line with [Microsoft's end of life date of Internet Explorer 11](https://blogs.windows.com/windowsexperience/2022/06/15/internet-explorer-11-has-retired-and-is-officially-out-of-support-what-you-need-to-know/), we will end support for IE 11 on 15th June 2022.
 
 ## Online users of app.diagrams.net
 
@@ -29,11 +29,11 @@ Atlassian [do not support IE on their cloud products](https://blog.developer.atl
 Atlassian are [removing IE 11 support on specific versions of Jira and Confluence on-premise](https://community.developer.atlassian.com/t/retiring-ie11-support-for-atlassian-cloud-server-and-data-center-products/32118).
 
 * For Jira, 8.5 is the last supported release EOL 21st October 2021. The first draw.io release that does not support Jira 8.5 will not support IE 11. That will not be before Atlassian's EOL date.
-* For Confluence, 7.4 is the last supported release EOL 18th August 2022. The first draw.io release that does not support Confluence 7.4 will not support IE 11. That will not be before Atlassian's EOL date.
+* For Confluence, 7.4 is the last supported release EOL 18th August 2022. This is beyond the Microsoft EOL date, so support will end for Confluence on-premise on 15th June 2022.
 
 ## Users of the draw.io/diagrams.net codebase
 
-If you deploy your own version of the project from source code, releases up to and including the 18th August 2022 will support IE 11. For any releases after that date you can expect complete failure when using IE 11. Specifically, we may remove IE 11 specific functionality from the codebase to simplify the code.
+If you deploy your own version of the project from source code, releases up to and including the 15th June 2022 will support IE 11. For any releases after that date you can expect complete failure when using IE 11. Specifically, we may remove IE 11 specific functionality from the codebase to simplify the code.
 
 If you wish to have a IE 11 supported deployment, deploy the last release prior to this date and do not update it.
 
