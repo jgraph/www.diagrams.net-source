@@ -190,9 +190,6 @@ ___
 [<img src="/assets/img/blog/template-workflow_2.png" style="width=100%;max-width:400px;height:auto;" alt="A workflow drawn in diagrams.net">](https://viewer.diagrams.net/?splash=0&ui=kennedy&ibs=bpmn2&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fflowcharts%2Fworkflow_2.xml)
 <br />Workflow (flowchart) | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/templates/flowcharts/workflow_2.xml)
 
-[<img src="/assets/img/blog/basic-cross-functional-flowchart-template.png" style="width=100%;max-width:300px;height:auto;" alt="The basic cross-functional flowchart template after being styled, as provided in the diagrams.net template manager">](https://viewer.diagrams.net/?splash=0&ui=kennedy&ibs=bpmn2&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fbasic%2Fcross.xml)
-<br />[Cross functional flowchart](/blog/swimlane-diagrams.html), styled from the basic template | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/templates/basic/cross.xml)
-
 [<img src="/assets/img/blog/template-epc_2.png" style="width=100%;max-width:300px;height:auto;" alt="An event driving process chain (flowchart) created in diagrams.net">](https://viewer.diagrams.net/?splash=0&ui=kennedy&ibs=bpmn2&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fflowcharts%2Fepc_2.xml)
 <br />Event driven process chart | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/templates/flowcharts/epc_2.xml)
 
