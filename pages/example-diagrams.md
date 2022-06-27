@@ -271,6 +271,27 @@ ___
 [<img src="/assets/img/blog/infographic-why-agile.png" style="width=100%;max-width:300px;;height:auto;" alt="You can create attractive infographics in diagrams.net">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2FInfographic_2.xml)
 <br />Infographic using the infographic shape library in diagrams.net | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/examples/Infographic_2.xml)
 
+[<img src="/assets/img/blog/infographic-shape-library-layers.png" style="width=100%;max-width:600px;height:auto;" alt="Set the connector shape to curved and pull out the middle waypoint">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Finfographic-shape-library-layers.drawio)
+<br />[Layered shapes](/blog/infographics-layered-shapes.html) available in the infographic shape library | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/blog/infographic-shape-library-layers.drawio)
+
+[<img src="/assets/img/blog/infographic-project-steps.png" style="width=100%;max-width:400px;height:auto;" alt="Set the connector shape to curved and pull out the middle waypoint">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Finfographic-project-steps.drawio)
+<br />Project steps for a slide in a presentation | [Download](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/examples/infographic-project-steps.drawio)
+
+[<img src="/assets/img/blog/infographic-example-1.png" style="width=100%;max-width:400px;height:auto;" alt="Set the connector shape to curved and pull out the middle waypoint">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Finfographic-example-1.drawio)
+<br />Infographic with callouts and icons | [Tutorial](/blog/infographics-layered-shapes.html) | [Download](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/examples/infographic-example-1.drawio)
+
+[<img src="/assets/img/blog/infographic-example-2.png" style="width=100%;max-width:400px;height:auto;" alt="Set the connector shape to curved and pull out the middle waypoint">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Finfographic-example-2.drawio)
+<br />Dark background infographic with callouts and icons | [Download](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/examples/infographic-example-2.drawio)
+
+[<img src="/assets/img/blog/infographic-example-3.png" style="width=100%;max-width:500px;height:auto;" alt="Set the connector shape to curved and pull out the middle waypoint">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Finfographic-example-3.drawio)
+<br />Six-layer infographic | [Download](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/examples/infographic-example-3.drawio)
+
+[<img src="/assets/img/blog/infographic-example-4.png" style="width=100%;max-width:500px;height:auto;" alt="Set the connector shape to curved and pull out the middle waypoint">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Finfographic-example-4.drawio)
+<br />Five-layer infographic | [Download](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/examples/infographic-example-4.drawio)
+
+[<img src="/assets/img/blog/infographic-example-5.png" style="width=100%;max-width:600px;height:auto;" alt="Set the connector shape to curved and pull out the middle waypoint">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Finfographic-example-5.drawio)
+<br />Horizontal layered infographic on a dark background | [Download](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/examples/infographic-example-5.drawio)
+
 ___
 ## Venn diagrams
 

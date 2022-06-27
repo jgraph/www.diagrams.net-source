@@ -9,6 +9,7 @@ categories: [integrations,features,use-cases]
 ---
 
 Mindmaps are useful to quickly capture ideas, and are easy to draw in diagrams.net and our draw.io branded apps. But some people prefer to work from text lists when brainstorming. Drop a text list into the PlantUML import tool and diagrams.net will generate your mindmap for you - no need to fuss with connectors or layouts.
+<br /><img src="/assets/img/blog/mindmap-plantuml-example1.png" style="width=100%;max-width:500px;height:auto;" alt="Generate a mindmap from text in diagrams.net by inserting PlantUML in arithmetic notation via Arrange > Insert > Advanced > PlantUML">
 
 ## Create a mindmap in text
 
