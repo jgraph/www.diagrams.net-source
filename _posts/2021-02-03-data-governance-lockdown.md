@@ -27,7 +27,7 @@ diagrams.net is delivered via Cloudflare edge data centers and data transmitted 
 
 Wherever possible we use serverless (AWS Lambda) functionality to reduce the attack surface of the endpoints.
 
-diagrams.net has server endpoints in three regions: one in the EU (in Frankfurt, Germany), one in the US (in Northern Virginia), and one in Australia (AU). By default, invoking each of the above functions will use the server endpoint that is nearest to the Cloudflare data center that the request entered via. That is, geolocation is not performed on your IP address to determine the endpoint.
+diagrams.net has server endpoints in three regions: one in the EU (in Frankfurt, Germany) and one in the US (in Northern Virginia). By default, invoking each of the above functions will use the server endpoint that is nearest to the Cloudflare data center that the request entered via. That is, geolocation is not performed on your IP address to determine the endpoint.
 
 However, you can force the endpoint locations, rather than rely on entering the Cloudflare network at the right place. Specifying ``dataGovernance`` region in the editor configuration to ``EU`` or ``US`` ensures diagrams.net uses your preferred server endpoint. 
 

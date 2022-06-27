@@ -9,9 +9,7 @@ categories: [use-cases, shapes, templates]
 ---
 
 Timelines, roadmap and milestone diagrams feature in a range of documentation - project development documents, infographics and presentations being some of the most common. There are many shapes and templates in diagrams.net and our draw.io branded apps that you can use to quickly draw an attractive diagram that you can embed in your presentation or documentation.
-
-[<img src="/assets/img/blog/timeline-example.png" style="width=100%;max-width:650px;height:auto;" alt="Draw timelines, roadmaps and milestone diagrams easily with diagrams.net">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Ftimeline-example.drawio)
-<br />[_Open this timeline in the free diagrams.net viewer_](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Ftimeline-example.drawio)
+<br />[<img src="/assets/img/blog/timeline-example.png" style="width=100%;max-width:500px;height:auto;" alt="Draw timelines, roadmaps and milestone diagrams easily with diagrams.net">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Ftimeline-example.drawio)
 
 ## Use the Infographic shape library
 

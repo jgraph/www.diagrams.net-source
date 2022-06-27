@@ -9,13 +9,11 @@ categories: [use-cases, templates, shape-libraries]
 ---
 
 UML class diagrams are used to illustrate the structure of a computer program. They detail the types of data or attributes stored within each 'class', the methods (operations or functions) that each class provides, and the relationships between the classes.
+<br /><img src="/assets/img/blog/class-diagram-example.png" style="width=100%;max-width:500px;height:auto;" alt="A class diagram based on the basic class diagram template in diagrams.net">
 
 Class diagrams are likely the most common and important type of UML diagram. 
 
 While they commonly document an existing application, you may find your team creates cleaner code when you draw a class diagram before any implementation starts. 
-
-<img src="/assets/img/blog/class-diagram-example.png" style="width=100%;max-width:600px;height:auto;" alt="A class diagram based on the basic class diagram template in diagrams.net">
-<br />[_Open this example in diagrams.net_](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fexamples%2Fclass-diagram-example.drawio)
 
 **Do UML class diagrams need to be detailed?**
 
@@ -27,13 +25,15 @@ While [UML has a well-defined notation](https://www.omg.org/spec/UML/2.5.1/About
 
 **On this page**
 
-* [Enable UML shape libraries and use class diagram templates in diagrams.net](#draw-a-uml-class-diagram-in-diagramsnet)
-* [Use shortcuts to edit attributes and methods in class shapes in diagrams.net](#work-with-class-shapes)
-* [Learn the UML notation used in class diagrams](#using-uml-notation-in-class-diagrams)
-   * [Attribute and method names](#attribute-and-method-names-in-uml-notation)
-   * [Connectors to define relationships](#connectors-for-relationships-in-uml-class-diagrams)
-   * [Notes and packages to document complex applications](#notes-packages-and-objects-for-complex-uml-class-diagrams)
-* [Generate class diagrams from Mermaid and PlantUML code](#related)
+- [Draw UML class diagrams in diagrams.net](#draw-uml-class-diagrams-in-diagramsnet)
+  - [Work with class shapes](#work-with-class-shapes)
+    - [Editing UML classes in diagrams.net](#editing-uml-classes-in-diagramsnet)
+- [Using UML notation in class diagrams](#using-uml-notation-in-class-diagrams)
+  - [Attribute and method names in UML notation](#attribute-and-method-names-in-uml-notation)
+  - [Connectors for relationships in UML class diagrams](#connectors-for-relationships-in-uml-class-diagrams)
+    - [Draw class relationships in diagrams.net](#draw-class-relationships-in-diagramsnet)
+  - [Notes in complex UML class diagrams](#notes-in-complex-uml-class-diagrams)
+- [Related](#related)
 
 
 
