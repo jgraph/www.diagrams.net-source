@@ -9,8 +9,7 @@ categories: [use-cases, templates]
 ---
 
 Kanban boards show the breakdown of large projects into smaller tasks that you prioritise and track as they are completed. Collaborative projects benefit from a kanban board as it helps everyone visualise workflows, the state of the project, and the current workload.
-
-<img src="/assets/img/blog/kanban-template-example.png" style="width=100%;max-width:300px;height:auto;"  alt="The kanban template in diagrams.net automatically updates colours and labels when you move tasks to another column">
+<br /><img src="/assets/img/blog/kanban-template-example.png" style="width=100%;max-width:200px;height:auto;"  alt="The kanban template in diagrams.net automatically updates colours and labels when you move tasks to another column">
 
 The [Kanban method or system](https://en.wikipedia.org/wiki/Kanban) is commonly used by project and production managers, agile and system developers, designers and content marketers. Almost all areas of a business can use this method to track work, identify bottlenecks, and improve processes. 
 

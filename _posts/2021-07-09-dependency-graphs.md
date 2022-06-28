@@ -9,8 +9,7 @@ categories: [use-cases, templates]
 --- 
 
 As a type of directed graph, **dependency graphs** visualise processes or situations where there are dependent components such as in decision making, scheduling, product development, IT or telecommunications infrastructure, supply and manufacturing chains, and more. They help you find the optimal order and identify critical paths or weak links that would constain your application, infrastructure or process.
-
-<img src="/assets/img/blog/pert-template-example.png" style="width=100%;max-width:500px;height:auto;" alt="A PERT diagram template that is available in diagrams.net">
+<br /><img src="/assets/img/blog/pert-template-example.png" style="width=100%;max-width:500px;height:auto;" alt="A PERT diagram template that is available in diagrams.net">
 
 The shapes and connectors used in dependency graphs are simple - one shape indicates nodes (usually circles or ellipses), and connectors with one or two arrow heads to indicate the direction of the dependencies. Connectors may or may not have labels.
 

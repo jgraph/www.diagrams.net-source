@@ -9,6 +9,7 @@ categories: [use-cases]
 ---
 
 User story diagrams are quite strongly related to UML use case diagrams, and both are used in an agile software development context. Both types of diagrams are used to explore and document customer requirements, they identify different groups of users and their goals, but they are used in different ways. 
+<br />[<img src="/assets/img/blog/story-mapping-example-purchase-groceries.png" style="width=100%;max-width:500px;height:auto;" alt="An example of a use case diagram">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fstory-map.drawio)
 
 ## Use case diagrams
 
@@ -82,9 +83,9 @@ _This story map of a customer who wants to purchase groceries online uses simple
 
 Your story map can work as a visual roadmap showing both the work you have completed, what is remaining and planned and what is out of scope.
 
-Take the unimplemented tasks and subtasks and distribute them into releases, iterations and sprints in your story map, noting tdependencies indicated by their left-right position or dependency arrows, and their priority by their vertical position. 
+Take the unimplemented tasks and subtasks and distribute them into releases, iterations and sprints in your story map, noting dependencies indicated by their left-right position or dependency arrows, and their priority by their vertical position. 
 
-Reprioritize by dragging the tasks and subtasks into new positions within their table rows or swimlanes.
+Re-prioritise by dragging the tasks and subtasks into new positions within their table rows or swimlanes.
 
 Track development in your story map, just as you planned your project using it. As you complete the implementation of each task, add a shape, tooltip, colour or label, to show that a task is complete (or being tested, documented, etc.)
 <br /><img src="/assets/img/blog/story-mapping-sprints.png" style="width=100%;max-width:500px;height:auto;" alt="Track development and plan your sprints by adding various labels and icons to each activity and task"> 

@@ -9,6 +9,7 @@ categories: [features]
 ---
 
 You can customise the diagrams.net editor and choose your preferred theme for the user interface. The UI theme controls which editor elements are displayed, minimised or hidden, including the menu, toolbar, panels and dialog boxes.
+<br /><img src="/assets/img/blog/theme-dark.png" style="width=100%;max-width:500px;height:auto;" alt="Choose your favourite UI theme in diagrams.net from Kennedy, Atlas, Dark, Minimal and Sketch">
 
 There are four different themes to choose from, with a fifth currently under development.
 

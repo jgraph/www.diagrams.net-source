@@ -9,8 +9,7 @@ categories: [integrations, use-cases]
 ---
 
 Using Cloudcraft, you can securely connect to cloud environments and infrastructure components via your architecture diagrams where statistics, resource information and more is updated in real time. The 3D isometric view that Cloudcraft uses is familiar to engineers and IT staff as it often matches the tools they learned on. The automatic updates driven from your company's live systems makes Cloudcraft a fantastic tool for monitoring your AWS cloud infrastructure. The statistics are also helpful to estimate costs when you want to make changes to your system.
-
-<img src="/assets/img/blog/cloudcraft-to-drawio.png" style="max-width:100%;height:auto;" alt="Examples of Cloudcraft infrastructure diagrams exported to draw.io">
+<br /><img src="/assets/img/blog/cloudcraft-to-drawio.png" style="width=100%;max-width:400px;height:auto;" alt="Examples of Cloudcraft infrastructure diagrams exported to draw.io">
 
 Get started with your AWS infrastructure using the Amazon Architecture Center's [training section](https://aws.amazon.com/getting-started/) and the [reference architectures](https://aws.amazon.com/architecture/).
 

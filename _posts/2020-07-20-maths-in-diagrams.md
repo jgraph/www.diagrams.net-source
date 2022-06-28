@@ -9,6 +9,7 @@ categories: [features]
 ---
 
 You can add maths equations to your diagrams by enabling mathematical typesetting via the diagrams.net menu. When you enter an equation into a text shape or label, enabling mathematical typesetting will use [MathJax to render your equation](https://www.mathjax.org/). MathJax renders equations neatly and works in all browsers.
+<br />[<img src="/assets/img/blog/maths-examples.png" style="width=100%;max-width:300px;height:auto;" alt="Mathematical typesetting will render equations in text shapes, even when they are in tables">](https://viewer.diagrams.net/?lightbox=1&page=2&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fmaths-examples.drawio)
 
 ## LaTeX and AsciiMath
 

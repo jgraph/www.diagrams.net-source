@@ -9,6 +9,7 @@ categories: [use-cases]
 ---
 
 The C4 modelling is used to describe and define architectures in an abstract and simple way. Designed by Simon Brown, C4 is a different way to approach modelling software development which focuses on four c's: context (people), containers, components, and code.
+<br />[<img src="/assets/img/blog/c4-container.png" style="width=100%;max-width:400px;height:auto;" alt="An example C4 system container diagram">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&page=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2FC4.drawio)
 
 diagrams.net provides you with a C4 shape library with the shapes you need to create all of these diagrams, including extensive UML shape libraries for the detailed diagrams typically used at the code level. Labels are added to these shapes using metadata.
 

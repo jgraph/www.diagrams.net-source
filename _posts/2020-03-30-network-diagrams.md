@@ -9,6 +9,7 @@ categories: [use-cases, templates]
 ---
 
 Network diagrams, or infrastructure diagrams, let you understand a computer network quickly.
+<br />[<img src="/assets/img/blog/ibm-iot-network-diagram-template.png" style="width=100%;max-width:400px;height:auto;" alt="IBM Internet of Things template network diagram from diagrams.net">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fcloud%2Fibm_iot_architecture.xml)
 
 A variety of symbols, shapes and colours are used to indicate the _types of devices_ attached to the network and their _groups_.
 
@@ -19,11 +20,6 @@ Groups may be based on security or access controls, subnets, or location - which
 _Connectors_ between them indicate the lines of communication.
 
 Additional information, like IP addresses, or group labels are usually added as text.
-
-_The following is a template available in diagrams.net, an IBM Internet of Things network diagram._
-
-[<img src="/assets/img/blog/ibm-iot-network-diagram-template.png" style="max-width:100%;height:auto;" alt="IBM Internet of Things template network diagram from diagrams.net">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fcloud%2Fibm_iot_architecture.xml)
-<br />[Open this diagram in the diagrams.net viewer](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fcloud%2Fibm_iot_architecture.xml)
 
 There are many 'common' libraries of shapes that you can use to create your network diagram. Some, like Amazon's AWS cloud shapes, offer hundreds of different shapes indicating the different tasks performed by each device.
 
