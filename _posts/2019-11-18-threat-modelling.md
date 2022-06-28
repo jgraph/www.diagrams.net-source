@@ -9,6 +9,7 @@ categories: [use-cases]
 ---
 
 Threat modelling, especially in IT, is becoming more common. Companies are increasingly aware of the risks of having their infrastructure and devices connected to the internet. As more devices, machines, sensors, monitors, and applications are added to a company’s infrastructure, there are potentially many more vulnerabilities.
+<br />[<img src="/assets/img/blog/threat-modeling-data-flow-example.png" style="width=100%;max-width:300px;height:auto;" alt="Data flow diagram for threat modelling">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fthreat-modelling.drawio)
 
 According to [Wikipedia, threat modelling](https://en.wikipedia.org/wiki/Threat_model) should answer:
 

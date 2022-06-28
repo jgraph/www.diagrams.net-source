@@ -9,6 +9,7 @@ categories: [features,use-cases, templates]
 ---
 
 Flowcharts are one of the most common diagram types, showing all of the steps that must be followed to complete a process. Not many processes are limited to just one person or one team, which is why swimlane diagrams and cross-functional flowcharts are used - these show the flow of data or control across different groups.
+<br /><img src="/assets/img/blog/basic-cross-functional-flowchart-template.png" style="width=100%;max-width:400px;height:auto;" alt="The basic cross-functional flowchart template after being styled, as provided in the diagrams.net template manager">
 
 Swimlane diagrams, flowcharts and cross-functional flowcharts are used throughout organisations: 
 * onboard new team members

@@ -9,12 +9,16 @@ categories: [features]
 ---
 
 Embed images of your diagrams in Microsoft PowerPoint slides with the [free draw.io branded add-in](https://appsource.microsoft.com/en-us/product/office/wa200000113). The add-ins can be used in all Microsoft 365 Office applications on both Windows and macOS, and in older versions of PowerPoint, Word and Excel.
+<br /><img src="/assets/img/blog/microsoft-powerpoint-diagram-rotate.png" style="width=100%;max-width:400px;height:auto;"  alt="Select the diagram, then drag the grab handles to resize and rotate it in your PowerPoint slide">
 
 While the built-in diagramming features in PowerPoint allow you to create simple diagrams, a dedicated diagramming tool makes it easier and faster to create and update more complex diagrams. 
 
-* [Install the draw.io add-in in PowerPoint](#install-the-diagramming-add-in)
-* [Add a diagram to a PowerPoint slide](#add-a-diagram-to-a-powerpoint-slide)
-* [Format embedded diagrams in PowerPoint](#format-embedded-diagrams)
+- [Install the diagramming add-in](#install-the-diagramming-add-in)
+- [Add a diagram to a PowerPoint slide](#add-a-diagram-to-a-powerpoint-slide)
+- [Format embedded diagrams](#format-embedded-diagrams)
+  - [Use MS Office-compatible SVG labels](#use-ms-office-compatible-svg-labels)
+- [Update embedded diagrams](#update-embedded-diagrams)
+- [Related](#related)
 
 **Note:** Your diagram data is only ever stored in your browser and either on your device, or in your cloud platform (OneDrive or [Google Drive](/doc/faq/google-drive-diagrams.html)) - the diagrams.net servers never store your diagram data.
 

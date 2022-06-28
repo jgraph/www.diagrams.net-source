@@ -9,6 +9,7 @@ categories: [features,shapes]
 ---
 
 The shapes, connectors and text elements in your diagram are described in XML - their sizes, locations, groupings, shape styles, [z-order on the drawing canvas](/blog/move-shapes-forwards-backwards.html), and how they are connected to each other. You can attach much more information than this to create richer diagrams and interactivity, including tags, tooltips, links, custom shape properties and more.
+<br /><img src="/assets/img/blog/custom-properties-hover.png" style="width=100%;max-width:200px;height:auto;" alt="Custom properties are displayed by default in a tooltip when you hover over the shape">
 
 ## Use shape data for richer diagrams
 
