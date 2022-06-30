@@ -2,7 +2,7 @@
 title: Automatically number shapes as you insert them
 layout: page
 faq: true
-categories: [Plugins, Confluence Cloud, Confluence Data Center and Server]
+categories: [Plugins]
 ---
 
 **Important:** The ``Enumerate`` shape property allows you to add a numbered label to selected shapes and connectors. It can not be applied by default to any new shape added to the drawing canvas. 

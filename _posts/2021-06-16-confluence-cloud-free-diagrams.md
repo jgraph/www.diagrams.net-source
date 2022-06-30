@@ -70,7 +70,7 @@ The draw.io diagram editor is easy to use and powerful. The [draw.io app in Conf
 2. Select the _Blank Diagram_ template, enter a filename for your diagram, and click _Create_.
 <br /><img src="/assets/img/blog/template-library-new-diagram.png" style="width=100%;max-width:400px;height:auto;" alt="Choose a diagram template when you create a new diagram at diagrams.net">
 3. Get to know the [layout of the diagram editor](/doc/getting-started-editor.html): the shape and format panels, the toolbar, menus and drawing canvas. The default layout is the same as at [app.diagrams.net](https://app.diagrams.net/). 
-<br /><img src="/assets/img/blog/interface-introduction.png" style="max-width:100%;height:auto;" alt="The diagrams.net editor, its tools and panels">
+<br /><img src="/assets/img/blog/drawio-interface-introduction.png" style="max-width:100%;height:auto;" alt="The diagrams.net editor, its tools and panels">
 4. Step through the [tutorial to draw a basic flowchart](/doc/getting-started-basic-flow-chart.html#add-shapes-to-the-drawing-canvas) in the diagrams.net editor.
    * add and connect shapes using the shape libraries on the left
    * add labels to the shapes and connectors on the drawing canvas
