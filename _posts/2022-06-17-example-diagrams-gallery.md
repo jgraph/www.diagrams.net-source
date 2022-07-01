@@ -9,7 +9,7 @@ categories: [integrations]
 ---
 
 Many of the templates and example diagrams that we store in our [jgraph/drawio-diagrams repository on Github](https://github.com/jgraph/drawio-diagrams) are available via this website. The new [example diagram gallery page](/example-diagrams.html) lists diagrams in various categories based on industry or teams. 
-<br />[<img src="/assets/img/blog/template-lean_mapping_2.png" style="width=100%;max-width:400px;height:auto;" alt="Enterprise business model template">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fbusiness%2Flean_mapping_2.xml)
+<br />[<img src="/assets/img/blog/template-lean_mapping_2.png" style="width=100%;max-width:500px;height:auto;" alt="Enterprise business model template">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fbusiness%2Flean_mapping_2.xml)
 
 The repository stores a large number and variety of example and template diagrams, in addition to the templates that are available in the template library dialog in the diagrams.net and draw.io apps. The diagrams used in blog posts and help topics are also in this repository.
 

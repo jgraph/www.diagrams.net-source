@@ -9,16 +9,17 @@ categories: [features]
 ---
 
 Complex diagrams can be made a lot easier to read and understand when you split them up into logical smaller diagrams on multiple pages, or by using a number of layers. 
+<br /><img src="/assets/img/blog/interactive-diagram-toggle-editor.gif" style="width=100%;max-width:400px;height:auto;;" alt="Paste the custom link into the first text field and click Apply">
 
 To learn more about the complex diagram, you can toggle the display of layers and step to another diagram page using the toolbar at the bottom of the diagram viewer, or the layers dialog and page tabs in the diagram editor. 
-
-<img src="/assets/img/blog/interactive-diagram-viewer-toolbar.png" style="max-width:100%;height:auto;" alt="Step through the pages and interact with layers in the diagrams.net viewer">
 
 Alternatively, you can make your diagram interactive by adding custom links to the shapes and text within the diagram that act as intuitive toggle switches - you don't have to use the toolbar to interact with your diagram.
 
 Diagrams that can benefit from adding interactive layers _within the diagram itself_ include [network or infrastructure diagrams](/blog/network-diagrams.html), [floor plans](/blog/floorplans.html) and [gitflow diagrams](/blog/gitflow-diagram.html). 
 
 [Learn more about using layers in diagrams.net](/doc/layers.html)
+
+<img src="/assets/img/blog/interactive-diagram-viewer-toolbar.png" style="max-width:100%;height:auto;" alt="Step through the pages and interact with layers in the diagrams.net viewer">
 
 ## Use custom links to add interactivity
 

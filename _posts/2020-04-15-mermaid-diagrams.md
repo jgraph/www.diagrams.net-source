@@ -9,6 +9,7 @@ categories: [integrations,features,use-cases]
 ---
 
 Mermaid is a syntax similar to Markdown where you can use text to describe and automatically generate diagrams. With Mermaid's Markdown-inspired syntax, you can generate flow charts, UML diagrams, pie charts, Gantt charts, and more.
+<br /><img src="/assets/img/blog/mermaid-sequence-example.png" style="width=100%;max-width:300px;height:auto;" alt="A simple sequence diagram inserted using the Mermaid syntax">
 
 Many developers prefer to describe their data structures and processes using text, avoiding the need to context switch. After documenting them in the Markdown-based text description, you can then insert this into the diagrams.net editor to generate a diagram and lay it out automatically.
 

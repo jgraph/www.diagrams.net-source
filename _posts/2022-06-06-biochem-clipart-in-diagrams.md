@@ -9,7 +9,7 @@ categories: [use-cases, shapes]
 ---
 
 Bioicons is a collection of free custom shape libraries containing open source icons for life science applications. The website lets you [select one or more shape libraries](https://bioicons.com/extensions), and open them in the diagrams.net editor on the web. 
-<br /><img src="/assets/img/blog/integrations-bioicons-example.png" style="width=100%;max-width:600px;height:auto;" alt="Bioicons can be used to create a wide range of illustrations with diagrams.net"> 
+<br /><img src="/assets/img/blog/integrations-bioicons-example.png" style="width=100%;max-width:500px;height:auto;" alt="Bioicons can be used to create a wide range of illustrations with diagrams.net"> 
 
 Bioicons is developed by Simon Duerr as an [open source project on Github](https://github.com/duerrsimon/bioicons). 
 

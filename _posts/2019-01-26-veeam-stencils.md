@@ -8,6 +8,7 @@ tags: [network diagrams, infrastructure diagrams, shape libraries]
 categories: [use-cases]
 ---
 Veaam is an online service that visualises and monitors your cloud and network architectures, and provides a number of additional availability services, including deployment, backup, replication and restoration. It supports Amazon AWS, Microsoft Azure, and IBM Cloud, as well as a variety of workloads, apps, and platforms commonly used by businesses.
+<br /><img src="/assets/img/blog/veaam-network-diagram.png" style="width=100%;max-width:200px;height:auto;" alt="A simple network using the Veeam shape library" align="center">
 
 Veeam uses a custom set of shapes to represent the components in your cloud infrastructure, rather than using those specifically recommended by Amazon, IBM or Microsoft. These shapes are included in diagrams.net, which makes it easy for you to document your architecture independent of which cloud platform you are using.
 

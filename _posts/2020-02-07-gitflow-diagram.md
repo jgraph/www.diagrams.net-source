@@ -9,6 +9,7 @@ categories: [use-cases, templates]
 ---
 
 It's easier to show new development team members your project's branch structure in your Git repository visually than to describe it in words. Some platforms may illustrate this using built-in tools. If you are using a platform without a convenient visual representation, it's easy to create your own gitflow diagram.
+<br />[<img src="/assets/img/blog/gitflow-example.png" style="width=100%;max-width:400px;height:auto;" alt="An example gitflow diagram">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fgitflow-examples.drawio)
 
 The default size of the shapes from the shape library are not able to be overridden, which is why the [clone and connect feature](/blog/shortcut-clone-connect.html) is such a time-saver: it copies both a shape's style and text content.
 

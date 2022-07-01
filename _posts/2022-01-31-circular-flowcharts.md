@@ -9,6 +9,7 @@ categories: [templates, use-cases, shapes]
 ---
 
 Flowcharts are one of the most used types of diagrams in all teams. But some process flows are circular or cyclical rather than a series of steps with a start and end. You can create circular flowcharts in diagrams.net and our draw.io branded apps in a number of ways. 
+<br /><img src="/assets/img/blog/flowchart-circular-example.png" style="width=100%;max-width:500px;height:auto;" alt="Create a circular flowchart using basic shapes in diagrams.net">
 
 **New to diagramming?**
 

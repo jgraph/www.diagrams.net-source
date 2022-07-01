@@ -9,6 +9,7 @@ categories: [use-cases, templates]
 --- 
 
 Ishikawa diagrams, also called fishbone, herringbone or cause and effect diagrams, are used to analyse and identify the root causes of defects or negative events. As most problems have multiple causes, Ishikawa diagrams are a useful prompt to look at the many different contributing factors. 
+<br />[<img src="/assets/img/blog/ishikawa-example-manufacturing.png" style="width=100%;max-width:500px;height:auto;" alt="An example of an manufacturing Ishikawa diagram for a defective part">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fishikawa-diagram-examples.drawio)
 
 When presented visually following a common format, you can look for patterns or where the same root cause contributes to multiple defects much more easily in a diagram than in lists and tables. 
 

@@ -9,11 +9,9 @@ categories: [integrations, use-cases]
 ---
 
 [Cloudockit](https://www.cloudockit.com) is a platform which connects to and monitors your cloud and on-premises environment and automatically generates 2D or 3D diagrams. It works with AWS, Azure, Google Cloud Platform (GCP), VMWare Hyper-V, Alibaba Cloud, IBM Cloud, and your local infrastructure to visualise your network and automatically generate documentation.
+<br />[<img src="/assets/img/blog/aws-infrastructure-diagram-example.png" style="width=100%;max-width:400px;height:auto;" alt="A basic AWS diagram in 3D">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates/cloud/%2Faws_3d_2.xml)
 
 Updated diagrams can be generated on a schedule and exported to document how your infrastructure changes over time. You can specify which components or types of diagrams are generated at different times to satisfy the needs of your network or application engineers.
-
-[<img src="/assets/img/blog/aws-infrastructure-diagram-example.png" style="width=100%;max-width:400px;height:auto;" alt="A basic AWS diagram in 3D">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates/cloud/%2Faws_3d_2.xml)
-<br />[_Open this 3D AWS diagram in the diagrams.net viewer_](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates/cloud/%2Faws_3d_2.xml)
 
 ## How to export from Cloudockit to a .drawio diagram
 

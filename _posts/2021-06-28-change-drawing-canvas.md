@@ -9,12 +9,11 @@ categories: [features]
 ---
 
 The drawing canvas in diagrams.net has a number of features that help you align and space shapes and connectors in your diagram. By default, it also indicates how your diagram will appear when printed across one or more pages, dependent on page size and orientation.
+<br /><img src="/assets/img/blog/sketch-theme-custom-editor-grid.png" style="width=100%;max-width:600px;height:auto;" alt="Change how the grid is displayed on the drawing canvas in diagrams.net"> 
 
 The default editor grid on the drawing canvas is set to 10pts, and is a light grey. When you have page view enabled, the page edges are shown as a grey dotted line over the grid.
 
 Neither the grid nor the dotted line for the page edge are included when you print or export your diagram to an image - they are only there to help you align shapes and connectors as you draw your diagram.
-
-<img src="/assets/img/blog/sketch-theme-custom-editor-grid.png" style="width=100%;max-width:600px;height:auto;" alt="Change how the grid is displayed on the drawing canvas in diagrams.net"> 
 
 You can change the drawing canvas (editor) grid size and colour, hide or show the grid, enable guides for alignment and spacing, and toggle the page view on or off. 
 

@@ -9,10 +9,9 @@ categories: [features, connectors]
 ---
 
 The waypoint shape allows you to join two or more connectors together. In electrical circuit diagrams or logic gate diagrams, it is essential to show contact points where wires are connected, as opposed to passing each other without connecting. Waypoint shapes help you organise and route connectors neatly in tree diagrams, org charts, [gitflow diagrams](/blog/gitflow-diagram.html), hold connector lines together in a fishbone (Ishikawa) diagram, and more.
+<br />[<img src="/assets/img/blog/waypoint-shape-logic.png" style="width=100%;max-width:300px;height:auto;" alt="Use waypoint shapes in diagrams.net to show contact points and enable line jumps to see where wires pass each other without connecting">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&page=1&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fcircuit-logic-examples.drawio)
 
 Waypoint shapes are useful in any diagram where you want to avoid drawing overlapping connectors between source and target shapes. It is a very small, solid circle that is not much bigger than the default line width of a connector in diagrams.net. 
-
-[<img src="/assets/img/blog/waypoint-shape-logic.png" style="width=100%;max-width:300px;height:auto;" alt="Use waypoint shapes in diagrams.net to show contact points and enable line jumps to see where wires pass each other without connecting">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&page=1&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fcircuit-logic-examples.drawio)
 
 The waypoint shape looks like the waypoints on a connector in diagrams.net that [determine the path that the connector takes](/blog/waypoints-connectors.html). However, the waypoint shape works exactly like a shape - you draw connectors to and from it.
 
