@@ -200,7 +200,7 @@ This configuration produces the following _More Shapes_ dialog when combined wit
 
 * ``sidebarTitleSize``: Specifies the font size in pt for titles in the sidebar. Default is 8.
 
-* ``zoomWheel``: Specifies if the mouse wheel is used for zoom without any modifiers (15.0.6 and later).
+* ``zoomWheel``: Specifies if the mouse wheel is used for zoom without any modifiers (true/false, 15.0.6 and later). Default is false.
 
 * ``zoomFactor``: Defines the zoom factor for mouse wheel and trackpad zoom. Default is 1.2 (14.7.0 and later).
 
