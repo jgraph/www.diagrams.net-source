@@ -1,7 +1,7 @@
 ---
 layout: post
 author: diagrams.net
-slug: shape-properties
+slug: increase-drawing-canvas
 date: 2022-07-04 10:13:00
 title: Increase the drawing canvas space
 tags: [features]
