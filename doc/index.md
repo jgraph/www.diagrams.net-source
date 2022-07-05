@@ -20,9 +20,10 @@ If you are new to diagramming, or diagramming in Confluence, use the training do
 
 The draw.io app for Atlassian's Confluence and Jira uses the diagrams.net editor. Once you are familiar with how to use the editor above, follow the guide below to learn how to customise the draw.io app for Confluence, mass convert all of your images in an instance and troubleshoot problems that are specific to this integration.
 
-* [Use draw.io in Jira Cloud](/doc/drawio-jira-cloud.html)
-* [Use, customise and troubleshoot draw.io for Confluence Cloud](/doc/drawio-confluence-cloud.html)
+* **Users:** [Learn to use draw.io for Confluence Cloud](/doc/drawio-confluence-cloud.html)
+* **Administrators:** [Set up and customise draw.io for Confluence Cloud](/doc/drawio-confluence-cloud-admin.html)
 <br /><img src="/assets/img/blog/drawio-configuration-custom-colours.png" style="width=100%;max-width:400px;height:auto;" alt="Administrators can specify custom colours for draw.io in Confluence Cloud">
+* [Setup and use draw.io in Jira Cloud](/doc/drawio-jira-cloud.html)
 
 
 ## Detailed information and tutorials
