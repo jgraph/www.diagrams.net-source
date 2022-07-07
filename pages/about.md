@@ -41,5 +41,4 @@ Our mission statement is __“provide free, high quality diagramming software fo
 </code>
 <code>
   JGraph Ltd is a private limited company registered in England #04051179<br>
-  Tel : +44 20 8191 1310<br>
 </code>
