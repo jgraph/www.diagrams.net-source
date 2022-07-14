@@ -40,8 +40,8 @@ Each C in the 5C analysis model is a major element of your business model.
   
 * **Climate** or **Context:** Look at things in areas which affect your business or product sales. This may be done using another analysis technique, such as a PEST or PESTEL analysis (political, economic, social, technological,  environmental, legal).
 
-[<img src="/assets/img/blog/5c-marketing-analysis.png" style="width=100%;max-width:650px;height:auto;" alt="A 5C Marketing Analysis diagram created with diagrams.net">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2F5c-market-analysis.drawio)
-<br />[_Open this 5C marketing analysis in the diagrams.net viewer_](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2F5c-market-analysis.drawio)
+[<img src="/assets/img/blog/5c-marketing-analysis.png" style="width=100%;max-width:650px;height:auto;" alt="A 5C Marketing Analysis diagram created with diagrams.net">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2F5c-marketing-analysis.drawio)
+<br />[_Open this 5C marketing analysis in the diagrams.net viewer_](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2F5c-marketing-analysis.drawio)
 
 ## SWOT analysis
 
