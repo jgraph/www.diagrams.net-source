@@ -68,6 +68,6 @@ If you prefer minimal tools and the rough style enabled by default, like you wou
 The Sketch editor theme may also be useful to introduce younger children to diagramming or support them as they [add diagrams to their documents and in Google Classroom](/blog/google-classroom-diagrams.html) with the Google Drive add-in.
 
 Enable the [Sketch editor theme](/blog/sketch-online-whiteboard.html) as you would any other theme and refresh the page. Alternatively, go to [sketch.diagrams.net](http://sketch.diagrams.net)
-<br />[<img src="/assets/img/blog/sketch-theme-tutorial.png" style="width=100%;max-width:600px;height:auto;" alt="Sketch theme is currently being developed">](https://app.diagrams.net/?splash=0&ui=sketch&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fsketch-theme-tutorial.drawio)
-<br />_[Open this tutorial in the new Sketch theme at diagrams.net](https://app.diagrams.net/?splash=0&ui=sketch&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fsketch-theme-tutorial.drawio)_
+<br />[<img src="/assets/img/blog/sketch-theme-tutorial.png" style="width=100%;max-width:600px;height:auto;" alt="Sketch theme is currently being developed">](https://app.diagrams.net/?splash=0&ui=sketch&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fboard-visual-tutorial.drawio)
+<br />_[Open this tutorial in the new Sketch theme at diagrams.net](https://app.diagrams.net/?splash=0&ui=sketch&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fboard-visual-tutorial.drawio)_
 <br />_**Tip:** Resize your browser to line everything up with the tutorial._

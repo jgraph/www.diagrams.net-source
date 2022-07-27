@@ -39,8 +39,8 @@ The Minimal theme allows you to collapse the panels around the drawing canvas fo
 ## Sketch theme
 
 This is the default theme for the draw.io Board macro in Confluence and makes an ideal online whiteboard for remote teams.
-<br />[<img src="/assets/img/blog/sketch-theme-tutorial.png" style="width=100%;max-width:600px;height:auto;" alt="Sketch theme is currently being developed">](https://app.diagrams.net/?splash=0&ui=sketch&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fsketch-theme-tutorial.drawio)
-<br />_[Open this tutorial in the new Sketch theme at diagrams.net](https://app.diagrams.net/?splash=0&ui=sketch&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fsketch-theme-tutorial.drawio)_
+<br />[<img src="/assets/img/blog/sketch-theme-tutorial.png" style="width=100%;max-width:600px;height:auto;" alt="Sketch theme is currently being developed">](https://app.diagrams.net/?splash=0&ui=sketch&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fboard-visual-tutorial.drawio)
+<br />_[Open this tutorial in the new Sketch theme at diagrams.net](https://app.diagrams.net/?splash=0&ui=sketch&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fboard-visual-tutorial.drawio)_
 <br />_**Tip:** Resize your browser to line everything up with the tutorial._
 
 [Customise the draw.io editor theme in Confluence](/doc/faq/custom-ui-confluence-cloud.html) - set a specific theme that all users will use by default.
