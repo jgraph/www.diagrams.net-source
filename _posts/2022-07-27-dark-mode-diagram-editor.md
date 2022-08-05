@@ -42,6 +42,9 @@ There are a few things to keep in mind when diagramming in dark mode.
 
 * The [unofficial draw.io extension for Visual Studio Code](/blog/edit-diagrams-with-github-dev.html), developed by Henning Dieterichs, may automatically use dark mode in the diagram editor if your operating system/VSCode is set to dark mode.
 
+* Our [draw.io Chrome extension for Notion](/blog/drawio-notion.html) works in dark mode to match Notion's dark mode.
+<br /><img src="/assets/img/blog/notion-extension.gif" style="width=100%;max-width:300px;height:auto;" alt="Make sure to leave the Dark checkbox enabled when exporting a diagram as an image from the Dark editor theme">
+
 ## Set a different background colour
 
 To diagram with a dark editor interface, but use a light drawing canvas, set a light background colour. 
@@ -56,7 +59,7 @@ To diagram with a dark editor interface, but use a light drawing canvas, set a l
 
 If you find a shape that has an unreadable label when switched to dark mode (with no default style set), please raise an issue in our [JGraph/drawio GitHub repository](https://github.com/jgraph/drawio/issues) _after_ searching to see if there is an existing issue for that problem.
 
-The Dark theme is one of [four diagram editor themes](/blog/diagram-editor-theme.html): 
+Dark mode is works with three of the [four diagram editor themes](/blog/diagram-editor-theme.html): 
 * The default diagram editor.
 * Atlas - matches the draw.io app inside Atlassian's Confluence and Jira. Dark mode is not available for this theme.
 * Minimal - floating dialogs for all tools.
