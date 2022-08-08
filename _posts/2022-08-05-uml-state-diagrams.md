@@ -3,15 +3,15 @@ layout: post
 author: diagrams.net
 slug: uml-state-diagrams
 date: 2022-08-05 09:43:00
-title: Using UML state machine diagrams
+title: Draw a UML state machine diagram
 tags: [shape libraries, uml]
 categories: [use-cases, templates, shape-libraries]
 ---
 
-The concept of state diagrams or state machine graphs has been around since the mid 1900s, long before David Harel modified them into the form used today in the UML standard.
+The concept of state diagrams or state machine graphs has been around since the mid 1900s, long before David Harel modified them into the form used today as part of the UML standard.
 <br />[<img src="/assets/img/blog/uml-state-diagram-smart-lock.png" style="width=100%;max-width:500px;height:auto;" alt="An example top-level UML state machine diagram of a smart lock">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&page=0&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fuml-state-diagram-smart-lock.drawio)
 
-State diagrams complement process flows: 
+UML state diagrams, also called state machine diagrams, complement process flows: 
 * each node in a flowchart or a UML activity diagram is an action in a process.
 * each node in a state diagram shows a system state, and the connectors show the triggers that force a change to another state.
 
@@ -134,11 +134,11 @@ What problems can you discover by analysing these diagrams?
 
 [<img src="/assets/img/blog/uml-state-diagram-smart-lock.png" style="width=100%;max-width:600px;height:auto;" alt="An example top-level UML state machine diagram of a smart lock">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&page=0&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fuml-state-diagram-smart-lock.drawio)
 
-[<img src="/assets/img/blog/uml-state-diagram-monitoring.png" style="width=100%;max-width:600px;height:auto;" alt="An example sub-state machine diagram in UML - part of a smart lock state diagram">]((https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&page=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fuml-state-diagram-smart-lock.drawio))
+[<img src="/assets/img/blog/uml-state-diagram-monitoring.png" style="width=100%;max-width:600px;height:auto;" alt="An example sub-state machine diagram in UML - part of a smart lock state diagram">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&page=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fuml-state-diagram-smart-lock.drawio)
 
-[<img src="/assets/img/blog/uml-state-diagram-verifying.png" style="width=100%;max-width:600px;height:auto;" alt="An example sub-state machine diagram in UML - part of a smart lock state diagram">]((https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&page=2&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fuml-state-diagram-smart-lock.drawio))
+[<img src="/assets/img/blog/uml-state-diagram-verifying.png" style="width=100%;max-width:600px;height:auto;" alt="An example sub-state machine diagram in UML - part of a smart lock state diagram">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&page=2&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fuml-state-diagram-smart-lock.drawio)
 
-[<img src="/assets/img/blog/uml-state-diagram-reconnecting.png" style="width=100%;max-width:600px;height:auto;" alt="An example sub-state machine diagram in UML - part of a smart lock state diagram">]((https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&page=3&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fuml-state-diagram-smart-lock.drawio))
+[<img src="/assets/img/blog/uml-state-diagram-reconnecting.png" style="width=100%;max-width:600px;height:auto;" alt="An example sub-state machine diagram in UML - part of a smart lock state diagram">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&page=3&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fuml-state-diagram-smart-lock.drawio)
 
 ## Further resources
 
