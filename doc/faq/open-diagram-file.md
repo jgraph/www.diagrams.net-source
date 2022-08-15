@@ -12,16 +12,13 @@ categories: [Features]
 3. Select how you want to open the diagram file, click on either _Open in New Window_ or on _Open in This Window_ (then click _Discard Changes_). Your browser may let you save this choice so that you aren't prompted every time you open a diagram file. Your diagram will be loaded into the editor.
 <br /><img src="/assets/img/blog/open-diagram-new-window.png" style="width=100%;max-width:200px;height:auto;" alt="Select File > Open From in the diagrams.net editor, then select the location where your diagram file is saved">
 
-**Drag and drop:** Alternatively, there is a faster way to open a diagram stored on your local device - simply drag the diagram file onto a blank diagram.
-
-To force diagrams.net to open the file, even when you have added shapes to drawing canvas, hold ``Shift`` as you drop the file to open it in a new browser tab. 
-
 ## Import a diagram file 
 
 You can import diagram files into an existing diagram by dragging the file and dropping it on the drawing canvas, via the menu with _File > Import_, including ``.drawio`` and ``.xml`` diagram files, Gliffy, Lucidchart and ``.vsdx`` diagrams.
 
 <img src="/assets/img/blog/import-file.gif" style="max-width:100%;height:auto;" alt="Import diagrams into an existing diagram in two different ways">
 
+To force diagrams.net to open the file, even when you have added shapes to drawing canvas, hold ``Shift`` as you drop the file to open it in a new browser tab. 
 ## Related
 
 * [Create a new diagram](/doc/faq/new-diagram.html)
