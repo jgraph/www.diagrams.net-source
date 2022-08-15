@@ -18,7 +18,7 @@ You can import diagram files into an existing diagram by dragging the file and d
 
 <img src="/assets/img/blog/import-file.gif" style="max-width:100%;height:auto;" alt="Import diagrams into an existing diagram in two different ways">
 
-To force diagrams.net to open the file, even when you have added shapes to drawing canvas, hold ``Shift`` as you drop the file to open it in a new browser tab. 
+To force diagrams.net to import the file, even when you have added shapes to drawing canvas, hold ``Shift`` as you drop the file to open it in a new browser tab. 
 ## Related
 
 * [Create a new diagram](/doc/faq/new-diagram.html)
