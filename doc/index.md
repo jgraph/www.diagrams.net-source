@@ -16,6 +16,8 @@ If you are new to diagramming, or diagramming in Confluence, use the training do
 
 <img src="/assets/img/blog/interface-introduction.png" style="width=100%;max-width:400px;height:auto;" alt="The diagrams.net editor, its tools and panels">
 
+**Tip:** The [feature overview of diagrams.net](/features.html) highlights the range of functionality and tools built into the diagram editor.
+
 ### Using draw.io in Atlassian Confluence and Jira
 
 The draw.io app for Atlassian's Confluence and Jira uses the diagrams.net editor. Once you are familiar with how to use the editor above, follow the guide below to learn how to customise the draw.io app for Confluence, mass convert all of your images in an instance and troubleshoot problems that are specific to this integration.
@@ -37,6 +39,8 @@ The draw.io app for Atlassian's Confluence and Jira uses the diagrams.net editor
 **Keyboard shortcuts:** Use the following keyboard shortcuts to diagram faster. Click on the image to open it and print it for reference.
 <br />[<img src="https://app.diagrams.net/shortcuts.svg" style="width=100%;max-width:600px;;height:auto;" alt="The page and drawing canvas options available in diagrams.net">](https://app.diagrams.net/shortcuts.svg)
 <br />[_View and print these keyboard shortcuts_](https://app.diagrams.net/shortcuts.svg)
+
+**Example diagrams:** Browse the [gallery of example diagrams and templates](/example-diagrams.html). Click on any diagram in our example gallery to open the file in diagrams.net. 
 
 ## Short training videos
 

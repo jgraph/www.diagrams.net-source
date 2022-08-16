@@ -1,7 +1,7 @@
 ---
 layout: post
 author: diagrams.net
-slug: translate-diagrams
+slug: help-translate-diagrams
 date: 2019-11-26 12:54:00
 title: diagrams.net in many languages = diagramming for everyone
 tags: [news, open source]
