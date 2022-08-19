@@ -2,7 +2,7 @@
 layout: post
 author: diagrams.net
 slug: sysml-vs-uml
-date: 2022-08-08 09:43:00
+date: 2022-09-08 09:43:00
 title: SysML vs UML - what's the difference?
 tags: [uml]
 categories: [use-cases]

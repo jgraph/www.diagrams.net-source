@@ -11,7 +11,7 @@ categories: [news]
 Finding a typo-proof word that is also pronounced the same throughout the world is impossible. diagrams.net and draw.io are no exception to this. Here are the most common ways people have misspelt our applications' names.
 <br /><img src="/assets/img/blog/freehand-crow.png" style="width=100%;max-width:500px;height:auto;" alt="Freehand drawing in diagrams.net on a tablet - click the freehand tool in the toolbar on the left">
 
-**craw.io** - we hope diagrams don't make you angry! Or maybe its a reference to the cleverness of crows? Most likely, it's a slip of the finger to the key below. 
+**craw.io** - we hope diagrams don't make you angry! Or maybe it's a reference to the cleverness of crows? Most likely, it's a slip of the finger to the key below. 
 
 **dra.io** - the languages with a close appropriate meaning would be Norwegian (to draw or drag) or Swedish (to pull or tell a story). Or perhaps Yola, the Forth and Bargy dialect (to draw) in County Wexford. We bet it's rather typing too fast.
 
