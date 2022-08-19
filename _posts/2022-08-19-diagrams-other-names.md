@@ -8,17 +8,10 @@ tags: [news]
 categories: [news]
 ---
 
-<<<<<<< HEAD
-Finding a typo-proof word that is also pronounced the same throughout the world is impossible. diagrams.net and draw.io are no exception to this. Here are the most common ways people have misspelt our applications' names.
-<br /><img src="/assets/img/blog/freehand-crow.png" style="width=100%;max-width:500px;height:auto;" alt="Freehand drawing in diagrams.net on a tablet - click the freehand tool in the toolbar on the left">
-
-**craw.io** - we hope diagrams don't make you angry! Or maybe it's a reference to the cleverness of crows? Most likely, it's a slip of the finger to the key below. 
-=======
 Finding a typo-proof word that is also pronounced the same throughout the world is simple, how sensible companies fail to stop users from mis-spelling product names eludes us. diagrams.net and draw.io demonstrate the right way to do this, clearly. However, a small, minor, fractional, minority of users regularly fall asleep on their keyboards while typing our product name, this is the only rational explaination.
 <br />[<img src="/assets/img/blog/freehand-crow.png" style="width=100%;max-width:500px;height:auto;" alt="Freehand drawing in diagrams.net on a tablet - click the freehand tool in the toolbar on the left">](/blog/freehand-drawing.html)
 
 **craw.io** - do our diagrams make you angry? Or maybe it's a reference to the cleverness of crows? Do those flithy BPMN shapes make your skin crawl?
->>>>>>> release
 
 **dra.io** - the languages with a close appropriate meaning would be Norwegian (to draw or drag) or Swedish (to pull or tell a story). Or perhaps Yola, the Forth and Bargy dialect (to draw) in County Wexford. We bet you've dropped your lunch under the ``w`` key.
 
@@ -43,14 +36,6 @@ Finding a typo-proof word that is also pronounced the same throughout the world 
 
 **graph.io** - because draw.io is developed by [JGraph](https://github.com/jgraph)? Or is it diagrams.net...
 
-<<<<<<< HEAD
-**drow.io** - flanked by dark elves! Seriously though, the ``aw`` sound in English is difficult in other languages - in Japanese, it is closest to the vowel ``o``. 
-<br />_drow.io may look like it redirects to diagrams.net - but it's your autocorrect fixing the URL without you noticing!_
-
-**ddra.io** - when said aloud, this is suspiciously close to _daedra_. Perhaps we should ask Bethesda if Hermaeus Mora, Jyggalag or Peryite is the patron prince of diagrams. Ooo, an idea - a wabbajack tool for hilarious chaos when teams collaborate!
-
-It's summer, and our brains are a little fried from the recent heatwaves. If you'd like to contribute additional misspellings or propose different meanings for those above, share it with [draw.io on Twitter](https://twitter.com/drawio).
-=======
 **drow.io** - flanked by dark elves? Seriously though, the ``aw`` sound in English is difficult in other languages - in Japanese, it is closest to the vowel ``o``. It seems to be tricky in Spanish, too.
 <br />_drow.io should really redirect to a vector drawing of Drizzt.
 
@@ -59,4 +44,3 @@ It's summer, and our brains are a little fried from the recent heatwaves. If you
 It's summer, we're bored and it's hot. If you'd like to contribute additional misspellings or propose different meanings for those above, share it with [draw.io on Twitter](https://twitter.com/drawio).
 
 How many of these domains will be purchased within a week? You can offer to sell them to us at sales@draw.net.
->>>>>>> release
