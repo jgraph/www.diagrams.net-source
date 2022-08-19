@@ -11,7 +11,7 @@ categories: [news]
 Finding a typo-proof word that is also pronounced the same throughout the world is simple, how sensible companies fail to stop users from mis-spelling product names eludes us. diagrams.net and draw.io demonstrate the right way to do this, clearly. However, a small, minor, fractional, minority of users regularly fall asleep on their keyboards while typing our product name, this is the only rational explaination.
 <br />[<img src="/assets/img/blog/freehand-crow.png" style="width=100%;max-width:500px;height:auto;" alt="Freehand drawing in diagrams.net on a tablet - click the freehand tool in the toolbar on the left">](/blog/freehand-drawing.html)
 
-**craw.io** - do our diagrams make you angry? Or maybe its a reference to the cleverness of crows? Do those flithy BPMN shapes make your skin crawl?
+**craw.io** - do our diagrams make you angry? Or maybe it's a reference to the cleverness of crows? Do those flithy BPMN shapes make your skin crawl?
 
 **dra.io** - the languages with a close appropriate meaning would be Norwegian (to draw or drag) or Swedish (to pull or tell a story). Or perhaps Yola, the Forth and Bargy dialect (to draw) in County Wexford. We bet you've dropped your lunch under the ``w`` key.
 
