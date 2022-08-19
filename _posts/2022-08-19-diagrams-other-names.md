@@ -3,7 +3,7 @@ layout: post
 author: diagrams.net
 slug: diagrams-other-names
 date: 2022-08-19 08:21:00
-title: The many faces for diagrams.net and draw.io
+title: The many faces of diagrams.net and draw.io
 tags: [news]
 categories: [news]
 ---
