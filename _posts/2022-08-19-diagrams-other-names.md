@@ -37,7 +37,7 @@ Finding a typo-proof word that is also pronounced the same throughout the world 
 **graph.io** - because draw.io is developed by [JGraph](https://github.com/jgraph)? Or is it diagrams.net...
 
 **drow.io** - flanked by dark elves? Seriously though, the ``aw`` sound in English is difficult in other languages - in Japanese, it is closest to the vowel ``o``. It seems to be tricky in Spanish, too.
-<br />_drow.io should really redirect to a vector drawing of Drizzt.
+<br />_drow.io should really redirect to a vector drawing of Drizzt._
 
 **ddra.io** - when said aloud, this is suspiciously close to _daedra_. Perhaps we should ask Bethesda if Hermaeus Mora, Jyggalag or Peryite is the patron prince of diagrams? Ooo, an idea - a wabbajack tool for hilarious chaos when teams collaborate!
 
