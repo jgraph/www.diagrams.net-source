@@ -3,13 +3,15 @@ layout: post
 author: diagrams.net
 slug: diagrams-other-names
 date: 2022-08-19 08:21:00
-title: The many names of diagrams.net
+title: Spelling mistakes and typos - there are many names for diagrams.net and draw.io
 tags: [news]
 categories: [news]
 ---
 
 Finding a typo-proof word that is also pronounced the same throughout the world is impossible. diagrams.net and draw.io are no exception to this. Here are the most common ways people have misspelt our applications' names.
+<br />[<img src="/assets/img/blog/freehand-crow.png" style="width=100%;max-width:500px;height:auto;" alt="Different types of hardwood and softwood trees for firewood, and useful firestarters">](/blog/freehand-drawing.html)
 
+**craw.io** - we hope diagrams don't make you angry! Or maybe its a reference to the cleverness of crows? Most likely, it's a slip of the finger to the key below. 
 
 **dra.io** - the languages with a close appropriate meaning would be Norwegian (to draw or drag) or Swedish (to pull or tell a story). Or perhaps Yola, the Forth and Bargy dialect (to draw) in County Wexford. We bet it's rather typing too fast.
 
@@ -39,7 +41,4 @@ Finding a typo-proof word that is also pronounced the same throughout the world 
 
 **ddra.io** - when said aloud, this is suspiciously close to _daedra_. We should ask Bethesda if Hermaeus Mora, Jyggalag or Peryite is the patron prince of diagrams? Ooo, an idea - a wabbajack tool for hilarious chaos when teams collaborate!
 
-**craw.io** - we hope diagrams don't make you angry! Or maybe its a reference to the cleverness of crows? Most likely, it's a slip of the finger to the key below. 
-<br />[<img src="/assets/img/blog/freehand-crow.png" style="width=100%;max-width:500px;height:auto;" alt="Different types of hardwood and softwood trees for firewood, and useful firestarters">](/blog/freehand-drawing.html)
-
-It's summer, and our brains are a little fried from the recent heatwaves. If you'd like to contribute additional misspellings or propose different meanings for those below, share it with draw.io on Twitter.
+It's summer, and our brains are a little fried from the recent heatwaves. If you'd like to contribute additional misspellings or propose different meanings for those below, share it with [draw.io on Twitter](https://twitter.com/drawio).
