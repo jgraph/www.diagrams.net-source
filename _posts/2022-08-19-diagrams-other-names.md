@@ -9,7 +9,7 @@ categories: [news]
 ---
 
 Finding a typo-proof word that is also pronounced the same throughout the world is impossible. diagrams.net and draw.io are no exception to this. Here are the most common ways people have misspelt our applications' names.
-<br />[<img src="/assets/img/blog/freehand-crow.png" style="width=100%;max-width:500px;height:auto;" alt="Different types of hardwood and softwood trees for firewood, and useful firestarters">](/blog/freehand-drawing.html)
+<br /><img src="/assets/img/blog/freehand-crow.png" style="width=100%;max-width:500px;height:auto;" alt="Freehand drawing in diagrams.net on a tablet - click the freehand tool in the toolbar on the left">
 
 **craw.io** - we hope diagrams don't make you angry! Or maybe its a reference to the cleverness of crows? Most likely, it's a slip of the finger to the key below. 
 
@@ -28,7 +28,7 @@ Finding a typo-proof word that is also pronounced the same throughout the world 
 
 
 **dwaw.io** - this brings to mind an old movie ... 
-<br />``    "Mawwiage ... mawwiage is what bwings us togevver, today."``
+<br />``    "Mawwiage ... mawwiage is what bwings us togevvar, today."``
 
 **draw.net** and **diagrams.io** - the inevitable combinations of draw.io and diagrams.net.
 
@@ -37,8 +37,8 @@ Finding a typo-proof word that is also pronounced the same throughout the world 
 **graph.io** - most likely because both diagrams.net and draw.io are developed by us here at [JGraph](https://github.com/jgraph).
 
 **drow.io** - flanked by dark elves! Seriously though, the ``aw`` sound in English is difficult in other languages - in Japanese, it is closest to the vowel ``o``. 
-<br />_drow.io redirects to diagrams.net - it's that popular a misspelling!_
+<br />_drow.io may look like it redirects to diagrams.net - but it's your autocorrect fixing the URL without you noticing!_
 
-**ddra.io** - when said aloud, this is suspiciously close to _daedra_. We should ask Bethesda if Hermaeus Mora, Jyggalag or Peryite is the patron prince of diagrams? Ooo, an idea - a wabbajack tool for hilarious chaos when teams collaborate!
+**ddra.io** - when said aloud, this is suspiciously close to _daedra_. Perhaps we should ask Bethesda if Hermaeus Mora, Jyggalag or Peryite is the patron prince of diagrams. Ooo, an idea - a wabbajack tool for hilarious chaos when teams collaborate!
 
-It's summer, and our brains are a little fried from the recent heatwaves. If you'd like to contribute additional misspellings or propose different meanings for those below, share it with [draw.io on Twitter](https://twitter.com/drawio).
+It's summer, and our brains are a little fried from the recent heatwaves. If you'd like to contribute additional misspellings or propose different meanings for those above, share it with [draw.io on Twitter](https://twitter.com/drawio).
