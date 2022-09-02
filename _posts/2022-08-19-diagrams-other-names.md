@@ -8,16 +8,16 @@ tags: [news]
 categories: [news]
 ---
 
-Finding a typo-proof word that is also pronounced the same throughout the world is simple, how sensible companies fail to stop users from mis-spelling product names eludes us. diagrams.net and draw.io demonstrate the right way to do this, clearly. However, a small, minor, fractional, minority of users regularly fall asleep on their keyboards while typing our product name, this is the only rational explaination.
+Finding a typo-proof word that is also pronounced the same throughout the world is simple, how sensible companies fail to stop users from mis-spelling product names eludes us. diagrams.net and draw.io demonstrate the right way to do this, clearly. However, a small, minor, fractional, minority of users regularly fall asleep on their keyboards while typing our product name, this is the only rational explanation.
 <br />[<img src="/assets/img/blog/freehand-crow.png" style="width=100%;max-width:500px;height:auto;" alt="Freehand drawing in diagrams.net on a tablet - click the freehand tool in the toolbar on the left">](/blog/freehand-drawing.html)
 
-**craw.io** - do our diagrams make you angry? Or maybe it's a reference to the cleverness of crows? Do those flithy BPMN shapes make your skin crawl?
+**craw.io** - do our diagrams make you angry? Or maybe it's a reference to the cleverness of crows? Do those filthy BPMN shapes make your skin crawl?
 
 **dra.io** - the languages with a close appropriate meaning would be Norwegian (to draw or drag) or Swedish (to pull or tell a story). Or perhaps Yola, the Forth and Bargy dialect (to draw) in County Wexford. We bet you've dropped your lunch under the ``w`` key.
 
 **dran.io** - your turn! _(German)_ Seriously, we're not sure how ``n`` slips in for ``w`` as those two keys are usually far from each other in most layouts. Perhaps Maltron 3D keyboard users slipping from the ``a``?
 
-**draq.io** - uncertain, unexpected, indefinable, but riveting. Or perhaps fashionable? Or cut off accidently while typing something longer...
+**draq.io** - uncertain, unexpected, indefinable, but riveting. Or perhaps fashionable? Or cut off accidentally while typing something longer...
 
 **drag.io** - a wonderfully concise description of [how to use diagrams.net and draw.io](/doc/getting-started-editor.html) - drag shapes onto the canvas and drag connectors between them.
 
