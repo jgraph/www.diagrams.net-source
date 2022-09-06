@@ -187,11 +187,6 @@ This configuration produces the following _More Shapes_ dialog when combined wit
 <br /> ``"fontCss": "@font-face { font-family: 'Waltograph'; src:  url(https://fontlibrary.org/assets/fonts/waltograph/23a40698cd1bb84f930b7a0884c134a6/ab260a56f2b852b78f81eac337e0a2fc/WaltographRegular.otf) format('opentype')}" and "customFonts": ["Waltograph”]``
 <br />**Note:** All fonts will be downloaded to the client when they create an image and save the diagram, so the number of custom fonts should be kept to a minimum. The external image service does currently not support custom fonts.
 
-* ``plugins``: Defines an array of plugin URLs that should be loaded with the diagram editor. Plugins are JavaScript files that can modify the editor UI and behaviour. For example, to load the ``text.js`` plugin from a page attachment in Confluence, use the following configuration: ``{"plugins": ["/confluence/download/attachments/720900/text.js?api=v2"]}`` (6.5.4 and later.)
-<br />[Plugin sources can be found in the GitHub project repository](https://github.com/jgraph/drawio/tree/master/src/main/webapp/plugins). This option is ignored if the ``configure=1`` URL parameter is used to configure the editor. Use the short names for the plugins.
-<br />**Confluence Cloud:** use ``{"plugins": ["anon;text"]}``. This is equivalent to the ``p`` URL parameter and limits possible plugins to only [trusted diagrams.net plugins](/doc/faq/plugins.html).
-<br />**Note:** All plugins are only available for the diagrams.net editor, and not the viewer. They are provided as-is, as unsupported examples for developers.
-
 * ``thumbWidth/thumbHeight``: Defines the width and height for the entries in the left panel (6.5.4 and later).
 
 * ``sidebarWidth``: Specifies the initial width of the sidebar.
