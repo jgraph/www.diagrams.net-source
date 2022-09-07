@@ -20,5 +20,3 @@ You can easily uninstall a plugin if you no longer need it.
 4. Click _Apply_ to save your new plugin list.
 5. The confirmation message reminds you that you will need to reload the diagram editor to load only those plugins in your list. Click _OK_, then refresh your browser tab (_Ctrl+R_ or _Cmd+R_).
 <br /><img src="/assets/img/blog/restart-reminder-plugins.png" style="width=100%;max-width:200px;height:auto;" alt="Click OK, then refresh your browser tab to reload the remaining plugins">
-
-_To uninstall a plugin in Confluence, an administrator needs to remove it from the draw.io app's JSON configuration in the Confluence settings._
