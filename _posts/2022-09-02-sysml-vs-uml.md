@@ -149,7 +149,7 @@ Indicate flow directions with solid arrows - basic filled triangle shapes - in t
 
 #### Parametric diagrams
 
-A parametric model is a specialised form of internal block diagram used to analyse metrics for performance, safety, reliability, and measurable physical characteristics.
+A parametric model is a specialised form of internal block diagram used to analyse metrics for performance, safety, reliability, and measurable physical characteristics. _(SysML only)_
 
 Link each constraint via its ports to either a constraint parameter node or another constraint shape. Use the shapes in the _Constraints_ and _Ports and Flows_ categories, and modify, flip and label them as needed to suit your layout.
 <br />[<img src="/assets/img/blog/sysml-parametric-diagram.png" style="width=100%;max-width:600px;height:auto;" alt="Draw SysML parametric diagrams in diagrams.net and draw.io with the SysML shape library">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&page=0&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fsysml-parametric-diagram.drawio)

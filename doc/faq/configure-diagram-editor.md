@@ -13,7 +13,6 @@ These aspects of diagrams.net are configurable in draw.io for Confluence Server/
 * Built-in libraries shown in the left panel
 * Custom libraries shown in the left panel
 * CSS for the editor appearance
-* Plugins to extend the diagram editor _(provided as-is, unsupported examples for developers)_
 * Width and height for entries in the left panel
 * XML for blank diagrams and libraries
 * Global variables
