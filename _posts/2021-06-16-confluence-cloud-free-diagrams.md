@@ -96,6 +96,7 @@ When you [license the draw.io app for your larger Confluence Cloud instance](htt
 * Use the search feature to find shapes.
 * Use the collaborative editing functionality to simultaneously edit a diagram with your teammates.
 * Work with the diagram file's revision history. 
+* Create more than 500 diagrams per Confluence Cloud instance.
 * Display an older version of the diagram when viewing a page.
 * Import PlantUML or Mermaid code to automatically create a diagram. 
 * Import CSV data with formatting options to automatically create a diagram.
