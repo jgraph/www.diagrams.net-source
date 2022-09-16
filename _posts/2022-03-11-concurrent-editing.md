@@ -1,7 +1,7 @@
 ---
 layout: post
 author: diagrams.net
-slug: real-time-collaboration-diagrams.md
+slug: real-time-collaboration-diagrams
 date: 2022-03-11 14:54:00
 title: Collaborate in real time using diagrams.net
 tags: [features]

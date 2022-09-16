@@ -17,3 +17,5 @@ If your organisation qualifies, we will let you know you when your free license 
 2. Stop any trial and remove any existing license, otherwise you may be charged.
 
 After this, draw.io will be shown as unlicensed. This is correct, and your app will work properly as long as your domain is set to be a free license in our systems.
+
+Learn more about [free version of draw.io for Confluence Cloud and what you can unlock if you upgrade](/blog/confluence-cloud-free-diagrams.html)
