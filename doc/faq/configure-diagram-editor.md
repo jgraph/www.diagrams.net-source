@@ -266,6 +266,8 @@ This configuration produces the following _More Shapes_ dialog when combined wit
       * ``"blank"`` : Opens all links in a new window.
       * ``"self"`` : Opens all links in the current window.
 
+**Note:** [Diagram editor plugins](/doc/faq/plugins.html) are not available on Confluence Server or Data Center.
+
 ## Additional options for Confluence Cloud
 
 * ``ui``: Defines a string with the name of the theme for the user interface. Choose one of the following themes: ``kennedy``, ``atlas`` (default), ``dark`` and ``min``.
@@ -341,7 +343,6 @@ The following is an example for a JSON string with default values (if a variable
 		"toolbarStyle": "inline" },
 	"css": "",
 	"fontCss": "",
-	"plugins": [],
 	"thumbWidth": 46,
 	"thumbHeight": 46,
 	"emptyDiagramXml": "<mxGraphModel><root><mxCell id='0'/><mxCell id='1' parent='0'/></root></mxGraphModel>",

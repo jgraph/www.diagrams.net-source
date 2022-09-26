@@ -13,7 +13,7 @@ User story diagrams are quite strongly related to UML use case diagrams, and bot
 
 ## Use case diagrams
 
-A use case diagram all of the ways an end-user interacts with your systems, with all of its pre- and post-conditions, exceptions and alternate paths. These diagrams are used to establish your system requirements, whether that be a software system or an interaction with another person or team. 
+A use case diagram shows all of the ways an end-user interacts with your systems, with all of its pre- and post-conditions, exceptions and alternate paths. These diagrams are used to establish your system requirements, whether that be a software system or an interaction with another person or team. 
 
 UML use case diagrams are not used for scheduling or broad planning purposes as they are highly technical and specific, but instead function as the foundation for a system's technical documentation. 
 <br />[<img src="/assets/img/blog/uml-use-case-example.png" style="width=100%;max-width:500px;height:auto;" alt="An example of a use case diagram">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fuml-use-case-example.drawio)
