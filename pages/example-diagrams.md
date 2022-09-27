@@ -64,7 +64,7 @@ ___
 ### UML diagrams
 
 [<img src="/assets/img/blog/uml-use-case-example.png" style="width=100%;max-width:350px;height:auto;" alt="An example of a use case diagram">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fuml-use-case-example.drawio)
-<br />[UML class diagram](/blog/story-mapping.html) | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/examples/uml-use-case-example.drawio)
+<br />[UML use case diagram](/blog/story-mapping.html) | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/examples/uml-use-case-example.drawio)
 
 [<img src="/assets/img/blog/class-diagram-example.png" style="width=100%;max-width:300px;height:auto;" alt="A class diagram based on the basic class diagram template in diagrams.net">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fclass-diagram-example.drawio)
 <br />[UML class diagram](/blog/uml-class-diagrams.html) | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/examples/class-diagram-example.drawio)
@@ -83,6 +83,9 @@ ___
 
 [<img src="/assets/img/blog/uml-2-5-activity-diagram-example.png" style="width=100%;max-width:350px;height:auto;" alt="Activity diagrams are used to model workflows in various ways">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&page=1&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fuml-activity-example.drawio)
 <br />[Activity diagram](/blog/uml-2-5.html) | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/examples/uml-activity-example.drawio)
+
+<br />[<img src="/assets/img/blog/uml-state-diagram-smart-lock.png" style="width=100%;max-width:350px;height:auto;" alt="An example top-level UML state machine diagram of a smart lock">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&page=0&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fuml-state-diagram-smart-lock.drawio)
+<br />[UML state diagram](/blog/uml-2-5.html) | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/blog/uml-state-diagram-smart-lock.drawio)
 
 ___
 ### Mockups and wireframes
