@@ -86,6 +86,7 @@ If you have started a free trial in your team of more than 10 users and let the 
 
 When you [license the draw.io app for your larger Confluence Cloud instance](https://marketplace.atlassian.com/apps/1210933/draw-io-diagrams-for-confluence?hosting=cloud&tab=overview), you will continue to enjoy the features covered in the post above, in addition to the following:
 
+* Receive product support.
 * Import and export .vsdx files.
 * Drag and drop diagram files into the editor to import them instead of using the menu.
 * Add multiple pages to a diagram.
@@ -96,7 +97,7 @@ When you [license the draw.io app for your larger Confluence Cloud instance](htt
 * Use the search feature to find shapes.
 * Use the collaborative editing functionality to simultaneously edit a diagram with your teammates.
 * Work with the diagram file's revision history. 
-* Create more than 500 diagrams per Confluence Cloud instance.
+* Create more than 100 diagrams per Confluence Cloud instance.
 * Display an older version of the diagram when viewing a page.
 * Import PlantUML or Mermaid code to automatically create a diagram. 
 * Import CSV data with formatting options to automatically create a diagram.
