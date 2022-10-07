@@ -4,22 +4,20 @@ layout: page
 permalink: /example-diagrams.html
 ---
 
-You can create a wide variety of diagrams for many different industries using diagrams.net and draw.io with our large template library and vast shape libraries.
+You can create a wide variety of diagrams for many different industries using diagrams.net and our draw.io apps with our extensive [template library](/blog/template-diagrams.html) and vast shape libraries.
 
-The diagrams on this page are all hosted in our [drawio-diagrams repository on Github](https://github.com/jgraph/drawio-diagrams). 
-
-1. **Open a diagram:** Click on a diagram image on this page to enlarge it in the diagrams.net viewer. Click on the pencil in the viewer toolbar to open the diagram in the editor.
-2. **Learn more about that diagram type:** Click on the diagram type link below the image to view a help topic or related blog post.
-3. **Download:** Right-click on the _Download file_ link and save the ``.drawio`` diagram file from [our Github repository](https://github.com/jgraph/drawio-diagrams) to your device. 
+1. **Open a diagram:** Click on a diagram image on this page to enlarge it in the diagrams.net viewer. Click on the pencil in the viewer toolbar to open it in the editor.
+2. **Learn more about that diagram type:** Click on the diagram type link below each image to view a related blog post.
+3. **Download:** Right-click on the _Download_ link and save the ``.drawio`` diagram file from [our Github repository](https://github.com/jgraph/drawio-diagrams) to your device. 
 
 ___
 ## Diagram types <!-- omit in toc -->
 
-This page contains a long gallery of example diagrams created using app.diagrams.net. 
+All these diagrams were created using [app.diagrams.net](https://app.diagrams.net)
 
-Where noted, template diagrams are available in the extensive built-in template library (_Arrange > Insert > Template_).
+Where noted, template diagrams are available in the built-in template library (_Arrange > Insert > Template_).
 
-Click on a link to jump to the diagram type you are interested in.
+Use this table of contents to jump to the diagram type you are interested in.
 
 - [Software development and agile](#software-development-and-agile)
   - [UML diagrams](#uml-diagrams)
