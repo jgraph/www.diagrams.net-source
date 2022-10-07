@@ -3,7 +3,7 @@ layout: post
 author: diagrams.net
 slug: uml-use-case-diagrams
 date: 2022-09-26 09:43:00
-title: How to create UML use case diagrams
+title: Draw a UML use case diagram
 tags: [shape libraries, uml]
 categories: [use-cases, templates, shape-libraries]
 ---
