@@ -4,6 +4,15 @@ layout: page
 permalink: /features.html
 ---
 
+diagrams.net and our draw.io branded Atlassian integrations are the leading solution for web based sketching and diagramming functionality.
+- [Keep your diagram data secure](#keep-your-diagram-data-secure)
+- [Diagram wherever you want](#diagram-wherever-you-want)
+  - [Integrate diagrams with other software](#integrate-diagrams-with-other-software)
+- [Collaborate in real-time with shared cursors](#collaborate-in-real-time-with-shared-cursors)
+- [Easy-to-use diagram editor](#easy-to-use-diagram-editor)
+- [Many advanced tools](#many-advanced-tools)
+- [Create a wide range of diagrams](#create-a-wide-range-of-diagrams)
+
 ## Keep your diagram data secure
 
 diagrams.net and our draw.io apps for various platforms do not store your diagram data - our editor is a [unique security-first diagramming tool](/blog/data-protection.html). 
@@ -63,6 +72,8 @@ diagrams.net and and our draw.io apps work just like the office and drawing tool
 
 **Import and export:** Drag and drop a file to [import a diagram](/doc/faq/import-diagram.html), including many other [diagram formats](/blog/import-formats.html) and continue editing. Publish and [export to many formats](/doc/faq/export-diagram.html). 
 <br /><img src="/assets/img/blog/import-file.gif" style="width=100%;max-width:500px;height:auto;" alt="Import diagrams into an existing diagram in two different ways">
+
+Read more about [new and useful editor features in our blog](/blog/features.html). 
 
 ## Many advanced tools
 

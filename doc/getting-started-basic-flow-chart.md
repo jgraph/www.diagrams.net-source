@@ -4,21 +4,24 @@ layout: page
 categories: [features]
 ---
 
-You can create many different types of diagrams with diagrams.net. One of the easiest ones to start with to learn how to use the diagram editor is a basic flow chart which documents a process.
+You can create many different types of diagrams with diagrams.net. To learn how to use the diagram editor, let's start with a basic [flowchart](/example-diagrams.html#flowcharts) to documents a process.
 
 Flow charts let you visually describe a process or system. The shapes and very short labels let readers quickly understand what they need to do.
 
-There are many different types of flow charts, ranging from the very simple to complex, including process flow and workflow diagrams, decision trees, data flow diagrams, swimlane flow charts and
+[<img src="/assets/img/blog/tutorial-new-diagram-header.png" style="width=100%;max-width:90px;" alt="Create a new diagram in diagrams.net">](#create-a-new-blank-diagram) [<img src="/assets/img/blog/tutorial-add-shapes-header.png" style="width=100%;max-width:90px;" alt="Add shapes in the diagrams.net editor">](#add-shapes-to-the-drawing-canvas) [<img src="/assets/img/blog/tutorial-edit-shapes-header.png" style="width=100%;max-width:90px;" alt="Edit shapes on the diagrams.net drawing canvas">](#move-resize-rotate-and-delete-shapes) [<img src="/assets/img/blog/tutorial-connect-shapes-header.png" style="width=100%;max-width:90px;" alt="Draw connectors between shapes in the diagrams.net editor">](#connect-shapes) [<img src="/assets/img/blog/tutorial-add-labels-header.png" style="width=100%;max-width:90px;" alt="Add labels to shapes and connectors in diagrams.net">](#connect-shapes) [<img src="/assets/img/blog/tutorial-style-diagram-header.png" style="width=100%;max-width:90px;" alt="Style shapes, connectors and text in diagrams.net">](#style-your-flow-chart) [<img src="/assets/img/blog/tutorial-export-header.png" style="width=100%;max-width:90px;" alt="Export and share your diagram created in diagrams.net">](#connect-shapes)
 
-Follow this tutorial to create and style a basic flow chart and learn to use the diagrams.net editor.
+**Tutorial:** Create and style a _basic flow chart_ to learn the diagrams.net editor.
 
-* [Create a new blank diagram](#create-a-new-blank-diagram)
-* [Add shapes to the drawing canvas](#add-shapes-to-the-drawing-canvas)
-* [Move, resize, rotate, and delete shapes](#move-resize-rotate-and-delete-shapes)
-* [Connect shapes](#connect-shapes)
-* [Add labels](#add-labels)
-* [Add styles to your shapes and connectors](#style-your-flow-chart)
-* [Export and share your flow chart](#export-and-share-your-flow-chart)
+- [Create a new blank diagram](#create-a-new-blank-diagram)
+- [Add shapes to the drawing canvas](#add-shapes-to-the-drawing-canvas)
+- [Move, resize, rotate, and delete shapes](#move-resize-rotate-and-delete-shapes)
+- [Connect shapes](#connect-shapes)
+  - [Draw a floating connector](#draw-a-floating-connector)
+  - [Draw a fixed connector](#draw-a-fixed-connector)
+  - [Change the path of a connector](#change-the-path-of-a-connector)
+- [Add labels](#add-labels)
+- [Style your flow chart](#style-your-flow-chart)
+- [Export and share your flow chart](#export-and-share-your-flow-chart)
 
 ## Create a new blank diagram
 
@@ -31,6 +34,7 @@ Follow this tutorial to create and style a basic flow chart and learn to use the
 4. In the template manager, enter a filename for your flow chart, ensure _Blank Diagram_ is selected, then click _Create_.
 <br /><img src="/assets/img/blog/basic-flow-create-blank-diagram.png" style="width=100%;max-width:300px;height:auto;" alt="Enter a filename, select Blank Diagram, and click Create">
 
+<br />
 ## Add shapes to the drawing canvas
 
 There are a number of different ways to add shapes to the drawing canvas in diagrams.net.
@@ -51,7 +55,7 @@ There are a number of different ways to add shapes to the drawing canvas in diag
 
 If you added multiple shapes by simply clicking on them in the shape library, you can connect them later. See [how to connect shapes below](#connect-shapes).
 
-### Shapes for flow charts
+**Shapes for flow charts**
 
 There are many different shapes used to visualise processes in a flow chart.
 
@@ -71,7 +75,7 @@ In addition to the shapes in the _General_ and _Advanced_ shape libraries, you c
 <br /><img src="/assets/img/blog/shape-library-dialog.png" style="width=100%;max-width:300px;height:auto;" alt="Select the shape libraries you want to work with in diagrams.net">
 3. Click _Apply_. The _Flowchart_ shape library is now available in the left panel.
 
-
+<br />
 ## Move, resize, rotate, and delete shapes
 
 To select a shape, click on it. To [select multiple shapes](/doc/faq/select-multiple-shapes.html), hold down ``Shift`` or ``Cmd`` and click on them.
@@ -92,6 +96,7 @@ If one of the connectors, the arrows between the shapes, is going in the wrong d
 
 **Tip:** Use the _Arrange_ tab to [precisely rotate, reposition and resize shapes](/doc/faq/arrange-tab.html)
 
+<br />
 ## Connect shapes
 
 Connectors are lines that [connect your shapes together](/blog/connect-shapes.html) and may or may not have arrows at one or both ends. There are two types of connectors.
@@ -135,6 +140,7 @@ You can [add and remove waypoints](/blog/waypoints-connectors.html) to make conn
 
 [Learn more about working with and styling connectors](/doc/faq/connectors.html)
 
+<br />
 ## Add labels
 
 Short labels on shapes make it easier to understand a diagram quickly.
@@ -146,7 +152,7 @@ Short labels on shapes make it easier to understand a diagram quickly.
 
 <img src="/assets/img/blog/basic-flow-add-labels.gif" style="width=100%;max-width:500px;height:auto;" alt="Add labels to shapes and connectors in diagrams.net">
 
-### Connector labels
+**Connector labels**
 
 You can add more than one label to a connector - at the source end, the target end, and in the middle.
 
@@ -155,6 +161,7 @@ You can add more than one label to a connector - at the source end, the target e
 
 If you reroute the connector, you may need to update any labels you had manually positioned, but usually the label will move intelligently with the connector.
 
+<br />
 ## Style your flow chart
 
 Once you have finished adding all the shapes, connectors and labels, you can style your flow chart.
@@ -177,6 +184,7 @@ Once you have finished adding all the shapes, connectors and labels, you can sty
 
 **Tip:** When you edit the text itself, you will see additional HTML formatting - add a numbered or bulleted list, indent your text, use superscript or subscript text and more.
 
+<br />
 ## Export and share your flow chart
 
 You can share your diagram in a number of different ways via the _File > Export as_ menu. The most common export formats are as images or as a URL.

@@ -10,6 +10,8 @@ As a security-first diagramming app for teams, we provide the diagramming functi
 
 The diagram editor looks the same and offers the same main features no matter where you are using it. You can open a diagram created in one integration in another.
 
+[<img src="/assets/img/blog/tutorial-menu-header.png" style="width=100%;max-width:85px;" alt="The diagrams.net menu">](#menu)[<img src="/assets/img/blog/tutorial-toolbar-header.png" style="width=100%;max-width:98px;" alt="The diagrams.net toolbar">](#toolbar)[<img src="/assets/img/blog/tutorial-shapes-header.png" style="width=100%;max-width:154px;" alt="Shapes and shape libraries in diagrams.net">](#shapes-and-shape-libraries)[<img src="/assets/img/blog/tutorial-canvas-header.png" style="width=100%;max-width:154px;" alt="The diagrams.net drawing canvas">](#drawing-canvas)[<img src="/assets/img/blog/tutorial-format-header.png" style="width=100%;max-width:154px;" alt="The format panel in diagrams.net">](#format-panel)
+
 ## The diagrams.net editor
 
 Like most diagramming apps, the items you see in the toolbar and the panels around the drawing canvas in diagrams.net are context sensitive. Tools and options will be displayed depending on the type of element(s) you have selected on the drawing canvas.
@@ -22,17 +24,22 @@ If you have used diagramming tools before, you will be familiar with the diagram
 
 The sections below cover all of the main diagrams.net editor features.
 
-* [Menu](#menu)
-* [Toolbar](#toolbar)
-* [Shapes and shape libraries](#shapes-and-shape-libraries)
-* [Scratchpad](#scratchpad)
-* [Search shapes](#search-shapes)
-* [Drawing canvas and diagram pages](#drawing-canvas)
-* [Format panel](#format-panel)
-  * [Style tab](#style-tab)
-  * [Text tab](#text-tab)
-  * [Arrange tab](#arrange-tab)
-  * [Drawing canvas and global diagram options](#global-diagram-options)
+- [The diagrams.net editor](#the-diagramsnet-editor)
+  - [Menu](#menu)
+  - [Toolbar](#toolbar)
+  - [Shapes and shape libraries](#shapes-and-shape-libraries)
+    - [Enable/disable shape libraries](#enabledisable-shape-libraries)
+    - [Scratchpad](#scratchpad)
+    - [Search shapes](#search-shapes)
+  - [Drawing canvas](#drawing-canvas)
+    - [Page tabs](#page-tabs)
+  - [Format panel](#format-panel)
+    - [Style tab](#style-tab)
+    - [Text tab](#text-tab)
+    - [Arrange tab](#arrange-tab)
+    - [Global diagram options](#global-diagram-options)
+- [Keyboard shortcuts](#keyboard-shortcuts)
+- [Next step: Draw a diagram](#next-step-draw-a-diagram)
 
 ### Menu
 
@@ -100,7 +107,7 @@ To make creating a diagram easier, enable only the shape libraries that you need
 
 [See how to add shapes to the drawing canvas](#add-shapes-to-the-drawing-canvas)  
 
-### Scratchpad
+#### Scratchpad
 
 The [scratchpad is your personal shape library](/doc/faq/scratchpad.html) where you can add the shapes or groups of shapes that you use the most often.
 
@@ -111,7 +118,7 @@ The [scratchpad is your personal shape library](/doc/faq/scratchpad.html) where 
 
 [_Back to top_](#the-diagramsnet-editor)
 
-### Search shapes
+#### Search shapes
 
 There are so many shapes organised into so many libraries, that they can be hard to find. Type the name of a shape into the shape search field, and you'll get a number of matches. This also finds matching clipart shapes if you are online.
 
@@ -207,3 +214,9 @@ Use the following keyboard shortcuts to work more efficiently with diagrams.net.
 
 [<img src="https://app.diagrams.net/shortcuts.svg" style="width=100%;max-width:600px;;height:auto;" alt="The page and drawing canvas options available in diagrams.net">](https://app.diagrams.net/shortcuts.svg)
 <br />[_View and print these keyboard shortcuts_](https://app.diagrams.net/shortcuts.svg)
+
+## Next step: Draw a diagram
+
+Follow this [basic flowchart tutorial](/doc/getting-started-basic-flow-chart.html) to create your first diagram.
+
+<img src="/assets/img/blog/basic-flow.png" style="width=100%;max-width:200px;height:auto;" alt="The diagram exported as a PNG image">
