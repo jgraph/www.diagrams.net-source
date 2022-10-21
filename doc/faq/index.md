@@ -19,7 +19,6 @@ path: /doc/faq/
 
 
 
-## All FAQs
 Click on one of the category headings below to expand it and see the frequently asked questions. 
 
 ---
