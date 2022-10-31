@@ -55,6 +55,8 @@ This is useful when teams need to create diagrams in the same style, or when the
 
 Now users can open the shared custom library you just stored in Confluence Cloud.
 
+**Note:** draw.io users must have the [correct permissions set in your Confluence instance](/doc/faq/confluence-drawio-config-space-permissions.html) to access these custom shape libraries.
+
 ## Open a shared custom library in draw.io
 
 To open a custom library as a user, first edit or add a new draw.io diagram.

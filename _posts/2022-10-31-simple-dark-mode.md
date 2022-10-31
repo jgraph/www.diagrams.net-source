@@ -2,7 +2,7 @@
 layout: post
 author: diagrams.net
 slug: simple-dark-mode
-date: 2022-10-26 09:24:00
+date: 2022-10-31 09:24:00
 title: Switch to simple or dark mode quickly
 tags: [features]
 categories: [features]

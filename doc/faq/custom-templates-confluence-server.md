@@ -36,3 +36,6 @@ When a user creates a new diagram, or inserts a template diagram, they will see 
 1. Edit a page and add the draw.io macro (type ``{drawio``).
 2. Select a template in the template manager dialog, then click _Create_. A copy of the template diagram will be attached to the page - you can freely edit this diagram without changing the template.
 <br /><img src="/assets/img/blog/custom-templates-template-manager-confluence-server.png" style="width=100%;max-width:400px;height:auto;" alt="Custom templates in the template manager">
+
+
+**Share access to custom templates:** Administrators must [set appropriate **read** permissions for the draw.io config space](/doc/faq/confluence-drawio-config-space-permissions.html) in the Confluence instance so that all draw.io users can access these custom libraries.

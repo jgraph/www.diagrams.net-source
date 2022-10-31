@@ -272,6 +272,8 @@ This configuration produces the following _More Shapes_ dialog when combined wit
 
 * ``ui``: Defines a string with the name of the theme for the user interface. Choose one of the following themes: ``kennedy``, ``atlas`` (default), ``dark`` and ``min``.
 
+[More configuration options for draw.io in Confluence Cloud](/doc/drawio-confluence-cloud-admin.html)
+
 ## Additional options for Quip
 
 * ``mathematicalTypesetting``: Toggles mathematical typesetting using MathJax, which loads JavaScript and fonts from math.diagrams.net and uses exp.diagrams.net for creating images (``true`` or ``false``, where the default is ``true``).
