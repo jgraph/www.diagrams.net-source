@@ -5,9 +5,14 @@ faq: true
 categories: [Confluence Cloud]
 ---
 
-There are several ways Confluence Cloud administrators can make it easier and faster for their users to use draw.io in Confluence Cloud. 
+Administrators can make it easier and faster for their users to use draw.io in Confluence Cloud by providing custom shape libraries, customised colour palettes and custom templates. 
 
-On this page, you'll find instructions for the most common administration tasks, and links to detailed FAQs about draw.io for Confluence Cloud. 
+**Set the correct space permissions for the draw.io config space**
+
+The draw.io app for both Confluence Cloud and Confluence Server stores the files needed to provide custom shape libraries and custom templates to uses in the _draw.io config_ space in your Confluence instance. Administrators must ensure that [all draw.io users have the appropriate **read** permission](/doc/faq/confluence-drawio-config-space-permissions.html) set for that space in order to access these custom libraries.
+
+
+On this page, you'll find instructions for the most common administration tasks and customisation options with links to detailed FAQs about draw.io for Confluence Cloud. 
 
 Jump to a section:
 - [Convert all Gliffy diagrams with the Gliffy mass import tool](#convert-all-gliffy-diagrams-with-the-gliffy-mass-import-tool)
@@ -82,6 +87,7 @@ For example, add your own floorplan template for regularly changing seating arra
 
 * [Solve PDF export problems under Confluence Cloud](/doc/faq/pdf-problems-confluence-cloud.html)
 * [Resolve a Diagram not Found error](/doc/faq/diagram-not-found-drawio-confluence-cloud.html)
+* [Fix permissions problems for custom shape libraries and templates](/doc/faq/confluence-drawio-config-space-permissions.html)
 
 ## Administration and licensing
 
