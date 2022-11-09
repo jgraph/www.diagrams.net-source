@@ -46,8 +46,8 @@ Our mission statement is __“provide free, high quality diagramming software fo
 <br>
 <code>
   draw.io AG<br>
-  Poststrasse 6<br>  
-  6302 Zug<br>
+  Baarerstrasse 112<br>  
+  6300 Zug<br>
   Switzerland<br>
 </code>
 <code>
