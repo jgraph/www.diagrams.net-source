@@ -13,7 +13,7 @@ Sequence diagrams show the order of messages that are passed between elements of
 
 Also known as system sequence diagrams, they are one of the main types of UML diagrams. They are used to plan the development or extension of a software product and complement [UML class diagrams](/blog/uml-class-diagrams.html), showing which class data is passed between which elements. 
 
-Sequence diagrams extend use-case diagrams - they model the series of events that a scenario or use-case must execute. They are are closer to the actual code as they show all cross-system messages. However, they are still programming language neutral, and thus above the level of actual code.
+Sequence diagrams extend [use-case diagrams](/blog/uml-use-case-diagrams.html) - they model the series of events that a scenario or use-case must execute. They are are closer to the actual code as they show all cross-system messages. However, they are still programming language neutral, and thus above the level of actual code.
 
 
 ## How to read a UML sequence diagram
@@ -112,7 +112,9 @@ The type of sequence fragment is written in the top left of the frame shape.
 * **ref** - A fragment that refers to a sub-sequence drawn in another diagram, [ideally linked to another diagram page](/blog/multiple-page-diagrams.html). Set the _Lanecolor_ in the _Style_ tab for this frame shape to white to cover over the underlying sequence details and make this reference fragment stand out from other frame shapes.
 
 
-## Other UML interaction diagram types
+## Other UML behaviour diagram types
+
+Behaviour diagrams in UML are grouped into four types, [activity diagrams](/blog/uml-activity-diagrams), [use-case diagrams](/blog/uml-use-case-diagrams.html), [state diagrams](/blog/uml-state-diagrams.html) and the sub-group of interaction diagrams.
 
 Sequence diagrams are the most common type of interaction diagram, modelling the behaviour of a system using the UML notation.
 
@@ -126,3 +128,4 @@ There are three other types of interaction diagrams.
 **Communication diagrams** - Also known as collaboration diagrams, are an alternative view of sequence diagrams, looking more like a flowchart.
 
 **Timing diagrams** - A form of sequence diagram that uses swimlanes and a single line to indicate how long each part of the sequence takes to complete.
+

@@ -20,6 +20,10 @@ If you need help or support when using diagrams.net, select the _Help_ menu abov
 * **Quick Start Video:** Get started with the main features of diagrams.net in this short introductory video.
 * **Support:** Learn how to access support when you are using diagrams.net online, the desktop build, the integrations with Google or Microsoft Office apps, or for the draw.io app in the Atlassian ecosystem.
 
-You can also access the GitHub repository (_Fork me on GitHub_) or download the standalone app for Windows, macOS or Linux (_Get Desktop_).
+You can also access the GitHub repository (_Fork me on GitHub_) or download the standalone app for Windows, macOS or Linux ([_Get Desktop_](https://get.diagrams.net/)).
 
 If you do need to contact support, you will be asked to include the version number - this is the last entry in the Help menu, for example ``13.6.5``.
+
+## Related
+
+We post occasional updates on features and website content on Mastodon at [https://hostux.social/@drawio](https://hostux.social/@drawio).

@@ -66,6 +66,7 @@ In marketing, [story mapping](/blog/story-mapping.html) captures _user stories_ 
 UML is a standard with many different types of diagrams used to model the behaviour of a system, its data flow, states, and structure.
 
 * [UML class diagrams](/blog/uml-class-diagrams.html)
+* [Activity diagrams](/blog/uml-activity-diagrams.html)
 * [Sequence diagrams](/blog/sequence-diagrams.html)
 * [State machine diagrams](/blog/uml-state-diagrams.html)
 * Examples of [component, composite structure, deployment and activity diagrams](/blog/uml-2-5.html#example-uml-diagrams)

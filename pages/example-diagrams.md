@@ -259,6 +259,8 @@ ___
 [<img src="/assets/img/blog/timeline-infographic-shapes-vertical.png" style="width=100%;max-width:500px;height:auto;" alt="Draw vertical timelines using the infographic shape libraries in diagrams.net">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Ftimeline-infographic-shapes-vertical.drawio)
 <br />[Vertical timelines](/blog/timeline-diagrams.html) using shapes from the infographic shape library | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/examples/timeline-infographic-shapes-vertical.drawio)
 
+[<img src="/assets/img/blog/labels-example-project-phases.png" style="width=100%;max-width:300px;height:auto;" alt="Project phases and the teams involved">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fproject-phase-timeline.drawio)
+<br />Project phases and the teams involved | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/blog/project-phase-timeline.drawio)
 
 ___
 ### Infographics 
@@ -313,6 +315,15 @@ ___
 
 [<img src="/assets/img/blog/maths-examples.png" style="width=100%;max-width:300px;height:auto;" alt="Mathematical typesetting will render equations in text shapes, even when they are in tables">](https://viewer.diagrams.net/?lightbox=1&page=2&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fmaths-examples.drawio)
 <br />Formula reference table containing [mathematical typesetting](blog/maths-in-diagrams.html) | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/examples/maths-examples.drawio)
+
+[<img src="/assets/img/blog/labels-example-optics.png" style="width=100%;max-width:250px;height:auto;" alt="Distance shapes and partial rectangles to label a focal length diagram">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Ffocus-lens.drawio)
+<br />Focal length calculation | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/blog/focus-lens.drawio)
+
+[<img src="/assets/img/blog/labels-example-prism.png" style="width=100%;max-width:250px;height:auto;" alt="A prism labelled with arc shapes and connectors">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Flight-spectrum.drawio)
+<br />Light through a prism | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/blog/light-spectrum.drawio)
+
+[<img src="/assets/img/blog/labels-example-horse.png" style="width=100%;max-width:250px;height:auto;" alt="A horse image labelled with shapes in diagrams.net">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fhorse-labelled.drawio)
+<br />Parts of a horse | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/blog/horse-labelled.drawio)
 
 ___
 ## Floorplans
