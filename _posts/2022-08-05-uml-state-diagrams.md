@@ -145,5 +145,6 @@ What problems can you discover by analysing these diagrams?
 Learn more about different UML diagrams: 
 * [UML use case diagrams](/blog/story-mapping.html) can also be used for story mapping.
 * [UML class diagrams](/blog/uml-class-diagrams.html) detail the data and methods in each class.
+* [Activity diagrams](/blog/uml-activity-diagrams.html) show the actions and control flows needed to complete a process flow.
 * [Sequence diagrams](/blog/sequence-diagrams.html) show the order of messages passed between the elements of a system.
-* [Component, composite structure, package and activity diagram shapes](/blog/uml-2-5.html) were updated with the UML 2.5 shape library.
+* [Component, composite structure and package](/blog/uml-2-5.html) were updated with the UML 2.5 shape library.

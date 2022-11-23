@@ -76,7 +76,7 @@ A use case diagram all of the ways an end-user interacts with your systems. _(Sa
 
 _Activity diagrams in SysML use slightly different shapes to those in UML, but the concepts are the same._
 
-In SysML [activity diagrams](/blog/uml-2-5), steps showing both the flow of control (solid connector) and the flow of data (dashed connector) are arranged into swimlanes. Regions can show events, group sub-activities, or note interrupts. 
+In SysML [activity diagrams](/blog/uml-activity-diagrams.html), steps showing both the flow of control (solid connector) and the flow of data (dashed connector) are arranged into swimlanes. Regions can show events, group sub-activities, or note interrupts. 
 <br />[<img src="/assets/img/blog/sysml-activity-diagram.png" style="width=100%;max-width:650px;height:auto;" alt="Activity diagrams are used to model workflows in various ways">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&page=0&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fsysml-activity-diagram.drawio)
 
 Use the shapes in the _SysML Activities_ category to build your activity diagram. The ports on activity shapes - the small squares - specify where data parameters or objects are required.
