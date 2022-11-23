@@ -2,7 +2,7 @@
 layout: post
 author: diagrams.net
 slug: uml-activity-diagrams
-date: 2022-11-22 07:43:00
+date: 2022-11-23 09:43:00
 title: Draw UML activity diagrams
 tags: [shape libraries, uml]
 categories: [use-cases, templates, shape-libraries]
