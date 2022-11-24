@@ -34,6 +34,7 @@ While [UML has a well-defined notation](https://www.omg.org/spec/UML/2.5.1/About
     - [Draw class relationships in diagrams.net](#draw-class-relationships-in-diagramsnet)
   - [Notes in complex UML class diagrams](#notes-in-complex-uml-class-diagrams)
 - [Related](#related)
+  - [Other types of UML diagrams](#other-types-of-uml-diagrams)
 
 
 
@@ -194,3 +195,17 @@ Generate a PlantUML diagram in the same way: select _Arrange > Insert > Advanced
 **Note:** If you are using the Sketch whiteboard theme, click ``+`` in the toolbar, then select _Advanced_ to see the Mermaid and PlantUML options.
 
 <img src="/assets/img/blog/sketch-insert-advanced-mermaid.png" style="width=100%;max-width:600px;height:auto;" alt="Insert a diagram generated from Mermaid syntax via the Sketch online whiteboard toolbar">
+
+### Other types of UML diagrams
+
+The UML specification details notation for many different types of diagrams to model the behaviour and data of a system in many different ways.
+
+[<img src="/assets/img/blog/uml-2-5-diagram-overview.png" style="width=100%;max-width:500px;height:auto;" alt="Diagram types defined in UML 2.5">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fconcept-map-uml-diagrams-overview.drawio)
+
+Learn more about the following UML diagrams:
+
+* [UML activity diagrams](/blog/uml-activity-diagrams.html)
+* [Use case diagrams](/blog/uml-use-case-diagrams.html)
+* [Sequence diagrams](/blog/sequence-diagrams.html)
+* [State machine diagrams](/blog/uml-state-diagrams.html)
+* Examples of [component, composite structure and deployment diagrams](/blog/uml-2-5.html#example-uml-diagrams)

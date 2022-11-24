@@ -1,36 +1,49 @@
 ---
-title: Migrate draw.io between Confluence Instances
+title: Migrate draw.io from one Confluence instance to another
 layout: page
 faq: true
 categories: [Confluence Data Center and Server, Confluence Cloud]
 ---
 
-You can migrate from your source Confluence with draw.io installed to your target Confluence instance.
+You can migrate the draw.io diagrams from your source Confluence instance to your target Confluence instance via the draw.io app administration.
 
-The draw.io data in Confluence consists of two parts:
+draw.io data in Confluence consists of two parts:
 * attachments on the pages that contain the diagram data
 * draw.io macros in the pages that use the attachments
 
-Note that no diagram data is stored outside of your Confluence instance, whether that be Server, DC or Cloud.
+Diagram shapes that link to a Confluence page, somewhere in your instance contain the ``Page ID`` of the target page. 
 
-Both the macros and attachments will port as part of a standard Confluence to Confluence migration.
+When creating pages on a new instance, those Page IDs will change. Therefore to update the links in those diagrams so they point to the right pages in the new instance, we must update those Page IDs. 
 
-**Important:** To ensure links inside diagrams work after migrating, you must perform the export and import steps detailed below. Links in diagrams to Confluence pages contain the page ID of the page. Page names are not used since these break when a page is renamed. Migrating to another Confluence instance will change all of the page ID values, breaking these links.
+In the draw.io app administration, first _export_ the Page IDs from your source instance, and then in your target instance, _import_ the Page IDs in the draw.io app administration. 
 
-## Use the draw.io Page IDs Export tool
+This works in the same way for all types of Confluence instances, Server, DC or Cloud. 
 
-Save where each link in a diagram points to by exporting the Page IDs.
+* Note that no diagram data is stored outside of your Confluence instance during this process, whether that be Server, DC or Cloud.
 
-1. Go to your Confluence administration, and select _draw.io Configuration_ in the left panel, then select the _Page IDs Export_ tab.
-2. Select the appropriately target as the _Export target_, then click _Start Export_.
-<br /><img src="/assets/img/blog/page-ids-export-confluence-cloud.png" style="max-width:100%;height:auto;" alt="To make sure links in diagrams continue to work, export the page IDs from Confluence to correctly migrate">
-3. When the export has finished, you'll see a mapping in the text field below. Select all of this text, copy and paste it into a text editor and save it.
+* Both the macros and attachments will port as part of a standard Confluence to Confluence migration. The import and export of Page IDs is only required to update in-diagram links.
 
-## Import the Page IDs into target Confluence
 
-Restore the link targets in your diagrams by importing the page IDs.
+## Example Page ID migration
 
-1. As an administrator, click on the gear icon, then on _General configuration_.
-2. Under the _draw.io add-on_ heading, select _Configuration_, then select the _draw.io import_ tab.
-3. Copy the contents of that text file, then paste it into the large text field to _Import draw.io data from another Confluence instance_, then click _Start import_.
-<br /><img src="/assets/img/blog/import-drawio-data-confluence-server.png" style="max-width:100%;height:auto;" alt="Import draw.io diagram data from another Confluence instance">
+We'll use an example of migrating draw.io from a Confluence Server/Data Center instance to Confluence Cloud.
+
+**Step 1: Export the Page IDs from your source Confluence Server instance**
+
+Export and save the Page IDs used in diagrams that contain a link to a Confluence page.
+
+1. Go to your Confluence Server/DC administration, and select _draw.io Configuration_ in the left panel, then select the _``Page IDs Export``_ tab.
+2. Click _Export data_ and wait until it the process completes.
+<br /><img src="/assets/img/blog/confluence-server-export-pageids.png" style="max-width:100%;height:auto;" alt="To make sure links in diagrams continue to work, export the page IDs from Confluence to correctly migrate">
+1. Once the processing is done, click _Download Data_ to save the Page ID mapping file to your local device.
+   
+
+**Step 2: Import the Page IDs into your target Confluence Cloud instance**
+
+Restore the link targets in your draw.io diagrams in the new Confluence Cloud instance by importing the Page IDs.
+
+1. Go to your Confluence Cloud administration, and select _draw.io Configuration_ in the left panel, then select the _``Page IDs Import``_ tab.
+2. Click _Start import_, select the file you previously saved to your local device, and select _Upload_. Wait until the import is complete.
+<br /><img src="/assets/img/blog/confluence-cloud-import-pageids.png" style="max-width:100%;height:auto;" alt="Import draw.io diagram data from another Confluence instance">
+
+Now, those diagrams that contained links should send you do the correct page in your new Confluence Cloud instance.

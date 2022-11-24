@@ -18,11 +18,11 @@ Swimlane diagrams, flowcharts and cross-functional flowcharts are used throughou
 
 Visually separating the steps in a process and showing who is responsible for completing those steps makes the information easier to understand, leading to less confusion between teams. 
 
-Specialised types of process diagrams are used in software engineering to document both the data flow and the flow of control in and between software systems: UML activity diagrams, sequence diagrams, interaction diagrams, data flows, use case diagrams, and so on.
+Specialised types of process diagrams are used in software engineering to document both the data flow and the flow of control in and between software systems: [UML activity diagrams](/blog/uml-activity-diagrams.html), [sequence](/blog/sequence-diagrams.html) and other interaction diagrams, data flows, [use case diagrams](/blog/uml-use-case-diagrams.html), and so on.
 
 ## Swimlane diagrams
 
-Swimlane diagrams add context to your flowcharts where the steps in you process are typically grouped by team responsibilities. BPMN diagrams are a form of swimlane diagram, where process steps are arranged by business unit, with space often left between to show when documents are created or data is stored.
+Swimlane diagrams add context to your flowcharts where the steps in you process are typically grouped by team responsibilities. [BPMN diagrams](/blog/bpmn-2-0.html) are a form of swimlane diagram, where process steps are arranged by business unit, with space often left between to show when documents are created or data is stored.
 
 diagrams.net provides you with a simple swimlane flowchart to get you started. Get comfortable with swimlanes by using the template and explore how to add and connect shapes in the flow, move shapes between swimlanes, and add and remove swimlanes. 
 
