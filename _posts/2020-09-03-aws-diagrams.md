@@ -109,7 +109,7 @@ You can use the connector shapes available in the AWS / Arrows library, but it i
 2. If you want it to be fixed at the other end, drop it on a similar cross on your target shape.
 <br /><img src="/assets/img/blog/aws-example-fixed-connector.png" style="width=100%;max-width:200px;height:auto;" alt="Add a fixed connector by clicking and dragging from one of the small crosses that appear when you hover over an unselected shape">
 
-[Learn more about working with connectors in diagrams.net]()
+[Learn more about working with connectors in diagrams.net](/doc/faq/connectors.html)
 
 **Note:** Most of the AWS shapes that aren't used for indicating groups do not have fixed connection points enabled. You can add your own fixed connection points.
 
@@ -158,6 +158,7 @@ Save the time you'd normally spend exporting your diagram to an image format, th
 * [Google Docs](/doc/faq/google-docs-diagrams.html)
 * [Microsoft Word, Excel and Powerpoint](/doc/faq/microsoft-office-diagrams.html)
 * [Google Sites](/doc/faq/embed-diagrams-google-sites.html)
-* [GitHub markdown pages](/_posts/2020-08-24-github-diagrams.html)
+* [GitHub markdown pages](/blog/github-diagrams.html)
+* [Notion](/blog/embed-diagrams-notion.html)
 
 <img src="/assets/img/blog/aws-example-embed-google-docs.png" style="max-width:100%;height:auto;" alt="Embed your diagram in your system documentation in Google Docs">
