@@ -11,9 +11,11 @@ draw.io data in Confluence consists of two parts:
 * attachments on the pages that contain the diagram data
 * draw.io macros in the pages that use the attachments
 
-Diagram shapes that link to a Confluence page, somewhere in your instance contain the ``Page ID`` of the target page. 
+**Diagrams with links on shapes** that link to a Confluence page, somewhere in your instance contain the ``Page ID`` of the target page. 
 
-When creating pages on a new instance, those Page IDs will change. Therefore to update the links in those diagrams so they point to the right pages in the new instance, we must update those Page IDs. 
+**An embedded diagram using the draw.io embed macro** stores the ``Page ID`` of the page where the original diagram file is attached in the macro.
+
+When creating pages on a new instance, those ``Page IDs`` will change. Therefore, to update the links in those diagrams and embed macros so they point to the right pages in the new instance, we must update those Page IDs. 
 
 In the draw.io app administration, first _export_ the Page IDs from your source instance, and then in your target instance, _import_ the Page IDs in the draw.io app administration. 
 
@@ -46,4 +48,4 @@ Restore the link targets in your draw.io diagrams in the new Confluence Cloud in
 2. Click _Start import_, select the file you previously saved to your local device, and select _Upload_. Wait until the import is complete.
 <br /><img src="/assets/img/blog/confluence-cloud-import-pageids.png" style="max-width:100%;height:auto;" alt="Import draw.io diagram data from another Confluence instance">
 
-Now, those diagrams that contained links should send you do the correct page in your new Confluence Cloud instance.
+Now, those diagrams that contained links should send you do the correct page in your new Confluence Cloud instance. And embedded diagrams should display correctly.
