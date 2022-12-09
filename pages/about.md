@@ -7,7 +7,7 @@ permalink: /about.html
 
 diagrams.net/draw.io is an open source technology stack for building diagramming applications, and the world’s most widely used browser-based end-user diagramming software.
 
-diagrams.net is a trademark and draw.io is a registered trademark of JGraph Ltd. JGraph Ltd is a company registered in England that develops and owns the software, runs the diagrams.net and draw.io sites and owns the diagrams.net and draw.io brands.
+diagrams.net is a trademark and draw.io is a registered trademark of JGraph Ltd and draw.io AG. JGraph Ltd is a company registered in England, draw.io AG is a company registered in Switzerland. Jointly, these companies develop and own the software, run the diagrams.net and draw.io sites and own the diagrams.net and draw.io brands.
 
 We promise you we won’t hide your data from you and will always give you some way to open and edit that data, at no cost. When companies pay us money it should be because we add value, not because they are locked in.
 
@@ -31,6 +31,7 @@ Our mission statement is __“provide free, high quality diagramming software fo
 
 * By picking one commercial ecosystem to charge for the application where the host product is pay-for and the profit margins greatest, and that was the Atlassian ecosystem. Note that you still control access to your data on Confluence and Jira, we don't resort to locking your data away, just because it's a commercial platform.
 
+<br>
 <code>
   JGraph Ltd<br>
   Artisans' House,<br>  
@@ -41,4 +42,14 @@ Our mission statement is __“provide free, high quality diagramming software fo
 </code>
 <code>
   JGraph Ltd is a private limited company registered in England #04051179<br>
+</code>
+<br>
+<code>
+  draw.io AG<br>
+  Baurstrasse 38<br>  
+  8008 Zürich<br>
+  Switzerland<br>
+</code>
+<code>
+  CHE-210.604.548<br>
 </code>
