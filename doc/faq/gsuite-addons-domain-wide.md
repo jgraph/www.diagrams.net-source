@@ -17,12 +17,3 @@ As a Google Workplace (G Suite) administrator, you can install and approve the d
 5. Search for _diagrams.net_, then click on _diagrams.net_ (draw.io).
 6. Click _Domain install_ and accept the terms and permissions that are presented.
 <br /><img src="/assets/img/blog/gsuite-domain-install.png" style="max-width:100%;height:auto;" alt="Install the diagrams.net add-on for Google Workplace domain wide">
-
-## Get the footer removed from the diagram editor
-
-To remove the footer in the diagrams.net editor for all users, complete the following steps.
-
-1. Go to [https://admin.google.com](https://admin.google.com), select _Apps_, then _Marketplace apps_.
-2. Click on _diagrams.net_, then click on _Edit Service_.
-3. Send us a readable screenshot of this page [via the appropriate support channel](https://github.com/jgraph/drawio/wiki/Getting-Support), which must include your Google Workplace domain.
-<br /><img src="/assets/img/blog/gsuite-marketplace-app-edit.png" style="max-width:100%;height:auto;" alt="Send us a screenshot of the add-on setup in your Google Workplace to remove the footer">
