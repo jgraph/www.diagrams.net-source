@@ -77,7 +77,7 @@ Select _Publish_, choose the settings you want to use and click _Create_ to gene
 
 ### Use the modern mode menu
 
-Click on ``...`` (three dots) at the right end of the toolbar to open the settings and import/export menu. 
+Click on ``...`` (three dots) at the right end of the toolbar to open the settings and import/export menu. You can also open another diagram file, work with custom libraries, and print you diagram via this menu. 
 <br /><img src="/assets/img/blog/modern-mode-menu.png" style="width=100%;max-width:200px;height:auto;" alt="Click on the ... to open the menu in diagrams.net in modern mode">
 
 ### Switch to dark mode
