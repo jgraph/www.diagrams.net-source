@@ -74,10 +74,10 @@ The freehand tool works with a mouse or on a touchpad. Plus, it feels very natur
 
 ## Prefer to work on a dark background?
 
-**Use dark mode with the Sketch editor theme:** When you are using the Sketch whiteboard-like editor theme, tap on the menu icon then tap on _Preferences > Dark_ to toggle dark mode on or off.
+**Use dark mode with the Sketch editor theme:** When you are using the Sketch whiteboard-like editor theme, tap on the menu icon then tap on _Settings > Appearance > Dark_ to toggle dark mode on or off.
 <br /><img src="/assets/img/blog/touch-diagrams-dark-mode.png" style="width=100%;max-width:500px;height:auto;" alt="Tap and drag a connector from the direction arrows on one shape and release over another shape to connect the two">
 
-If you want to continue using a more complex editor theme, tap on _Extras > Theme > Dark_ and reload the browser tab. 
+If you want to continue using a more complex editor theme in dark mode, tap on the menu, then select _Settings > Theme > Default_ and reload the browser tab. 
 
 **Note:** When using diagrams.net from your home screen (below), close the application first, then reopen it from your home screen to use the new editor theme.
 

@@ -26,11 +26,6 @@ There are five main themes.
 The Atlas editor theme is used by default in draw.io for Confluence and Jira.
 <br /><img src="/assets/img/blog/theme-atlas.png" style="width=100%;max-width:600px;height:auto;" alt="Choose your favourite UI theme in diagrams.net from Kennedy, Atlas, Dark, Minimal and Sketch">
 
-## Dark theme
-
-The dark theme is the default theme for those who prefer to work on a dark background. 
-<img src="/assets/img/blog/theme-dark.png" style="width=100%;max-width:600px;height:auto;" alt="Choose your favourite UI theme in diagrams.net from Kennedy, Atlas, Dark, Minimal and Sketch">
-
 ## Minimal theme
 
 The Minimal theme allows you to collapse the panels around the drawing canvas for less 'clutter'.
@@ -44,3 +39,7 @@ This is the default theme for the draw.io Board macro in Confluence and makes an
 <br />_**Tip:** Resize your browser to line everything up with the tutorial._
 
 [Customise the draw.io editor theme in Confluence](/doc/faq/custom-ui-confluence-cloud.html) - set a specific theme that all users will use by default.
+
+**Note:** All of these editor themes work with [_Dark_ mode](/blog/dark-mode-diagram-editor.html). To switch between dark and light mode, click on the sun/moon in the top right and enable or disable _Dark_.
+
+If you are using the [simplified Sketch editor theme](/blog/sketch-online-whiteboard.html), switch between dark and light mode via the menu: _Settings > Appearance > Dark_
