@@ -8,19 +8,20 @@ tags: [features]
 categories: [features]
 ---
 
-The Dark mode for the default, Minimal and Sketch editor themes lets you switch diagrams.net and our draw.io apps to match your operating system's dark mode or night mode.
+The Dark mode for the default, Minimal and Sketch editor themes, and the new modern mode, lets you switch diagrams.net and our draw.io apps to match your operating system's dark mode or night mode.
 <br /><img src="/assets/img/blog/dark-mode-default-theme.png" style="width=100%;max-width:500px;height:auto;" alt="Use diagrams.net and draw.io in dark mode when using the default editor theme, as well as with the Minimal and Sketch editor themes">
 
 Go to [app.diagrams.net/?splash=0&ui=dark](https://app.diagrams.net/?splash=0&ui=dark) to open the default editor in Dark mode. 
 
-Alternatively, select Dark mode via _Extras > Theme > Dark_ and reload your browser tab to use this mode permanently. 
+## Switch to dark mode
 
-## Dark mode in Minimal or Sketch
+1. Click on the sun/moon icon in the top right. 
+<br /><img src="/assets/img/blog/mode-switch-classic.png" style="width=100%;max-width:300px;height:auto;" alt="Click on the sun/moon in the top right and switch between classic mode (and the editor themes) and the modern mode, as well as between dark andlight modes">
+2. Click on _Dark_ to switch to dark mode in whatever editor theme you are using. Click on it again to return to light mode. 
 
-When you switch to the Minimal or Sketch editor themes after using dark mode, the diagram editor will automatically enable dark mode in those themes. 
+**Tip:** Automatic should reflect your operating system or browser settings automatically (when they are set to dark mode).
 
-If it doesn't switch automatically, enable dark mode via the menu. Click on the menu and select _Preferences > Theme > Dark_ to toggle dark mode in the Minimal or Sketch editor themes.
-<br /><img src="/assets/img/blog/dark-mode-sketch-theme.png" style="width=100%;max-width:600px;height:auto;" alt="Use diagrams.net and draw.io in dark mode when using the Sketch editor themes">
+If you are using the [simplified Sketch editor theme](/blog/sketch-online-whiteboard.html), switch between dark and light mode via the menu: _Settings > Appearance > Dark_
 
 ## Diagramming in dark mode
 
@@ -59,8 +60,8 @@ To diagram with a dark editor interface, but use a light drawing canvas, set a l
 
 If you find a shape that has an unreadable label when switched to dark mode (with no default style set), please raise an issue in our [JGraph/drawio GitHub repository](https://github.com/jgraph/drawio/issues) _after_ searching to see if there is an existing issue for that problem.
 
-Dark mode is works with three of the [four diagram editor themes](/blog/diagram-editor-theme.html): 
+Dark mode works all of the [four diagram editor themes](/blog/diagram-editor-theme.html): 
 * The default diagram editor.
-* Atlas - matches the draw.io app inside Atlassian's Confluence and Jira. Dark mode is not available for this theme.
+* Atlas - matches the draw.io app inside Atlassian's Confluence and Jira. 
 * Minimal - floating dialogs for all tools.
 * Sketch - [a simple online whiteboard](/blog/sketch-online-whiteboard.html) (advanced features are available via menus and toolbars).

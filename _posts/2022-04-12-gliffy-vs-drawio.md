@@ -8,7 +8,7 @@ tags: [features, Atlassian]
 categories: [features,atlassian]
 ---
 
-TL;DR : Gliffy on Confluence Cloud saves with last write wins, you lose data concurrently editing. draw.io support real-time collaborative editing with cursors.
+TL;DR : Gliffy on Confluence Cloud saves with last write wins, you lose data concurrently editing. draw.io supports real-time collaborative editing with shared cursors.
 
 **Gliffy vs draw.io for Confluence**
 

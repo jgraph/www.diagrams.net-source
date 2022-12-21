@@ -9,14 +9,14 @@ categories: [features]
 ---
 
 You can customise the diagrams.net editor and choose your preferred theme for the user interface. The UI theme controls which editor elements are displayed, minimised or hidden, including the menu, toolbar, panels and dialog boxes.
-<br /><img src="/assets/img/blog/theme-dark.png" style="width=100%;max-width:500px;height:auto;" alt="Choose your favourite UI theme in diagrams.net from Kennedy, Atlas, Dark, Minimal and Sketch">
+<br /><img src="/assets/img/blog/theme-minimal.png" style="width=100%;max-width:600px;height:auto;" alt="Choose your favourite UI theme in diagrams.net from Kennedy, Atlas, Dark, Minimal and Sketch">
 
-There are four different themes to choose from, with a fifth currently under development.
+There are four different _Classic_ editor themes to choose from which work in both dark and light modes.
 
 **Change the editor theme via the diagrams.net menu**
 
 1. Select _File > Extras_ in the diagrams.net menu. 
-2. Choose Default (Kennedy), Minimal, Atlas, Dark, or Sketch (a whiteboard-style theme).
+2. Choose Default, Minimal, Atlas, or Sketch (a whiteboard-style theme).
 3. Reload the diagrams.net editor to start using your selected editor theme. 
 
 _Please visit GitHub to [leave feedback about the Sketch and Minimal editor themes](https://github.com/jgraph/drawio/discussions/1924) and help guide their development._
@@ -36,17 +36,6 @@ If you are used to using the draw.io apps on Atlassian Confluence or Jira, and w
 The Atlas UI theme does not show the diagram's filename or the _Share_ button, but the rest of the editor elements are displayed in roughly the same positions. 
 <br /><img src="/assets/img/blog/theme-atlas.png" style="width=100%;max-width:600px;height:auto;" alt="Choose your favourite UI theme in diagrams.net from Kennedy, Atlas, Dark, Minimal and Sketch">
 <br />_[Start using diagrams.net with the Atlas theme](https://app.diagrams.net/?ui=atlas)_
-
-## Dark 
-
-If you prefer to work on a dark background with light outlines and text, or if you are creating an infographic that will be printed on a dark background, the Dark UI theme is for you - it's a mostly inverted version of the default Kennedy theme.
-
-**When using the Dark theme**
-* **Sharing diagrams:** You may need to change the text label and shape/connector colours to be readable if you plan to share your diagrams with colleagues who use a light UI theme. 
-* **Exporting diagrams:** Also, make sure you set the background of your diagram to transparent before you export it to a PDF or image format, or it will have a black background.
-
-<img src="/assets/img/blog/theme-dark.png" style="width=100%;max-width:600px;height:auto;" alt="Choose your favourite UI theme in diagrams.net from Kennedy, Atlas, Dark, Minimal and Sketch">
-<br />_[Start using diagrams.net with the Dark theme](https://app.diagrams.net/?ui=dark)_
 
 ## Minimal 
 
@@ -71,3 +60,18 @@ Enable the [Sketch editor theme](/blog/sketch-online-whiteboard.html) as you wou
 <br />[<img src="/assets/img/blog/sketch-theme-tutorial.png" style="width=100%;max-width:600px;height:auto;" alt="Sketch theme is currently being developed">](https://app.diagrams.net/?splash=0&ui=sketch&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fboard-visual-tutorial.drawio)
 <br />_[Open this tutorial in the new Sketch theme at diagrams.net](https://app.diagrams.net/?splash=0&ui=sketch&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fboard-visual-tutorial.drawio)_
 <br />_**Tip:** Resize your browser to line everything up with the tutorial._
+
+## Editor theme + Dark mode
+
+If you prefer to work on a dark background with light outlines and text, or if you are creating an infographic that will be printed on a dark background, switch to dark mode in whatever editor theme you are currently using. 
+
+To switch between dark and light mode, click on the sun/moon in the top right, and enable or disable the _Dark_ toggle. 
+
+<img src="/assets/img/blog/dark-mode-switch.png" style="width=100%;max-width:600px;height:auto;" alt="Dark mode works with all editor themes in diagrams.net including Default, Atlas, Minimal and Sketch">
+<br />_[Start using diagrams.net in Dark mode](https://app.diagrams.net/?ui=dark)_
+
+_Automatic_ will automatically match your browser or operating system's dark mode settings.
+
+**When using the Dark theme**
+* **Sharing diagrams:** You may need to change the text label and shape/connector colours to be readable if you plan to share your diagrams with colleagues who use a light UI theme. 
+* **Exporting diagrams:** Also, make sure you set the background of your diagram to transparent before you export it to a PDF or image format, or it will have a black background.
