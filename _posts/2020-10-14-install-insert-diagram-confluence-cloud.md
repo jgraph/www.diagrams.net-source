@@ -8,6 +8,8 @@ tags: [features, Atlassian]
 categories: [features,atlassian]
 ---
 
+If you are looking for information on licensing draw.io for Confluence DC, [there is another article for that](https://www.diagrams.net/doc/faq/license-drawio-confluence-jira-server).
+
 With the draw.io app for Confluence Cloud, you can add diagrams to Confluence Cloud pages and collaboratively edit them. You can reuse one diagram on multiple pages, embed diagrams from cloud storage platforms, and cut down on the time spent maintaining multiple copies of the same diagram.
 
 If you have previously had diagrams in your Confluence Cloud instance, mass-importer tools make it easy to convert all of them in one step from Gliffy and from Lucidchart into draw.io diagrams. You won't lose any data either, the conversion does not modify the original diagram files.
