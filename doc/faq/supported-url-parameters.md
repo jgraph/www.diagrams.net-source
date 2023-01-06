@@ -28,7 +28,6 @@ The following URL parameters are supported in diagrams.net in the precedence ord
 * ``chrome=0``: Uses the chromeless read-only viewer.
 * ``target=[auto|self|frame|blank]``: Opens links in the same window or frame or in a blank window in chromeless mode (``auto`` is the default which opens relative links and anchors in the same window in chromeless mode, and all links in a new window in editing mode).
 * ``highlight=hex``: Specifies the highlight colour (with no leading ``#``) for links in chromeless mode.
-* ``edge=move``:  Disables the handling of connector segments without having previously selected the connector.
 * ``rt=1``: Uses chromeless mode with Google Drive realtime enabled.
 * ``edit=url``: Adds a link for the _Edit_ button in chromeless mode (use ``edit=_blank`` to edit the diagram as a new copy).
 * ``lightbox=1``: Uses the lightbox in chromeless mode (larger zoom, no page visible, chromeless).
