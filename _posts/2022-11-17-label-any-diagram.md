@@ -9,7 +9,7 @@ categories: [shapes, connectors]
 ---
 
 With diagrams.net, you aren't just limited to flows, org charts, network or UML diagrams. You can use braces, brackets, connectors and partial rectangles to add neat labels to any type of diagram.
-<br />[<img src="/assets/img/blog/labels-example-horse.png" style="width=100%;max-width:500px;height:auto;" alt="Label any diagram with bracket shapes and connectors">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fhorse-labelled.drawio)
+<br />[<img src="/assets/img/blog/labels-example-horse.png" style="width=100%;max-width:500px;height:auto;" alt="Label any diagram with bracket shapes and connectors">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fhorse-labelled.drawio)
 
 In this example diagram, the horse is an image on a background [layer](/doc/layers.html), locked to prevent changes. All the labels are on a second layer. The different types of labels we used in this diagram are described below.
 
@@ -33,7 +33,7 @@ In this example diagram, the horse is an image on a background [layer](/doc/laye
 **Show distance:** Search for ``distance`` or use the _Dimension_ shapes in the [_Floorplans_ shape library](/blog/floorplans.html) to indicate distances.
 <br /><img src="/assets/img/blog/label-distance.png" style="width=100%;max-width:350px;height:auto;" alt="Use a crossbar or a dimension shape to indicate distances">
 
-[_View the labelled diagram of a horse in diagrams.net_](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fhorse-labelled.drawio)
+[_View the labelled diagram of a horse in diagrams.net_](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fhorse-labelled.drawio)
 
 ## Brackets and right-angled callouts
 
@@ -42,18 +42,18 @@ Partial rectangle shapes are in the _Misc_ shape library (a sub-library of the G
 * Resize the _partial rectangle_ shape that is missing one side to make square brackets or to show distance/time. Alternatively, use the _Annotation_ shape in the _Flowchart_ shape library.
 
 * Resize the two-sided _partial rectangle_ shape to make neat right-angled call-outs. Rotate the shape by 90 degrees, or flip it horizontally on the _Arrange_ tab of the format panel. 
-<br />[<img src="/assets/img/blog/label-partial-rectangle.png" style="width=100%;max-width:600px;height:auto;" alt="Build a timeline and note which teams are involved in each project phase with partial rectangle shapes and the tools on the Arrange tab of the format panel">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fproject-phase-timeline.drawio)
-<br />[_View this project timeline in diagrams.net_](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fproject-phase-timeline.drawio)
+<br />[<img src="/assets/img/blog/label-partial-rectangle.png" style="width=100%;max-width:600px;height:auto;" alt="Build a timeline and note which teams are involved in each project phase with partial rectangle shapes and the tools on the Arrange tab of the format panel">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fproject-phase-timeline.drawio)
+<br />[_View this project timeline in diagrams.net_](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fproject-phase-timeline.drawio)
 
 ## More examples of labelled diagrams
 
 The following examples were drawn quickly in diagrams.net and labelled using the shapes explained above. You'll see these types of diagrams commonly in textbooks in schools, universities and research institutions.
-<br />[<img src="/assets/img/blog/labels-example-prism.png" style="width=100%;max-width:400px;height:auto;" alt="Use arc shapes to label angles">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Flight-spectrum.drawio)
-<br />[_Open this prism figure in diagrams.net_](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Flight-spectrum.drawio)
+<br />[<img src="/assets/img/blog/labels-example-prism.png" style="width=100%;max-width:400px;height:auto;" alt="Use arc shapes to label angles">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Flight-spectrum.drawio)
+<br />[_Open this prism figure in diagrams.net_](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Flight-spectrum.drawio)
 
 The lens in the second example is constructed with two arc shapes, positioned so they look like they join, then grouped so they can be moved together. The center line is drawn using _Waypoint_ shapes for the focal lengths and plain straight connectors.
-<br />[<img src="/assets/img/blog/labels-example-optics.png" style="width=100%;max-width:500px;height:auto;" alt="Use distance shapes to note distances or regions">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Ffocus-lens.drawio)
-<br />[_Open this focal length figure in diagrams.net_](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Ffocus-lens.drawio)
+<br />[<img src="/assets/img/blog/labels-example-optics.png" style="width=100%;max-width:500px;height:auto;" alt="Use distance shapes to note distances or regions">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Ffocus-lens.drawio)
+<br />[_Open this focal length figure in diagrams.net_](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Ffocus-lens.drawio)
 
 **Tip:** To copy labels with formatting such as those that contain superscript or subscript text, enable the _Formatted Text_ checkbox in the _Text_ tab of the format panel before you paste the label text. If you don't, you will paste the HTML code as the label text.
 <br /><img src="/assets/img/blog/formatted-text-copy-paste.gif" style="width=100%;max-width:400px;height:auto;" alt="Make sure you enable the _Formatted Text checkbox in the Text tab of the format panel before pasting the label text">

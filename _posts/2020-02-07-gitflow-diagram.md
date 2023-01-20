@@ -9,7 +9,7 @@ categories: [use-cases, templates]
 ---
 
 It's easier to show new development team members your project's branch structure in your Git repository visually than to describe it in words. Some platforms may illustrate this using built-in tools. If you are using a platform without a convenient visual representation, it's easy to create your own gitflow diagram.
-<br />[<img src="/assets/img/blog/gitflow-example.png" style="width=100%;max-width:400px;height:auto;" alt="An example gitflow diagram">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fgitflow-examples.drawio)
+<br />[<img src="/assets/img/blog/gitflow-example.png" style="width=100%;max-width:400px;height:auto;" alt="An example gitflow diagram">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fgitflow-examples.drawio)
 
 The default size of the shapes from the shape library are not able to be overridden, which is why the [clone and connect feature](/blog/shortcut-clone-connect.html) is such a time-saver: it copies both a shape's style and text content.
 
@@ -17,7 +17,7 @@ Go to [app.diagrams.net](https://app.diagrams.net/?splash=0) to start creating y
 
 The example below shows you how to create and style a gitflow diagram and use default styles to diagram faster.
 
-[See the completed example on diagrams.net](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fgitflow-examples.drawio)
+[See the completed example on diagrams.net](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fgitflow-examples.drawio)
 
 ## Add a Master or Main branch
 
@@ -69,9 +69,9 @@ Here is an example showing a Master branch, and how hot-fixes are applied direct
 
 As you can see, branching schemes for development can become quite complex. They are much easier to follow when visualised.
 
-[<img src="/assets/img/blog/gitflow-example.png" style="max-width:100%;height:auto;" alt="An example gitflow diagram">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fgitflow-examples.drawio)
+[<img src="/assets/img/blog/gitflow-example.png" style="max-width:100%;height:auto;" alt="An example gitflow diagram">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fgitflow-examples.drawio)
 
-[Open this example in diagrams.net](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fgitflow-examples.drawio)
+[Open this example in diagrams.net](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fgitflow-examples.drawio)
 
 ## Gitflow templates
 
