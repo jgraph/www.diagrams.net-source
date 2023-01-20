@@ -2,7 +2,7 @@
 layout: post
 author: diagrams.net
 slug: gitflow-feature-flags
-date: 2023-01-16 10:21:00
+date: 2023-01-20 10:21:00
 title: Feature flag development with tags in gitflow diagrams
 tags: [use-cases]
 categories: [use-cases]
