@@ -67,6 +67,8 @@ There are several different types of [org chart](/blog/org-charts.html) layouts 
 
 <img src="/assets/img/blog/arrange-layout-org-chart.png" style="width=100%;max-width:600px;height:auto;" alt="Apply a layout via Arrange > Layout > Org Chart to automatically rearrange the shapes and connectors in various common org charts">
 
+To get the Orgchart config description for the Custom Layout dialog, click on the Custom button.
+
 ## Parallels layout
 
 Apply the parallels layout to expose and separate overlapping connectors between shapes.
