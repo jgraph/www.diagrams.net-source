@@ -40,7 +40,7 @@ Diagrams are created by linking text labels using arrow connectors. You can choo
 | **Diagram types** | ``graph`` | ``pie`` |
 |   | ``gantt`` | ``sequenceDiagram`` |
 |   | ``stateDiagram`` | ``classDiagram`` |
-|   | ``gitgraph`` |
+|   | ``gitgraph`` | ``flowchart`` |
 | **Gantt** | task state: ``done``, ``active``, ``crit``, ``after`` | ``section`` |
 | **Pie** | ``title`` |
 | **Gitgraph** | actions: ``commit``, ``branch``, ``checkout``, ``merge`` |
