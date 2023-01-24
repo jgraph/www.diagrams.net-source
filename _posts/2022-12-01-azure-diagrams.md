@@ -104,5 +104,5 @@ Select _File > Export as_ from the menu.
 * [Google Docs](/doc/faq/google-docs-diagrams.html)
 * [Microsoft Word, Excel and Powerpoint](/doc/faq/microsoft-office-diagrams.html)
 * [Google Sites](/doc/faq/embed-diagrams-google-sites.html)
-* [GitHub markdown pages](/blog/github-diagrams.html)
+* [GitHub markdown pages](/blog/embed-diagrams-github-markdown.html)
 * [Notion](/blog/embed-diagrams-notion.html)
