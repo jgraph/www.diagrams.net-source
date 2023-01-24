@@ -190,6 +190,8 @@ This configuration produces the following _More Shapes_ dialog when combined wit
 
 * ``sidebarWidth``: Specifies the initial width of the sidebar.
 
+* ``updateDefaultStyle``: Whether the default styles should be updated when styles are changed. Default is true.
+
 * ``sidebarTitles``: Specifies if titles in the sidebar should be visible. Default is false.
 
 * ``sidebarTitleSize``: Specifies the font size in pt for titles in the sidebar. Default is 8.
