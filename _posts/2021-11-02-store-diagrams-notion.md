@@ -24,9 +24,12 @@ Diagrams embedded and stored in Notion can only contain one diagram page. If you
 
 When you visit Notion, you'll see that the draw.io for Notion extension has been granted access - the extension icon is colourful. 
 
-1. Open a Notion page or a database. 
-2. Click on the draw.io extension icon next to the address field, then click on _Insert Diagram_.
-3. Wait for the extension to add the draw.io diagram editor to the page with a blank diagram. You'll see the panels floating around the outside of the drawing canvas that is embedded into the Notion page.
+1. Open a Notion page or a database or use [this Notion template](https://ionian-measure-d3c.notion.site/Draw-io-Diagram-Notion-Template-7ce4c81286c14d4ca994a886e5390efa).
+2. Click on the draw.io extension icon next to the address field, then click on _Insert Diagram_ or click on the existing diagram in the template.
+3. Wait for the extension to add the draw.io diagram editor to the page or insert [this diagram](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/diagrams/notion-template.drawio.svg).
+
+You'll see the panels floating around the outside of the drawing canvas that is embedded into the Notion page.
+
 <br /><img src="/assets/img/blog/notion-chrome-extension-insert-diagram.png" style="width=100%;max-width:500px;height:auto;" alt="Once you have installed the draw.io for Notion Chrome extension, ensure it is pinned so you can access it while you use Notion">
 
 * The format panel is on the right. 

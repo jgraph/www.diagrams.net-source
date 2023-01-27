@@ -41,6 +41,9 @@ Diagrams are created by linking text labels using arrow connectors. You can choo
 |   | ``gantt`` | ``sequenceDiagram`` |
 |   | ``stateDiagram`` | ``classDiagram`` |
 |   | ``gitgraph`` | ``flowchart`` |
+|   | ``mindmap`` | ``requirementDiagram`` |
+|   | ``erDiagram`` | ``journey`` |
+|   | ``C4Context`` |
 | **Gantt** | task state: ``done``, ``active``, ``crit``, ``after`` | ``section`` |
 | **Pie** | ``title`` |
 | **Gitgraph** | actions: ``commit``, ``branch``, ``checkout``, ``merge`` |
