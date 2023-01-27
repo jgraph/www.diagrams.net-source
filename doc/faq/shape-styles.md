@@ -7,23 +7,28 @@ categories: [Shapes]
 
 Customise how a shape or groups of on the drawing canvas look using the _Style_ and _Text_ tabs of the format panel on the right. The diagrams.net editor will automatically switch to the shape style panels when you select one or more shapes. 
 
-The default shape style uses a black outline and a solid white fill colour. 
+The original shape style uses a black outline and a solid white fill colour. 
 
 You can customise the shape styles in many ways - click on the links below to see how.
 
-* [Use the style palette to change colours](#use-the-style-palette-to-change-colours)
-* [Change the fill colour or add a gradient or glass effect](#change-the-fill-colour-or-add-a-gradient)
-* [Change the outline colour, line thickness and style, and add a perimeter](#change-the-shape-outline)
-* [Change the opacity to make the shape more transparent](#change-the-opacity-of-the-shape)
-* [Apply effects to the shape - rounded corners, shadow, rough sketch style](#apply-effects-to-shapes)
-* [Copy and paste styles](#copy-and-paste-styles)
-* [Set a shape's style as the new default](#set-a-default-style)
-* [Advanced: Change additional style options by editing the shape properties](#edit-the-shape-style-and-behaviour)
-* [Style connectors and text, and customise the form of a shape](#related-features)
+- [Use the style palette to change colours](#use-the-style-palette-to-change-colours)
+- [Change the fill colour or add a gradient](#change-the-fill-colour-or-add-a-gradient)
+  - [Additional fill options and effects](#additional-fill-options-and-effects)
+- [Change the shape outline](#change-the-shape-outline)
+- [Change the opacity of the shape](#change-the-opacity-of-the-shape)
+- [Apply effects to shapes](#apply-effects-to-shapes)
+- [Copy and paste styles](#copy-and-paste-styles)
+- [Set a default style](#set-a-default-style)
+- [Edit the shape style and behaviour](#edit-the-shape-style-and-behaviour)
+  - [Edit shape properties in the Style tab](#edit-shape-properties-in-the-style-tab)
+  - [Edit the XML that defines the shape properties](#edit-the-xml-that-defines-the-shape-properties)
+- [Related features](#related-features)
 
 Before you can style anything, you must select it. Click on a shape to select it, or hold ``Shift`` down and click on multiple shapes to select many.
 
 The style options that you see will depend on the shape or shapes you have selected. For example, there are no corners on a circle or ellipse shape, so the _Rounded_ option will not be available.
+
+**Context-sensitive shape styles:** Once you have styled a shape, to add and connect a new one to that shape in the same style, hover over the existing shape and click on one of the direction arrows. 
 
 ## Use the style palette to change colours
 
@@ -91,7 +96,7 @@ Enter a new value in the _Opacity_ text field, or use the up/down arrows to chan
 
 ## Set a default style
 
-The global default style is used for all shapes. When you set a new default style, any new shape you place on the drawing canvas will use the new default style. 
+When you set a new default style, any new shape you place on the drawing canvas from the shape libraries, the toolbar (in modern mode) and the double-click shape selection box will use the new default style. 
 
 1. Select the shape that has the style you want to use as the new default. 
 2. Click _Set as Default Style_ in the _Style_ tab of the format panel. 
@@ -100,6 +105,8 @@ The global default style is used for all shapes. When you set a new default styl
 
 **Clear the default style:** Make sure nothing is selected so you can see the _Diagram_ tab in the format panel, then click _Clear Default Style_.
 <br /><img src="/assets/img/blog/diagram-tab-clear-default-style.png" style="width=100%;max-width:150px;height:auto;" alt="Clear the default style using the button on the Diagram tab when nothing is selected in your diagram">
+
+This will clear the default styles for both shapes and connectors.
 
 [Learn more about the global diagram options](/doc/faq/diagram-options.html)
 

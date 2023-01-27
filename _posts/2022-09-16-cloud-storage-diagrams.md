@@ -12,13 +12,12 @@ When you use diagrams.net or one of our draw.io apps and integrations, you [choo
 
 We support many of the popular cloud storage platforms - Google Drive, Microsoft OneDrive, Dropbox, GitHub and GitLab - as well as many other [online file storage and content platforms](/integrations.html).
 
-
 This [bring-your-own storage model](https://www.diagrams.net/blog/secure-diagramming-storage) has several advantages:
 * diagrams.net doesn't store your diagram data, so you don't need an account to open and edit your files.
 * All your documents and diagrams are on one platform, which makes them easier to find and backup.
 * Experienced, large and trusted cloud storage providers are more reliable and secure than companies that don't specialise in that service.
 * Popular cloud storage platforms integrate well with a range of SaaS applications in addition to diagrams.net.
-* Larger platforms have better sharing and collaboration options - Google Drive and Microsoft OneDrive support [real-time collaboration with shared cursors](/blog/real-time-collaboration-diagrams.html).
+* Larger platforms have better sharing and collaboration options - our apps for Nextcloud, Google Drive and Microsoft OneDrive support [real-time collaboration with shared cursors](/blog/real-time-collaboration-diagrams.html).
 <br /><img src="/assets/img/blog/real-time-collaboration.png" style="max-width:100%;height:auto;" alt="See how others edit and select parts of the diagram in real time in diagrams.net when you store diagram files in OneDrive or Google Drive">
 
 ## Select your cloud storage platform
@@ -28,7 +27,7 @@ This [bring-your-own storage model](https://www.diagrams.net/blog/secure-diagram
 <br /><img src="/assets/img/blog/storage-locations.png" style="width=100%;max-width:200px;height:auto;" alt="Select the location where you want to save your diagram files">
 3. If this is the first time you have selected that cloud storage location, you need to authorise diagrams.net and grant it permission to read and edit files stored on that platform.
 
-**Authentice to let diagrams.net access your diagram files**
+**Authenticate to let diagrams.net access your diagram files**
 
 Follow the linked instructions for authenticating on your chosen platform.
 
