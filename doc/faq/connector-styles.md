@@ -52,6 +52,14 @@ Select a connector, then use the options and advanced properties in the _Style_ 
 Edit the values in the property list at the bottom of the _Style_ tab to change additional connector style options.
 <br /><img src="/assets/img/blog/connector-properties.png" style="width=100%;max-width:300px;height:auto;" alt="Manually style your connector using key=value pairs in the Edit Style dialog">
 
+### Set a default connector style
+
+Style a connector on the drawing canvas first, then click _Set as Default Style_ in the _Style_ tab of the format panel. 
+<br /><img src="/assets/img/blog/connector-style-default-set.png" style="width=100%;max-width:300px;height:auto;" alt="Set a default shape or connector style in diagrams.net">
+
+You can see if a default connector style has been set by hovering over a connector in the shape libraries. 
+<br /><img src="/assets/img/blog/connector-style-default-hover.png" style="width=100%;max-width:300px;height:auto;" alt="Hover over a connector in the shape libraries to see it styled with the default style">
+
 ### Manually edit a connector's style
 Use ``key=value`` pairs to define the connector (edge) style in the diagram editor configuration. 
 

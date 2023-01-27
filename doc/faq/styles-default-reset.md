@@ -5,11 +5,11 @@ faq: true
 categories: [Features,Shapes,Connectors]
 ---
 
-You can change the default styles of shapes and connectors easily as you are creating your diagram with _Set as Default Style_ in the _Style_ tab of the format panel. Whenever you add a new shape or connector, this new default style will be applied.
+You can change the default styles of shapes and connectors easily as you are creating your diagram with _Set as Default Style_ in the _Style_ tab of the format panel. Whenever you add a new shape or connector from the shape library or toolbar, this new default style will be applied.
 
 **Reset the default style**
 
-You can reset this default style back to the original defaults set by diagrams.net.
+You can reset this default style of both connectors and shapes via the format panel.
 
 1. Make sure nothing is selected in your diagram so you can see the _Diagram_ tab in the format panel.
 2. Click on _Clear Default Style_ on the _Diagram_ tab in the format panel.

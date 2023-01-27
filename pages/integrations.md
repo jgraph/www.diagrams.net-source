@@ -41,14 +41,15 @@ Diagrams.net lets you [store your diagram files in Google Drive](https://app.dia
 
 diagrams.net works with [OneDrive and Sharepoint](https://app.diagrams.net/?mode=onedrive). An [Office 365 app](https://office.diagrams.net/) is available for Word, Powerpoint and Excel, and a [Microsoft Teams app](/doc/faq/microsoft-teams-diagrams.html). 
 
-
 ### GitHub app
 
 The [draw.io app for GitHub](https://github.com/apps/draw-io-app) lets you authorise access to individual repositories, and will replace the older OAuth authorisation method.
 
-### Notion integration
+### Notion and Nextcloud integrations
 
 With the [draw.io for Notion extension in the chrome web store](https://chrome.google.com/webstore/detail/drawio-for-notion/plhaalebpkihaccllnkdaokdoeaokmle), you can [embed and edit diagrams directly within your Notion pages](/blog/drawio-notion.html). This browser extension works in Google Chrome, Opera and Microsoft Edge. 
+
+The [draw.io app for Nextcloud](https://apps.nextcloud.com/apps/drawio) lets you create and edit diagrams in Nextcloud, including with shared cursors for [real-time collaboration]().
 
 ## 3rd-party integrations
 
@@ -80,7 +81,6 @@ The draw.io apps for Confluence and Jira are available via the Atlassian Marketp
 * [**Lark:**](https://larksuite.com) Lark has integrated our diagram editor into their page editor as part of their content and collaboration suite.
 * [**LumApps:**](https://www.lumapps.com/blog-post/drawio-integration/) Insert diagrams into your LumApps content.
 * **MediaWiki:** There are two extensions available for MediaWiki, [Drawio](https://www.mediawiki.org/wiki/Extension:Drawio) (not actively maintained) and [DrawioEditor](https://www.mediawiki.org/wiki/Extension:DrawioEditor).
-* [**Nextcloud:**](https://apps.nextcloud.com/apps/drawio) Create diagrams from within Nextcloud, a file sharing and communication platform, thanks to app developer Pawel Rocek.
 * [**Nuclino:**](https://www.nuclino.com/apps/drawio/) Embed your diagrams easily into this content development platform.
 * [**ONLYOFFICE:**](https://www.onlyoffice.com/blog/2022/03/onlyoffice-integrates-draw-io/) Integrates the diagram editor in documents via a plugin to their Docs application.
 * [**ownCloud:**](https://marketplace.owncloud.com/apps/drawio/) Create and modify diagrams in the ownCloud open-source collaboration platform's file editor app.
