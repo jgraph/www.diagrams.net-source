@@ -43,3 +43,5 @@ You can see how the user on the left has selected a field in the Person class (h
 ## Related
 
 Cursors are also shared automatically when [editing a diagram in the draw.io app for Confluence Cloud with your team in real-time](/blog/collaborative-editing-confluence-cloud.html). 
+
+The [draw.io app integration for Nextcloud](https://apps.nextcloud.com/apps/drawio) also supports shared cursors when _Autosave_ is enabled with the official diagrams.net server.  

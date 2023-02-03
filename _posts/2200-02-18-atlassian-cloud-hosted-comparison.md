@@ -63,8 +63,6 @@ draw.io for Confluence Cloud has a few additional features based on Atlassian's 
 
 ## draw.io for Data Center / Server
 
-**Migrate from Lucidchart OnPrem** with the [mass import and convert all of your Lucidchart OnPrem diagrams to draw.io](/doc/faq/lucidchart-onprem-to-drawio.html) with just a couple of clicks in Confluence Data Center and Server.
-
 **Enable converstion/embed features** as Data Center/Server is a on-premise installation and you have your own servers. By default, the connection to the diagrams.net servers is disabled, which limits access to the non-essential features described in the next section. 
 
 Allow access to the diagrams.net server functionaltiy and [enable the settings below in the draw.io app configuration in your Confluence](/doc/faq/configure-drawio-confluence-server.html) instance administration area, as ``key=value`` pairs in a JSON script.

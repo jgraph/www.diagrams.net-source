@@ -10,7 +10,9 @@ categories: [features,integrations]
 
 [Notion is a collaboration platform](https://www.notion.so) with web, desktop and mobile applications, providing individuals and teams with a range of features for collaboration, documentation and personal organisation: notes, databases, kanban boards, wikis, calendars, and reminders.
 
-**Note:** A [Chrome Extension](https://chrome.google.com/webstore/detail/drawio-for-notion/plhaalebpkihaccllnkdaokdoeaokmle) also exists that allows you to store your single-page diagrams in Notion and edit them directly.
+**Note:** A [Chrome Extension](https://chrome.google.com/webstore/detail/drawio-for-notion/plhaalebpkihaccllnkdaokdoeaokmle) also exists that allows you to store your single-page diagrams in Notion as ``.drawio.svg`` files, and edit them directly in Notion.
+
+## Embed the diagram viewer in a Notion page
 
 The block based editor allows you to embed diagrams into your pages, by embedding the diagrams.net viewer. Embedded diagrams are visible both in the page view and when you view the embedded content in the full screen view. You can see all of the pages in a diagram and interact with the layers on each page, if you have chosen these settings when creating the embed code. 
 
@@ -18,7 +20,7 @@ The block based editor allows you to embed diagrams into your pages, by embeddin
 
 [See how to use Notion and its features](https://www.notion.so/Help-Support-e040febf70a94950b8620e6f00005004)
 
-## Export embed code from diagrams.net
+### Export embed code from diagrams.net
 
 You can encode your diagram into a URL and embed that in a Notion page. 
 
@@ -31,7 +33,7 @@ You can encode your diagram into a URL and embed that in a Notion page.
 3. The embed link that contains your diagram data will be selected. Click _Copy_ to copy it to your clipboard. 
 <br /><img src="/assets/img/blog/embed-notion-copy.png" style="width=100%;max-width:300px;height:auto;" alt="Generate the embed code for embedding a diagram in Notion">
 
-## Embed a diagram into a page on Notion
+### Embed a diagram into a page on Notion
 
 Now that you have generated the embed code, you can add this as an embedded link to your Notion page.
 

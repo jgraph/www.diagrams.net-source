@@ -31,3 +31,7 @@ You can use diagrams stored in Google Drive with the [diagrams.net add-on in Goo
 **Troubleshooting:** If you find you are having connection problems, [check that your browser allows third-party cookies](/doc/faq/google-drive-connection-problems.html) so that diagrams.net can talk to Google Drive.
 
 <img src="/assets/img/blog/addon-google-docs-examples.png" style="max-width:100%;height:auto;" alt="Embed a diagram in Google Docs">
+
+## Related
+
+Shared cursors and real-time collaboration is also supported by the [draw.io app for Atlassian Confluence Cloud](https://marketplace.atlassian.com/apps/1210933/draw-io-diagrams-for-confluence), and the [draw.io app integration for Nextcloud](https://apps.nextcloud.com/apps/drawio).
