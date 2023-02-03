@@ -66,5 +66,5 @@ You can [create your own custom shapes](/doc/faq/custom-shapes.html) in addition
 **Note:** An optional third coordinate in the ``points[]`` array may function as a toggle (outline/perimeter), or an offset to move the connection point around inside the shape or between its outline and its perimeter, but this works only on some shapes. This third coordinate is therefore only used for development purposes. An optional fourth and fifth coordinate may be added to define an absolute offset in pixels.
 
 <pre align="center">
-points=[[x<sub>0</sub>,y<sub>0</sub>,perimeter<sub>0</sub>,dx<sub>0</sub>,dy<sub>0</sub>],[x<sub>1</sub>,y<sub>1</sub>,perimeter<sub>1</sub>,dx<sub>1</sub>,dy<sub>1</sub>],...,[x<sub>n</sub>,y<sub>n</sub>,perimeter<sub>n</sub>,dx<sub>n</sub>,dy<sub>n</sub>]]
+points=[[x<sub>0</sub>,y<sub>0</sub>,p<sub>0</sub>,dx<sub>0</sub>,dy<sub>0</sub>],[x<sub>1</sub>,y<sub>1</sub>,p<sub>1</sub>,dx<sub>1</sub>,dy<sub>1</sub>],...,[x<sub>n</sub>,y<sub>n</sub>,p<sub>n</sub>,dx<sub>n</sub>,dy<sub>n</sub>]]
 </pre>
