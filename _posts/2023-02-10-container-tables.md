@@ -93,7 +93,7 @@ The simpler tables let you quickly present data, style and add icons, and prepar
 
 **Gantt charts and timelines**
 
-It's quick and easy to build (and expand) a Gantt chart or [timeline](/blog/timelines.html) with overlaid shapes to visualise task lengths and start/end dates. 
+It's quick and easy to build (and expand) a Gantt chart or [timeline](/blog/timeline-diagrams.html) with overlaid shapes to visualise task lengths and start/end dates. 
 <br /><img src="/assets/img/blog/gantt-table.png" style="max-width:100%;height:auto;" alt="Create an easy and stylish Gantt chart or timeline using a table in diagrams.net">
 
 
