@@ -1,5 +1,5 @@
 ---
-title: Use external image generation in draw.io for Confluence Server and Data Center
+title: External image generation in draw.io for Confluence Server and Data Center
 layout: page
 faq: true
 categories: [Confluence Data Center and Server, Confluence Data Center]
