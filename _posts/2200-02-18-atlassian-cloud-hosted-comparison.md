@@ -21,6 +21,7 @@ Many additional Confluence-specific features work in the same way on both applic
 
 * [**Embed diagrams into multiple pages**](/https://drawio-app.com/embed-existing-draw-io-diagrams-in-confluence-pages/) in both Confluence Cloud and Data Center/Server instances. 
 <br />_See below for how to embed files into Data Center/Server from Google Drive and Microsoft One Drive. This feature is available by default in Cloud._
+* **Enter mathematical equations in LaTeX or AsciiMath** and draw.io will use MathJax to [render your equation](/doc/faq/math-typesetting.html) when you enable Extras > Mathematical Typesetting in the draw.io editor.
 * **Search for diagrams using the Confluence search** with both draw.io for Cloud and Data Center/Server - the search includes both the name of the attached diagrams and the text in the diagram. 
 * **Comment on draw.io diagrams** on [Confluence Cloud](https://drawio-app.com/comment-diagrams-confluence-cloud/) and on [Data Center/Server](https://drawio-app.com/comment-on-draw-io-diagrams-in-confluence-server/).
 * **Diagram in teams with collaborative editing** on both versions of Confluence, although you'll be prompted to [merge simultaneous changes to diagrams on Data Center Server](https://drawio-app.com/merge-diagram-edits-confluence-server/).
@@ -39,14 +40,14 @@ Custom templates are managed in different locations:
 * [Set up custom diagram templates and categories](/doc/faq/custom-templates-confluence-cloud.html) in Confluence Cloud from the draw.io configuration. 
 <br /><img src="/assets/img/blog/open-custom-templates-confluence-cloud-admin.png" style="width=100%;max-width:400px;height:auto;" alt="Go to the Templates page via the draw.io Configuration in Confluence Cloud">
 
-
 [See all of the draw.io configuration and customisation options](/doc/faq/configure-diagram-editor.html)
 
-There are a few other differences in functionality, detailed below.
+<br />
+The following features and functionality are different in Cloud versus Data Center / Server.
 
 ## draw.io for Confluence Cloud
 
-draw.io for Confluence Cloud has a few additional features based on Atlassian's Cloud-only functionality.
+draw.io for Confluence Cloud has a several additional features based on Atlassian's Cloud-only functionality.
 
 **Set data regions or lockdown data transmission** with configuration options. Similar to Atlassian's data residency options in Cloud, you can set your ``dataGovernance`` region to EU or NA in the draw.io configuration for the features that use the diagrams.net servers (listed below). If you want to prevent all data traffic apart from between the your browser and your Atlassian instance server, set ``lockdown`` in the draw.io configuraton.
 
@@ -57,26 +58,30 @@ draw.io for Confluence Cloud has a few additional features based on Atlassian's 
 
 **Change the size of a diagram on a page** by changing it's zoom percentage. As Atlassian hasn't implemented a similar macro-resize function, you can only [resize the draw.io diagram on a Confluence Cloud page](/doc/faq/resize-viewer-confluence-cloud.html).
 
-**Enter mathematical equations in LaTeX or AsciiMath** and draw.io for Cloud will use MathJax to render your equation when you enable _Extras > Mathematical Typesetting_ in the draw.io editor. 
-
 **[Insert PlantUML and Graphiz DOT code](https://drawio-app.com/use-plantuml-in-draw-io/)** to add an image of your diagram via _Arrange > Insert > Advanced > PlantUML_.
 
-## draw.io for Data Center / Server
+As external server connectivity is enabled by default, draw.io for Confluence Cloud allows you to do the following.
 
-**Enable converstion/embed features** as Data Center/Server is a on-premise installation and you have your own servers. By default, the connection to the diagrams.net servers is disabled, which limits access to the non-essential features described in the next section. 
+**Generate PDF versions of diagrams** with external fonts. 
 
-Allow access to the diagrams.net server functionaltiy and [enable the settings below in the draw.io app configuration in your Confluence](/doc/faq/configure-drawio-confluence-server.html) instance administration area, as ``key=value`` pairs in a JSON script.
+**Open and convert ``vsd``, ``vss``, ``vdx``, and ``vsdx`` files**, including ``vsd`` and ``vsdx`` diagram files that contain embedded EMF images.
 
-* [Open and convert ``vsd``, ``vss``, ``vdx`` and ``vsdx`` files](/doc/faq/open-vsd-files-confluence-server.html) _(enable the ``vsdurl`` option)_.
-* Import ``vsd`` and ``vsdx`` diagrams that have EMF images embedded in them _(enable the  ``emf2png`` option)_.
-* Generate PDF versions of diagrams with the correct fonts.
-* Search for third-party shapes _(enable the ``externaliconsearch`` option)_.
 
-**Enable Google Drive and OneDrive integration** to [embed diagrams stored in Google Drive and Microsoft One Drive]((/doc/faq/googledrive-onedrive-integration-enable-confluence-server.html)) into Confluence Data Center/Server pages.
 
-1. Go to the Confluence administration, select _Configuration_ under the _draw.io add-on_ section, then select the _Google Drive/OneDrive Integration_ tab.
-2. Select either _Simple integration_ to communicate with these platforms, or _Full integration_ if you have created an app within these cloud platforms and want all communication to go through your servers.
 
-Now your Confluence users can embed diagram files from various file storage locations.
+<br />
+_The following two features are available by default in Confluence Cloud but must be manually enabled via the [draw.io configuration](/doc/faq/configure-drawio-confluence-server) in Data Center / Server, should your company's data policy allow connections to external services._
+
+**Third-party icon search in Data Center/Server**
+
+Enable the third-party icon search by allowing a connection to an external server to search for and serve the additional icons in the shape panel.
+
+* ``externaliconsearch``=1
+
+**Google Drive and One Drive integration in Data Center/Server**
+
+Enable the Google Drive and OneDrive integrations to [embed diagrams stored in Google Drive and Microsoft One Drive](/doc/faq/googledrive-onedrive-integration-enable-confluence-server.html) into Confluence pages.
 
 <img src="/assets/img/blog/embed-diagrams-confluence-server.png" style="width=100%;max-width:400px;height:auto;" alt="Embedded diagrams in draw.io for Confluence Data Center and Server">
+
+**Note:** For PDF export from Confluence Data Center/Server, ensure that all the required fonts are installed on your Confluence instance's server to [render diagram text correctly on export to PDF](/doc/faq/external-image-generation-drawio-confluence-server.html). 
