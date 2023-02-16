@@ -19,12 +19,12 @@ The diagram editor interface is the same in both Cloud and Data Center/Server.
 
 Many additional Confluence-specific features work in the same way on both applications.
 
-* [**Embed diagrams into multiple pages**](/https://drawio-app.com/embed-existing-draw-io-diagrams-in-confluence-pages/) in both Confluence Cloud and Data Center/Server instances. 
-<br />_See below for how to embed files into Data Center/Server from Google Drive and Microsoft One Drive. This feature is available by default in Cloud._
+* [**Embed diagrams into multiple pages**](/doc/faq/confluence-cloud-embed-diagram.html) in both Confluence Cloud and [Data Center/Server instances](/blog/embed-diagrams-confluence-server.html). 
+<br />_You can embed files into Data Center/Server from Google Drive and Microsoft One Drive by manually allowing this connection in the draw.io configuration (below). This feature is [available by default in Cloud](/doc/faq/embed-diagram-googledrive-confluence-cloud.html)._
 * **Enter mathematical equations in LaTeX or AsciiMath** and draw.io will use MathJax to [render your equation](/doc/faq/math-typesetting.html) when you enable Extras > Mathematical Typesetting in the draw.io editor.
 * **Search for diagrams using the Confluence search** with both draw.io for Cloud and Data Center/Server - the search includes both the name of the attached diagrams and the text in the diagram. 
-* **Comment on draw.io diagrams** on [Confluence Cloud](https://drawio-app.com/comment-diagrams-confluence-cloud/) and on [Data Center/Server](https://drawio-app.com/comment-on-draw-io-diagrams-in-confluence-server/).
-* **Diagram in teams with collaborative editing** on both versions of Confluence, although you'll be prompted to [merge simultaneous changes to diagrams on Data Center Server](https://drawio-app.com/merge-diagram-edits-confluence-server/).
+* **Comment on draw.io diagrams** on [Confluence Cloud](/doc/faq/confluence-comments.html).
+* **Diagram in teams with collaborative editing** on both versions of Confluence, although you'll be prompted to [merge simultaneous changes to diagrams on Data Center Server](/blog/collaborative-editing-confluence-cloud.html).
 * **Mass import and convert all of your Gliffy diagrams to draw.io** with just a few clicks, both on [Confluence Server](/doc/faq/mass-import-gliffy-confluence-server.html) and [Confluence Cloud](/doc/faq/mass-import-gliffy-confluence-cloud.html).
 <br /><img src="/assets/img/blog/confluence-cloud-gliffy-import-log.png" style="width=100%;max-width:400px;height:auto;" alt="Log of the Gliffy mass import to draw.io in Confluence Cloud">
 
@@ -58,7 +58,7 @@ draw.io for Confluence Cloud has a several additional features based on Atlassia
 
 **Change the size of a diagram on a page** by changing it's zoom percentage. As Atlassian hasn't implemented a similar macro-resize function, you can only [resize the draw.io diagram on a Confluence Cloud page](/doc/faq/resize-viewer-confluence-cloud.html).
 
-**[Insert PlantUML and Graphiz DOT code](https://drawio-app.com/use-plantuml-in-draw-io/)** to add an image of your diagram via _Arrange > Insert > Advanced > PlantUML_.
+**[Insert PlantUML and Graphiz DOT code](/blog/plantuml.html)** to add an image of your diagram via _Arrange > Insert > Advanced > PlantUML_.
 
 As external server connectivity is enabled by default, draw.io for Confluence Cloud allows you to do the following.
 
