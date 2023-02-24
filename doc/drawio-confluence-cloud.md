@@ -87,7 +87,7 @@ In the left navigation section, click on the ``draw.io Diagrams`` or ``Whiteboar
 * [Add and resolve comments on your draw.io diagram](/doc/faq/confluence-comments.html)
 * [Search for a draw.io diagram in Confluence Cloud](/blog/confluence-diagram-search.html)
 
-[Reuse existing diagrams in your Confluence instance](doc/faq/confluence-cloud-embed-diagram.html) or embed diagram files saved [Google Drive](/doc/faq/embed-diagram-googledrive-confluence-cloud.html) and [OneDrive](/doc/faq/embed-diagram-onedrive-confluence-cloud.html).
+[Reuse existing diagrams in your Confluence instance](/doc/faq/confluence-cloud-embed-diagram.html) or embed diagram files saved [Google Drive](/doc/faq/embed-diagram-googledrive-confluence-cloud.html) and [OneDrive](/doc/faq/embed-diagram-onedrive-confluence-cloud.html).
 
 Recover a diagram from an [unpublished page in Confluence Cloud](/doc/faq/confluence-cloud-recover-diagram-draft-page.html) or one that [was moved to another page](/doc/faq/recover-moved-diagram-confluence-cloud.html).
 
