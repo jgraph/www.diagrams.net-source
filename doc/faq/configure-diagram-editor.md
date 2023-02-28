@@ -234,6 +234,8 @@ This configuration produces the following _More Shapes_ dialog when combined wit
 
 * ``lockdown``: [Disable data transmission](/blog/data-governance-lockdown.html), apart from directly between your browser and your selected data storage location. Default is ``false``.
 
+* ``restrictExport``: [Disable exporting diagram to other formats](https://github.com/jgraph/drawio/issues/3374), this doesn't prevent users from being able to obtain text or image formats of the diagram, but makes it somewhat harder. Default is ``false``.
+
 * ``maxImageBytes``: Defines the maximum size for images in bytes. Default is _1000000_.
 
 * ``maxImageSize``: Defines the maximum width or height of the image, where the lowest value is used. Default is _520_.
