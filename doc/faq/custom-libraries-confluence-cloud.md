@@ -9,10 +9,9 @@ Custom shape libraries help you save time when you regularly reuse complex or sp
 
 ## Create a custom library
 
-1. Edit a Confluence page, type ``{draw`` and select _Drawio_ to insert a draw.io diagram macro, and create a new diagram. Alternatively you can open an existing diagram in the draw.io editor.
+1. Edit a Confluence page, type ``/draw`` and select the _Draw.io diagram_ macro to create a new diagram. Alternatively, open an existing diagram in the draw.io editor.
 2. Click _File > New Library_ and select where you want to store your custom library.
 <br /><img src="/assets/img/blog/new-library-confluence-cloud.png" style="width=100%;max-width:400px;height:auto;" alt="Create a new shape library to use with draw.io for Confluence Cloud">
-   - _Browser_ stores it in your browser, and it will be automatically available whenever you edit diagrams. _If you clear your browser data, your custom shape library will be deleted._
    - _Device_ saves a copy of your library as an ``.xml`` file on your device. You will need to load your shape library when you work on a diagram, but this file will not be deleted if you clear your browser data.
 3. Enter a name for your shape library. You can drag image files from your device or image URLs into this dialog to add them directly to your new custom library before you save it, or click _Add images_ to add files saved on your device. Click _Save_ when you are done.
 <br /><img src="/assets/img/blog/new-library-confluence-cloud-2.png" style="width=100%;max-width:400px;height:auto;" alt="Save your new custom shape library to your browser or your device">
