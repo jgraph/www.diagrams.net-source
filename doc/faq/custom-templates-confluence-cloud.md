@@ -9,7 +9,7 @@ Custom templates can speed up diagramming and ensure users diagram with a consis
 
 Custom template libraries are stored in the draw.io config space and accessed through the draw.io Configuration in the Confluence Cloud administration settings. Administrators can organise custom templates into categories and make them available to their users whenever they create a new diagram.
 
-**Important:** Administrators must [set appropriate **read** permissions for the draw.io config space](/doc/faq/confluence-drawio-config-space-permissions.html) in the Confluence instance so that all draw.io users can access these custom libraries.
+**Important:** Administrators must [set appropriate **read** (Add) permissions for the draw.io config space](/doc/faq/confluence-drawio-config-space-permissions.html) in the Confluence instance so that all draw.io users can access these custom libraries.
 
 ### Add a custom template diagram to Confluence Cloud
 
