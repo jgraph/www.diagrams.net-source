@@ -20,8 +20,6 @@ As we are a [security-first diagramming tool](/blog/data-protection.html) that l
 
 ## Install the draw.io App in GitHub
 
-To take advantage of the the
-
 You need to install the app to select the specific repositories where you want to allow access. 
 
 **Note:** If you are installing the draw.io App in organization repositories (not personal), you must have administrator permissions or be the organization owner.
