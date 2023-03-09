@@ -8,7 +8,7 @@ tags: [gitlab]
 categories: [integrations, features, use-cases]
 ---
 
-diagrams.net will be available as an integration in the web-based GitLab Wiki editor on . When you add your diagram to a GitLab Wiki page while editing the source of that page, it will be saved as an SVG image containing the diagram code, and displayed in the page content. 
+diagrams.net will be available as an integration in the web-based GitLab Wiki editor on 22 March with the [GitLab 15.10 release and product kickoff](https://about.gitlab.com/direction/kickoff/). When you add your diagram to a GitLab Wiki page while editing the source of that page, it will be saved as an SVG image containing the diagram code, and displayed in the page content. 
 
 Like all files in GitLab, the image with its embedded diagram is versioned, so all changes are tracked. 
 
