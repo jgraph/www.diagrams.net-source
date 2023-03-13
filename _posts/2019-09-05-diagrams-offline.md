@@ -46,7 +46,7 @@ If you value the diagram templates, but need to work offline in the diagrams.net
 
 You don't need to install the diagrams.net desktop app to diagram offline - you can load the application into your browser and then simply use it offline.
 
-Go to [https://app.diagrams.net/app](https://app.diagrams.net/app) while you still have internet connectivity to load the application into your browser.
+Go to [https://app.diagrams.net](https://app.diagrams.net) while you still have internet connectivity to load the application into your browser.
 
 This works on mobile devices as well as on your desktop computer.
 
