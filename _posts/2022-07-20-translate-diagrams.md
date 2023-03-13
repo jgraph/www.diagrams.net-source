@@ -48,8 +48,8 @@ Now, when you hover over a shape in the editor, you can see which languages have
 Once you have added a translation to a shape or connector label, you can switch the diagram to that language via the menu. This doesn't change the editor's language - only the text in the diagram.
 
 In the diagram editor: 
-1. Select _Extras > Diagram Language_.
-2. Enter the two-letter language code of the language you want to see, and press ``Enter`` or click _OK_.
+1. Open the menu and select _Settings > Language_.
+2. Choose the language you want to use and refresh the browser tab.
 <br /><img src="/assets/img/blog/translate-diagram.gif" style="width=100%;max-width:600px;height:auto;" alt="Select Extras > Diagram Language and enter a two-letter language code to switch the diagram to another language using the shape properties for that language">
 
 The labels of shapes that have that language in their shape properties will update and display in that language. Any shapes that have not yet been translated will continue to display a label in the original language.
