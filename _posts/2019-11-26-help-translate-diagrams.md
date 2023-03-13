@@ -52,9 +52,11 @@ These are also available in the spreadsheet on page 2: Guidelines for translator
 
 If you want to see diagrams.net in one of these languages, add the language code and a modifier to the editor's URL. For example, to use diagrams.net in French, the URL is: [https://app.diagrams.net/?lang=fr](https://app.diagrams.net/?lang=fr)
 
-Alternatively, select your preferred language by clicking on the globe icon at the top right in diagrams.net, select your language, then refresh the page.
+Alternatively, go to Settings > Language in the menu, select the language you want to use, then refresh the page.
 
-<img src="/assets/img/blog/switch-language.png" style="max-width:100%;height:auto;" alt="Click the globe icon in the top right corner to change languages">
+<img src="/assets/img/blog/interface-language.png" style="max-width:100%;height:auto;" alt="Select Settings > Language and choose the language you want to use in the diagrams.net menu">
+
+**Tip:** You can also [translate a diagram into multiple languages](/blog/translate-diagrams.html) in the one diagram file by using shape metadata. 
 
 ## More about diagrams.net
 
