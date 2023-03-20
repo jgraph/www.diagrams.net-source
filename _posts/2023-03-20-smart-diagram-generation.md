@@ -49,6 +49,19 @@ And because the previous phrase makes no sense when describing a mindmap, here's
 
 [_Open all of these generated examples in a multi-page diagram at diagrams.net_](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&page=0&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fsmart-generated-diagrams-examples.drawio)
 
+### More ways to generate diagrams from text
+
+In diagrams.net, there are many different ways to generate diagrams automatically from text.
+
+* [PlantUML](/blog/plantuml.html) - class diagrams, state diagrams, activity diagrams, user diagrams, component diagrams and more. 
+  
+* [Mermaid](/blog/mermaid-diagrams.html) - all UML diagram types, as well as pie charts, flowcharts, organisation charts, Gantt charts and more. 
+  
+* [Entity diagrams](blog/insert-sql.html) - from SQL code.
+  
+* [CSV data into diagrams](blog/insert-from-csv.html) - with formatting information to create flowcharts, mindmaps, org charts, directed graphs and more.
+
+
 <br />
 ## Troubleshooting generated diagrams
 
