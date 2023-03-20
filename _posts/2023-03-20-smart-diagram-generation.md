@@ -59,7 +59,7 @@ In diagrams.net, there are many different ways to generate diagrams automaticall
   
 * [Entity diagrams](/blog/insert-sql.html) - from SQL code.
   
-* [CSV data into diagrams](blog/insert-from-csv.html) - with formatting information to create flowcharts, mindmaps, org charts, directed graphs and more.
+* [CSV data into diagrams](/blog/insert-from-csv.html) - with formatting information to create flowcharts, mindmaps, org charts, directed graphs and more.
 
 
 <br />
