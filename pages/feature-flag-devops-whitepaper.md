@@ -8,7 +8,7 @@ Feature-based development and release cycles are becoming more common in cloud-n
 
 Instead of the long development time needed to implement large changes in a software product, the development cycle for SaaS is shorter and more focused, even more so than the processes used by agile software development teams. 
 
-This leaner and faster development process is underpinned by feature flags and releases small updates often. It incorporates user feedback constantly through built-in feedback loops involving active and stakeholder customers. 
+This leaner and faster development process is underpinned by feature flags and releases small updates often. It incorporates user feedback constantly through built-in feedback loops that involve active and stakeholder customers. 
 
 <img src="/assets/img/blog/feature-flag-devops-comparison.png" style="width=100%;max-width:600px;height:auto;" alt="Comparing traditional, agile and feature-flag development processes">
 <br />_Diagram 1: Difference between traditional, agile and feature flag development processes_
