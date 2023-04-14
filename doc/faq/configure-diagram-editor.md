@@ -226,7 +226,7 @@ This configuration produces the following _More Shapes_ dialog when combined wit
 
 * ``globalVars``: Defines global variables for system-wide placeholders using a JSON structure with key, value pairs. Keep the number of global variables small.
 
-* ``compressXml``: Specifies if the XML output should be compressed. The default is ``true`` (``false`` for Confluence Cloud).
+* ``compressXml``: Specifies if the XML output should be compressed. The default is ``false``.
 
 * ``includeDiagram``: Specifies the default for including diagram data in export dialogs (15.0.4 and later).
 
