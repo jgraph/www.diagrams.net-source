@@ -57,7 +57,7 @@ The **four square writing method** is often used to teach writing skills to youn
 <br />
 ## Graphic recording or visual note taking
 
-Also called sketch notes, these are often used to prepare attractive doodled summaries of presentations and workshops. As they are a good way to maintain attention, encourage critical thinking, and remember the information that was presented, encourage students to doodle their notes so they can learn better.
+Also called sketch notes, these are often used to prepare attractive doodled summaries of presentations and workshops. As they are a good way to maintain attention, aid critical thinking, and remember the information that was presented, encourage students to doodle their notes so they can learn better.
 <br /><img src="/assets/img/blog/sketch-notes.png" style="width=100%;max-width:400px;height:auto;" alt="Taking notes graphically helps with understanding and remembering the information more clearly">
 
 Using the [freehand brush](/doc/faq/insert-freehand-shapes.html) and diagrams.net on a tablet, you can doodle easily - even quite complex shapes like the crow below. 
