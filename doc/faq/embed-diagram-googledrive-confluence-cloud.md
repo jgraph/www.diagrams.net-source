@@ -8,7 +8,7 @@ categories: [Confluence Cloud]
 Use the _Embed draw.io diagram_ macro to connect to Google Drive and embed a .drawio diagram file hosted there.
 
 1. Edit the Confluence page on which you want to embed your diagram, then type ``/draw`` to insert a macro. Select _Embed draw.io diagram_.
-<br /><img src="/assets/img/blog/embed-diagram-macro-confluence-cloud.png" style="width=100%;max-width:400px;height:auto;" alt="Type /draw, then select the Embed draw.io diagram macro">
+<br /><img src="/assets/img/blog/embed-diagram-macro-cloud.png" style="width=100%;max-width:400px;height:auto;" alt="Type /draw, then select the Embed draw.io diagram macro">
 2. Click the _Google Drive_ tab. If you haven't allowed draw.io to access your files on Google Drive, click the blue _Authorize_ button, and follow the prompts to allow access.
 3. When you return to the file picker, click _Choose_.
 <br /><img src="/assets/img/blog/choose-diagram-google-drive-confluence-cloud.png" style="width=100%;max-width:400px;height:auto;" alt="Click Choose to look for the .drawio diagram file in your Google Drive">
