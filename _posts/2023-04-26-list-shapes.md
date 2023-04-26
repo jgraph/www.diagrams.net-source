@@ -84,5 +84,5 @@ Conference details for each event and exhibitor type are easily shown and compar
 You may find text-rich templates, like this business model canvas, easier to work with when you use list shapes. For example, you can draw connections between key resources and requirements, and collapse each category to work with the business model more easily.
 <br /><img src="/assets/img/blog/list-shape-business-model-canvas.png" style="width=100%;max-width:400px;height:auto;" alt="List shapes can be used in any text-heavy diagram, like this business model canvas">
 
-**Advanced users:** List shapes are useful in [data-driven diagrams](/blog/data-driven-diagrams), like the dashboard below. As each row in this list shape has its own unique shape ID, it can be referred to and updated by other applications dynamically.
+**Advanced users:** List shapes are useful in [data-driven diagrams](/blog/data-driven-diagrams), just like the table in dashboard below. As each row in the list shape has its own unique shape ID, it can also be referred to and updated by other applications dynamically.
 <br /><img src="/assets/img/blog/data-driven-diagram-example.gif" style="width=100%;max-width:400px;height:auto;" alt="Update shapes in a diagram based on live data with diagrams.net, Grafana and the Flowcharting plugin">
