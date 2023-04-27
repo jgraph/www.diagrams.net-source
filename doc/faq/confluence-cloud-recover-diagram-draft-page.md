@@ -31,3 +31,8 @@ If the diagram is not in the list of draw.io diagrams in your space, or is not v
  If you edit the diagram from the list of diagrams in your Confluence Cloud space, you may see the [_Diagram not Found_ dialog](/doc/faq/diagram-not-found-drawio-confluence-cloud.html). This occurs when either a page has not yet been published, or when the diagram attachment has been moved to another page.
 
 [Recover a diagram that was moved to another page in Confluence Cloud](/doc/faq/recover-moved-diagram-confluence-cloud.html)
+
+
+**Restore an older published version of a diagram**
+
+If you want to recover an earlier version of the diagram on a page, without changing the page content via Confluence's Page History, open the diagram in the editor, and [use the draw.io editor's Revision History](/doc/faq/confluence-cloud-restore-version.html) to restore the older version.
