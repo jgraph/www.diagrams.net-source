@@ -3,14 +3,12 @@ layout: post
 author: diagrams.net
 slug: move-diagrams-net
 date: 2020-02-26 09:54:00
-title: Open source diagramming is moving to diagrams.net, slowly
+title: Reference implementation moving to app.diagrams.net
 tags: [news, Atlassian]
 categories: [news,atlassian]
 ---
 
-draw.io will slowly transition to become diagrams.net during 2020 for security reasons. Nothing will change for you, apart from seeing a different URL and logo. www.draw.io will continue to serve the application correctly, we won't even redirect you.
-
-The Atlassian integrations are not affected, they will continue to be branded as draw.io.
+The reference implementation of the draw.io project will be hosted at app.diagrams.net. Everything else is the same, 
 
 ## .io domains
 
@@ -30,11 +28,11 @@ The current Atlassian specific web site at about.draw.io will move away from the
 
 ## What's next?
 
-We will be building our a new web site at [www.diagrams.net](https://www.diagrams.net) and this is focused on the core open source project and the reference implementation at [app.diagrams.net](https://app.diagrams.net).
+We will be building our a new web site at [www.drawio.io](https://www.drawio.com) and this is focused on the core open source project and the reference implementation at [app.diagrams.net](https://app.diagrams.net).
 
 We are testing https://app.diagrams.net to check everything that works on the draw.io domain works there. Don't switch away from www.draw.io just yet.
 
-When we're happy with the new app sub-domain we'll mark it as the canonical domain and file open requests from Google Drive will be sent there. We don't have redirection plans.
+When we're happy with the new app sub-domain we'll mark it as the canonical domain and file open requests from Google Drive will be sent there.
 
 ## What do I need to do?
 
