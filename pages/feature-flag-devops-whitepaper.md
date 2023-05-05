@@ -1,5 +1,5 @@
 ---
-title: Explaining feature flag DevOps with diagrams
+title: Explaining feature flag DevOps with draw.io diagrams
 layout: page
 permalink: /feature-flag-devops-whitepaper.html
 ---

@@ -1,13 +1,13 @@
 ---
-title: About diagrams.net
+title: About draw.io
 layout: page
 permalink: /about.html
 ---
 <img style="max-width:100%;height:auto;" src="/assets/img/blog/team-2018.jpg" alt="Team">
 
-diagrams.net/draw.io is an open source technology stack for building diagramming applications, and the world’s most widely used browser-based end-user diagramming software.
+draw.io is an open source technology stack for building diagramming applications, and the world’s most widely used browser-based end-user diagramming software.
 
-diagrams.net is a trademark and draw.io is a registered trademark of JGraph Ltd and draw.io AG. JGraph Ltd is a company registered in England, draw.io AG is a company registered in Switzerland. Jointly, these companies develop and own the software, run the diagrams.net and draw.io sites and own the diagrams.net and draw.io brands.
+draw.io is a registered trademark of JGraph Ltd and draw.io AG. JGraph Ltd is a company registered in England, draw.io AG is a company registered in Switzerland. Jointly, these companies develop and own the software, run the diagrams.net and draw.io sites and own the diagrams.net and draw.io brands.
 
 We promise you we won’t hide your data from you and will always give you some way to open and edit that data, at no cost. When companies pay us money it should be because we add value, not because they are locked in.
 
@@ -25,9 +25,9 @@ Our mission statement is __“provide free, high quality diagramming software fo
 
 ###### How?
 
-* Our model is based on the viral effect of a free, open source application. When you share a diagrams.net diagram, you know anyone can open and edit it.
+* Our model is based on the viral effect of a free, open source application. When you share a draw.io diagram, you know anyone can open and edit it.
 
-* By allowing you to build on the software for free, not just use it. Replacement proprietary software with a single open source application isn't helpful, either. You can take the existing diagrams.net base and build for specific vertical markets, add and improve on features. Competition is good.
+* By allowing you to build on the software for free, not just use it. Replacement proprietary software with a single open source application isn't helpful, either. You can take the existing draw.io base and build for specific vertical markets, add and improve on features. Competition is good.
 
 * By picking one commercial ecosystem to charge for the application where the host product is pay-for and the profit margins greatest, and that was the Atlassian ecosystem. Note that you still control access to your data on Confluence and Jira, we don't resort to locking your data away, just because it's a commercial platform.
 
