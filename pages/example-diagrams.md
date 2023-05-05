@@ -1,5 +1,5 @@
 ---
-title: Example diagrams and templates
+title: Example draw.io diagrams and templates
 layout: page
 permalink: /example-diagrams.html
 ---

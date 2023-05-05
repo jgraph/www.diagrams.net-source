@@ -1,19 +1,19 @@
 ---
-title: diagrams.net Integrations
+title: draw.io Integrations
 layout: page
 permalink: /integrations.html
 ---
 
-At diagrams.net, being open source means anyone can take the project, change it, deploy it and integrate it.
+At draw.io, being open source means anyone can take the project, change it, deploy it and integrate it.
 
 In fact, the [free online diagrams.net](https://app.diagrams.net) tool has already been integrated into a wide variety of platforms, and is available to be deployed as a self-hosted docker application, or used as a stand-alone private diagramming application.
 
 The integrations are branded under our diagrams.net and draw.io names, it's still the same editor underneath.
-<br /><img src="/assets/img/blog/integrations.png" style="width=100%;max-width:650px;;height:auto;" alt="There is a large ecosystem of diagrams.net and draw.io apps for diagramming in whichever platform or app you are using for documentation">
+<br /><img src="/assets/img/blog/integrations.png" style="width=100%;max-width:650px;;height:auto;" alt="There is a large ecosystem of draw.io apps for diagramming in whichever platform or app you are using for documentation">
 
-### diagrams.net Desktop
+### draw.io Desktop
 
-diagrams.net desktop is a stand-alone, offline application available for Windows, macOS and Linux. This is ideal if you want the enhanced security of a desktop application with no reliance on an internet connection. [Get the desktop app today](https://get.diagrams.net/)
+draw.io desktop is a stand-alone, offline application available for Windows, macOS and Linux. This is ideal if you want the enhanced security of a desktop application with no reliance on an internet connection. [Get the desktop app today](https://get.diagrams.net/)
 
 ### Online at diagrams.net
 
@@ -24,22 +24,22 @@ Create, edit and view diagrams using the free diagrams.net application online at
 
 ### Self-hosted, secure, container-deployable
 
-diagrams.net is designed to be easy to configure and fast to deploy in a container.
+draw.io is designed to be easy to configure and fast to deploy in a container.
 
-* [Get the diagrams.net application code on GitHub](https://github.com/jgraph/docker-drawio)
+* [Get the draw.io application code on GitHub](https://github.com/jgraph/docker-drawio)
 * [Learn more about docker and containers](https://www.docker.com/resources/what-container)
 
 ### Google Workspace add-ons for Docs, Sheets and Slides
 
-Diagrams.net lets you [store your diagram files in Google Drive](https://app.diagrams.net/?mode=google) and [work with them in Google Workspace](https://gsuite.diagrams.net/). There are also add-ons available for [Docs](https://docsaddon.diagrams.net/), [Sheets](https://sheetsaddon.diagrams.net/) and [Slides](https://slidesaddon.diagrams.net/).
+draw.io lets you [store your diagram files in Google Drive](https://app.diagrams.net/?mode=google) and [work with them in Google Workspace](https://gsuite.diagrams.net/). There are also add-ons available for [Docs](https://docsaddon.diagrams.net/), [Sheets](https://sheetsaddon.diagrams.net/) and [Slides](https://slidesaddon.diagrams.net/).
 
 <img src="/assets/img/blog/addon-google-docs-examples.png" width="400" alt="It's easy to embed diagrams in Google Docs">
 
-[See how to use the diagrams.net add-ons for Google Workspace](/blog/diagrams-google-docs.html)
+[See how to use the draw.io add-ons for Google Workspace](/blog/diagrams-google-docs.html)
 
 ### Microsoft Sharepoint, OneDrive, Office 365 and Teams integrations
 
-diagrams.net works with [OneDrive and Sharepoint](https://app.diagrams.net/?mode=onedrive). An [Office 365 app](https://office.diagrams.net/) is available for Word, Powerpoint and Excel, and a [Microsoft Teams app](/doc/faq/microsoft-teams-diagrams.html). 
+draw.io works with [OneDrive and Sharepoint](https://app.diagrams.net/?mode=onedrive). An [Office 365 app](https://office.diagrams.net/) is available for Word, Powerpoint and Excel, and a [Microsoft Teams app](/doc/faq/microsoft-teams-diagrams.html). 
 
 ### GitHub app
 
@@ -51,12 +51,6 @@ With the [draw.io for Notion extension in the chrome web store](https://chrome.g
 
 The [draw.io app for Nextcloud](https://apps.nextcloud.com/apps/drawio) lets you create and edit diagrams in Nextcloud, including with shared cursors for [real-time collaboration]().
 
-## 3rd-party integrations
-
-The following integrations are not directly provided by the diagrams.net team. The Atlassian integrations are built by us, but provided via an Atlassian partner.
-
-Most integrations use the name draw.io, the previous name for diagrams.net.
-
 ### Atlassian Confluence and Jira
 
 The draw.io apps for Confluence and Jira are available via the Atlassian Marketplace for Cloud, Data Centre and Server. [draw.io for Confluence](https://marketplace.atlassian.com/apps/1210933/draw-io-diagrams-for-confluence) is the highest-rated app on the Atlassian Marketplace.
@@ -67,16 +61,18 @@ The draw.io apps for Confluence and Jira are available via the Atlassian Marketp
 * **Flexible customisation:** By using these apps within your Confluence and Jira environment, you can [customise many aspects to make it easier for your employees to diagram](/doc/faq/): templates, shapes, shape libraries, colour palettes and style to match your corporate image, plugins, and even the user interface can be customised.
 * **Easy migration:** If you have many Gliffy and/or LucidChart OnPrem diagrams in your Confluence instances, you can convert all of these to draw.io diagrams with one click in the app administration section.
 
-### Other third-party integrations
+## 3rd-party integrations
+
+The following integrations are not directly provided by the draw.io team.
 
 * [**Aha!:**](https://blog.aha.io/introducing-aha-mockups/) Develop project management mockups and flow diagrams, product roadmaps and marketing planning.
 * [**Atom:**](https://atom.io/packages/atom-drawio) Atom has a package that lets you edit draw.io diagrams directly within the text editor.
-* [**Bioiocons:**](https://bioicons.com/extensions/) Open-source icon libraries that work with the diagrams.net web app for life science illustrations and diagrams.
+* [**Bioiocons:**](https://bioicons.com/extensions/) Open-source icon libraries that work with the draw.io web app for life science illustrations and diagrams.
 * [**BookStack:**](https://www.bookstackapp.com/blog/beta-release-v0-20-0/) An open source information management system.
 * [**Docstell:**](https://docstell.com/) Docstell provide software documentation for developers.
 * [**FOSWiki:**](https://foswiki.org/Extensions/DrawIOPlugin) Combine text and structured content, macros and data from web APIs wth FOSWiki.
 * [**Grafana:**](https://github.com/algenty/grafana-flowcharting) Add diagrams to this analytics and modelling platform with Arnaud Genty’s open-source plugin.
-* [**Growi:**](https://growi.org/en/) Growi is team collaboration software that uses markdown. It can integrate diagrams.net into the platform.
+* [**Growi:**](https://growi.org/en/) Growi is team collaboration software that uses markdown. It can integrate draw.io into the platform.
 * [**JupyterLab:**](https://github.com/QuantStack/jupyterlab-drawio/) Project Jupyter by QuantStack lets you combine various content types like runnable code snippets, LaTeX, images, embedded interactive diagrams.
 * [**Lark:**](https://larksuite.com) Lark has integrated our diagram editor into their page editor as part of their content and collaboration suite.
 * [**LumApps:**](https://www.lumapps.com/blog-post/drawio-integration/) Insert diagrams into your LumApps content.
