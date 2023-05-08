@@ -1,30 +1,30 @@
 ---
-title: Use the diagrams.net editor
+title: Use the draw.io editor
 layout: page
 categories: [features]
 ---
 
-diagrams.net is a free and open source diagramming app that you can use online, offline (desktop).
+draw.io is a free and open source diagramming app that you can use online at [app.diagrams.net](https://app.diagrams.net), and offline (desktop).
 
 As a security-first diagramming app for teams, we provide the diagramming functionality, and you choose where to keep your diagram data. There are many different [integrations with other platforms and applications](/integrations.html), including [Atlassian Confluence Cloud](/doc/drawio-confluence-cloud.html), Google Documents, GitHub, Microsoft Word.
 
 The diagram editor looks the same and offers the same main features no matter where you are using it. You can open a diagram created in one integration in another.
 
-[<img src="/assets/img/blog/tutorial-menu-header.png" style="width=100%;max-width:85px;" alt="The diagrams.net menu">](#menu)[<img src="/assets/img/blog/tutorial-toolbar-header.png" style="width=100%;max-width:98px;" alt="The diagrams.net toolbar">](#toolbar)[<img src="/assets/img/blog/tutorial-shapes-header.png" style="width=100%;max-width:154px;" alt="Shapes and shape libraries in diagrams.net">](#shapes-and-shape-libraries)[<img src="/assets/img/blog/tutorial-canvas-header.png" style="width=100%;max-width:154px;" alt="The diagrams.net drawing canvas">](#drawing-canvas)[<img src="/assets/img/blog/tutorial-format-header.png" style="width=100%;max-width:154px;" alt="The format panel in diagrams.net">](#format-panel)
+[<img src="/assets/img/blog/tutorial-menu-header.png" style="width=100%;max-width:85px;" alt="The draw.io menu">](#menu)[<img src="/assets/img/blog/tutorial-toolbar-header.png" style="width=100%;max-width:98px;" alt="The draw.io toolbar">](#toolbar)[<img src="/assets/img/blog/tutorial-shapes-header.png" style="width=100%;max-width:154px;" alt="Shapes and shape libraries in draw.io">](#shapes-and-shape-libraries)[<img src="/assets/img/blog/tutorial-canvas-header.png" style="width=100%;max-width:154px;" alt="The draw.io drawing canvas">](#drawing-canvas)[<img src="/assets/img/blog/tutorial-format-header.png" style="width=100%;max-width:154px;" alt="The format panel in draw.io">](#format-panel)
 
-## The diagrams.net editor
+## The draw.io editor
 
-Like most diagramming apps, the items you see in the toolbar and the panels around the drawing canvas in diagrams.net are context sensitive. Tools and options will be displayed depending on the type of element(s) you have selected on the drawing canvas.
+Like most diagramming apps, the items you see in the toolbar and the panels around the drawing canvas are context sensitive. Tools and options will be displayed depending on the type of element(s) you have selected on the drawing canvas.
 
 If you have used diagramming tools before, you will be familiar with the diagram editor layout.
 
-**Tip:** Hover your mouse over any button, tool or option in the diagrams.net editor to see a tooltip that says what it is used for.
+**Tip:** Hover your mouse over any button, tool or option in the draw.io editor to see a tooltip that says what it is used for.
 
-<img src="/assets/img/blog/interface-introduction.png" style="max-width:100%;height:auto;" alt="The diagrams.net editor, its tools and panels">
+<img src="/assets/img/blog/interface-introduction.png" style="max-width:100%;height:auto;" alt="The draw.io editor, its tools and panels">
 
-The sections below cover all of the main diagrams.net editor features.
+The sections below cover all of the main draw.io editor features.
 
-- [The diagrams.net editor](#the-diagramsnet-editor)
+- [The draw.io editor](#the-drawio-editor)
   - [Menu](#menu)
   - [Toolbar](#toolbar)
   - [Shapes and shape libraries](#shapes-and-shape-libraries)
@@ -43,26 +43,26 @@ The sections below cover all of the main diagrams.net editor features.
 
 ### Menu
 
-The menu in diagrams.net works in the same way as other applications. Features are arranged into the following menus.
+The menu in draw.io works in the same way as other applications. Features are arranged into the following menus.
 
 Depending on what you have selected in your diagram, some of the menu entries will not be selectable. For example, you can't edit a shape's style if you haven't selected a shape.
 
 * **File** - work with the diagram files (new, open, import/export, and print), as well as to open or custom create shape libraries.
 * **Edit** - select and edit the shapes and connectors in your diagram and their styles.
-* **View** - hide or display the various panels and helper tools in the diagrams.net editor including the scratchpad, layers, ruler and more.
+* **View** - hide or display the various panels and helper tools in the draw.io editor including the scratchpad, layers, ruler and more.
 * **Arrange** - group and organise shapes and connectors, [insert templates and images](/doc/faq/arrange-insert-menu.html), use the automatic layout features.
 * **Extras** - enable a different editor theme, use math typesetting, enable/disable the start screen and autosave, and work with tags or add a custom configuration.
-* **Help** - see the keyboard shortcuts, view support information or download the desktop version of diagrams.net.
+* **Help** - see the keyboard shortcuts, view support information or download the desktop version of draw.io.
 
 **Tip:** To the right of the menu is a status message showing if there are unsaved edits or if your diagram has been autosaved.
 
-[_Back to top_](#the-diagramsnet-editor)
+[_Back to top_](#the-drawio-editor)
 
 ### Toolbar
 
 Some of the tools in the toolbar need to have the right elements in your diagram selected. For example, the _Delete_ tool will be light grey and not enabled if you haven't selected a shape, connector or text.
 
-<img src="/assets/img/blog/toolbar.png" style="max-width:100%;height:auto;" alt="The diagrams.net toolbar">
+<img src="/assets/img/blog/toolbar.png" style="max-width:100%;height:auto;" alt="The draw.io toolbar">
 
 In order from left to right:
 * **View** _(three panels)_ - Hide or display the format panel, or the layers and outline dialogs.
@@ -80,11 +80,11 @@ In order from left to right:
 * **Table** _(grid)_ - Click then drag or click on a point in the table to insert a table shape of with your selected rows and columns.
 
 At the right end of the toolbar are three view options:
-* **Fullscreen** _(box and corners)_ - Close the left and right panels to make the drawing canvas the full size of the diagrams.net window.
+* **Fullscreen** _(box and corners)_ - Close the left and right panels to make the drawing canvas the full size of the draw.io window.
 * **Format Panel** _(two panels)_ - Display or hide the format panel on the right.
-* **Collapse/Expand** _(up arrows)_ - Display or hide the filename and diagrams.net application icon.
+* **Collapse/Expand** _(up arrows)_ - Display or hide the filename and draw.io application icon.
 
-[_Back to top_](#the-diagramsnet-editor)
+[_Back to top_](#the-drawio-editor)
 
 ### Shapes and shape libraries
 
@@ -92,9 +92,9 @@ Shapes are arranged into logical groups, called shape libraries. Not all of the 
 
 **Tip:** Expand or collapse each shape library in the left panel by clicking on its name.
 
-<img src="/assets/img/blog/shape-library-panel.png" style="width=100%;max-width:300px;height:auto;" alt="Shapes are arranged into logical groups called shape libraries in diagrams.net">
+<img src="/assets/img/blog/shape-library-panel.png" style="width=100%;max-width:300px;height:auto;" alt="Shapes are arranged into logical groups called shape libraries in draw.io">
 
-[_Back to top_](#the-diagramsnet-editor)
+[_Back to top_](#the-drawio-editor)
 
 #### Enable/disable shape libraries
 
@@ -102,7 +102,7 @@ To make creating a diagram easier, enable only the shape libraries that you need
 
 1. Click on _More Shapes_ at the bottom of the left panel.
 2. Scroll through the various shape libraries - these are arranged into useful categories for the different types of diagrams. Click on the checkbox next to a shape library's name to enable or disable it.
-<br /><img src="/assets/img/blog/shape-library-dialog.png" style="width=100%;max-width:300px;height:auto;" alt="Select the shape libraries you want to work with in diagrams.net">
+<br /><img src="/assets/img/blog/shape-library-dialog.png" style="width=100%;max-width:300px;height:auto;" alt="Select the shape libraries you want to work with in draw.io">
 3. Click _Apply_.
 
 [See how to add shapes to the drawing canvas](#add-shapes-to-the-drawing-canvas)  
@@ -114,9 +114,9 @@ The [scratchpad is your personal shape library](/doc/faq/scratchpad.html) where 
 1. Drag one or more selected shapes from the drawing canvas onto the scratchpad.
 2. Click on one of the shapes or groups of shapes you have saved to the scratchpad to add another copy to the drawing canvas, just like you would a shape from the shape libraries.
 
-<img src="/assets/img/blog/scratchpad-add-multiple-shapes.gif" style="width=100%;max-width:400px;height:auto;" alt="Add multiple shapes as one element on the scratchpad in diagrams.net">
+<img src="/assets/img/blog/scratchpad-add-multiple-shapes.gif" style="width=100%;max-width:400px;height:auto;" alt="Add multiple shapes as one element on the scratchpad in draw.io">
 
-[_Back to top_](#the-diagramsnet-editor)
+[_Back to top_](#the-drawio-editor)
 
 #### Search shapes
 
@@ -124,9 +124,9 @@ There are so many shapes organised into so many libraries, that they can be hard
 
 **Tip:** If you don't find the shape you are looking for, try searching for a related word.
 
-<img src="/assets/img/blog/search-shapes.png" style="width=100%;max-width:150px;height:auto;" alt="Searching for a pie chart shape for an infographic in diagrams.net">
+<img src="/assets/img/blog/search-shapes.png" style="width=100%;max-width:150px;height:auto;" alt="Searching for a pie chart shape for an infographic in draw.io">
 
-[_Back to top_](#the-diagramsnet-editor)
+[_Back to top_](#the-drawio-editor)
 
 ### Drawing canvas
 
@@ -137,7 +137,7 @@ Draw your diagram by placing, connecting and styling shapes on the drawing canva
 
 **Tip:** Enable the rulers via the _View_ menu.
 
-<img src="/assets/img/blog/drawing-canvas.png" style="width=100%;max-width:400px;;height:auto;" alt="The drawing canvas of diagrams.net">
+<img src="/assets/img/blog/drawing-canvas.png" style="width=100%;max-width:400px;;height:auto;" alt="The drawing canvas of draw.io">
 
 [Move the drawing canvas on touchscreens and in the outline panel](/doc/faq/drawing-canvas-move)
 
@@ -151,7 +151,7 @@ Organise complex diagrams into multiple pages.
 
 [Learn how to work with multiple pages in a diagram](/blog/multiple-page-diagrams.html)
 
-[_Back to top_](#the-diagramsnet-editor)
+[_Back to top_](#the-drawio-editor)
 
 ### Format panel
 
@@ -165,11 +165,11 @@ When you have selected one or more shapes, you can [change the fill and outline 
 
 Compare the different style options below when a shape is selected (left) and when a connector is selected (right).
 
-<img src="/assets/img/blog/style-tab-shape.png" style="width=100%;max-width:300px;;height:auto;" alt="The Style tab in the format panel lets you change shape and connector styles in diagrams.net">  <img src="/assets/img/blog/style-tab-connector.png" style="width=100%;max-width:300px;;height:auto;" alt="The Style tab in the format panel lets you change shape and connector styles in diagrams.net">
+<img src="/assets/img/blog/style-tab-shape.png" style="width=100%;max-width:300px;;height:auto;" alt="The Style tab in the format panel lets you change shape and connector styles in draw.io">  <img src="/assets/img/blog/style-tab-connector.png" style="width=100%;max-width:300px;;height:auto;" alt="The Style tab in the format panel lets you change shape and connector styles in draw.io">
 
 To learn how to work with styles, follow our [basic flow chart tutorial](/doc/getting-started-basic-flow-chart.html).
 
-[_Back to top_](#the-diagramsnet-editor)
+[_Back to top_](#the-drawio-editor)
 
 #### Text tab
 
@@ -181,9 +181,9 @@ _Word Wrap_ and _Formatted Text_ are enabled by default. This lets you style cha
 
 Compare the different style options below when a shape is selected (left) and when a connector is selected (right).
 
-<img src="/assets/img/blog/text-tab.png" style="width=100%;max-width:300px;;height:auto;" alt="Style your labels in the Text tab in the format panel on the right in diagrams.net">  <img src="/assets/img/blog/text-tab-in-label.png" style="width=100%;max-width:300px;;height:auto;" alt="Only the Text tab in the format panel is displayed when you edit the text in a label in diagrams.net">
+<img src="/assets/img/blog/text-tab.png" style="width=100%;max-width:300px;;height:auto;" alt="Style your labels in the Text tab in the format panel on the right in draw.io">  <img src="/assets/img/blog/text-tab-in-label.png" style="width=100%;max-width:300px;;height:auto;" alt="Only the Text tab in the format panel is displayed when you edit the text in a label in draw.io">
 
-[_Back to top_](#the-diagramsnet-editor)
+[_Back to top_](#the-drawio-editor)
 
 #### Arrange tab
 
@@ -193,9 +193,9 @@ Click _Edit Data_ to manually edit the selected shape's metadata, or _Edit Link_
 
 **Note:** The _Arrange_ tab shows fewer options when you select a connector (right) than when you select a shape (left).
 
-<img src="/assets/img/blog/arrange-tab-shape.png" style="width=100%;max-width:300px;;height:auto;" alt="Organise your shapes on the drawing canvas with the Arrange tab in the format panel in diagrams.net">  <img src="/assets/img/blog/arrange-tab-connector.png" style="width=100%;max-width:300px;;height:auto;" alt="Organise your connectors on the drawing canvas with the Arrange tab in the format panel in diagrams.net">
+<img src="/assets/img/blog/arrange-tab-shape.png" style="width=100%;max-width:300px;;height:auto;" alt="Organise your shapes on the drawing canvas with the Arrange tab in the format panel in draw.io">  <img src="/assets/img/blog/arrange-tab-connector.png" style="width=100%;max-width:300px;;height:auto;" alt="Organise your connectors on the drawing canvas with the Arrange tab in the format panel in draw.io">
 
-[_Back to top_](#the-diagramsnet-editor)
+[_Back to top_](#the-drawio-editor)
 
 #### Global diagram options
 
@@ -204,19 +204,19 @@ If you have nothing selected, you'll see the [options that apply to the entire d
 * Change the print and drawing canvas options in the _Diagram_ tab.
 * Apply a new global style to shapes, text and connectors in the _Style_ tab.
 
-<img src="/assets/img/blog/diagram-options.png" style="width=100%;max-width:300px;;height:auto;" alt="The page and drawing canvas options available in diagrams.net">   <img src="/assets/img/blog/diagram-options-style.png" style="width=100%;max-width:300px;;height:auto;" alt="The style options let you globally change the shape, connector and text styles in diagrams.net">
+<img src="/assets/img/blog/diagram-options.png" style="width=100%;max-width:300px;;height:auto;" alt="The page and drawing canvas options available in draw.io">   <img src="/assets/img/blog/diagram-options-style.png" style="width=100%;max-width:300px;;height:auto;" alt="The style options let you globally change the shape, connector and text styles in draw.io">
 
-[_Back to top_](#the-diagramsnet-editor)
+[_Back to top_](#the-drawio-editor)
 
 ## Keyboard shortcuts
 
-Use the following keyboard shortcuts to work more efficiently with diagrams.net.
+Use the following keyboard shortcuts to work more efficiently with draw.io and app.diagrams.net.
 
-[<img src="https://app.diagrams.net/shortcuts.svg" style="width=100%;max-width:600px;;height:auto;" alt="The page and drawing canvas options available in diagrams.net">](https://app.diagrams.net/shortcuts.svg)
+[<img src="https://app.diagrams.net/shortcuts.svg" style="width=100%;max-width:600px;;height:auto;" alt="The page and drawing canvas options available at app.diagrams.net">](https://app.diagrams.net/shortcuts.svg)
 <br />[_View and print these keyboard shortcuts_](https://app.diagrams.net/shortcuts.svg)
 
 ## Next step: Draw a diagram
 
 Follow this [basic flowchart tutorial](/doc/getting-started-basic-flow-chart.html) to create your first diagram.
 
-<img src="/assets/img/blog/basic-flow.png" style="width=100%;max-width:200px;height:auto;" alt="The diagram exported as a PNG image">
+<img src="/assets/img/blog/basic-flow.png" style="width=100%;max-width:200px;height:auto;" alt="The diagram exported as a PNG image">s

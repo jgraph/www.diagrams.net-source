@@ -64,7 +64,7 @@ SaaS and feature flag DevOps can use this git branching structure, but as each u
 
 Without indicating the feature flags that are applied to the deployed software, this gitflow shows only half of the story. 
 
-With diagrams.net, there are [many ways to show feature flags in a diagram](/blog/gitflow-feature-flags.html) - tags, tooltips, and shape metadata can be used to explain how feature flags apply to each release or development branch. Tags are particularly useful for training documentation, as you can interactively display or hide shapes with specific tags in the diagram and see how the functionality is affected when those feature flags are enabled or disabled on the deployed software.  
+With draw.io, there are [many ways to show feature flags in a diagram](/blog/gitflow-feature-flags.html) - tags, tooltips, and shape metadata can be used to explain how feature flags apply to each release or development branch. Tags are particularly useful for training documentation, as you can interactively display or hide shapes with specific tags in the diagram and see how the functionality is affected when those feature flags are enabled or disabled on the deployed software.  
 
 [<img src="/assets/img/blog/feature-flag-gitflow-labels.png" style="width=100%;max-width:600px;height:auto;" alt="You could also use a list shape to list the feature flags on each main release">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&page=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fgitflow-feature-flags.drawio)
 <br />_Diagram 7: Callouts using list shapes on releases are the clearest way to show feature flags in static images_
@@ -110,23 +110,23 @@ Humans process visual information faster and more easily than text explanations.
 
 Most of the web resources covering feature flag DevOps are pure text explanations. These aren't helpful when trying to convince a time-poor and less technical audience, such as those in management, the value of a change to an existing development process. It's faster and easier to explain with the help of diagrams.
 
-All the diagrams in this document were created with our online diagramming application at [app.diagrams.net](https://app.diagrams.net) using the built-in shape libraries.
+All the diagrams in this document were created in draw.io using our online diagramming app at [app.diagrams.net](https://app.diagrams.net) and its built-in shape libraries.
 
 ### Many different types of diagrams
 
 Teams from different departments need a variety of diagrams for various purposes - training, documentation, planning, presentations, project tracking, and so on. 
 
 [<img src="/assets/img/blog/bpmn-example-modern-mode.png" style="width=100%;max-width:600px;height:auto;" alt="An example BPMN diagram using a pool with swimlanes">](https://app.diagrams.net/?splash=0&ui=kennedy&ibs=bpmn2&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fbpmn-2-example.drawio)
-<br />_Diagram 10: A BPMN diagram being edited in diagrams.net_
+<br />_Diagram 10: A BPMN diagram being edited in draw.io_
 
-With diagrams.net and our draw.io apps, you can [draw an extensive range of diagrams](/example-diagrams.html).
+With draw.io, you can [draw an extensive range of diagrams](/example-diagrams.html).
 
 From highly technical UML software specifications, cloud infrastructures, user flows, and interface mockups, through to whiteboard sketches, customer analyses, business processes and educational infographics, you can draw whatever you need.
 
 Please see our gallery of examples for more inspiration.
 
 [<img src="/assets/img/blog/aws-example-modern-mode-freehand.png" style="width=100%;max-width:500px;height:auto;" alt="An example AWS diagram being annotated with a freehand shape">](https://app.diagrams.net/?splash=0&ui=kennedy&ibs=bpmn2&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fcloud%2Faws_10.xml)
-<br />_DIAGRAM 11: Annotating an AWS network diagram with a freehand shape in a team meeting using diagrams.net as an online whiteboard_
+<br />_DIAGRAM 11: Annotating an AWS network diagram with a freehand shape in a team meeting using draw.io as an online whiteboard_
 
 In addition to the vast shape library and built-in templates, you can create your own shapes, edit connection points on existing shapes, and draw freehand shapes. 
 
@@ -140,10 +140,10 @@ To diagram faster, you can customise the editor to use your preferred styles, fo
 
 ### Start diagramming today
 
-Anyone can use our free web application at [app.diagrams.net](https://app.diagrams.net) or download the [diagrams.net desktop app](https://get.diagrams.net/) (Linux, Microsoft and macOS) to diagram offline.
+Anyone can use our free web application at [app.diagrams.net](https://app.diagrams.net) or download the [draw.io desktop app](https://get.diagrams.net/) (Linux, Microsoft and macOS) to diagram offline.
 
-As diagrams.net is open source, there are [integrations](/integrations.html) available for many third party platforms, in addition to our own extensions for [Microsoft](https://office.diagrams.net/), [Google](https://gsuite.diagrams.net/) and [Atlassian](https://marketplace.atlassian.com/apps/1210933/draw-io-diagrams-for-confluence) products.
+As draw.io is open source, there are [integrations](/integrations.html) available for many third party platforms, in addition to our own extensions for [Microsoft](https://office.diagrams.net/), [Google](https://gsuite.diagrams.net/) and [Atlassian](https://marketplace.atlassian.com/apps/1210933/draw-io-diagrams-for-confluence) products.
 
 Your diagram data is secure - you choose which cloud storage platform or device to use to save your diagram files. No account is needed to view or work with your diagrams. 
 
-Visit [diagrams.net](https://www.diagrams.net) to learn more.
+Visit [drawio.com](https:/drawio.com) to learn more.
