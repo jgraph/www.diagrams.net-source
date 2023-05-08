@@ -4,16 +4,16 @@ layout: page
 permalink: /example-diagrams.html
 ---
 
-You can create a wide variety of diagrams for many different industries using diagrams.net and our draw.io apps with our extensive [template library](/blog/template-diagrams.html) and vast shape libraries.
+You can create a wide variety of diagrams for many different industries using draw.io with our extensive [template library](/blog/template-diagrams.html) and vast shape libraries.
 
-1. **Open a diagram:** Click on a diagram image on this page to enlarge it in the diagrams.net viewer. Click on the pencil in the viewer toolbar to open it in the editor.
+1. **Open a diagram:** Click on a diagram image on this page to enlarge it in our online app.diagrams.net viewer. Click on the pencil in the viewer toolbar to open it in the editor.
 2. **Learn more about that diagram type:** Click on the diagram type link below each image to view a related blog post.
 3. **Download:** Right-click on the _Download_ link and save the ``.drawio`` diagram file from [our Github repository](https://github.com/jgraph/drawio-diagrams) to your device. 
 
 ___
 ## Diagram types <!-- omit in toc -->
 
-All these diagrams were created using [app.diagrams.net](https://app.diagrams.net)
+All these diagrams were created using draw.io - start diagramming now at [app.diagrams.net](https://app.diagrams.net)
 
 Where noted, template diagrams are available in the built-in template library (_Arrange > Insert > Template_).
 
@@ -49,7 +49,7 @@ ___
 <br />[Gitflow diagram](/blog/gitflow-diagram) (template library) | [_Download file_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/blog/gitflow-examples.drawio)
 
 [<img src="/assets/img/blog/dependency-graph-diagrams-net-website.png" style="width=100%;max-width:400px;height:auto;" alt="Gemfile dependency graph of the diagrams.net website on GitHub">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fgemfile-dependency-graph.drawio)
-<br />The diagrams.net editor's gemfile [dependency graph](/blog/dependency-graphs.html) | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/examples/gemfile-dependency-graph.drawio)
+<br />The diagrams.net website's gemfile [dependency graph](/blog/dependency-graphs.html) | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/examples/gemfile-dependency-graph.drawio)
 
 [<img src="/assets/img/blog/kanban-examples.png" style="width=100%;max-width:500px;height:auto;" alt="Examples of Kanban boards in various styles">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fkanban-examples.drawio)
 <br />[Kanban boards](/blog/kanban-boards.html) in various styles | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/examples/kanban-examples.drawio)
@@ -67,7 +67,7 @@ ___
 [<img src="/assets/img/blog/class-diagram-example.png" style="width=100%;max-width:300px;height:auto;" alt="A class diagram based on the basic class diagram template in diagrams.net">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fclass-diagram-example.drawio)
 <br />[UML class diagram](/blog/uml-class-diagrams.html) | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/examples/class-diagram-example.drawio)
 
-[<img src="/assets/img/blog/uml-sequence-example.png" style="width=100%;max-width:300px;height:auto;" alt="Add shape and connector labels and drag text for conditions into a frame shape in a sequence diagram in diagrams.net">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fsequence-diagram-examples.drawio) [<img src="/assets/img/blog/uml-sequence-example-loop.png" style="width=100%;max-width:300px;height:auto;" alt="Add shape and connector labels and drag text for conditions into a frame shape in a sequence diagram in diagrams.net">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&page=1&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fsequence-diagram-examples.drawio)
+[<img src="/assets/img/blog/uml-sequence-example.png" style="width=100%;max-width:300px;height:auto;" alt="Add shape and connector labels and drag text for conditions into a frame shape in a sequence diagram in draw.io">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fsequence-diagram-examples.drawio) [<img src="/assets/img/blog/uml-sequence-example-loop.png" style="width=100%;max-width:300px;height:auto;" alt="Add shape and connector labels and drag text for conditions into a frame shape in a sequence diagram in draw.io">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&page=1&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fsequence-diagram-examples.drawio)
 <br />[Sequence diagrams](/blog/sequence-diagrams.html) | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/examples/sequence-diagram-examples.drawio)
 
 [<img src="/assets/img/blog/uml-2-5-component-diagram-example.png" style="width=100%;max-width:350px;height:auto;" alt="Component diagrams show the dependencies between the components of a system.">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&page=1&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fuml-component-example.drawio)
@@ -89,13 +89,13 @@ ___
 ### Mockups and wireframes
 
 
-[<img src="/assets/img/blog/template-bootstrap_1.png" style="width=100%;max-width:300px;height:auto;" alt="A mockup of an application using a template in diagrams.net">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Flayout%2Fbootstrap_1.xml)
+[<img src="/assets/img/blog/template-bootstrap_1.png" style="width=100%;max-width:300px;height:auto;" alt="A mockup of an application using a template in draw.io">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Flayout%2Fbootstrap_1.xml)
 <br />Application mockup (template library) | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/templates/layout/bootstrap_1.xml)
 
 ___
 ## IT and infrastructure diagrams
 
-[<img src="/assets/img/blog/aws-example.png" style="width=100%;max-width:300px;height:auto;" alt="An example AWS architecture diagram created in diagrams.net">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&page=1&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Faws-simple-architecture.drawio)
+[<img src="/assets/img/blog/aws-example.png" style="width=100%;max-width:300px;height:auto;" alt="An example AWS architecture diagram created in draw.io">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&page=1&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Faws-simple-architecture.drawio)
 <br />[Simple AWS architecture](/blog/aws-diagrams.html) | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/examples/aws-simple-architecture.drawio)
 
 [<img src="/assets/img/blog/aws-infrastructure-diagram-example.png" style="width=100%;max-width:300px;height:auto;" alt="A basic AWS diagram in 3D">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fcloud%2Faws_3d_2.xml)
@@ -104,13 +104,13 @@ ___
 [<img src="/assets/img/blog/exported-cloudcraft-diagram-new-shapes.png" style="width=100%;max-width:200px;height:auto;" alt="IOT example using 2019 AWS shapes">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Faws-internet-of-things.drawio)
 <br />Internet of Things AWS diagram, as [exported from Cloudcraft](/blog/drawio-aws-cloudcraft.html) | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/examples/aws-internet-of-things.drawio)
 
-[<img src="/assets/img/blog/ibm-iot-network-diagram-template.png" style="width=100%;max-width:300px;height:auto;" alt="IBM Internet of Things template network diagram from diagrams.net">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fcloud%2Fibm_iot_architecture.xml)
+[<img src="/assets/img/blog/ibm-iot-network-diagram-template.png" style="width=100%;max-width:300px;height:auto;" alt="IBM Internet of Things template network diagram from draw.io">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fcloud%2Fibm_iot_architecture.xml)
 <br />IBM IoT [infrastructure diagram](/blog/network-diagrams.html) (template library) | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/templates/cloud/ibm_iot_architecture.xml)
 
-[<img src="/assets/img/blog/google-iot-template-example.png" style="width=100%;max-width:300px;height:auto;" alt="Template infrastructure in diagrams.net for IoT devices running on Google Cloud Platform">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fgcp%2Finternet_of_things_mqtt_to_pubsub_broker.xml)
+[<img src="/assets/img/blog/google-iot-template-example.png" style="width=100%;max-width:300px;height:auto;" alt="Template infrastructure in draw.io for IoT devices running on Google Cloud Platform">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fgcp%2Finternet_of_things_mqtt_to_pubsub_broker.xml)
 <br />Google Cloud Platform [infrastructure diagram](/blog/network-diagrams.html) (template library) | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/templates/gcp/internet_of_things_mqtt_to_pubsub_broker.xml)
 
-[<img src="/assets/img/blog/veaam-network-diagram.png" style="width=100%;max-width:200px;height:auto;" alt="Template infrastructure in diagrams.net for IoT devices running on Google Cloud Platform">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fveaam-network-diagram.drawio)
+[<img src="/assets/img/blog/veaam-network-diagram.png" style="width=100%;max-width:200px;height:auto;" alt="Template infrastructure in draw.io for IoT devices running on Google Cloud Platform">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fveaam-network-diagram.drawio)
 <br />[Veaam](/blog/veeam-stencils.html) infrastructure diagram (template library) | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/examples/veaam-network-diagram.drawio)
 
 
@@ -124,23 +124,23 @@ ___
 ___
 ### Rack and cabinet diagrams
 
-[<img src="/assets/img/blog/rack-diagram-simple-server.png" alt="A simple rack diagram, created with diagrams.net" style="width=100%;max-width:200px;height:auto;" >](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Frack-diagram-simple-server.drawio)
+[<img src="/assets/img/blog/rack-diagram-simple-server.png" alt="A simple rack diagram, created with draw.io" style="width=100%;max-width:200px;height:auto;" >](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Frack-diagram-simple-server.drawio)
 <br />[Rack diagram](/blog/rack-diagrams.html) for a basic IT server | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/examples/rack-diagram-simple-server.drawio)
 
 
-[<img src="/assets/img/blog/rack-diagram-arista-example.png" alt="An Arista rack diagram layout, created with diagrams.net" style="width=100%;max-width:300px;height:auto;" >](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fnetwork%2Farista.drawio)
+[<img src="/assets/img/blog/rack-diagram-arista-example.png" alt="An Arista rack diagram layout, created with draw.io" style="width=100%;max-width:300px;height:auto;" >](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fnetwork%2Farista.drawio)
 <br />[Arista rack diagram](/blog/rack-diagrams.html) (template library) | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/templates/network/arista.drawio)
 
-[<img src="/assets/img/blog/rack-diagram-electronics-cabinet-example.png" style="width=100%;max-width:120px;height:auto;" alt="An electronics cabinet diagram, created at diagrams.net">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fengineering%2Fcabinet_2.xml)
+[<img src="/assets/img/blog/rack-diagram-electronics-cabinet-example.png" style="width=100%;max-width:120px;height:auto;" alt="An electronics cabinet diagram, created at draw.io">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fengineering%2Fcabinet_2.xml)
 <br />[Cabinet diagram](/blog/rack-diagrams.html) (template library) | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/templates/engineering/cabinet_2.xml)
 
 ___
 ## Tree diagrams and org charts
 
-[<img src="/assets/img/blog/waypoint-shape-tree.png" style="width=100%;max-width:600px;height:auto;" alt="Use waypoint shapes in diagrams.net to join connectors">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&page=3&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fwaypoint-shape.drawio)
+[<img src="/assets/img/blog/waypoint-shape-tree.png" style="width=100%;max-width:600px;height:auto;" alt="Use waypoint shapes in draw.io to join connectors">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&page=3&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fwaypoint-shape.drawio)
 <br />Org chart template, modified to use [waypoint shapes](/blog/waypoint-shape.html) | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/blog/waypoint-shape.drawio)
 
-[<img src="/assets/img/blog/org-chart-from-csv.png" style="width=100%;max-width:200px;height:auto;" alt="An organisation chart created in diagrams.net from a CSV file">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&page=4&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2FCSVimport-examples.drawio)
+[<img src="/assets/img/blog/org-chart-from-csv.png" style="width=100%;max-width:200px;height:auto;" alt="An organisation chart created in draw.io from a CSV file">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&page=4&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2FCSVimport-examples.drawio)
 <br />An org chart, [generated from CSV and formatting data](/doc/faq/insert-from-csv.html) |  [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/blog/CSVimport-examples.drawio)
 
 ___
@@ -149,11 +149,11 @@ ___
 [<img src="/assets/img/blog/uml-2-5-diagram-overview.png" style="width=100%;max-width:400px;height:auto;" alt="Diagram types defined in UML 2.5">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fconcept-map-uml-diagrams-overview.drawio)
 <br />Concept map for [UML 2.5 diagrams](/blog/uml-2-5.html) | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/examples/concept-map-uml-diagrams-overview.drawio)
 
-[<img src="/assets/img/blog/template-living_beings_mind_map.png" style="width=100%;max-width:400px;height:auto;" alt="Mindmap of living beings - a template in diagrams.net">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fmaps%2Fliving_beings_mind_map.xml)
+[<img src="/assets/img/blog/template-living_beings_mind_map.png" style="width=100%;max-width:400px;height:auto;" alt="Mindmap of living beings - a template in draw.io">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fmaps%2Fliving_beings_mind_map.xml)
 <br />Mindmap of living beings (template library) | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/templates/maps/living_beings_mind_map.xml)
 
-[<img src="/assets/img/blog/mindmap-plantuml-example2.png" style="width=100%;max-width:200px;height:auto;" alt="Mindmaps are easy to create from text with diagrams.net and PlantUML">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fmindmap-plantuml-example.drawio)
-<br />Task map [generated from text with PlantUML](/blog/plantuml-mindmaps-from-text.html) in diagrams.net | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/blog/mindmap-plantuml-example.drawio)
+[<img src="/assets/img/blog/mindmap-plantuml-example2.png" style="width=100%;max-width:200px;height:auto;" alt="Mindmaps are easy to create from text with draw.io and PlantUML">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fmindmap-plantuml-example.drawio)
+<br />Task map [generated from text with PlantUML](/blog/plantuml-mindmaps-from-text.html) in draw.io | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/blog/mindmap-plantuml-example.drawio)
 
 ___
 ## Industry and engineering
@@ -168,10 +168,10 @@ ___
 ___
 ### Circuit and logic diagrams
 
-[<img src="/assets/img/blog/waypoint-shape-circuit.png" style="width=100%;max-width:250px;height:auto;" alt="Use waypoint shapes in diagrams.net to show contact points in electrical circuit diagrams">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fcircuit-logic-examples.drawio)
+[<img src="/assets/img/blog/waypoint-shape-circuit.png" style="width=100%;max-width:250px;height:auto;" alt="Use waypoint shapes in draw.io to show contact points in electrical circuit diagrams">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fcircuit-logic-examples.drawio)
 <br />Circuit diagram, template modified to use [waypoint shapes](/blog/waypoint-shape.html) | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/examples/circuit-logic-examples.drawio)
 
-[<img src="/assets/img/blog/waypoint-shape-logic.png" style="width=100%;max-width:300px;height:auto;" alt="Use waypoint shapes in diagrams.net to show contact points and enable line jumps to see where wires pass each other without connecting">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&page=1&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fcircuit-logic-examples.drawio)
+[<img src="/assets/img/blog/waypoint-shape-logic.png" style="width=100%;max-width:300px;height:auto;" alt="Use waypoint shapes in draw.io to show contact points and enable line jumps to see where wires pass each other without connecting">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&page=1&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fcircuit-logic-examples.drawio)
 <br />Logic diagram, template modified to use [waypoint shapes](/blog/waypoint-shape.html) | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/examples/circuit-logic-examples.drawio)
 
 ___
@@ -185,25 +185,25 @@ ___
 ___
 ## Flowcharts
 
-[<img src="/assets/img/blog/template-basic-flowchart.png" style="width=100%;max-width:200px;height:auto;" alt="A workflow drawn in diagrams.net">](https://viewer.diagrams.net/?splash=0&ui=kennedy&ibs=bpmn2&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fbasic%2Fflowchart.xml)
+[<img src="/assets/img/blog/template-basic-flowchart.png" style="width=100%;max-width:200px;height:auto;" alt="A workflow drawn in draw.io">](https://viewer.diagrams.net/?splash=0&ui=kennedy&ibs=bpmn2&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fbasic%2Fflowchart.xml)
 <br />Basic flowchart, styled from the basic templates | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/templates/basic/flowchart.xml)
 
-[<img src="/assets/img/blog/template-workflow_2.png" style="width=100%;max-width:400px;height:auto;" alt="A workflow drawn in diagrams.net">](https://viewer.diagrams.net/?splash=0&ui=kennedy&ibs=bpmn2&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fflowcharts%2Fworkflow_2.xml)
+[<img src="/assets/img/blog/template-workflow_2.png" style="width=100%;max-width:400px;height:auto;" alt="A workflow drawn in draw.io">](https://viewer.diagrams.net/?splash=0&ui=kennedy&ibs=bpmn2&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fflowcharts%2Fworkflow_2.xml)
 <br />Workflow (flowchart) | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/templates/flowcharts/workflow_2.xml)
 
-[<img src="/assets/img/blog/template-epc_2.png" style="width=100%;max-width:300px;height:auto;" alt="An event driving process chain (flowchart) created in diagrams.net">](https://viewer.diagrams.net/?splash=0&ui=kennedy&ibs=bpmn2&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fflowcharts%2Fepc_2.xml)
+[<img src="/assets/img/blog/template-epc_2.png" style="width=100%;max-width:300px;height:auto;" alt="An event driving process chain (flowchart) created in draw.io">](https://viewer.diagrams.net/?splash=0&ui=kennedy&ibs=bpmn2&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fflowcharts%2Fepc_2.xml)
 <br />Event driven process chart | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/templates/flowcharts/epc_2.xml)
 
 [<img src="/assets/img/blog/csv-supply-chain-example.png" style="width=100%;max-width:400px;height:auto;" alt="An example supply chain drawn automatically from CSV data and formatting information">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&page=3&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2FCSVimport-examples.drawio)
-<br />Flowchart [generated from CSV and formatting data](/blog/insert-from-csv.html) in diagrams.net  | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/blog/CSVimport-examples.drawio)
+<br />Flowchart [generated from CSV and formatting data](/blog/insert-from-csv.html) in draw.io  | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/blog/CSVimport-examples.drawio)
 
 ___
 ### Swimlane diagrams and cross-functional flowcharts
 
-[<img src="/assets/img/blog/basic-cross-functional-flowchart-template.png" style="width=100%;max-width:250px;height:auto;" alt="The basic cross-functional flowchart template after being styled, as provided in the diagrams.net template manager">](https://viewer.diagrams.net/?splash=0&ui=kennedy&ibs=bpmn2&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fbasic%2Fcross.xml)
+[<img src="/assets/img/blog/basic-cross-functional-flowchart-template.png" style="width=100%;max-width:250px;height:auto;" alt="The basic cross-functional flowchart template after being styled, as provided in the draw.io template manager">](https://viewer.diagrams.net/?splash=0&ui=kennedy&ibs=bpmn2&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fbasic%2Fcross.xml)
 <br />[Cross functional flowchart](/blog/swimlane-diagrams.html), coloured from the basic template | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/templates/basic/cross.xml)
 
-[<img src="/assets/img/blog/template-swimlane.png" style="width=100%;max-width:250px;height:auto;" alt="A flowchart template with swimlanes available in diagrams.net">](https://viewer.diagrams.net/?splash=0&ui=kennedy&ibs=bpmn2&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2FWorkflowFlowchart.xml)
+[<img src="/assets/img/blog/template-swimlane.png" style="width=100%;max-width:250px;height:auto;" alt="A flowchart template with swimlanes available in draw.io">](https://viewer.diagrams.net/?splash=0&ui=kennedy&ibs=bpmn2&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2FWorkflowFlowchart.xml)
 <br />Flowchart with [swimlanes](/blog/swimlane-diagrams.html) (template library) | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/examples/WorkflowFlowchart.xml)
 
 
@@ -237,26 +237,26 @@ ___
 ___
 ### PERT and Gantt charts
 
-[<img src="/assets/img/blog/dependency-graph-pert-template.png" style="width=100%;max-width:400px;height:auto;" alt="A PERT diagram template that is available in diagrams.net">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fbusiness%2Fpert_4.xml)
+[<img src="/assets/img/blog/dependency-graph-pert-template.png" style="width=100%;max-width:400px;height:auto;" alt="A PERT diagram template that is available in draw.io">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fbusiness%2Fpert_4.xml)
 <br />[PERT diagram with preferred path](/blog/dependency-graphs.html) (template library) | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/templates/business/pert_4.xml)
 
-[<img src="/assets/img/blog/pert-template-example.png" style="width=100%;max-width:300px;height:auto;" alt="A PERT diagram template that is available in diagrams.net">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fbusiness%2Fpert_5.xml)
+[<img src="/assets/img/blog/pert-template-example.png" style="width=100%;max-width:300px;height:auto;" alt="A PERT diagram template that is available in draw.io">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fbusiness%2Fpert_5.xml)
 <br />[PERT diagram](/blog/dependency-graphs.html) (template library) | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/templates/business/pert_5.xml)
 
 
-[<img src="/assets/img/blog/template-gantt_1.png" style="width=100%;max-width:300px;height:auto;" alt="A Gantt chart template from the tables category in the template library at diagrams.net">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Ftables%2Fgantt_1.xml)
+[<img src="/assets/img/blog/template-gantt_1.png" style="width=100%;max-width:300px;height:auto;" alt="A Gantt chart template from the tables category in the template library at draw.io">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Ftables%2Fgantt_1.xml)
 <br />Gantt chart (template library) | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/templates/tables/gantt_1.xml)
 
 ___
 ### Timelines and roadmaps
 
-[<img src="/assets/img/blog/timeline-example.png" style="width=100%;max-width:500px;height:auto;" alt="Draw timelines, roadmaps and milestone diagrams easily with diagrams.net">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Ftimeline-example.drawio)
+[<img src="/assets/img/blog/timeline-example.png" style="width=100%;max-width:500px;height:auto;" alt="Draw timelines, roadmaps and milestone diagrams easily with draw.io">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Ftimeline-example.drawio)
 <br />[Project development roadmap](/blog/timeline-diagrams.html) | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/examples/timeline-example.drawio)
 
-[<img src="/assets/img/blog/timeline-infographic-shapes-horizontal.png" style="width=100%;max-width:500px;height:auto;" alt="Draw horizontal timelines using the infographic shape libraries in diagrams.net">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Ftimeline-infographic-shapes-horizontal.drawio)
+[<img src="/assets/img/blog/timeline-infographic-shapes-horizontal.png" style="width=100%;max-width:500px;height:auto;" alt="Draw horizontal timelines using the infographic shape libraries in draw.io">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Ftimeline-infographic-shapes-horizontal.drawio)
 <br />[Horizontal timelines](/blog/timeline-diagrams.html) using shapes from the infographic shape library | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/examples/timeline-infographic-shapes-horizontal.drawio)
 
-[<img src="/assets/img/blog/timeline-infographic-shapes-vertical.png" style="width=100%;max-width:500px;height:auto;" alt="Draw vertical timelines using the infographic shape libraries in diagrams.net">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Ftimeline-infographic-shapes-vertical.drawio)
+[<img src="/assets/img/blog/timeline-infographic-shapes-vertical.png" style="width=100%;max-width:500px;height:auto;" alt="Draw vertical timelines using the infographic shape libraries in draw.io">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Ftimeline-infographic-shapes-vertical.drawio)
 <br />[Vertical timelines](/blog/timeline-diagrams.html) using shapes from the infographic shape library | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/examples/timeline-infographic-shapes-vertical.drawio)
 
 [<img src="/assets/img/blog/labels-example-project-phases.png" style="width=100%;max-width:300px;height:auto;" alt="Project phases and the teams involved">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fproject-phase-timeline.drawio)
@@ -265,14 +265,14 @@ ___
 ___
 ### Infographics 
 
-[<img src="/assets/img/blog/integrations.png" style="width=100%;max-width:500px;;height:auto;" alt="There is a large ecosystem of diagrams.net and draw.io apps for diagramming in whichever platform or app you are using for documentation">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fdiagram-integrations.drawio)
-<br />Infographic of the many [diagrams.net integrations](https://www.diagrams.net/integrations) | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/blog/diagram-integrations.drawio)
+[<img src="/assets/img/blog/integrations.png" style="width=100%;max-width:500px;;height:auto;" alt="There is a large ecosystem of draw.io apps for diagramming in whichever platform or app you are using for documentation">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fdiagram-integrations.drawio)
+<br />Infographic of the many [draw.io integrations](https://www.drawio.com/integrations) | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/blog/diagram-integrations.drawio)
 
-[<img src="/assets/img/blog/infographic-example.png" style="width=100%;max-width:300px;;height:auto;" alt="You can create attractive infographics in diagrams.net">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2FInfographic.xml)
-<br />Infographic using shapes and clipart available in diagrams.net | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/examples/Infographic.xml)
+[<img src="/assets/img/blog/infographic-example.png" style="width=100%;max-width:300px;;height:auto;" alt="You can create attractive infographics in draw.io">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2FInfographic.xml)
+<br />Infographic using shapes and clipart available in draw.io | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/examples/Infographic.xml)
 
-[<img src="/assets/img/blog/Infographic-why-agile.png" style="width=100%;max-width:300px;;height:auto;" alt="You can create attractive infographics in diagrams.net">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2FInfographic_2.xml)
-<br />Infographic using the infographic shape library in diagrams.net | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/examples/Infographic_2.xml)
+[<img src="/assets/img/blog/Infographic-why-agile.png" style="width=100%;max-width:300px;;height:auto;" alt="You can create attractive infographics in draw.io">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2FInfographic_2.xml)
+<br />Infographic using the infographic shape library in draw.io | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/examples/Infographic_2.xml)
 
 [<img src="/assets/img/blog/infographic-shape-library-layers.png" style="width=100%;max-width:600px;height:auto;" alt="Set the connector shape to curved and pull out the middle waypoint">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Finfographic-shape-library-layers.drawio)
 <br />[Layered shapes](/blog/infographics-layered-shapes.html) available in the infographic shape library | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/blog/infographic-shape-library-layers.drawio)
@@ -298,20 +298,20 @@ ___
 ___
 ## Venn diagrams
 
-[<img src="/assets/img/blog/venn-template2.png" style="width=100%;max-width:200px;height:auto;" alt="diagrams.net and draw.io have many Venn diagram templates with various numbers of sets">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fvenn%2Fvenn_8.xml) [<img src="/assets/img/blog/template-venn_1.png" style="width=100%;max-width:150px;height:auto;" alt="diagrams.net and draw.io have many Venn diagram templates with various numbers of sets">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fvenn%2Fvenn_1.xml) [<img src="/assets/img/blog/template-venn_3.png" style="width=100%;max-width:200px;height:auto;" alt="diagrams.net and draw.io have many Venn diagram templates with various numbers of sets">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fvenn%2Fvenn_3.xml)
+[<img src="/assets/img/blog/venn-template2.png" style="width=100%;max-width:200px;height:auto;" alt="draw.io has many Venn diagram templates with various numbers of sets">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fvenn%2Fvenn_8.xml) [<img src="/assets/img/blog/template-venn_1.png" style="width=100%;max-width:150px;height:auto;" alt="draw.io has many Venn diagram templates with various numbers of sets">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fvenn%2Fvenn_1.xml) [<img src="/assets/img/blog/template-venn_3.png" style="width=100%;max-width:200px;height:auto;" alt="draw.io has many Venn diagram templates with various numbers of sets">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fvenn%2Fvenn_3.xml)
 <br />[Venn diagrams](/blog/venn-diagrams.html) | Venn template category via _Arrange > Insert > Template_
 
 ___
 ## Science and educational illustrations
 
-[<img src="/assets/img/blog/cell-culture-flow.png" style="width=100%;max-width:400px;height:auto;" alt="Bioicons can be used to create a wide range of illustrations with diagrams.net">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fcell-culture-flow.drawio)
+[<img src="/assets/img/blog/cell-culture-flow.png" style="width=100%;max-width:400px;height:auto;" alt="Bioicons can be used to create a wide range of illustrations with draw.io">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fcell-culture-flow.drawio)
 <br />Cell culture illustration, using the [Bioicons integration](/blog/biochem-clipart-in-diagrams.html) | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/examples/cell-culture-flow.drawio)
 
-[<img src="/assets/img/blog/water-cycle.png" style="width=100%;max-width:200px;height:auto;" alt="Modify template diagrams to make your own infographics in diagrams.net">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Finfographic-water-cycle.drawio)
-<br />Water cycle illustration, modified from a diagrams.net template | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/examples/infographic-water-cycle.drawio)
+[<img src="/assets/img/blog/water-cycle.png" style="width=100%;max-width:200px;height:auto;" alt="Modify template diagrams to make your own infographics in draw.io">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Finfographic-water-cycle.drawio)
+<br />Water cycle illustration, modified from a draw.io template | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/examples/infographic-water-cycle.drawio)
 
 [<img src="/assets/img/blog/sketch-theme-tutorial.png" style="width=100%;max-width:400px;height:auto;" alt="Sketch editor theme is currently being developed">](https://viewer.diagrams.net/?splash=0&ui=sketch&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fboard-visual-tutorial.drawio)
-<br />Visual tutorial for diagrams.net's [online whiteboard editor theme](/blog/sketch-online-whiteboard.html) | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/blog/board-visual-tutorial.drawio)
+<br />Visual tutorial for draw.io's [online whiteboard editor theme](/blog/sketch-online-whiteboard.html) | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/blog/board-visual-tutorial.drawio)
 
 [<img src="/assets/img/blog/maths-examples.png" style="width=100%;max-width:300px;height:auto;" alt="Mathematical typesetting will render equations in text shapes, even when they are in tables">](https://viewer.diagrams.net/?lightbox=1&page=2&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fmaths-examples.drawio)
 <br />Formula reference table containing [mathematical typesetting](blog/maths-in-diagrams.html) | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/examples/maths-examples.drawio)
@@ -322,23 +322,23 @@ ___
 [<img src="/assets/img/blog/labels-example-prism.png" style="width=100%;max-width:250px;height:auto;" alt="A prism labelled with arc shapes and connectors">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Flight-spectrum.drawio)
 <br />Light through a prism | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/blog/light-spectrum.drawio)
 
-[<img src="/assets/img/blog/labels-example-horse.png" style="width=100%;max-width:250px;height:auto;" alt="A horse image labelled with shapes in diagrams.net">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fhorse-labelled.drawio)
+[<img src="/assets/img/blog/labels-example-horse.png" style="width=100%;max-width:250px;height:auto;" alt="A horse image labelled with shapes in draw.io">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fhorse-labelled.drawio)
 <br />Parts of a horse | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/blog/horse-labelled.drawio)
 
 ___
 ## Floorplans
 
-[<img src="/assets/img/blog/floorplan.png" style="width=100%;max-width:200px;height:auto;" alt="A floorplan created in diagrams.net">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2FFloorplan.xml)
+[<img src="/assets/img/blog/floorplan.png" style="width=100%;max-width:200px;height:auto;" alt="A floorplan created in draw.io">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2FFloorplan.xml)
 <br />[Floorplan](/blog/floorplans.html) | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/examples/Floorplan.xml)
 
-[<img src="/assets/img/blog/floorplan-apartment-ground-floor.png" style="width=100%;max-width:150px;height:auto;" alt="A ground floor apartment floorplan created in diagrams.net">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Ffloorplan-apartment.drawio) [<img src="/assets/img/blog/floorplan-apartment-rooftop-terrace.png" style="width=100%;max-width:150px;height:auto;" alt="The second floor of an apartment floorplan created in diagrams.net">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Ffloorplan-apartment.drawio)
+[<img src="/assets/img/blog/floorplan-apartment-ground-floor.png" style="width=100%;max-width:150px;height:auto;" alt="A ground floor apartment floorplan created in draw.io">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Ffloorplan-apartment.drawio) [<img src="/assets/img/blog/floorplan-apartment-rooftop-terrace.png" style="width=100%;max-width:150px;height:auto;" alt="The second floor of an apartment floorplan created in draw.io">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Ffloorplan-apartment.drawio)
 <br />[Floorplan](/blog/floorplans.html) of an apartment, as a [multi-page diagram](/blog/multiple-page-diagrams.html) with links | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/blog/floorplan-apartment.drawio)
 
-[<img src="/assets/img/blog/template-lan_plan_2.png" style="width=100%;max-width:250px;height:auto;" alt="A floorplan created in diagrams.net">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fplans%2Flan_plan_2.xml)
+[<img src="/assets/img/blog/template-lan_plan_2.png" style="width=100%;max-width:250px;height:auto;" alt="A floorplan created in draw.io">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fplans%2Flan_plan_2.xml)
 <br />[Floorplan for LAN cabling](/blog/floorplans.html) | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/templates/plans/lan_plan_2.xml)
 
-[<img src="/assets/img/blog/template-seating_plan_3.png" style="width=100%;max-width:300px;height:auto;" alt="A floorplan created in diagrams.net">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fplans%2Fseating_plan_3.xml)
+[<img src="/assets/img/blog/template-seating_plan_3.png" style="width=100%;max-width:300px;height:auto;" alt="A floorplan created in draw.io">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fplans%2Fseating_plan_3.xml)
 <br />[Theatre seating plan](/blog/floorplans.html) | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/templates/plans/seating_plan_3.xml)
 
-[<img src="/assets/img/blog/template-evacuation_plan_4.png" style="width=100%;max-width:250px;height:auto;" alt="A floorplan created in diagrams.net">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fplans%2Fevacuation_plan_4.xml)
+[<img src="/assets/img/blog/template-evacuation_plan_4.png" style="width=100%;max-width:250px;height:auto;" alt="A floorplan created in draw.io">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fplans%2Fevacuation_plan_4.xml)
 <br />[Evacuation plan](/blog/floorplans.html) | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/templates/plans/evacuation_plan_4.xml)
