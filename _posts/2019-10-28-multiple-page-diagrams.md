@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: multiple-page-diagrams
 page.date: 2019-10-28
 title: Add multiple pages to your diagrams
@@ -10,7 +10,7 @@ categories: [features]
 
 Some diagrams can get very large and complex, for example, business processes, UML diagrams, floor plans, or even large brainstorm mind maps and hierarchical tree diagrams. These diagrams are often more readable when they are broken into smaller component diagrams.
 
-With diagrams.net, you can keep these smaller component diagrams together by adding multiple pages. These are displayed as page tabs at the bottom of the drawing canvas.
+With draw.io, you can keep these smaller component diagrams together by adding multiple pages. These are displayed as page tabs at the bottom of the drawing canvas.
 
 <img src="/assets/img/blog/page-tab-example.png" style="max-width:100%;height:auto;" alt="Add multiple pages to diagrams with the page tab bar at the bottom of the drawing canvas">
 

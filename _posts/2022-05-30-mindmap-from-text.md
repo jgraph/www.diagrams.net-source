@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: plantuml-mindmaps-from-text
 date: 2022-05-30 09:10:00
 title: Create a mindmap from text with PlantUML
@@ -8,8 +8,8 @@ tags: [integrations,uml]
 categories: [integrations,features,use-cases]
 ---
 
-Mindmaps are useful to quickly capture ideas, and are easy to draw in diagrams.net and our draw.io branded apps. But some people prefer to work from text lists when brainstorming. Drop a text list into the PlantUML import tool and diagrams.net will generate your mindmap for you - no need to fuss with connectors or layouts.
-<br /><img src="/assets/img/blog/mindmap-plantuml-example1.png" style="width=100%;max-width:500px;height:auto;" alt="Generate a mindmap from text in diagrams.net by inserting PlantUML in arithmetic notation via Arrange > Insert > Advanced > PlantUML">
+Mindmaps are useful to quickly capture ideas, and are easy to draw in draw.io and our draw.io branded apps. But some people prefer to work from text lists when brainstorming. Drop a text list into the PlantUML import tool and draw.io will generate your mindmap for you - no need to fuss with connectors or layouts.
+<br /><img src="/assets/img/blog/mindmap-plantuml-example1.png" style="width=100%;max-width:500px;height:auto;" alt="Generate a mindmap from text in draw.io by inserting PlantUML in arithmetic notation via Arrange > Insert > Advanced > PlantUML">
 
 ## Create a mindmap in text
 
@@ -17,7 +17,7 @@ PlantUML allows you to create a wide range of diagrams from a human-readable tex
 
 Mindmaps in PlantUML are enclosed in the ``@startmindmap`` and ``@endmindmap`` tags which tell the renderer to lay the diagram out as a mindmap.
 
-**Use the arithmetic notation for mindmaps in diagrams.net**
+**Use the arithmetic notation for mindmaps in draw.io**
 * Right-side topics and branches are written with a plus (``+``), the left side is written with a minus (``-``). 
 * Add an extra ``+`` or ``-`` to move to a deeper level in the map.
 * Use an underscore (``_``) to remove the box around any topic. 
@@ -49,14 +49,14 @@ Mindmaps in PlantUML are enclosed in the ``@startmindmap`` and ``@endmindmap`` t
 @enduml
 ```
 
-## Insert the PlantUML mindmap into diagrams.net
+## Insert the PlantUML mindmap into draw.io
 
-1. In the diagrams.net or draw.io editor, click _Arrange > Insert > Advanced > PlantUML_.
+1. In the  draw.io editor, click _Arrange > Insert > Advanced > PlantUML_.
 2. Add the text for your mindmap into the text field, and click _Insert_.
-<br /><img src="/assets/img/blog/mindmap-plantuml-example1-insert.png" style="width=100%;max-width:400px;height:auto;" alt="Generate a mindmap from text in diagrams.net by inserting PlantUML in arithmetic notation via Arrange > Insert > Advanced > PlantUML">
+<br /><img src="/assets/img/blog/mindmap-plantuml-example1-insert.png" style="width=100%;max-width:400px;height:auto;" alt="Generate a mindmap from text in draw.io by inserting PlantUML in arithmetic notation via Arrange > Insert > Advanced > PlantUML">
 
 The diagram will be generated and [inserted as an SVG image](/doc/faq/svg-insert.html) on the drawing canvas.
-<br /><img src="/assets/img/blog/mindmap-plantuml-example1-canvas.png" style="width=100%;max-width:600px;height:auto;" alt="Generate a mindmap from text in diagrams.net by inserting PlantUML in arithmetic notation via Arrange > Insert > Advanced > PlantUML">
+<br /><img src="/assets/img/blog/mindmap-plantuml-example1-canvas.png" style="width=100%;max-width:600px;height:auto;" alt="Generate a mindmap from text in draw.io by inserting PlantUML in arithmetic notation via Arrange > Insert > Advanced > PlantUML">
 
 Hover over the mindmap on the drawing canvas to see a tooltip with the PlantUML text.
 
@@ -64,7 +64,7 @@ If you see an error on the drawing canvas, there is likely a mistake in the text
 <br /><img src="/assets/img/blog/mindmap-plantuml-example1-error.png" style="width=100%;max-width:150px;height:auto;" alt="If you see this error when inserting PlantUML, double check that you are using arithmetic notation in your text mindmap, and everything is correct">
 
 Double click on the mindmap to open and edit the PlantUML text. Click _Apply_ when you have finished, and the diagram on the canvas will be regenerated.
-<br /><img src="/assets/img/blog/mindmap-plantuml-example1.png" style="width=100%;max-width:600px;height:auto;" alt="Generate a mindmap from text in diagrams.net by inserting PlantUML in arithmetic notation via Arrange > Insert > Advanced > PlantUML">
+<br /><img src="/assets/img/blog/mindmap-plantuml-example1.png" style="width=100%;max-width:600px;height:auto;" alt="Generate a mindmap from text in draw.io by inserting PlantUML in arithmetic notation via Arrange > Insert > Advanced > PlantUML">
 
 ## Do more with your PlantUML mindmaps
 
@@ -79,8 +79,8 @@ Double click on the mindmap to open and edit the PlantUML text. Click _Apply_ wh
   * footer
   * legend
 
-[<img src="/assets/img/blog/mindmap-plantuml-example2.png" style="width=100%;max-width:400px;height:auto;" alt="Mindmaps are easy to create from text with diagrams.net and PlantUML">
-<br />_Open this example in diagrams.net_](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fmindmap-plantuml-example.drawio)
+[<img src="/assets/img/blog/mindmap-plantuml-example2.png" style="width=100%;max-width:400px;height:auto;" alt="Mindmaps are easy to create from text with draw.io and PlantUML">
+<br />_Open this example in our diagram viewer_](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fmindmap-plantuml-example.drawio)
 
 **Example: Tasks in a one-sided mindmap**
 

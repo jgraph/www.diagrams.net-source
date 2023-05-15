@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: jira-server-diagram-versions
 date: 2020-02-19 09:04:00
 title: Diagrams attached to Jira Server issues are now versioned
@@ -44,7 +44,7 @@ This creates a new version of the diagram and adds it to the attached file - no 
 
 ### See diagram revisions inside the attached file
 
-As the attached diagram is a compressed zip file containing multiple diagram files and some metadata, you can open it on your computer and look at each diagram individually. You can also open the attachment file or any of the included XML diagram files in diagrams.net online.
+As the attached diagram is a compressed zip file containing multiple diagram files and some metadata, you can open it on your computer and look at each diagram individually. You can also open the attachment file or any of the included XML diagram files in our [online draw.io editor](https://app.diagrams.net).
 
 1. Download the attachment to your computer and unzip it using your favourite decompression tool.
 2. The most recent diagram version can be seen in the _diagram_ folder, and older versions under the _history_ folder.

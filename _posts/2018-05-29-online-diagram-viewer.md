@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: online-diagram-viewer
 page.date: 2018-05-29
 title: Use the online diagram viewer to share .drawio, VSDX, Gliffy, and Lucidchart diagrams
@@ -8,9 +8,9 @@ tags: [features, integrations]
 categories: [features]
 ---
 
-You can share diagrams easily, open and edit them, no matter whether those diagrams are in .drawio, .vsdx, .vdx, .gliffy or .lucid file formats, by using diagrams.net as a free, online diagram viewer.
+You can share diagrams easily, open and edit them, no matter whether those diagrams are in .drawio, .vsdx, .vdx, .gliffy or .lucid file formats, by using draw.io's free, online diagram viewer.
 
-Individual desktop (or cloud) licenses for some of the more common diagramming tools can be quite expensive, and companies tend not to want to afford licenses for _all_ of their employees. Diagrams are useful everywhere, in all departments, which is why we aim to make diagramming available to everyone.  Because diagrams.net can import diagrams in different formats, you can use it as an online diagram viewer and share your diagrams without worrying if the recipient has the diagramming software installed.
+Individual desktop (or cloud) licenses for some of the more common diagramming tools can be quite expensive, and companies tend not to want to afford licenses for _all_ of their employees. Diagrams are useful everywhere, in all departments, which is why we aim to make diagramming available to everyone.  Because draw.io can import diagrams in different formats, you can use it as an online diagram viewer and share your diagrams without worrying if the recipient has the diagramming software installed.
 
 ## Share a diagram file to open in the online diagram viewer
 
@@ -38,8 +38,8 @@ If you wanted to create HTML code for an iFrame to embed the diagram on your web
 
 Edit the HTML of the web page where you want to include the diagram and paste the iFrame code you generated in.
 
-## Diagram data is not saved by diagrams.net
+## Diagram data is not saved by draw.io
 
-When you share diagrams using the diagrams.net viewer, your diagram data is not stored on our servers. As soon as the conversion from a VSDX, Gliffy or Lucidchart file has completed and it has been delivered to the browser, all diagram data is immediately deleted - your diagram data is never saved or stored on our servers.
+When you share draw.io diagrams or use our free diagram editor, your diagram data is not stored on our servers. As soon as the conversion from a VSDX, Gliffy or Lucidchart file has completed and it has been delivered to the browser, all diagram data is immediately deleted - your diagram data is never saved or stored on our servers.
 
-[Learn more about how diagrams.net protects your diagram data](/blog/data-protection.html)
+[Learn more about how draw.io protects your diagram data](/blog/data-protection.html)

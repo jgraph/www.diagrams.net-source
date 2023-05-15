@@ -4,11 +4,11 @@ layout: page
 categories: [features]
 ---
 
-draw.io is a free and open source diagramming app that you can use online at [app.diagrams.net](https://app.diagrams.net), and offline (desktop).
+draw.io is a free and open source diagramming app that you can use online at [app.diagrams.net](https://app.diagrams.net), and offline (draw.io desktop).
 
 As a security-first diagramming app for teams, we provide the diagramming functionality, and you choose where to keep your diagram data. There are many different [integrations with other platforms and applications](/integrations.html), including [Atlassian Confluence Cloud](/doc/drawio-confluence-cloud.html), Google Documents, GitHub, Microsoft Word.
 
-The diagram editor looks the same and offers the same main features no matter where you are using it. You can open a diagram created in one integration in another.
+Our draw.io diagram editor looks the same and offers the same main features no matter where you are using it. You can open a diagram created in one integration in another.
 
 [<img src="/assets/img/blog/tutorial-menu-header.png" style="width=100%;max-width:85px;" alt="The draw.io menu">](#menu)[<img src="/assets/img/blog/tutorial-toolbar-header.png" style="width=100%;max-width:98px;" alt="The draw.io toolbar">](#toolbar)[<img src="/assets/img/blog/tutorial-shapes-header.png" style="width=100%;max-width:154px;" alt="Shapes and shape libraries in draw.io">](#shapes-and-shape-libraries)[<img src="/assets/img/blog/tutorial-canvas-header.png" style="width=100%;max-width:154px;" alt="The draw.io drawing canvas">](#drawing-canvas)[<img src="/assets/img/blog/tutorial-format-header.png" style="width=100%;max-width:154px;" alt="The format panel in draw.io">](#format-panel)
 
@@ -210,7 +210,7 @@ If you have nothing selected, you'll see the [options that apply to the entire d
 
 ## Keyboard shortcuts
 
-Use the following keyboard shortcuts to work more efficiently with draw.io and app.diagrams.net.
+Use the following keyboard shortcuts to work more efficiently with our draw.io editor.
 
 [<img src="https://app.diagrams.net/shortcuts.svg" style="width=100%;max-width:600px;;height:auto;" alt="The page and drawing canvas options available at app.diagrams.net">](https://app.diagrams.net/shortcuts.svg)
 <br />[_View and print these keyboard shortcuts_](https://app.diagrams.net/shortcuts.svg)

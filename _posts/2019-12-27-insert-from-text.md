@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: insert-from-text
 date: 2019-12-27 09:54:00
 title: Insert from text to create tree and entity diagrams
@@ -50,11 +50,11 @@ You can add a label to a connector.
 Organization->performs->Analysis
 Organization->sets->Budget
 ```
-1. Go to [app.diagrams.net](http://app.diagrams.net). Click _Arrange > Insert > Advanced > From Text_.
+1. Go to our online editor at [app.diagrams.net](http://app.diagrams.net). Click _Arrange > Insert > Advanced > From Text_.
 2. From the drop down selector next to the _Close_ button, select _Diagram_.
 <br /><img src="/assets/img/blog/insert-from-text-tree-diagram1.png" style="width=100%;max-width:400px;height:auto;" alt="Insert text to create a tree diagram ">
 3. Select all of the sample text in the dialog and paste in your own text. Then click _Insert_.
-<br /><img src="/assets/img/blog/insert-from-text-tree-diagram2.png" style="max-width:100%;height:auto;" alt="A diagram automatically created from text at app.diagrams.net">
+<br /><img src="/assets/img/blog/insert-from-text-tree-diagram2.png" style="max-width:100%;height:auto;" alt="A diagram automatically created from text at in draw.io">
 
 **Tip:** You can automatically rearrange a diagram if it's too spread out, like this one is. Select everything, then click _Arrange > Layout_ and select one of the options. For example, rearranging this diagram as a radial tree made it much more attractive.
 
@@ -98,6 +98,6 @@ Communication
 ```
 You can then connect and rearrange these entities to show more clearly how they are related.
 
-<img src="/assets/img/blog/insert-from-text-entities-connected.png" style="max-width:100%;height:auto;" alt="A connected entity diagram example created at diagrams.net">
+<img src="/assets/img/blog/insert-from-text-entities-connected.png" style="max-width:100%;height:auto;" alt="A connected entity diagram example created in draw.io">
 
 [See all of the elements you can insert into your diagram](/doc/faq/arrange-insert-menu.html)

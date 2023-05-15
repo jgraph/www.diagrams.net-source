@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: number-shapes
 date: 2022-01-19 10:15:00
 title: Number shapes in a diagram

@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: embed-diagrams-confluence-server
 date: 2020-11-30 09:43:00
 title: Embed diagrams in Confluence Data Center and Server

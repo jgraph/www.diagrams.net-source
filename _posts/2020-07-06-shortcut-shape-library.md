@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: shortcut-shape-library
 date: 2020-07-06 09:24:00
 title: Work faster with the shape libraries using keyboard shortcuts
@@ -8,7 +8,7 @@ tags: [shapes, shortcuts]
 categories: [shortcuts]
 ---
 
-There are many keyboard shortcuts you can use when working with shapes from the shape libraries on the left of the drawing canvas in diagrams.net.
+There are many keyboard shortcuts you can use when working with shapes from the shape libraries on the left of the drawing canvas in draw.io.
 
 ## Insert and connect shapes
 
@@ -25,11 +25,11 @@ There are many keyboard shortcuts you can use when working with shapes from the 
 
 ## Overlap shapes
 
-If you want to [make two shapes overlap completely](/blog/shortcut-overlay-shapes.html), you need to disable the replace shape feature. Similarly, when you drag and drop a shape onto a container shape in diagrams.net, the new shape is added inside the container shape.
+If you want to [make two shapes overlap completely](/blog/shortcut-overlay-shapes.html), you need to disable the replace shape feature. Similarly, when you drag and drop a shape onto a container shape in draw.io, the new shape is added inside the container shape.
 
 To overlay shapes, hold down ``Alt`` or ``Shift`` as you drag a shape from the shape library.
 
-<img src="/assets/img/blog/shapes-overlapping.png" style="max-width:100%;height:auto;" alt="Overlap shapes in diagrams.net by holding down Alt or Shift when you drag and drop one from the shape library">
+<img src="/assets/img/blog/shapes-overlapping.png" style="max-width:100%;height:auto;" alt="Overlap shapes in draw.io by holding down Alt or Shift when you drag and drop one from the shape library">
 
 ## Replace a shape
 

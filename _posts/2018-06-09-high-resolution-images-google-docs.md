@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: high-resolution-images-google-docs
 page.date: 2018-06-09
 title: Diagrams in Google Docs now support high resolution images
@@ -14,7 +14,7 @@ When you print a Google Doc, you want images and diagrams to be as clear as poss
 
 1. Go to the [G Suite Marketplace](https://chrome.google.com/webstore/detail/drawio-diagrams/clpbjldiohnnmfmkngmaohehlnfkmoea) and click _Install_.
 2. Click _Continue_ and log into your Google Account.
-3. The Google Docs add-on needs your permission to work with your Google Docs and connect to the diagrams.net server so you can create diagrams inside your documents. Click _Allow_ to grant these permissions.
+3. The Google Docs add-on needs your permission to work with your Google Docs and connect to the draw.io server so you can create diagrams inside your documents. Click _Allow_ to grant these permissions.
 
 Alternatively, you can search for the add-on from within Google Docs.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: share-diagrams-via-google
 date: 2019-05-25 09:54:00
 title: Share diagrams via Google public links
@@ -14,7 +14,7 @@ Publishing a diagram as a URL results in a very long link - your diagram is enco
 
 ## Publish your diagram as a link
 
-1. While you are editing your diagram in diagrams.net, click _File > Publish > Link_.
+1. While you are editing your diagram in draw.io, click _File > Publish > Link_.
 2. Click the _Check_ link to make sure your diagram file is public, then click _OK_. If it's not public, follow the steps below to change the file sharing settings, then return here.  <br /><img src="/assets/img/blog/google-drive-publish-link2.png" style="width=100%;max-width:300px;height:auto;" alt="Change the sharing permissions to public so you can publish a link to the diagram file stored on Google Drive">
 3. Select the options you want to use, then click _Create_.
    * **Links:** Open in the current browser window or in a new window. You can change the border colour of links if you want too.

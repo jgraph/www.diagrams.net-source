@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: confluence-cloud-free-diagrams
 date: 2021-06-16 09:43:00
 title: Diagramming in a free Confluence Cloud instance
@@ -8,7 +8,7 @@ tags: [features, Atlassian]
 categories: [features,atlassian]
 ---
 
-diagrams.net and the draw.io branded Atlassian integrations are the leading solution for web based sketching and diagramming functionality. The article describes the draw.io integration for Confluence that we, JGraph, build, deliver and maintain alongside the online diagrams.net and desktop tools.
+draw.io and the draw.io branded Atlassian integrations are the leading solution for web based sketching and diagramming functionality. The article describes the draw.io integration for Confluence that we, JGraph, build, deliver and maintain alongside the online version of our editor at app.diagrams.net, our draw.io desktop application.
 
 Confluence Cloud is a popular tool for team productivity suitable for both small and large organisations. Atlassian provides customers with free instances, as long as the instance has ten users or fewer, and you can diagram in these instances with our draw.io Confluence Cloud integration.
 
@@ -68,15 +68,15 @@ The draw.io diagram editor is easy to use and powerful. The [draw.io app in Conf
 1. Edit a Confluence page, then type ``/draw.io`` and insert the _draw.io Diagram_ macro. This will open the draw.io editor. 
 <br /><img src="/assets/img/blog/drawio-confluence-cloud-new.png" style="width=100%;max-width:200px;height:auto;" alt="Add the draw.io Diagram macro to insert a diagram into Confluence Cloud">
 2. Select the _Blank Diagram_ template, enter a filename for your diagram, and click _Create_.
-<br /><img src="/assets/img/blog/template-library-new-diagram.png" style="width=100%;max-width:400px;height:auto;" alt="Choose a diagram template when you create a new diagram at diagrams.net">
-3. Get to know the [layout of the diagram editor](/doc/getting-started-editor.html): the shape and format panels, the toolbar, menus and drawing canvas. The default layout is the same as at [app.diagrams.net](https://app.diagrams.net/). 
-<br /><img src="/assets/img/blog/drawio-interface-introduction.png" style="max-width:100%;height:auto;" alt="The diagrams.net editor, its tools and panels">
-4. Step through the [tutorial to draw a basic flowchart](/doc/getting-started-basic-flow-chart.html#add-shapes-to-the-drawing-canvas) in the diagrams.net editor.
+<br /><img src="/assets/img/blog/template-library-new-diagram.png" style="width=100%;max-width:400px;height:auto;" alt="Choose a diagram template when you create a new diagram in draw.io">
+1. Get to know the [layout of the diagram editor](/doc/getting-started-editor.html): the shape and format panels, the toolbar, menus and drawing canvas. The default layout is the same as at [app.diagrams.net](https://app.diagrams.net/). 
+<br /><img src="/assets/img/blog/drawio-interface-introduction.png" style="max-width:100%;height:auto;" alt="The draw.io editor, its tools and panels">
+1. Step through the [tutorial to draw a basic flowchart](/doc/getting-started-basic-flow-chart.html#add-shapes-to-the-drawing-canvas) in the draw.io editor.
    * add and connect shapes using the shape libraries on the left
    * add labels to the shapes and connectors on the drawing canvas
    * style your diagram using the tools in the format panel on the right.
 <br /><img src="/assets/img/blog/drawio-confluence-cloud-demo.gif" style="max-width:100%;height:auto;" alt="Create your diagram from shapes, connectors and text, and add styles">
-5. Instead of exporting your diagram, click _Publish_ to save your new diagram, or _Save & Exit_ to save an existing diagram, then publish your Confluence page.
+1. Instead of exporting your diagram, click _Publish_ to save your new diagram, or _Save & Exit_ to save an existing diagram, then publish your Confluence page.
 
 ## Unlock additional draw.io features for larger teams
 

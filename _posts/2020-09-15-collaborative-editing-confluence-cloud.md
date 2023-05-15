@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: collaborative-editing-confluence-cloud
 date: 2020-09-15 07:54:00
 title: Collaborative editing in draw.io for Confluence Cloud
@@ -10,7 +10,7 @@ categories: [features,atlassian]
 
 Confluence allows you to collaboratively edit the content of its pages: You and other Confluence users will see each others' changes in real-time as you edit the page.
 
-Both draw.io for Confluence Cloud and diagrams.net (with Google Drive or OneDrive) both support collaborative editing where multiple users can edit a diagram at the same time, see all of the changes being made, as well as everyone's cursor movements.
+draw.io for Confluence Cloud and our online editor at app.diagrams.net (with Google Drive or OneDrive) both support collaborative editing, where multiple users can edit a diagram at the same time and see all of the changes being made, including everyone's cursor movements.
 
 This is ideal for remote teams who need to brainstorm on mindmaps or vote on agile boards.
 

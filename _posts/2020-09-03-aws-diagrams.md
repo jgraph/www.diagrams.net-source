@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: aws-diagrams
 date: 2020-09-03 09:54:00
 title: Use AWS icons to create a free Amazon architecture diagram
@@ -8,9 +8,9 @@ tags: [features, Atlassian]
 categories: [features,use-cases, templates]
 ---
 
-Draw your Amazon Web Services (AWS) infrastructure with diagrams.net for free. You don't need to register or sign-up, and you can store your diagrams in your favourite cloud storage platforms, like Google Drive, One Drive, and Dropbox.
+Draw your Amazon Web Services (AWS) infrastructure with draw.io for free. You don't need to register or sign-up, and you can store your diagrams in your favourite cloud storage platforms, like Google Drive, One Drive, and Dropbox.
 
-diagrams.net provides you with several years worth of AWS icon (shape) libraries, from 2017 to 2019, as well as Amazon's 3D or isometric shapes.
+draw.io provides you with several years worth of AWS icon (shape) libraries, from 2017 to 2019, as well as Amazon's 3D or isometric shapes.
 
 ## Select an AWS shape library
 
@@ -22,7 +22,7 @@ diagrams.net provides you with several years worth of AWS icon (shape) libraries
 
 There are many AWS shapes available to visualise your infrastructure. When you enable just one of the shape libraries above, you'll see a number of sub-categories of shapes appear in the left panel.
 
-<img src="/assets/img/blog/aws19-update2022.png" style="max-width:100%;height:auto;" alt="Some of the AWS shapes available in diagrams.net">
+<img src="/assets/img/blog/aws19-update2022.png" style="max-width:100%;height:auto;" alt="Some of the AWS shapes available in draw.io">
 
 ## Use an AWS template
 
@@ -30,10 +30,10 @@ If you don't want to start with a blank canvas, you can use one of a number of d
 
 1. Click _Arrange > Insert > Template_ to open the template library.
 2. Expand the _Cloud_ category on the left, then select AWS. Click on the magnifying glass in the top right to [see a larger preview of the template diagram](/blog/template-diagrams.html).
-<br /><img src="/assets/img/blog/aws-insert-template.png" style="width=100%;max-width:300px;height:auto;" alt="Start your infrastructure diagram with an AWS template in diagrams.net">
+<br /><img src="/assets/img/blog/aws-insert-template.png" style="width=100%;max-width:300px;height:auto;" alt="Start your infrastructure diagram with an AWS template in draw.io">
 3. Click _Insert_ to add this template to the drawing canvas. You can replace, move and add more shapes, text and connectors as you need.
 
-**Tip:** Some AWS automatic monitoring services export to the diagrams.net ``.drawio`` file format, including [Cloudockit](/blog/cloudockit-to-drawio.html) and [Cloudcraft](https://www.diagrams.net/blog/drawio-aws-cloudcraft).
+**Tip:** Some AWS automatic monitoring services export to the ``.drawio`` file format, including [Cloudockit](/blog/cloudockit-to-drawio.html) and [Cloudcraft](https://www.diagrams.net/blog/drawio-aws-cloudcraft).
 
 ## Build your own AWS architecture diagram
 
@@ -61,7 +61,7 @@ Drag and drop shapes from the shape libraries to the drawing canvas. Click on sh
 
 Hover over a shape in the shape library to see a tooltip that tells you what it represents in AWS notation.
 
-<img src="/assets/img/blog/aws-shape-library-hover.png" style="width=100%;max-width:300px;height:auto;" alt="Hover over shapes in the AWS shape library in diagrams.net to see their function">
+<img src="/assets/img/blog/aws-shape-library-hover.png" style="width=100%;max-width:300px;height:auto;" alt="Hover over shapes in the AWS shape library in draw.io to see their function">
 
 **Reposition:** Click and drag a shape into a new position on the drawing canvas.
 
@@ -109,7 +109,7 @@ You can use the connector shapes available in the AWS / Arrows library, but it i
 2. If you want it to be fixed at the other end, drop it on a similar cross on your target shape.
 <br /><img src="/assets/img/blog/aws-example-fixed-connector.png" style="width=100%;max-width:200px;height:auto;" alt="Add a fixed connector by clicking and dragging from one of the small crosses that appear when you hover over an unselected shape">
 
-[Learn more about working with connectors in diagrams.net](/doc/faq/connectors.html)
+[Learn more about working with connectors in draw.io](/doc/faq/connectors.html)
 
 **Note:** Most of the AWS shapes that aren't used for indicating groups do not have fixed connection points enabled. You can add your own fixed connection points.
 
@@ -126,13 +126,13 @@ Select the connector, and you'll see a grab handle in each straight section. Gra
 
 Now that you have completed your AWS architecture diagram, you can share it with colleagues, export it in a variety of formats or embed it in your documentation on several platforms.
 
-[<img src="/assets/img/blog/aws-example.png" style="max-width:100%;height:auto;" alt="An example AWS architecture diagram created in diagrams.net">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&page=1&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Faws-simple-architecture.drawio)
+[<img src="/assets/img/blog/aws-example.png" style="max-width:100%;height:auto;" alt="An example AWS architecture diagram created in draw.io">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&page=1&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Faws-simple-architecture.drawio)
 
-[Open this AWS diagram in the diagrams.net free diagram viewer](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&page=1&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Faws-simple-architecture.drawio)
+[Open this AWS diagram in the free diagram viewer](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&page=1&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Faws-simple-architecture.drawio)
 
 ### Share your AWS diagram with your colleagues
 
-You can also share a copy your diagram with colleagues without having to share the file itself. Select _File > Publish > Link_ and diagrams.net will encode your diagram in a long generated link.
+You can also share a copy your diagram with colleagues without having to share the file itself. Select _File > Publish > Link_ and draw.io will encode your diagram in a long generated link.
 
 [Learn more about publishing your diagram as a link](doc/faq/publish-diagram-as-link.md)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: flowcharts-confluence
 date: 2021-11-19 09:54:00
 title: Flowcharts in Confluence

@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: shortcut-select-shapes
 page.date: 2018-11-25
 title: Select shapes and connectors with keyboard shortcuts
@@ -8,7 +8,7 @@ tags: [shortcuts]
 categories: [shortcuts]
 ---
 
-Keyboard shortcuts in diagrams.net (and the draw.io apps developed by JGraph) enable you work with shapes and connectors in your diagrams both easier and faster. There are a number of ways you can select shapes and connectors with the keyboard, or when holding down a key and using the mouse.
+Keyboard shortcuts in draw.io (and the draw.io apps developed by JGraph) enable you work with shapes and connectors in your diagrams both easier and faster. There are a number of ways you can select shapes and connectors with the keyboard, or when holding down a key and using the mouse.
 
 ## Select shapes with keyboard shortcuts
 
@@ -25,7 +25,7 @@ Keyboard shortcuts in diagrams.net (and the draw.io apps developed by JGraph) en
 ## Cycle selection through the diagram
 
 **Select next or previous shape:** Press ``Tab`` to select the next shape. Press ``Shift+Tab`` to select the previous shape in your diagram. 
-<br /><img src="/assets/img/blog/shape-select-shortcut-tab.gif" style="width=100%;max-width:600px;;height:auto;" alt="Select the next shape, within containers or attached to connectors with the Tab or Shift+Tab keyboard shortcuts in diagrams.net">
+<br /><img src="/assets/img/blog/shape-select-shortcut-tab.gif" style="width=100%;max-width:600px;;height:auto;" alt="Select the next shape, within containers or attached to connectors with the Tab or Shift+Tab keyboard shortcuts in draw.io">
 <br />This keyboard shortcut steps into container shapes, cycling through the shapes that it contains, as well as the text labels on connectors.
 
 **Select parent shape:** Press ``Alt+Tab`` to select the parent of the currently selected shape in a tree diagram or the containing shape if you have selected a shape inside one. 
@@ -33,7 +33,7 @@ Keyboard shortcuts in diagrams.net (and the draw.io apps developed by JGraph) en
 Pressing this repeatedly will cycle through all of the parent or container shapes, but not step into the container or select connector labels.
 
 **Select the shape or connector underneath:** When you have shapes or connectors stacked on top of each other, hold down ``Alt`` and click on the shape to select the next shape down the stack, behind the currently selected shape. 
-<br /><img src="/assets/img/blog/shape-select-shortcut-alt.gif" style="width=100%;max-width:300px;;height:auto;" alt="Select the next shape down the stack when shapes are overlapping in diagrams.net with Alt+Click">
+<br /><img src="/assets/img/blog/shape-select-shortcut-alt.gif" style="width=100%;max-width:300px;;height:auto;" alt="Select the next shape down the stack when shapes are overlapping in draw.io with Alt+Click">
 
 [Learn more about the z-order of shapes on the drawing canvas](/blog/move-shapes-forwards-backwards.html)
 
@@ -61,7 +61,7 @@ If you keep holding the key down and clicking on or dragging a selection box aro
 
 ## More diagramming keyboard shortcuts
 
-Print the following shortcut reference page to keep all of the diagrams.net and draw.io keyboard shortcuts on hand:
+Print the following shortcut reference page to keep all of the draw.io and draw.io keyboard shortcuts on hand:
 
-[<img src="https://app.diagrams.net/shortcuts.svg" style="width=100%;max-width:400px;;height:auto;" alt="Shortcuts available in diagrams.net and the draw.io diagramming apps">](https://app.diagrams.net/shortcuts.svg)
+[<img src="https://app.diagrams.net/shortcuts.svg" style="width=100%;max-width:400px;;height:auto;" alt="Shortcuts available in draw.io and the draw.io diagramming apps">](https://app.diagrams.net/shortcuts.svg)
 <br />[_See all of the keyboard shortcuts_](https://app.diagrams.net/shortcuts.svg)

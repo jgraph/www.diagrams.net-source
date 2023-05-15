@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: mermaid-diagrams
 date: 2020-04-15 09:10:00
 title: Use Mermaid syntax to create diagrams
@@ -11,7 +11,7 @@ categories: [integrations,features,use-cases]
 Mermaid is a syntax similar to Markdown where you can use text to describe and automatically generate diagrams. With Mermaid's Markdown-inspired syntax, you can generate flow charts, UML diagrams, pie charts, Gantt charts, and more.
 <br /><img src="/assets/img/blog/mermaid-sequence-example.png" style="width=100%;max-width:300px;height:auto;" alt="A simple sequence diagram inserted using the Mermaid syntax">
 
-Many developers prefer to describe their data structures and processes using text, avoiding the need to context switch. After documenting them in the Markdown-based text description, you can then insert this into the diagrams.net editor to generate a diagram and lay it out automatically.
+Many developers prefer to describe their data structures and processes using text, avoiding the need to context switch. After documenting them in the Markdown-based text description, you can then insert this into the draw.io editor to generate a diagram and lay it out automatically.
 
 ## Insert a Mermaid diagram
 
@@ -22,7 +22,7 @@ Many developers prefer to describe their data structures and processes using tex
 
 Your diagram will be automatically created and formatted from your text, and inserted as a single shape on the drawing canvas.
 
-### Edit the Mermaid code in diagrams.net
+### Edit the Mermaid code in draw.io
 
 To see the Mermaid code for any of the diagrams inserted in this way, select the shape, then press ``Enter``. You can make changes to the code here, then click _Apply_ to update the diagram on the drawing canvas.
 
@@ -51,7 +51,7 @@ Diagrams are created by linking text labels using arrow connectors. You can choo
 |   | containers: ``loop``, ``alt``, ``opt`` | ``class`` |
 |  **Information** | comment: ``%%`` |  ``note`` |
 
-Look at the examples below to see how the Mermaid syntax is used to define a variety of diagrams in text. Open these example Mermaid diagrams in diagrams.net.
+Look at the examples below to see how the Mermaid syntax is used to define a variety of diagrams in text. Open these example Mermaid diagrams in draw.io.
 
 ### Flowchart
 
@@ -67,11 +67,11 @@ graph TD
 ```
 <img src="/assets/img/blog/mermaid-flowchart-example.png" style="width=100%;max-width:300px;height:auto;" alt="A flow chart example from Mermaid syntax">
 
-[_Open this example in diagrams.net_](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fmermaid-examples.drawio)
+[_Open this example in our online diagram viewer_](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fmermaid-examples.drawio)
 
 ### Gantt chart
 
-Gantt charts are beloved by many project managers as they can keep track of the tasks, dependencies and timetable of their projects. While it can be fiddly to create a Gantt chart in diagrams.net, generating one is much easier when it's from a text description.
+Gantt charts are beloved by many project managers as they can keep track of the tasks, dependencies and timetable of their projects. While it can be fiddly to create a Gantt chart in draw.io, generating one is much easier when it's from a text description.
 
 ```
 gantt
@@ -86,11 +86,11 @@ gantt
 ```
 <img src="/assets/img/blog/mermaid-gantt-example.png" style="max-width:100%;height:auto;" alt="An example Gantt chart inserted from Mermaid code">
 
-[_Open this example in diagrams.net_](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&page=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fmermaid-examples.drawio)
+[_Open this example in our online diagram viewer_](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&page=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fmermaid-examples.drawio)
 
 ### UML class diagram
 
-The following is how the simple class diagram template from diagrams.net would look in Mermaid syntax.
+The following is how the simple class diagram template from draw.io would look in Mermaid syntax.
 
 ```
 classDiagram
@@ -120,9 +120,9 @@ classDiagram
       +outputAsLabel()  
     }			
 ```
-<img src="/assets/img/blog/mermaid-class-example.png" style="width=100%;max-width:300px;height:auto;" alt="The simple class example template from diagrams.net in Mermaid syntax">
+<img src="/assets/img/blog/mermaid-class-example.png" style="width=100%;max-width:300px;height:auto;" alt="The simple class example template from draw.io in Mermaid syntax">
 
-[_Open this example in diagrams.net_](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&page=2&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fmermaid-examples.drawio)
+[_Open this example in our online diagram viewer_](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&page=2&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fmermaid-examples.drawio)
 
 ### UML sequence diagram
 
@@ -142,11 +142,11 @@ sequenceDiagram
 ```
 <img src="/assets/img/blog/mermaid-sequence-example.png" style="width=100%;max-width:500px;height:auto;" alt="A simple sequence diagram inserted using the Mermaid syntax">
 
-[_Open this example in diagrams.net_](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&page=3&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fmermaid-examples.drawio)
+[_Open this example in our online diagram viewer_](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&page=3&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fmermaid-examples.drawio)
 
 ### Pie chart
 
-While you can build a pie chart manually diagrams.net, using the Mermaid syntax makes it very easy to get exactly the correct distribution of pie slices. In the Mermaid code, you can either use percentage values, or the actual value of each group. In the example below, you can see which days are the busiest for commits to the diagrams.net main repository on GitHub.
+While you can build a pie chart manually draw.io, using the Mermaid syntax makes it very easy to get exactly the correct distribution of pie slices. In the Mermaid code, you can either use percentage values, or the actual value of each group. In the example below, you can see which days are the busiest for commits to the draw.io main repository on GitHub.
 
 ```
 pie title Commits to mxgraph2 on GitHub
@@ -155,10 +155,10 @@ pie title Commits to mxgraph2 on GitHub
 	"Tuesday" : 7
   "Wednesday" : 3
 ```
-<img src="/assets/img/blog/mermaid-pie-example.png" style="width=100%;max-width:300px;height:auto;" alt="Commits to the mxgraph2 GitHub repository per day, inserted into diagrams.net using Mermaid syntax">
+<img src="/assets/img/blog/mermaid-pie-example.png" style="width=100%;max-width:300px;height:auto;" alt="Commits to the mxgraph2 GitHub repository per day, inserted into draw.io using Mermaid syntax">
 
-[_Open this example in diagrams.net_](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&page=4&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fmermaid-examples.drawio)
+[_Open this example in our online diagram viewer_](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&page=4&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fmermaid-examples.drawio)
 
-**Did you know:** Mermaid's syntax is similar to Graphviz DOT and PlantUML, both of which can be inserted into diagrams.net to create diagrams from a text description.
+**Did you know:** Mermaid's syntax is similar to Graphviz DOT and PlantUML, both of which can be inserted into draw.io to create diagrams from a text description.
 
 [See all of the elements you can insert into your diagram](/doc/faq/arrange-insert-menu.html)

@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: snap-to-point
 page.date: 2018-09-16
 title: Snap connectors to an anchor point

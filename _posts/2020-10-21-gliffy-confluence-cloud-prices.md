@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: gliffy-confluence-cloud-prices
 date: 2020-10-21 09:43:00
 title: Manage your budget moving to Confluence Cloud
@@ -8,7 +8,7 @@ tags: [data protection]
 categories: [trust, integrations, atlassian]
 ---
 
-diagrams.net and the draw.io branded Atlassian integrations are the leading solution for web based sketching and diagramming functionality. The article describes the draw.io integration for Confluence that we, JGraph, build, deliver and maintain along side the online diagrams.net and desktop tools.
+draw.io and our Atlassian integrations are the leading solution for web based sketching and diagramming functionality. The article describes the draw.io integration for Confluence that we, JGraph, build, deliver and maintain alongside the online app.diagrams.net and draw.io desktop tools.
 
 Atlassian recently [deprecated their Confluence Server range](https://www.atlassian.com/blog/announcements/journey-to-cloud). As the software market evolves, accelerating the move to Cloud is the next natural step in Atlassian's strategy.
 
@@ -44,4 +44,4 @@ Taking the top selling Confluence app, Gliffy, let's see how the price changes a
 
 In fact, up to 4k users, you will save money on your Gliffy Server renewal by using draw.io on Confluence Cloud. With 10k users, you will pay 75% more for draw.io on Cloud compared to Gliffy on Server. However, if you have 10k users switching to Cloud and keep Gliffy, you pay over ten times (x10) the Server price.
 
-There is a rich selection of apps in the Atlassian ecosystem and it's worth evaluating alternatives when migrating from Confluence Server to Cloud. Some apps, like draw.io with its [one-click Gliffy mass importer](https://www.diagrams.net/doc/faq/mass-import-gliffy-confluence-server), make it easy to  switch whilst saving you money. Of course, you save that amount every year after you have switched.
+There is a rich selection of apps in the Atlassian ecosystem and it's worth evaluating alternatives when migrating from Confluence Server to Cloud. Some apps, like draw.io with its [one-click Gliffy mass importer](/doc/faq/mass-import-gliffy-confluence-server), make it easy to  switch whilst saving you money. Of course, you save that amount every year after you have switched.

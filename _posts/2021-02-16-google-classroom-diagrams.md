@@ -1,23 +1,23 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: google-classroom-diagrams
 page.date: 2020-02-16
-title: Use diagrams.net with Google Classroom
+title: Use draw.io with Google Classroom
 tags: [features, integrations]
 categories: [features]
 ---
 
 With most teachers and students now working virtually, as schools have been required to close due to the pandemic, the tools that support online teaching have been drastically improved. Many schools are now using Google Classroom to communicate with students, organise curriculum, and assign and submit assessment digitally.
 
-Completing visual learning tasks is an important part of most subjects. Students will both have fun and extend their digital toolbox when creating visualisations in a rich diagramming app like diagrams.net.
+Completing visual learning tasks is an important part of most subjects. Students will both have fun and extend their digital toolbox when creating visualisations in a rich diagramming app like draw.io.
 
-With the diagrams.net add-on for Google Workplace (Google Drive), teachers and students can easily attach diagram files to announcements, assessment descriptions, and assignment submissions in Google Classroom. From there, it's only a click or two to see a diagram preview, and open it in the free diagrams.net editor.
+With the draw.io add-on for Google Workplace (Google Drive), teachers and students can easily attach diagram files to announcements, assessment descriptions, and assignment submissions in Google Classroom. From there, it's only a click or two to see a diagram preview, and open it in the free draw.io editor.
 
-**Install the diagrams.net Add-on for Google Drive** 
+**Install the draw.io add-on for Google Drive** 
 
-1. Install the [diagrams.net Add-on from the Google Workspace Marketplace](https://workspace.google.com/marketplace/app/diagramsnet/671128082532).
-2. You will need to [grant permission for diagrams.net to access the files in your Google Drive](/doc/faq/google-drive-diagrams.html) before you first create or edit a diagram stored on Google Drive.
+1. Install the [draw.io add-on from the Google Workspace Marketplace](https://workspace.google.com/marketplace/app/diagramsnet/671128082532).
+2. You will need to [grant permission for draw.io to access the files in your Google Drive](/doc/faq/google-drive-diagrams.html) before you first create or edit a diagram stored on Google Drive.
 
 ## Attach diagram files in Google Classroom
 
@@ -49,11 +49,11 @@ As the teacher, you will be able to open all of the diagram files assigned to st
 ## Open a diagram from Google Classroom
 
 1. Click on the attached file to open a preview. If the diagram file is stored in Google Drive, you'll see the diagram in the new tab. 
-2. If it was a file that was uploaded, and not stored in Google Drive, click on _Open with diagrams.net_ at the top of the browser tab to open it in the diagrams.net editor.
+2. If it was a file that was uploaded, and not stored in Google Drive, click on _Open with draw.io_ at the top of the browser tab to open it in the draw.io editor.
 
 **Tip:** Add comments to diagrams stored in Google Drive simply by dragging a selection pane around an element of the diagram, and add your comment. This is useful for group work or when providing feedback to students on their assignment submissions (see below).
 
-<img src="/assets/img/blog/google-classroom-diagram-demonstration.gif" style="max-width:100%;height:auto;" alt="Preview, add comments to and open diagrams in the diagrams.net editor from Google Classroom">
+<img src="/assets/img/blog/google-classroom-diagram-demonstration.gif" style="max-width:100%;height:auto;" alt="Preview, add comments to and open diagrams in the draw.io editor from Google Classroom">
 
 ## Submit a diagram with an assignment
 
@@ -85,18 +85,18 @@ Even if the file is deleted from the student's Google Drive, teachers will be ab
 
 It happens rarely, but you may see an error along the lines of ``Log in attempts failed.`` You may be able to [fix such a Google Drive connection issue in your browser](/doc/faq/google-drive-connection-problems.html). 
 1. Unblock third-party cookies in your browser, remove browser extensions, and delete all Google cookies stored in your browser. 
-2. Log back into Google Classroom or Google Drive to continue working with your diagrams in diagrams.net.
+2. Log back into Google Classroom or Google Drive to continue working with your diagrams in draw.io.
 
 ## Embed diagrams in Docs, Slides and Sheets
 
-To conveniently include diagram files in written assignments, you can also install the diagrams.net add-ons for Google Docs, Slides and Sheets. Search for [_``diagrams.net``_ in the Google Workspace Marketplace](https://gsuite.google.com/u/0/marketplace/search/diagrams.net%20diagram?hl=en) to see all of the diagrams.net (draw.io) add-ons.
+To conveniently include diagram files in written assignments, you can also install the draw.io add-ons for Google Docs, Slides and Sheets. Search for [_``draw.io``_ or _``diagrams.net``_ in the Google Workspace Marketplace](https://gsuite.google.com/u/0/marketplace/search/diagrams.net%20diagram?hl=en) to see all of the draw.io add-ons.
 
-The diagrams.net add-ons are useful when a group has diagrams for a project but needs to write individual reports. One student (or the teacher) can host the diagram file, and the students simply embed it in their document. After making changes to the diagram in the diagrams.net editor and saving it, the students only need to update the diagrams in their documents.
+The draw.io add-ons are useful when a group has diagrams for a project but needs to write individual reports. One student (or the teacher) can host the diagram file, and the students simply embed it in their document. After making changes to the diagram in the draw.io editor and saving it, the students only need to update the diagrams in their documents.
 
 1. Select the diagram in your Google Doc.
-2. Click _Add-ons > diagrams.net for Docs > Update Selected_.
+2. Click _Add-ons > draw.io for Docs > Update Selected_.
 
-If you want to update all of the diagrams, click _Add-ons > diagrams.net Diagrams for Docs > Update All_.
+If you want to update all of the diagrams, click _Add-ons > draw.io Diagrams for Docs > Update All_.
 
 [Learn more about working with diagrams within Google documents](/blog/diagrams-google-docs.html)
 

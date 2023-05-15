@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: shortcut-move-area
 page.date: 2018-12-03
 title: Alt+Ctrl+Shift+drag to move an area of your diagram
@@ -24,6 +24,6 @@ The move area shortcut (previously known as the _scissors tool_) is especially u
 
 ## Diagram faster with keyboard shortcuts
 
-diagrams.net has a large number of keyboard shortcuts which will make it easier and faster to create your diagrams. Print the following shortcut cheat sheet to keep all of them on hand for when you need a reminder.
+draw.io has a large number of keyboard shortcuts which will make it easier and faster to create your diagrams. Print the following shortcut cheat sheet to keep all of them on hand for when you need a reminder.
 
 [See all of the keyboard shortcuts](https://app.diagrams.net/shortcuts.svg)

@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: confluence-diagrams-in-jira
 date: 2021-06-08 09:43:00
 title: Embed Confluence diagrams in Jira Cloud with the draw.io app
@@ -65,7 +65,7 @@ The draw.io app for Confluence Cloud offers some additional useful features:
 
 ## Getting started with draw.io diagrams
 
-* [Learn about the draw.io and diagrams.net editor](/doc/getting-started-editor.html)
+* [Learn about the draw.io and draw.io editor](/doc/getting-started-editor.html)
 * [Follow this tutorial to create a basic flowchart](/doc/getting-started-basic-flow-chart.html)
 
-<img src="/assets/img/blog/interface-introduction.png" style="max-width:100%;height:auto;" alt="The diagrams.net editor, its tools and panels">
+<img src="/assets/img/blog/interface-introduction.png" style="max-width:100%;height:auto;" alt="The draw.io editor, its tools and panels">

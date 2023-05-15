@@ -1,16 +1,16 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: import-gliffy-online
 date: 2021-09-21 11:13:00
-title: Import diagrams from Gliffy Online to diagrams.net
+title: Import diagrams from Gliffy Online to draw.io
 tags: [features]
 categories: [features,integrations]
 ---
 
 Gliffy recently removed their free tier offering in their online version. This means if your trial version has expired, you will no longer be able to edit up to 5 diagrams that you have created, unless you start a paid subscription.
 
-You can use diagrams.net to create an unlimited number of diagrams for free, without restrictions. Additionally, you can import your Gliffy diagrams.
+You can use our [draw.io online editor](https://app.diagrams.net) to create an unlimited number of diagrams for free, without restrictions. Additionally, you can import your Gliffy diagrams.
 
 ## How to import Gliffy diagrams
 
@@ -26,10 +26,10 @@ Open any text editor on your computer and paste the text in. Then save the file,
 
 Repeat that until you have a file for each Gliffy diagram.
 
-Next, go to [app.diagrams.net](https://app.diagrams.net) and drag and drop the first file into the diagrams.net editor. Your diagram will be imported and you can click on the orange "unsaved diagram" warning to pick your save location.
+Next, go to [app.diagrams.net](https://app.diagrams.net) and drag and drop the first file into the draw.io editor. Your diagram will be imported and you can click on the orange "unsaved diagram" warning to pick your save location.
 
-<img src="/assets/img/blog/diagrams-net-save-dialog.png" style="width=100%;max-width:600px;height:auto;" alt="The save option dialog in diagrams.net. At the top is a text field to type in the file name. Below are various storage options to select.">
+<img src="/assets/img/blog/diagrams-net-save-dialog.png" style="width=100%;max-width:600px;height:auto;" alt="The save option dialog in draw.io. At the top is a text field to type in the file name. Below are various storage options to select.">
 
 You can choose to save back to your computer or to one of the cloud storage options, Google Drive, OneDrive, Dropbox, GitHub or Gitlab.
 
-If you're worried about trusting SaaS vendors with your data, when they can change usage terms at any time, we have a [desktop app under our draw.io brand](https://get.diagrams.net). Note that it cannot import Gliffy files, but once imported using the online app, you can open, edit and save your files without limitations for free.
+If you're worried about trusting SaaS vendors with your data, when they can change usage terms at any time, use the [draw.io desktop app](https://get.diagrams.net). Note that the offline application cannot import Gliffy files, but once imported using our [online app](https://app.diagrams.net), you can open, edit and save your files in draw.io Desktop without limitations for free.

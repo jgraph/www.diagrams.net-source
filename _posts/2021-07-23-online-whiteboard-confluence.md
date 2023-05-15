@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: online-whiteboard-confluence
 date: 2021-07-23 12:07:00
 title: An online whiteboard for Confluence with draw.io
@@ -12,9 +12,9 @@ With remote working on the rise worldwide, online replacements for analog tools 
 
 <img src="/assets/img/blog/confluence-online-whiteboard-drawio.png" style="width=100%;max-width:600px;height:auto;" alt="With the draw.io Board macro, you have a fully featured online whiteboard inside Confluence Cloud">
 
-diagrams.net and the draw.io branded Atlassian integrations are the leading solution for web based sketching and diagramming functionality. We offer security-first diagramming for teams working with Atlassian products. 
+The online draw.io editor and our Atlassian integrations are the leading solution for web based sketching and diagramming functionality. We offer security-first diagramming for teams working with Atlassian products. 
 
-This article describes the draw.io integration for Confluence that we, JGraph, build, deliver and maintain alongside the online diagrams.net and desktop tools.
+This article describes the draw.io integration for Confluence that we, JGraph, build, deliver and maintain alongside the [online draw.io application](https://app.diagrams.net) and draw.io desktop, and further [integrations](/integrations.html).
 
 ## All teams love using whiteboards
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: shortcut-shift-delete
 page.date: 2018-03-07
 title: Shift+toolbar delete to delete shapes and their connections

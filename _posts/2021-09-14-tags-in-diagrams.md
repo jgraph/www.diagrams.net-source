@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: tags-in-diagrams
 date: 2021-09-14 09:10:00
 title: Use tags in diagrams to select, hide and display related shapes and connectors
@@ -28,7 +28,7 @@ To work with tags, open the tags dialog in one of two ways.
 Tags are case sensitive. It is best to consistently use a case style for all tags - for example CamelCase or all lowercase.
 
 1. In the Tags dialog, click _Add_.
-<br /><img src="/assets/img/blog/tags-dialog-add.png" style="width=100%;max-width:120px;height:auto;" alt="Add a new tag in the Tags dialog in diagrams.net">
+<br /><img src="/assets/img/blog/tags-dialog-add.png" style="width=100%;max-width:120px;height:auto;" alt="Add a new tag in the Tags dialog in draw.io">
 2. Enter the name of the tag without spaces - use CamelCase, underscores or dashes to separate words - and click _Add_.
 <br /><img src="/assets/img/blog/tags-dialog-add-new-tag.png" style="width=100%;max-width:200px;height:auto;" alt="Add a new tag name">
 
@@ -49,7 +49,7 @@ With nothing selected in the diagram, click on the cross next to the tag name yo
 
 Click on the checkbox again next to the tag name to remove the tag from the selected shapes and connectors. 
 
-## Work with tags in the diagrams.net editor
+## Work with tags in the draw.io editor
 
 Now that you have assigned shapes and connectors to tags, you can select, hide and display them through the Tags dialog. Different parts of the Tags dialog function as toggles for different things.
 
@@ -65,7 +65,7 @@ Now that you have assigned shapes and connectors to tags, you can select, hide a
 
 **Tags and container shapes:** You can add tags to the child shapes inside container shapes, as well as to the parent container shape. When you hide the container shape, note that all child elements contained within the parent container shape will also be hidden.
 
-### Use tags in the diagrams.net lightbox viewer
+### Use tags in the draw.io lightbox viewer
 
 Tags work much the same way in the lightbox viewer - click on the tags tool in the toolbar to see all the tags in the diagram.
 
@@ -73,6 +73,6 @@ Tags work much the same way in the lightbox viewer - click on the tags tool in t
 * Click on the tag name to display only those shapes and connectors with that tag (and those with no tag).
 * ``Shift`` + click on a tag name to temporarily highlight elements with that tag.
 * ``Shift`` + click on any eye to hide or display all tagged elements.
-<br /><img src="/assets/img/blog/lightbox-tags.png" style="width=100%;max-width:600px;height:auto;" alt="Use the tags tool in the diagrams.net lightbox viewer to view and highlight elements with specific tags">
+<br /><img src="/assets/img/blog/lightbox-tags.png" style="width=100%;max-width:600px;height:auto;" alt="Use the tags tool in the draw.io lightbox viewer to view and highlight elements with specific tags">
 
 **Note:** If there are no tags, this will not be available in the toolbar.

@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: edit-connection-points
 date: 2022-01-27 09:54:00
 title: Edit the connection points on a shape
@@ -20,7 +20,7 @@ The shape will be displayed with its connection points shown as blue crosses.
 **Select a connection point:** Click on a connection point, or select multiple connection points by dragging a selection box around them.
 
 **Move connection points:** Drag a connection point to a new position. You can also drag connection points to be inside or far outside the shape's outline. 
-<br /><img src="/assets/img/blog/connection-points-edit.gif" style="width=100%;max-width:250px;height:auto;" alt="Move, delete and add connection points to a shape visually in diagrams.net">
+<br /><img src="/assets/img/blog/connection-points-edit.gif" style="width=100%;max-width:250px;height:auto;" alt="Move, delete and add connection points to a shape visually in draw.io">
 
 Alternatively, you can shift selected connection points to the left/right or up/down by precise percentages or points. Note that you can only shift these in one direction at a time in this way.
 1. Select one or more connection points.
@@ -29,7 +29,7 @@ Alternatively, you can shift selected connection points to the left/right or up/
 <br /><img src="/assets/img/blog/connection-points-move-precise.png" style="width=100%;max-width:250px;height:auto;" alt="Shift connection points precisely from their current location">
 
 **Delete connection points:** Select one or more connection points, then press _Delete_ or click on the _Delete_ icon just under the editor on the right.
-<br /><img src="/assets/img/blog/connection-points-delete.png" style="width=100%;max-width:250px;height:auto;" alt="Delete connection points on a shape in the visual editor with diagrams.net">
+<br /><img src="/assets/img/blog/connection-points-delete.png" style="width=100%;max-width:250px;height:auto;" alt="Delete connection points on a shape in the visual editor with draw.io">
 
 **Add new connection points:** Double click anywhere on or around the shape to add a new connection point. 
 
@@ -46,4 +46,4 @@ Alternatively, make sure no connection points are selected, then click _Add_.
 ### Define connection points on custom shapes
 
 You can also add and edit connection points on [complex custom shapes](/doc/faq/shape-complex-create-edit.html) using the same steps as above. For example:
-<br /><img src="/assets/img/blog/connection-points-edit-custom-shape.png" style="width=100%;max-width:250px;height:auto;" alt="Edit the connection points visually, even on a custom shape with diagrams.net">
+<br /><img src="/assets/img/blog/connection-points-edit-custom-shape.png" style="width=100%;max-width:250px;height:auto;" alt="Edit the connection points visually, even on a custom shape with draw.io">

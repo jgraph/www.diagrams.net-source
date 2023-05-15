@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: drawio-board-macro
 date: 2021-05-26 09:43:00
 title: New draw.io Board macro for whiteboard-style diagrams in Confluence Cloud

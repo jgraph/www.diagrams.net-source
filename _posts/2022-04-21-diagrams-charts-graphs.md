@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: diagrams-charts-graphs
 date: 2022-04-21 09:43:00
 title: What's the difference between diagrams, charts and graphs?
@@ -23,7 +23,7 @@ A good rule of thumb for using more specific terms - when the visualisation is d
 Graphs usually represent quantitative data on an 2D image with an x-y axis, using lines or bars. Graphs can visualise numerical data or a mathematical function, and are often generated from data in a spreadsheet.
 
 The word 'graph' is used outside of this context. For example, infographics explain complex topics in simple abstract visualisations, and [dependency graphs](/blog/dependency-graphs.html) show relationships between various elements.
-[<img src="/assets/img/blog/dependency-graph-diagrams-net-website.png" style="width=100%;max-width:600px;height:auto;" alt="Dependecy graph of the diagrams.net website on GitHub">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fgemfile-dependency-graph.drawio)
+[<img src="/assets/img/blog/dependency-graph-diagrams-net-website.png" style="width=100%;max-width:600px;height:auto;" alt="Dependency graph of the draw.io website on GitHub">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fgemfile-dependency-graph.drawio)
 
 ### Plots
 
@@ -54,8 +54,8 @@ To complicate matters even more, maps, models and plans are also words used to r
 
 ## Templates for all types of diagrams
 
-diagrams.net and our draw.io branded apps have many templates, [organised into categories in the template library](/blog/template-diagrams.html) roughly corresponding to the terms described above. 
-<br /><img src="/assets/img/blog/template-library-preview.png" style="width=100%;max-width:600px;height:auto;" alt="Hover over a template in diagrams.net to see a larger preview of it">
+Our draw.io apps come with many templates, [organised into categories in the template library](/blog/template-diagrams.html) roughly corresponding to the terms described above. 
+<br /><img src="/assets/img/blog/template-library-preview.png" style="width=100%;max-width:600px;height:auto;" alt="Hover over a template in draw.io to see a larger preview of it">
 
 1. Select _Arrange > Insert > Template_ to open the template manager. 
 2. Browse the categories on the left and select a template on the right. Click on the magnifying glass to see a larger preview. 
@@ -63,7 +63,7 @@ diagrams.net and our draw.io branded apps have many templates, [organised into c
 
 ## Shapes for different types of diagrams
 
-You can create abstract line charts and bar graphs using the infographic shape library. However, as the diagrams.net editor is not connected to a form of numerical data input, creating exact graphs from quantitative data is better done in a spreadsheet. 
+You can create abstract line charts and bar graphs using the infographic shape library. However, as the draw.io editor is not connected to a form of numerical data input, creating exact graphs from quantitative data is better done in a spreadsheet. 
 <br /><img src="/assets/img/blog/infographic-shape-bar-graph.png" style="width=100%;max-width:500px;height:auto;" alt="Enable the Infographic shape library to create abstract graphs and charts">
 
 1. Click on _More Shapes_ at the bottom of the Shapes panel. 

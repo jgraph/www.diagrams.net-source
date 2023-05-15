@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: complex-diagrams-whiteboard
 date: 2021-10-19 12:07:00
 title: Complex diagramming on an online whiteboard
@@ -8,9 +8,9 @@ tags: [features]
 categories: [features, use-cases]
 ---
 
-Many people prefer a minimal interface for diagramming, as there are fewer distractions. While online whiteboard applications often have a limited set of available tools, diagrams.net lets you use its advanced features in a [less cluttered diagram editor theme](/blog/sketch-online-whiteboard.html).
+Many people prefer a minimal interface for diagramming, as there are fewer distractions. While online whiteboard applications often have a limited set of available tools, draw.io lets you use its advanced features in a [less cluttered diagram editor theme](/blog/sketch-online-whiteboard.html).
 
-As the interface is simpler at [sketch.diagrams.net](https://sketch.diagrams.net/), the advanced diagramming tools are in less obvious places.
+As the interface is simpler in our online editor at [sketch.diagrams.net](https://sketch.diagrams.net/), the advanced diagramming tools are in less obvious places.
 
 <img src="/assets/img/blog/online-whiteboard-additional-tools.png" style="width=100%;max-width:600px;height:auto;" alt="There are many additional tools to create more complex diagrams and customise the sketch.diagrams.net online whiteboard">
 <br />_To work with a dark background in the Sketch editor theme, select Settings > Appearance > Dark from the menu in the top left_
@@ -101,7 +101,7 @@ If you are using cloud storage platforms - Google Drive on Microsoft OneDrive - 
 Create complex tables with table, row and column titles (such as cross-functional flowcharts) using the _Table_ tool (via the ``+`` in the toolbar on the left). 
 
 When you have selected a table or a row, use the tools in the _Arrange_ tab of the format panel to add or remove columns and rows. Hover over any tool to see a descriptive tooltip.
-<br /><img src="/assets/img/blog/online-whiteboard-add-cross-functional-table.gif" style="width=100%;max-width:600px;height:auto;" alt="Work with complex tables in the sketch.diagrams.net online whiteboard">
+<br /><img src="/assets/img/blog/online-whiteboard-add-cross-functional-table.gif" style="width=100%;max-width:600px;height:auto;" alt="Work with complex tables in draw.io's whiteboard-like sketch editor theme">
 
 Drop shapes and text into the table cells, then drag connectors between them to create complex flow charts. 
 

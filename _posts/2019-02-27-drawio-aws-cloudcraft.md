@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: drawio-aws-cloudcraft
 date: 2019-02-27 09:43:00
 title: Use Cloudcraft to export your AWS architecture to a .drawio diagram
@@ -17,7 +17,7 @@ Get started with your AWS infrastructure using the Amazon Architecture Center's 
 
 To document how your AWS infrastructure changes over time, you need snapshots - diagrams before and after you make changes. You can't use a live system to document what happened in the past. This is especially important to comply with audit and security standards, and to show progress on your IT infrastructure projects.
 
-Export the various stages of your AWS infrastructure's development into static diagrams. You can easily share these diagrams, open and edit them in diagrams.net, incorporate them into official documentation and reports, and store them in your revision control system to ensure compliance and painless audits.
+Export the various stages of your AWS infrastructure's development into static diagrams. You can easily share these diagrams, open and edit them in draw.io, incorporate them into official documentation and reports, and store them in your revision control system to ensure compliance and painless audits.
 
 Cloudcraft makes it easy to export to draw.io.
 
@@ -43,7 +43,7 @@ First, enable the AWS libraries. Click _More Shapes_ at the bottom of the left p
 
 There are many AWS shapes available to visualise your AWS infrastructure. When you enable just one of the shape libraries above, you'll see a number of sub-categories of shapes appear in the left panel.
 
-<img src="/assets/img/blog/aws19-update2022.png" style="max-width:100%;height:auto;" alt="Some of the AWS shapes available in diagrams.net">
+<img src="/assets/img/blog/aws19-update2022.png" style="max-width:100%;height:auto;" alt="Some of the AWS shapes available in draw.io">
 
 ### Replace shapes
 
@@ -62,4 +62,4 @@ Select a shape that has the size you want to copy. In the Arrange tab of the for
 In this example, all of the older AWS shapes and 3D shapes have been updated to use a more recent AWS shape library.
 
 [<img src="/assets/img/blog/exported-cloudcraft-diagram-new-shapes.png" style="width=100%;max-width:400px;height:auto;" alt="IOT example using 2019 AWS shapes">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Faws-internet-of-things.drawio)
-<br />[_Open this AWS diagram in the diagrams.net viewer_](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Faws-internet-of-things.drawio)
+<br />[_Open this AWS diagram in the free draw.io diagram viewer_](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Faws-internet-of-things.drawio)

@@ -13,7 +13,7 @@ You can create a wide variety of diagrams for many different industries using dr
 ___
 ## Diagram types <!-- omit in toc -->
 
-All these diagrams were created using draw.io - start diagramming now at [app.diagrams.net](https://app.diagrams.net)
+All these diagrams were created using draw.io - start diagramming now with our [free diagram editor](https://app.diagrams.net)
 
 Where noted, template diagrams are available in the built-in template library (_Arrange > Insert > Template_).
 
@@ -48,7 +48,7 @@ ___
 [<img src="/assets/img/blog/gitflow-example.png" style="width=100%;max-width:400px;height:auto;" alt="An example gitflow diagram">](https:/viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fgitflow-examples.drawio)
 <br />[Gitflow diagram](/blog/gitflow-diagram) (template library) | [_Download file_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/blog/gitflow-examples.drawio)
 
-[<img src="/assets/img/blog/dependency-graph-diagrams-net-website.png" style="width=100%;max-width:400px;height:auto;" alt="Gemfile dependency graph of the diagrams.net website on GitHub">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fgemfile-dependency-graph.drawio)
+[<img src="/assets/img/blog/dependency-graph-diagrams-net-website.png" style="width=100%;max-width:400px;height:auto;" alt="Gemfile dependency graph of the draw.io website on GitHub">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fgemfile-dependency-graph.drawio)
 <br />The diagrams.net website's gemfile [dependency graph](/blog/dependency-graphs.html) | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/examples/gemfile-dependency-graph.drawio)
 
 [<img src="/assets/img/blog/kanban-examples.png" style="width=100%;max-width:500px;height:auto;" alt="Examples of Kanban boards in various styles">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fkanban-examples.drawio)
@@ -161,7 +161,7 @@ ___
 [<img src="/assets/img/blog/template-lean_mapping_2.png" style="width=100%;max-width:300px;height:auto;" alt="Enterprise business model template">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fbusiness%2Flean_mapping_2.xml)
 <br />Lean mapping template | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/templates/business/lean_mapping_2.xml)
 
-[<img src="/assets/img/blog/template-process_flow_diagram.png" style="width=100%;max-width:300px;height:auto;" alt="A PERT diagram template that is available in diagrams.net">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fengineering%2Fprocess_flow_diagram.xml)
+[<img src="/assets/img/blog/template-process_flow_diagram.png" style="width=100%;max-width:300px;height:auto;" alt="A PERT diagram template that is available in draw.io">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fengineering%2Fprocess_flow_diagram.xml)
 <br />Process flow diagram | [_Download_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/templates/engineering/process_flow_diagram.xml)
 
 

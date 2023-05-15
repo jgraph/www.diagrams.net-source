@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: export-html
 page.date: 2018-08-26
 title: Export a diagram to HTML
@@ -10,7 +10,7 @@ categories: [features]
 
 You can embed a diagram in a web page or in any online platform that can render HTML. While some third-party integrations can embed diagrams more efficiently (in WordPress, for example), embedding a diagram as HTML may be a good option. You can also share these HTML diagram files with others.
 
-**Note:** Diagrams exported to HTML files/code are rendered in the diagrams.net viewer by calling a JavaScript hosted on the diagrams.net server. You'll need a working internet connection for the diagrams to be displayed properly.
+**Note:** Diagrams exported to HTML files/code are rendered in the draw.io online viewer by calling a JavaScript hosted on the our server. You'll need a working internet connection for the diagrams to be displayed properly.
 
 ## How to export a diagram as HTML
 

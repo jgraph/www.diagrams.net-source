@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: diagram-new
 date: 2020-05-07 09:10:00
 title: Go to diagram.new to create a new diagram
@@ -8,7 +8,7 @@ tags: [features]
 categories: [features]
 ---
 
-You can now create a new diagram even faster by going to [diagram.new](https://diagram.new) or [diagrams.new](https://diagrams.new) instead of having to remember the full [app.diagrams.net](https://app.diagrams.net) address.
+You can now create a new diagram even faster by going to [diagram.new](https://diagram.new) or [diagrams.new](https://diagrams.new) instead of having to remember the full [app.diagrams.net](https://app.diagrams.net) address for the online version of draw.io.
 
 ``.new`` is the first and only domain that is devoted to helping you get things done fast. Each and every address that ends with .new is an action that lets you create or share content online.
 
@@ -23,7 +23,7 @@ For example:
 * [story.new](https://story.new): creates a new story page on Medium.
 * [link.new](https://link.new): creates a new short link on Bitly.
 * [podcast.new](https://podcast.new): creates a new podcast using Anchor and Spotify.
-* [diagram.new](https://diagram.new) and [diagrams.new](https://diagrams.new): creates a new diagram using diagrams.net
+* [diagram.new](https://diagram.new) and [diagrams.new](https://diagrams.new): creates a new diagram using draw.io.
 
 Instead of remembering the full URL of the websites and services, just enter the type of content you want to create or action you want to do and add ``.new`` to the end.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: github-support
 page.date: 2019-06-18
 title: Secure GitHub support via OAuth
@@ -8,7 +8,7 @@ tags: [integrations, features]
 categories: [integrations, features]
 ---
 
-diagrams.net supports GitHub using OAuth - diagrams.net will never see your GitHub password.
+draw.io and our online editor supports GitHub using OAuth - the editor will never see your GitHub password.
 
 Store your diagram files with the software code or website source they explain. Open your diagrams from, save and export them to your repositories on GitHub.
 

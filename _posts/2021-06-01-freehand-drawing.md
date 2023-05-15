@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: freehand-drawing
 date: 2021-06-01 16:24:00
 title: Draw freehand shapes and annotate diagrams
@@ -8,7 +8,7 @@ tags: [features, shapes]
 categories: [features, shapes]
 ---
 
-When you draw a freehand shape in diagrams.net, it is saved as an image with a transparent background on the drawing canvas by default. You can change the freehand-drawn shape's style like you would many other shapes: line colour, fill colour, opacity and more. You can also resize, flip and rotate your freehand drawing.
+When you draw a freehand shape in draw.io, it is saved as an image with a transparent background on the drawing canvas by default. You can change the freehand-drawn shape's style like you would many other shapes: line colour, fill colour, opacity and more. You can also resize, flip and rotate your freehand drawing.
 
 ## Add a new freehand drawing 
 

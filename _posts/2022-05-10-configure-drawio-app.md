@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: configure-drawio-app
 date: 2022-05-10 12:07:00
 title: Configure the draw.io app in Atlassian Confluence Cloud
@@ -18,12 +18,13 @@ This is all done by editing a JSON string in the draw.io app configuration.
 4. When you are done, click _Save_.
 
 Administrator can configure these options in the draw.io app for Confluence Cloud:
-* [Data governance region](#set-a-data-governance-region)
-* [Default colours in the various colour palettes](#set-default-colours)
-* [Default fonts](#set-default-fonts)
-* [Default shape, connector and text styles](#set-default-shape-connector-and-text-styles)
-* [Default shape libraries and custom libraries](#set-default-drawio-shape-libraries)
-* [Custom templates and template categories](#set-up-custom-templates-in-confluence-cloud)
+- [Set a data governance region](#set-a-data-governance-region)
+- [Set default styles in draw.io](#set-default-styles-in-drawio)
+  - [Set default colours](#set-default-colours)
+  - [Set default shape, connector and text styles](#set-default-shape-connector-and-text-styles)
+  - [Set default fonts](#set-default-fonts)
+- [Set default draw.io shape libraries](#set-default-drawio-shape-libraries)
+- [Set up custom templates in Confluence Cloud](#set-up-custom-templates-in-confluence-cloud)
 
 ## Set a data governance region
 
@@ -35,7 +36,7 @@ Add one of the following to the JSON string:
 * ``"dataGovernance": "EU"`` 
 * ``"dataGovernance": "US"`` 
 
-<img src="/assets/img/blog/confluence-cloud-data-governance-lockdown-configuration.png" style="width=100%;max-width:400px;height:auto;" alt="Access the diagrams.net configuration via Extras > Configuration">
+<img src="/assets/img/blog/confluence-cloud-data-governance-lockdown-configuration.png" style="width=100%;max-width:400px;height:auto;" alt="Access the draw.io configuration via Extras > Configuration">
 
 **Tip:** Set ``"lockdown": true`` in the editor configuration to ensure data transmission is directly between the user's browser and the Atlassian Confluence or Jira instance.
 
@@ -82,7 +83,7 @@ For example, the following JSON string customises both shape and connector style
 
 <img src="/assets/img/blog/applied-custom-default-styles-confluence-cloud.png" style="width=100%;max-width:300px;height:auto;" alt="Custom default styles in draw.io for Confluence Cloud let you create attractive diagrams, faster.">
 
-[See more examples and details in the full diagrams.net/draw.io editor customisation FAQ](/doc/faq/configure-diagram-editor.html)
+[See more examples and details in the full draw.io editor customisation FAQ](/doc/faq/configure-diagram-editor.html)
 
 
 ### Set default fonts

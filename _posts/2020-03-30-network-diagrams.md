@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: network-diagrams
 date: 2020-03-30 09:10:00
 title: Network and infrastructure diagrams
@@ -9,7 +9,7 @@ categories: [use-cases, templates]
 ---
 
 Network diagrams, or infrastructure diagrams, let you understand a computer network quickly.
-<br />[<img src="/assets/img/blog/ibm-iot-network-diagram-template.png" style="width=100%;max-width:400px;height:auto;" alt="IBM Internet of Things template network diagram from diagrams.net">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fcloud%2Fibm_iot_architecture.xml)
+<br />[<img src="/assets/img/blog/ibm-iot-network-diagram-template.png" style="width=100%;max-width:400px;height:auto;" alt="IBM Internet of Things template network diagram from draw.io">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fcloud%2Fibm_iot_architecture.xml)
 
 A variety of symbols, shapes and colours are used to indicate the _types of devices_ attached to the network and their _groups_.
 
@@ -37,12 +37,12 @@ Network diagrams are created and updated for many reasons:
 
 ## Shape libraries for various network diagrams
 
-diagrams.net contains a large number of shape libraries that you can use to create your network diagram.
+draw.io contains a large number of shape libraries that you can use to create your network diagram.
 1. Click on _More Shapes_ at the bottom of the left panel.
 2. Scroll down to the _Networking_ section.
 3. Enable the shape libraries you want to use, and clikc _Apply_.
 
-<img src="/assets/img/blog/networking-shape-libraries.png" style="max-width:100%;height:auto;" alt="Networking shape libraries in diagrams.net">
+<img src="/assets/img/blog/networking-shape-libraries.png" style="max-width:100%;height:auto;" alt="Networking shape libraries in draw.io">
 
 Some of the more popular shape libraries include:
 
@@ -50,17 +50,17 @@ Some of the more popular shape libraries include:
 
 **AWS:** Amazon updates its shapes regularly, and these are sorted into collections by year - _AWS17_, _AWS19_. Enable the _AWS 3D_ library to use the isometric AWS shapes. When you enable one of these libraries, you'll see several categorised shape libraries appear in the left panel.
 
-[<img src="/assets/img/blog/aws-iot-app-template.png" style="max-width:100%;height:auto;" alt="An AWS template available in diagrams.net for IoTs device and apps, running on Amazon's cloud platform">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fcloud%2Faws_10.xml)
-<br />[Open this diagram in the diagrams.net viewer](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fcloud%2Faws_10.xml)
+[<img src="/assets/img/blog/aws-iot-app-template.png" style="max-width:100%;height:auto;" alt="An AWS template available in draw.io for IoTs device and apps, running on Amazon's cloud platform">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fcloud%2Faws_10.xml)
+<br />[Open this diagram in our online diagram viewer](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fcloud%2Faws_10.xml)
 
-Some AWS automatic monitoring services export to the diagrams.net .drawio file format, including [Cloudockit](/blog/cloudockit-to-drawio.html) and [Cloudcraft](https://www.diagrams.net/blog/drawio-aws-cloudcraft).
+Some AWS automatic monitoring services export to the .drawio file format, including [Cloudockit](/blog/cloudockit-to-drawio.html) and [Cloudcraft](/blog/drawio-aws-cloudcraft).
 
 **Google Cloud Platform:** GCP shapes are much more text-heavy than the other cloud providers.
 
 IBM, VMWare, [Veeam](/blog/veeam-stencils.html) and others are used for both physical and cloud network diagrams. Below is a template infrastructure diagram for IoT devices running on Google Cloud.
 
-[<img src="/assets/img/blog/google-iot-template-example.png" style="max-width:100%;height:auto;" alt="Template infrastructure in diagrams.net for IoT devices running on Google Cloud Platform">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fgcp%2Finternet_of_things_mqtt_to_pubsub_broker.xml)
-<br />[Open this diagram in diagrams.net](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fgcp%2Finternet_of_things_mqtt_to_pubsub_broker.xml)
+[<img src="/assets/img/blog/google-iot-template-example.png" style="max-width:100%;height:auto;" alt="Template infrastructure in draw.io for IoT devices running on Google Cloud Platform">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fgcp%2Finternet_of_things_mqtt_to_pubsub_broker.xml)
+<br />[Open this diagram in our online diagram viewer](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fgcp%2Finternet_of_things_mqtt_to_pubsub_broker.xml)
 
 ### Physical network diagrams
 
@@ -68,10 +68,10 @@ IBM, VMWare, [Veeam](/blog/veeam-stencils.html) and others are used for both phy
 
 There are many other more stylised shape libraries that may be better for presentations, should you need to present the network to management.
 
-If you aren't working with any particular platform, feel free to pick the shapes that make the most sense to your teams. For example, the following is an IT-OT network diagram for a industrial manufacturer, using shapes from the Cisco and Networks shape libraries available in diagrams.net.
+If you aren't working with any particular platform, feel free to pick the shapes that make the most sense to your teams. For example, the following is an IT-OT network diagram for a industrial manufacturer, using shapes from the Cisco and Networks shape libraries available in draw.io.
 
 [<img src="/assets/img/blog/industrial-it-ot-network-example.png" style="max-width:100%;height:auto;" alt="An industrial IT-OT network diagram for a manufacturing company">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Findustrial-iot-example.drawio)
-<br />[Open this diagram in diagrams.net](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Findustrial-iot-example.drawio)
+<br />[Open this diagram in our online diagram viewer](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Findustrial-iot-example.drawio)
 
 #### Bus topology
 
@@ -79,24 +79,24 @@ Occasionally, you may want to show how various subnets are connected to a main c
 
 The example below has been anonymised, but is from an actual use case for a manufacturing company. It's using shapes from the _Network_ shape library in diagrams.net.
 
-[<img src="/assets/img/blog/industrial-network-example.png" style="max-width:100%;height:auto;" alt="An industrial bus topology for a manufacturing company, visualised in diagrams.net">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fbus-topology-example.drawio)
-<br />[Open this diagram in diagrams.net](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fbus-topology-example.drawio)
+[<img src="/assets/img/blog/industrial-network-example.png" style="max-width:100%;height:auto;" alt="An industrial bus topology for a manufacturing company, visualised in draw.io">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fbus-topology-example.drawio)
+<br />[Open this diagram in our online diagram viewer](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fbus-topology-example.drawio)
 
 #### Placeholders make updating network diagrams easier
 **Advanced tip:** You can use placeholders to assign values automatically to device labels based on the subnet of the container shape. For example, then when you drag a device from one subnet to another, its IP will automatically update.
 
 [See how to work with placeholders](/blog/placeholders)
 
-## Network diagram templates in diagrams.net
+## Network diagram templates in draw.io
 
-A wide variety of network template diagrams are available in diagrams.net
+A wide variety of network template diagrams are available in draw.io.
 1. When you create a new diagram, expand the _Cloud_ section to see cloud infrastructure templates sorted by platform, or select the _Networking_ section on the left.
 2. Click on the magnifying glass in the top right to [see a larger preview of a template diagram](/blog/template-diagrams.html).
 3. Click _Create_ to create a new diagram using that template.
 
 You can also insert a template diagram. Click _Arrange > Insert > Template_, then follow the two steps above.
 
-<img src="/assets/img/blog/templates-network-diagrams.png" style="max-width:100%;height:auto;" alt="Network diagrams in the templates at diagrams.net">
+<img src="/assets/img/blog/templates-network-diagrams.png" style="max-width:100%;height:auto;" alt="Network diagrams in the templates at draw.io">
 
 ## Other network diagrams
 
@@ -109,4 +109,4 @@ There are several other types of network diagrams that are used for specific app
 * Data flow diagrams represent components in an information system and the communication channels between them.
 
 [<img src="/assets/img/blog/social-network-example.png" style="max-width:100%;height:auto;" alt="A small social network diagram">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fsociogram-example.drawio)
-<br />[Open this diagram in diagrams.net](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fsociogram-example.drawio)
+<br />[Open this diagram in our online diagram viewer](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fsociogram-example.drawio)
