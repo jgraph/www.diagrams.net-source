@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: move-shapes-forwards-backwards
 date: 2021-07-01 09:42:00
 title: Move shapes forwards and backwards on the drawing canvas 
@@ -52,7 +52,7 @@ To bring a shape from a lower layer to the front, you need to move it to a highe
 
 <img src="/assets/img/blog/shapes-move-layers.png" style="max-width:100%;height:auto;" alt="Move the selected shapes to another layer via the Layers dialog">
 
-[Learn how to work with layers in diagrams.net](/doc/layers.html)
+[Learn how to work with layers in draw.io](/doc/layers.html)
 
 ## Number shapes based on their z-order
 

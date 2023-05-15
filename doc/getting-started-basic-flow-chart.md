@@ -4,7 +4,7 @@ layout: page
 categories: [features]
 ---
 
-You can create many different types of diagrams with draw.io and our online diagram editor at [app.diagrams.net](https://app.diagrams.net). To learn how to use the diagram editor, let's start with a basic [flowchart](/example-diagrams.html#flowcharts) to documents a process.
+You can create many different types of diagrams with draw.io and [our online diagram editor](https://app.diagrams.net). To learn how to use the editor, let's start with a basic [flowchart](/example-diagrams.html#flowcharts) to document a process.
 
 Flow charts let you visually describe a process or system. The shapes and very short labels let readers quickly understand what they need to do.
 

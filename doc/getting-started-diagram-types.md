@@ -3,9 +3,9 @@ title: Introduction to diagrams
 layout: page
 categories: [features]
 ---
-draw.io and our online editor at [app.diagrams.net](https://app.diagrams.net) are the leading solutions for web based sketching and diagramming functionality. You can use our online editor with various storage platforms, and offline with our standalone desktop app.
+draw.io and [our online editor](https://app.diagrams.net) are the leading solutions for web based sketching and diagramming functionality. You can use our online editor with various storage platforms, and offline with our standalone desktop app.
 
-As a security-first diagramming app for teams, we provide the diagramming functionality - you choose where to keep your diagram data. There are many different [integrations with other platforms and applications](/integrations.html), including [Atlassian Confluence Cloud](/doc/drawio-confluence-cloud.html) and Jira Cloud, Google applications, GitHub and Microsoft applications. Unofficial integrations are available for many other platforms and tools.
+As a security-first diagramming app for teams, we provide the diagramming functionality - you choose where to keep your diagram data. There are many different [integrations with other platforms and applications](/integrations.html), including [Atlassian Confluence Cloud](/doc/drawio-confluence-cloud.html) and Jira Cloud, Google applications, GitHub, Microsoft applications, Notion and more. Unofficial integrations are available for many other platforms and tools.
 
 [<img src="/assets/img/blog/org-chart-from-csv.png" style="width=100%;max-width:200px;height:auto;" alt="An organisation chart created in draw.io from a CSV file">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Forgchart-from-csv.drawio) [<img src="/assets/img/blog/floorplan-apartment-ground-floor.png" style="width=100%;max-width:200px;height:auto;" alt="A ground floor apartment floorplan created in draw.io">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Ffloorplan-apartment.drawio)
 [<img src="/assets/img/blog/aws-saas-example.png" style="width=100%;max-width:250px;height:auto;" alt="An AWS diagram for a SAAS application created in draw.io](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Faws-saas-example.drawio)
@@ -20,7 +20,7 @@ draw.io gives you the tools to create a wide variety of diagrams: flow charts, m
 
 **Create simple diagrams on an online whiteboard**
 
-The [draw.io _Board_ macro in Confluence](/blog/online-whiteboard-confluence.html) or the simple [Sketch editor theme](/blog/sketch-online-whiteboard.html) at app.diagrams.net gives you an easy-to-use online whiteboard to quickly note ideas. 
+The [draw.io _Board_ macro in Confluence](/blog/online-whiteboard-confluence.html) or the simple [Sketch editor theme](/blog/sketch-online-whiteboard.html) in the online editor gives you an easy-to-use online whiteboard to quickly note ideas. 
 
 [<img src="/assets/img/blog/sketch-theme-tutorial.png" style="width=100%;max-width:500px;height:auto;" alt="Sketch editor theme is currently being developed">](https://app.diagrams.net/?splash=0&ui=sketch&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fboard-visual-tutorial.drawio)
 <br />[_Download and open this visual tutorial for an in-app tour_](https://app.diagrams.net/?splash=0&ui=sketch&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fboard-visual-tutorial.drawio)

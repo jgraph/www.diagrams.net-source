@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: placeholder-scope
 date: 2018-12-25 13:24:00
 title: Placeholder labels respect scope
@@ -59,7 +59,7 @@ You can see how when the rectangle's label is edited, the value of the container
 
 <img src="/assets/img/blog/placeholder-scope.gif" style="width=100%;max-width:400px;height:auto;" alt="Editing placeholder labels respects scope - you will only edit the nearest matching property">
 
-[Open this diagram in diagrams.net](https://app.diagrams.net/i/Go7aT2t)
+[Open this diagram in our online diagram viewer](https://app.diagrams.net/i/Go7aT2t)
 
 ## Placeholder labels respect scope when edited
 

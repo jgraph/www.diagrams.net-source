@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: office-diagrams
 date: 2021-05-13 11:04:00
 title: Embed diagrams in PowerPoint
@@ -20,7 +20,7 @@ While the built-in diagramming features in PowerPoint allow you to create simple
 - [Update embedded diagrams](#update-embedded-diagrams)
 - [Related](#related)
 
-**Note:** Your diagram data is only ever stored in your browser and either on your device, or in your cloud platform (OneDrive or [Google Drive](/doc/faq/google-drive-diagrams.html)) - the diagrams.net servers never store your diagram data.
+**Note:** Your diagram data is only ever stored in your browser and either on your device, or in your cloud platform (OneDrive or [Google Drive](/doc/faq/google-drive-diagrams.html)) - the draw.io servers never store your diagram data.
 
 ## Install the diagramming add-in
 
@@ -45,15 +45,15 @@ Embedded diagrams are displayed in your PowerPoint slides as images. This image 
 <br />In the panel that appears on the right, click on the location where your diagram file is stored: _OneDrive_, _Google Drive_ or a file on your local _Device_.
 <br /><img src="/assets/img/blog/microsoft-powerpoint-pick-file.png" style="width=100%;max-width:400px;height:auto;"  alt="Click on the draw.io tool under the Insert tab in PowerPoint, Excel or Word and select the location where your diagram file is stored">
 2. Navigate to and select your diagram file. 
-<br />**Tip:** You may need to authorise diagrams.net (draw.io) to access your cloud storage.
+<br />**Tip:** You may need to authorise draw.io to access your cloud storage.
    * Google Drive will display a separate pop-up dialog. Select the file, then click _Select_ to see a preview in the panel on the right.
    <br /><img src="/assets/img/blog/microsoft-pick-file-google-drive.png" style="width=100%;max-width:400px;height:auto;"  alt="Navigate to the diagram file in Google Drive and click Select to see a preview">
    * OneDrive will display your files at the top of the panel on the right. Select the file to see a preview. 
    <br /><img src="/assets/img/blog/microsoft-powerpoint-pick-file-onedrive.png" style="width=100%;max-width:400px;height:auto;"  alt="Navigate to the diagram file in OneDrive at the top of the panel on the right to see a preview">
-3. If your diagram has multiple pages, use the arrows above the diagram preview to select the page you want to insert. 
-4. If your diagram has multiple layers, click on the layers button to select which to display (all layers are selected by default).
+1. If your diagram has multiple pages, use the arrows above the diagram preview to select the page you want to insert. 
+2. If your diagram has multiple layers, click on the layers button to select which to display (all layers are selected by default).
 <br /><img src="/assets/img/blog/microsoft-powerpoint-select-page-layers.png" style="width=100%;max-width:400px;height:auto;"  alt="Select the diagram page and layers you want to display in your PowerPoint slide, Excel sheet or Word document">
-5. Click _Insert_ to add your diagram to the PowerPoint slide.
+1. Click _Insert_ to add your diagram to the PowerPoint slide.
 <br /><img src="/assets/img/blog/microsoft-powerpoint-diagram-example.png" style="width=100%;max-width:400px;height:auto;"  alt="Insert a diagram into a PowerPoint presentation using the free draw.io add-in">
 <br />**Tip:** If you inserted the diagram into PowerPoint, select a slide design from the list that appears on the right.
 
@@ -82,21 +82,21 @@ Right-click on the diagram, then select _Format Picture_ to display the panel on
 
 MS Office has some quirks when it come to image formats, especially SVG. When you embed diagrams in PowerPoint and resize them, the label text will have cleaner edges if you set the ``simpleLabels`` option.
 
-1. Select _Extras > Configuration_ in the diagrams.net editor menu. 
+1. Select _Extras > Configuration_ in the draw.io editor menu. 
 2. Add the following code to the _Configuration_ text box: ``{  "simpleLabels": true }``
 <br /><img src="/assets/img/blog/microsoft-office-svg-simple-labels-configuration.png" style="width=100%;max-width:400px;height:auto;"  alt="When you are embedding a diagram in PowerPoint, to ensure it can be resized cleanly, set the simpleLabels option in the editor configuration">
 3. Click _Apply_. 
 
 ## Update embedded diagrams
 
-After you [edit the diagram files in diagrams.net](https://app.diagrams.net), re-insert the diagrams into your PowerPoint slide to regenerate the embedded image. 
+After you [edit the diagram files in draw.io](https://app.diagrams.net), re-insert the diagrams into your PowerPoint slide to regenerate the embedded image. 
 
 ## Related 
 
 **Microsoft Word** lets you import changes to your diagram files and update the images in your document using the draw.io add-in. 
-<br /><img src="/assets/img/blog/microsoft-update-diagrams.png" style="width=100%;max-width:400px;height:auto;"  alt="Updated the embedded diagrams after you have edited them in diagrams.net in Word via the draw.io add-in tools under the Insert tab on the ribbon">
+<br /><img src="/assets/img/blog/microsoft-update-diagrams.png" style="width=100%;max-width:400px;height:auto;"  alt="Updated the embedded diagrams after you have edited them in draw.io in Word via the draw.io add-in tools under the Insert tab on the ribbon">
 
 * [Use the draw.io add-in in Microsoft Word](/doc/faq/microsoft-office-diagrams.html)
 * [Set OneDrive permissions to share diagrams](/doc/faq/onedrive-permissions.html)
 * [Revoke access to diagram files stored on OneDrive](/doc/faq/onedrive-revoke-access.html)
-* [Use the diagrams.net add-ins with Google Slides](/blog/diagrams-google-docs)
+* [Use the draw.io add-ins with Google Slides](/blog/diagrams-google-docs)

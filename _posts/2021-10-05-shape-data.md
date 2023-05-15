@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: shape-data
 date: 2021-09-21 11:13:00
 title: What can you do with shape data in diagrams?
@@ -32,7 +32,7 @@ In the shape properties dialog, you can add and edit the extra information attac
 In the example above, the shape has a link, a tag and a tooltip. 
 
 
-[Learn how to use shape metadata in the diagrams.net editor](/doc/faq/shape-metadata.html)
+[Learn how to use shape metadata in the draw.io editor](/doc/faq/shape-metadata.html)
 
 ### Copy shape data from one shape to another
 
@@ -52,7 +52,7 @@ In the example above, the shape has a link, a tag and a tooltip.
 
 ## Use pre-defined shape properties
 
-In diagrams.net, [some shape properties are predefined](/doc/faq/predefined-placeholders.html), including ``tags``, ``tooltip`` and ``link``. 
+In draw.io, [some shape properties are predefined](/doc/faq/predefined-placeholders.html), including ``tags``, ``tooltip`` and ``link``. 
 
 You can add these separately via their own dialogs - you don't have to edit the shape data directly through this shape properties dialog. 
 
@@ -61,7 +61,7 @@ You can add these separately via their own dialogs - you don't have to edit the 
 Tooltips are another type of shape metadata, which appear when you hover over a shape in the editor or in the lightbox viewer. Tooltips are useful in training diagrams, or for attaching notes to shapes when collaborating on a diagram with team members. 
 
 Select a shape, then select _Edit > Edit Tooltip_ from the menu, or press ``Alt+Shift+T`` to add or edit a shape's tooltips. 
-<br /><img src="/assets/img/blog/tooltip-hover-lightbox.png" style="width=100%;max-width:500px;height:auto;" alt="Hover over a shape in the diagrams.net lightbox to see its tooltip">
+<br /><img src="/assets/img/blog/tooltip-hover-lightbox.png" style="width=100%;max-width:500px;height:auto;" alt="Hover over a shape in the draw.io lightbox to see its tooltip">
 <br />[Learn more about using tooltips](/doc/faq/tooltips.html)
 
 ### Add links to shapes
@@ -72,7 +72,7 @@ The target URL appears as a tooltip when you hover over a shape. If the shape al
 
 Use custom links on shapes to add [in-diagram interactivity](/blog/interactive-diagram-layers.html). Custom links are written as a comma-separated list of JavaScript objects (JSON), and added just as you would a normal link.
 <br /><img src="/assets/img/blog/interactive-diagram-toggle-editor.gif" style="width=100%;max-width:500px;height:auto;" alt="Paste the custom link into the first text field and click Apply">
-<br />[See how to build a custom link in diagrams.net](/doc/faq/custom-links.html)
+<br />[See how to build a custom link in draw.io](/doc/faq/custom-links.html)
 
 Alternatively, you can add interactivity with tags on related shapes. 
 
@@ -80,8 +80,8 @@ Alternatively, you can add interactivity with tags on related shapes.
 
 Tags are a predefined type of shape metadata, and provide you with a way to relate shapes, connectors and text without grouping them together or placing them all on the same layer in your diagram. 
 
-Display and hide such related shapes based on their tags in both the diagrams.net editor and lightbox viewer. Tags make it easier for you to work with complex diagrams, or add interactivity to training diagrams. 
-<br /><img src="/assets/img/blog/tooltip-hover-editor.png" style="width=100%;max-width:400px;height:auto;" alt="Hover over a shape in the diagrams.net editor to see its tooltip"> 
+Display and hide such related shapes based on their tags in both the draw.io editor and lightbox viewer. Tags make it easier for you to work with complex diagrams, or add interactivity to training diagrams. 
+<br /><img src="/assets/img/blog/tooltip-hover-editor.png" style="width=100%;max-width:400px;height:auto;" alt="Hover over a shape in the draw.io editor to see its tooltip"> 
 <br />[Learn more about using tags in diagrams](/blog/tags-in-diagrams.html)
 
 
@@ -92,7 +92,7 @@ By applying custom properties or metadata to shapes, you can add any additional 
 
 Make sure you have not defined a tooltip if you want to show the custom shape properties when you hover over a shape. 
 
-**Dev Tools:** [The properties plugin](/doc/faq/properties-plugin.html) - exposes shape data in the diagrams.net editor and lightbox viewer when you hover over shapes, as shown below.
+**Dev Tools:** [The properties plugin](/doc/faq/properties-plugin.html) - exposes shape data in the draw.io editor and lightbox viewer when you hover over shapes, as shown below.
 <br /><img src="/assets/img/blog/props-plugin-lightbox.gif" style="width=100%;max-width:400px;height:auto;" alt="The properties plugin lets you display additional information via the shape metadata">
 
 **Use custom properties with placeholders**
@@ -112,5 +112,5 @@ While shape style and geometry information are not treated as shape properties, 
 To see **shape style information**, select a shape press ``Ctrl+E`` on Windows or ``Cmd+E`` on macOS, or select the shape and click _Edit Style_ in the _Style_ tab of the format panel. Edit the XML directly to describe a different [shape style](/doc/faq/shape-styles.html). 
 <br /><img src="/assets/img/blog/edit-style-dialog.png" style="width=100%;max-width:250px;height:auto;" alt="Edit a shape's style information via Ctrl+E or Cmd+E">
 
-To create **custom shapes**, you need to describe the [shape geometry](/doc/faq/shape-complex-create-edit.html) in addition to the shape style. In the diagrams.net editor menu, click _Arrange > Insert > Shape_. Enter the geometry and style information in the text field. 
+To create **custom shapes**, you need to describe the [shape geometry](/doc/faq/shape-complex-create-edit.html) in addition to the shape style. In the draw.io editor menu, click _Arrange > Insert > Shape_. Enter the geometry and style information in the text field. 
 <br /><img src="/assets/img/blog/edit-shape-dialog-complex-shape.png" style="width=100%;max-width:250px;height:auto;" alt="Create your own complex shape by describing the geometry and style via Arrange > Insert > Shape">

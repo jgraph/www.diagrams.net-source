@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: gitlab-support
 page.date: 2019-07-10
 title: Secure GitLab support with direct client authorisation
@@ -8,7 +8,7 @@ tags: [integrations, features]
 categories: [integrations, features]
 ---
 
-You can store your diagrams in GitLab after authorising access to your account and repositories - diagrams.net will never see your GitLab password.
+You can store your diagrams in GitLab after authorising access to your account and repositories - draw.io and our online editor will never see your GitLab password.
 
 ## Diagram on GitLab
 
@@ -28,6 +28,6 @@ If you sign out of your account while editing a diagram stored in GitLab (via yo
 
 1. Go to your user settings in GitLab - click on your profile image in the top right, then on _Settings_.
 2. Go to the _Applications_ section on the left, and scroll down to the bottom.
-3. Click on the red _Revoke_ button to the right of the application to deauthorise access to your GitLab account.
+3. Click on the red _Revoke_ button to the right of the application to de-authorise access to your GitLab account.
 
 <img src="/assets/img/blog/revoke-access-gitlab.png" style="max-width:100%;height:auto;" alt="Revoke access to your account and repositories from within your GitLab user settings">

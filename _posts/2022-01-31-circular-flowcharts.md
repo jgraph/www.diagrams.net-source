@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: circular-flowcharts
 date: 2022-01-31 09:54:00
 title: Draw circular flowcharts
@@ -8,8 +8,8 @@ tags: [shape-libraries]
 categories: [templates, use-cases, shapes]
 ---
 
-Flowcharts are one of the most used types of diagrams in all teams. But some process flows are circular or cyclical rather than a series of steps with a start and end. You can create circular flowcharts in diagrams.net and our draw.io branded apps in a number of ways. 
-<br /><img src="/assets/img/blog/flowchart-circular-example.png" style="width=100%;max-width:500px;height:auto;" alt="Create a circular flowchart using basic shapes in diagrams.net">
+Flowcharts are one of the most used types of diagrams in all teams. But some process flows are circular or cyclical rather than a series of steps with a start and end. You can create circular flowcharts in the draw.io editor in a number of ways. 
+<br /><img src="/assets/img/blog/flowchart-circular-example.png" style="width=100%;max-width:500px;height:auto;" alt="Create a circular flowchart using basic shapes in draw.io">
 
 **New to diagramming?**
 
@@ -34,7 +34,7 @@ There are many arrows,and other shapes that can be used to create circular flowc
 You'll find various curved and bent arrow shapes in the _Arrows_ shape library, and bent connectors in the _Misc_ (_Basic_) shape library. 
 
 For example, this four step process uses the ``Textbox`` shape from the _General_ shape library and the ``Jump-in Arrow`` from the _Arrow_ shape library. Use the _Arrange_ tab in the format panel to rotate a shape precisely, or drag the rotate symbol to position the shapes as you need.
-<br /><img src="/assets/img/blog/flowchart-circular-example.gif" style="width=100%;max-width:500px;height:auto;" alt="Create your own circular flowchart from the various arrow shapes and text labels in the diagrams.net shape libraries">
+<br /><img src="/assets/img/blog/flowchart-circular-example.gif" style="width=100%;max-width:500px;height:auto;" alt="Create your own circular flowchart from the various arrow shapes and text labels in the draw.io shape libraries">
 
 **Note:** Many of the arrow shapes are not connectors, and therefore can't be bent using [waypoints](/blog/waypoints-connectors.html).
 
@@ -48,14 +48,14 @@ Position multiple _Pie_, _Arc_, and _Partial Concentric Ellipse_ on top of each 
 2. Select and copy the shape that is on the drawing canvas (``Ctrl+C``/``Cmd+C``) then paste a copy (``Ctrl+V``/``Cmd+V``). 
 3. Move the copy so the centre of the circle touches the centre of the existing shape, and drag the orange diamond grab handles to change the position of the wedge. 
 4. Style and label as required. 
-<br /><img src="/assets/img/blog/infographic-shapes-circle-create.gif" style="width=100%;max-width:500px;height:auto;" alt="Re-slice and position pie, arc and partial concentric ellipse shapes to create a circle or cycle flow in diagrams.net">
+<br /><img src="/assets/img/blog/infographic-shapes-circle-create.gif" style="width=100%;max-width:500px;height:auto;" alt="Re-slice and position pie, arc and partial concentric ellipse shapes to create a circle or cycle flow in draw.io">
 
 The _Hex Loop shape_ is easily converted into a circular flowchart when your process or cycle has six steps.
 
 If you don't want to use a circle shape, but would still like a fluid process, modify one of the arrows in the _Swirl_ infographic shape to return to the start of your process. 
 
 **Tip:** Hover over any shape in the shape libraries to see a larger preview.
-<br /><img src="/assets/img/blog/flowchart-circular-infographic-examples.png" style="width=100%;max-width:650px;height:auto;" alt="Create your own circular flowchart from shapes in the infographic shape library in diagrams.net">
+<br /><img src="/assets/img/blog/flowchart-circular-infographic-examples.png" style="width=100%;max-width:650px;height:auto;" alt="Create your own circular flowchart from shapes in the infographic shape library in draw.io">
 
 **Create your own shape library for circular flowcharts**
 
@@ -69,7 +69,7 @@ You can create your own shape library from the existing shapes or from a diagram
 2. Look for templates that would be suited for circular flows. 
 
 For example, the _Cycle 1_ template (_Other_) can be used as is - it is based on the hex loop shape with additional triangle to indicate the direction of flow. 
-<br /><img src="/assets/img/blog/template-manager-cycle1-preview.png" style="width=100%;max-width:400px;height:auto;" alt="The Cycle 1 template in diagrams.net is good to use as a six-step circular flowchart">
+<br /><img src="/assets/img/blog/template-manager-cycle1-preview.png" style="width=100%;max-width:400px;height:auto;" alt="The Cycle 1 template in draw.io is good to use as a six-step circular flowchart">
 
 You'll find some more templates that work well for circular flowcharts in the _Business_ category. 
-<br /><img src="/assets/img/blog/template-manager-business.png" style="width=100%;max-width:300px;height:auto;" alt="Some Business templates in diagrams.net can be modified into circular flowcharts">
+<br /><img src="/assets/img/blog/template-manager-business.png" style="width=100%;max-width:300px;height:auto;" alt="Some Business templates in draw.io can be modified into circular flowcharts">

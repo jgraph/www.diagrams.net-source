@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: shortcut-overlay-shapes
 page.date: 2018-09-16
 title: Alt+drop to overlay shapes on containers

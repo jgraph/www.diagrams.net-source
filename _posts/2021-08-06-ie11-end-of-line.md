@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: ie11-end-of-life
 date: 2021-08-06 14:40:00
 title: End of support for IE 11
@@ -10,7 +10,7 @@ categories: [features,atlassian]
 
 In line with [Microsoft's end of life date of Internet Explorer 11](https://blogs.windows.com/windowsexperience/2022/06/15/internet-explorer-11-has-retired-and-is-officially-out-of-support-what-you-need-to-know/), we will end support for IE 11 on 15th June 2022.
 
-## Online users of app.diagrams.net
+## Online draw.io users of app.diagrams.net
 
 * Saving to local device will stop working.
 * Saving to cloud storage options are already not supported by the various vendors:
@@ -31,7 +31,7 @@ Atlassian are [removing IE 11 support on specific versions of Jira and Confluenc
 * For Jira, 8.5 is the last supported release EOL 21st October 2021. The first draw.io release that does not support Jira 8.5 will not support IE 11. That will not be before Atlassian's EOL date.
 * For Confluence, 7.4 is the last supported release EOL 18th August 2022. This is beyond the Microsoft EOL date, so support will end for Confluence on-premise on 15th June 2022.
 
-## Users of the draw.io/diagrams.net codebase
+## Users of the draw.io codebase
 
 If you deploy your own version of the project from source code, releases up to and including the 15th June 2022 will support IE 11. For any releases after that date you can expect complete failure when using IE 11. Specifically, we may remove IE 11 specific functionality from the codebase to simplify the code.
 

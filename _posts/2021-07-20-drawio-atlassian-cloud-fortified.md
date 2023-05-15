@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: drawio-atlassian-cloud-fortified
 date: 2021-07-20 12:07:00
 title: draw.io is now an Atlassian Cloud Fortified app
@@ -10,7 +10,7 @@ categories: [features,atlassian,trust]
 
 JGraph is pleased to announce that draw.io is the only secure diagramming application to meet Atlassian's new **Cloud Fortified** standard. 
 
-The draw.io app for Confluence is a diagramming application natively integrated into Confluence. If Confluence is your single point of truth for documentation, draw.io is your most secure choice for diagramming and visualization. draw.io for Confluence is created and maintained by JGraph, alongside the online diagrams.net and draw.io branded desktop application.
+The draw.io app for Confluence is a diagramming application natively integrated into Confluence. If Confluence is your single point of truth for documentation, draw.io is your most secure choice for diagramming and visualization. draw.io for Confluence is created and maintained by JGraph, alongside our [online draw.io editor](https://app.diagrams.net), desktop application and other [integrations](/integrations.html).
 
 ## What is Atlassian Cloud Fortified?
 
@@ -32,7 +32,7 @@ As a Cloud Fortified app, draw.io and JGraph meets the following requirements:
 
 ### Secure diagramming with draw.io and Atlassian
 
-JGraph are fully committed to your data security and privacy expectations in all draw.io and diagrams.net products.
+JGraph are fully committed to your data security and privacy expectations in all draw.io applications.
 
 Because your sensitive diagram data doesn't leave your infrastructure and is never stored on the draw.io servers, draw.io is an app for Confluence and Jira that lets you comply with a number of data protection certifications (``ISO 27000``, ``27001`` and ``27002``) and the GDPR.
 

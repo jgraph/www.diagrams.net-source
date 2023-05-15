@@ -1,41 +1,41 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: diagram-editor-theme
 date: 2021-04-13 16:24:00
-title: Choose a different diagrams.net UI theme
+title: Choose a different draw.io editor theme
 tags: [features]
 categories: [features]
 ---
 
-You can customise the diagrams.net editor and choose your preferred theme for the user interface. The UI theme controls which editor elements are displayed, minimised or hidden, including the menu, toolbar, panels and dialog boxes.
-<br /><img src="/assets/img/blog/theme-minimal.png" style="width=100%;max-width:600px;height:auto;" alt="Choose your favourite UI theme in diagrams.net from Kennedy, Atlas, Dark, Minimal and Sketch">
+You can customise the draw.io editor and choose your preferred theme for the user interface. The editor theme controls which editor elements are displayed, minimised or hidden in the user interface, including the menu, toolbar, panels and dialog boxes.
+<br /><img src="/assets/img/blog/theme-minimal.png" style="width=100%;max-width:600px;height:auto;" alt="Choose your favourite UI theme in draw.io from Kennedy, Atlas, Dark, Minimal and Sketch">
 
 There are four different _Classic_ editor themes to choose from which work in both dark and light modes.
 
-**Change the editor theme via the diagrams.net menu**
+**Change the editor theme via the draw.io menu**
 
-1. Select _File > Extras_ in the diagrams.net menu. 
+1. Select _File > Extras_ in the draw.io menu. 
 2. Choose Default, Minimal, Atlas, or Sketch (a whiteboard-style theme).
-3. Reload the diagrams.net editor to start using your selected editor theme. 
+3. Reload the draw.io editor to start using your selected editor theme. 
 
 _Please visit GitHub to [leave feedback about the Sketch and Minimal editor themes](https://github.com/jgraph/drawio/discussions/1924) and help guide their development._
 
-**Tip:** If you are new to diagramming, read the [introduction to the diagrams.net editor](/doc/getting-started-editor.html) that looks at all the various important elements.
+**Tip:** If you are new to diagramming, read the [introduction to the draw.io editor](/doc/getting-started-editor.html) that looks at all the various important elements.
 
 ## Default 
 
-The default editor theme (previously the Kennedy theme), named after the Google UI, is the default style for diagrams.net, and shows the menu, toolbar, file name, language selector, fixed panels either side and diagram pages below the drawing canvas.
-<br /><img src="/assets/img/blog/theme-kennedy.png" style="width=100%;max-width:600px;height:auto;" alt="Choose your favourite UI theme in diagrams.net from Kennedy, Atlas, Dark, Minimal and Sketch">
-<br />_[Start using diagrams.net with the Kennedy theme](https://app.diagrams.net/?ui=kennedy)_
+The default editor theme (previously the Kennedy theme), named after the Google UI, is the default style for draw.io, and shows the menu, toolbar, file name, language selector, fixed panels either side and diagram pages below the drawing canvas.
+<br /><img src="/assets/img/blog/theme-kennedy.png" style="width=100%;max-width:600px;height:auto;" alt="Choose your favourite UI theme in draw.io from Kennedy, Atlas, Dark, Minimal and Sketch">
+<br />_[Start using the draw.io editor with the Kennedy theme](https://app.diagrams.net/?ui=kennedy)_
 
 ## Atlas
 
-If you are used to using the draw.io apps on Atlassian Confluence or Jira, and would prefer to keep using that interface at diagrams.net. 
+If you are used to using the draw.io apps on Atlassian Confluence or Jira, and would prefer to keep using that interface at draw.io. 
 
 The Atlas UI theme does not show the diagram's filename or the _Share_ button, but the rest of the editor elements are displayed in roughly the same positions. 
-<br /><img src="/assets/img/blog/theme-atlas.png" style="width=100%;max-width:600px;height:auto;" alt="Choose your favourite UI theme in diagrams.net from Kennedy, Atlas, Dark, Minimal and Sketch">
-<br />_[Start using diagrams.net with the Atlas theme](https://app.diagrams.net/?ui=atlas)_
+<br /><img src="/assets/img/blog/theme-atlas.png" style="width=100%;max-width:600px;height:auto;" alt="Choose your favourite UI theme in draw.io from Kennedy, Atlas, Dark, Minimal and Sketch">
+<br />_[Start using the draw.io editor with the Atlas theme](https://app.diagrams.net/?ui=atlas)_
 
 ## Minimal 
 
@@ -47,8 +47,8 @@ If you are diagramming on a tablet or a mobile device, the Minimal theme allows 
 * Select _Diagram > Preferences > Theme_ when using the Minimal editor theme to change to another one, then refresh the page.
 
 If you are new to diagramming and feel overwhelmed with the number of tools displayed in a diagram editor, you may find the Minimal theme easier to use.
-<br /><img src="/assets/img/blog/theme-minimal.png" style="width=100%;max-width:600px;height:auto;" alt="Choose your favourite UI theme in diagrams.net from Kennedy, Atlas, Dark, Minimal and Sketch">
-<br />_[Start using diagrams.net with the Minimal theme](https://app.diagrams.net/?ui=min)_
+<br /><img src="/assets/img/blog/theme-minimal.png" style="width=100%;max-width:600px;height:auto;" alt="Choose your favourite UI theme in draw.io from Kennedy, Atlas, Dark, Minimal and Sketch">
+<br />_[Start using the draw.io editor with the Minimal theme](https://app.diagrams.net/?ui=min)_
 
 ## Sketch 
 
@@ -56,7 +56,7 @@ If you prefer minimal tools and the rough style enabled by default, like you wou
 
 The Sketch editor theme may also be useful to introduce younger children to diagramming or support them as they [add diagrams to their documents and in Google Classroom](/blog/google-classroom-diagrams.html) with the Google Drive add-in.
 
-Enable the [Sketch editor theme](/blog/sketch-online-whiteboard.html) as you would any other theme and refresh the page. Alternatively, go to [sketch.diagrams.net](http://sketch.diagrams.net)
+Enable the [Sketch editor theme](/blog/sketch-online-whiteboard.html) in draw.io as you would any other theme and refresh the page. Alternatively, go to [sketch.diagrams.net](http://sketch.diagrams.net)
 <br />[<img src="/assets/img/blog/sketch-theme-tutorial.png" style="width=100%;max-width:600px;height:auto;" alt="Sketch theme is currently being developed">](https://app.diagrams.net/?splash=0&ui=sketch&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fboard-visual-tutorial.drawio)
 <br />_[Open this tutorial in the new Sketch theme at diagrams.net](https://app.diagrams.net/?splash=0&ui=sketch&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fboard-visual-tutorial.drawio)_
 <br />_**Tip:** Resize your browser to line everything up with the tutorial._
@@ -67,8 +67,8 @@ If you prefer to work on a dark background with light outlines and text, or if y
 
 To switch between dark and light mode, click on the sun/moon in the top right, and enable or disable the _Dark_ toggle. 
 
-<img src="/assets/img/blog/dark-mode-switch.png" style="width=100%;max-width:600px;height:auto;" alt="Dark mode works with all editor themes in diagrams.net including Default, Atlas, Minimal and Sketch">
-<br />_[Start using diagrams.net in Dark mode](https://app.diagrams.net/?ui=dark)_
+<img src="/assets/img/blog/dark-mode-switch.png" style="width=100%;max-width:600px;height:auto;" alt="Dark mode works with all editor themes in draw.io including Default, Atlas, Minimal and Sketch">
+<br />_[Start using the draw.io editor in Dark mode](https://app.diagrams.net/?ui=dark)_
 
 _Automatic_ will automatically match your browser or operating system's dark mode settings.
 

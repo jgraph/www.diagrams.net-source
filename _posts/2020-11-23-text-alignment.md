@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: text-alignment
 date: 2020-11-23 09:54:00
 title: Align text labels inside and outside shapes
@@ -10,11 +10,11 @@ categories: [features, text]
 
 You can change the alignment of text labels in shapes and on connectors in a number of different ways. The options below are available in the _Text_ tab of the format panel on the right.
 
-<br /><img src="/assets/img/blog/text-alignment.gif" style="max-width:100%;height:auto;" alt="Change the text alignment of shape and connector labels in diagrams.net">
+<br /><img src="/assets/img/blog/text-alignment.gif" style="max-width:100%;height:auto;" alt="Change the text alignment of shape and connector labels in draw.io">
 
 ## Vertical label text
 
-Vertical text labels can improve readability in some use cases, for example on lanes in cross-functional flow charts, [automated layout shapes](https://www.diagrams.net/blog/automated-layout-shapes), various UML diagram shapes, and [gitflow diagrams](/blog/gitflow-diagram.html).
+Vertical text labels can improve readability in some use cases, for example on lanes in cross-functional flow charts, [automated layout shapes](h/blog/automated-layout-shapes.html), various UML diagram shapes, and [gitflow diagrams](/blog/gitflow-diagram.html).
 
 1. Select the shape, or the connector label, then click on the _Vertical_ button.
 2. Click the button again to switch back to horizontal text.

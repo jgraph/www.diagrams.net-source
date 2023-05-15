@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: shortcut-clone-connect
 page.date: 2018-09-16
 title: Alt+shift+arrow keys to clone and connect shapes

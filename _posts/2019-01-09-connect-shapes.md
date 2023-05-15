@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: connect-shapes
 date: 2018-12-25 13:24:00
 title: Several ways to connect shapes

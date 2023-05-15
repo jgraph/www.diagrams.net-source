@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: example-diagrams-github
 date: 2019-05-13 09:54:00
 title: Example diagrams are on GitHub
@@ -11,10 +11,10 @@ categories: [integrations]
 We regularly publish new example diagrams in the [jgraph/drawio-diagrams](https://github.com/jgraph/drawio-diagrams) repository on GitHub so they are easy to access. In this repository you'll find diagram examples that are used in:
 
 * blog posts and FAQ answers
-* the example gallery on the diagrams.net website
+* the [example gallery on our website](/example-diagrams.html)
 * training courses
 * feature and plugin demonstrations
-* diagrams.net template library
+* draw.io template library
 
 ## Open a diagram as a template
 
@@ -28,7 +28,7 @@ For example: [https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/examp
 
 **Note:** This must be the file data, not the page on which the file is attached.
 
-Click _Create_, and diagrams.net will open the template diagram in a new browser tab. Name your diagram, and now you can edit it as you need.
+Click _Create_, and draw.io will open the template diagram in a new browser tab. Name your diagram, and now you can edit it as you need.
 
 <img src="/assets/img/blog/inserted-from-template-diagram.png" style="max-width:100%;height:auto;" alt="An example diagram inserted as a template from GitHub">
 

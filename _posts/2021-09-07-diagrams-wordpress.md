@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: diagrams-in-wordpress
 date: 2021-09-02 09:10:00
 title: Embed diagrams in WordPress as SVG
@@ -8,9 +8,9 @@ tags: [features]
 categories: [features,integrations]
 ---
 
-You can embed SVG versions of your diagrams in a WordPress blog post or page. SVG images are quick to load when compared to other formats, and can include your diagram data if you want to allow viewers to download and view a copy of the diagram in the diagrams.net free editor.
+You can embed SVG versions of your diagrams in a WordPress blog post or page. SVG images are quick to load when compared to other formats, and can include your diagram data if you want to allow viewers to download and view a copy of the diagram in the [draw.io editor online](https://app.diagrams.net).
 
-SVG versions of a diagram can only display one page, although the exported SVG file can contain all the diagram data for all pages in your diagram. When you click on an embedded SVG in WordPress, by default, you'll open the diagram in the diagrams.net lightbox viewer, and be able to see all the links, tooltips, diagram and layers in your diagram.
+SVG versions of a diagram can only display one page, although the exported SVG file can contain all the diagram data for all pages in your diagram. When you click on an embedded SVG in WordPress, by default, you'll open the diagram in the draw.io lightbox viewer, and be able to see all the links, tooltips, diagram and layers in your diagram.
 
 ## Embed an SVG diagram in WordPress
 
@@ -19,8 +19,8 @@ SVG versions of a diagram can only display one page, although the exported SVG f
    * **Fit:** Adjusts the diagram to fill the available width of the page or container.
    * **Shadow:** Adds a drop shadow to the diagram.
    * **Image:** Creates an image that contains SVG markup.
-   * **Lightbox:** Opens the diagram in a new tab or using the diagrams.net lightbox.
-      * **Edit:** By default, diagrams.net will make a copy of the diagram when someone clicks on the _Edit_ button in the lightbox. Change this setting if you want to send them to a specific URL.
+   * **Lightbox:** Opens the diagram in a new tab or using the draw.io lightbox.
+      * **Edit:** By default, draw.io will make a copy of the diagram when someone clicks on the _Edit_ button in the lightbox. Change this setting if you want to send them to a specific URL.
       * **Layers:** Allow viewers to show or hide individual layers in the lightbox.
     <br /><img src="/assets/img/blog/embed-svg.png" style="width=100%;max-width:200px;height:auto;" alt="Options available when you export your diagram to embeddable SVG markup">
 3. Click _Embed_.
@@ -28,8 +28,8 @@ SVG versions of a diagram can only display one page, although the exported SVG f
 <br /><img src="/assets/img/blog/embed-svg-copy.png" style="width=100%;max-width:300px;height:auto;" alt="Copy the embeddable SVG markup">
 5. When editing a post or page in WordPress, switch to text (HTML) input and paste the SVG markup you copied in the previous step. 
 <br /><img src="/assets/img/blog/wordpress-svg-embed.png" style="width=100%;max-width:600px;height:auto;" alt="Paste the SVG markup into the text or HTML view of your WordPress page or blog post">
-6. Publish your page. Now, when someone clicks on the diagram, it will open in the diagrams.net lightbox or editor according to the settings you selected. 
-<br /><img src="/assets/img/blog/wordpress-embedded-svg.png" style="width=100%;max-width:450px;height:auto;" alt="When viewers click on the embedded SVG in your WordPress page, they will be taken to the diagrams.net lightbox or editor">
+6. Publish your page. Now, when someone clicks on the diagram, it will open in the draw.io lightbox or editor according to the settings you selected. 
+<br /><img src="/assets/img/blog/wordpress-embedded-svg.png" style="width=100%;max-width:450px;height:auto;" alt="When viewers click on the embedded SVG in your WordPress page, they will be taken to the draw.io lightbox or editor">
 
 ### Troubleshooting a broken diagram in WordPress
 
@@ -42,7 +42,7 @@ For example, with both word wrap and text formatting enabled, the diagram above 
 
 **Disable text formatting:** 
 
-1. When editing your diagram in diagrams.net, right click on a blank spot on the drawing canvas and choose _Select All_ from the context menu to select everything in your diagram. 
+1. When editing your diagram in draw.io, right click on a blank spot on the drawing canvas and choose _Select All_ from the context menu to select everything in your diagram. 
 2. In the format panel on the right, select the _Text_ tab, and disable the _Formatted Text_ checkbox. 
 
 **Disable word wrap:** 

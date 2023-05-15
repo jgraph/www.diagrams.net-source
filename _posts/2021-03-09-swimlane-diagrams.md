@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: swimlane-diagrams
 date: 2021-03-09 15:54:00
 title: Use swimlanes with flowcharts to show who does each step
@@ -9,7 +9,7 @@ categories: [features,use-cases, templates]
 ---
 
 Flowcharts are one of the most common diagram types, showing all of the steps that must be followed to complete a process. Not many processes are limited to just one person or one team, which is why swimlane diagrams and cross-functional flowcharts are used - these show the flow of data or control across different groups.
-<br /><img src="/assets/img/blog/basic-cross-functional-flowchart-template.png" style="width=100%;max-width:400px;height:auto;" alt="The basic cross-functional flowchart template after being styled, as provided in the diagrams.net template manager">
+<br /><img src="/assets/img/blog/basic-cross-functional-flowchart-template.png" style="width=100%;max-width:400px;height:auto;" alt="The basic cross-functional flowchart template after being styled, as provided in the draw.io template manager">
 
 Swimlane diagrams, flowcharts and cross-functional flowcharts are used throughout organisations: 
 * onboard new team members
@@ -24,12 +24,12 @@ Specialised types of process diagrams are used in software engineering to docume
 
 Swimlane diagrams add context to your flowcharts where the steps in you process are typically grouped by team responsibilities. [BPMN diagrams](/blog/bpmn-2-0.html) are a form of swimlane diagram, where process steps are arranged by business unit, with space often left between to show when documents are created or data is stored.
 
-diagrams.net provides you with a simple swimlane flowchart to get you started. Get comfortable with swimlanes by using the template and explore how to add and connect shapes in the flow, move shapes between swimlanes, and add and remove swimlanes. 
+draw.io provides you with a simple swimlane flowchart to get you started. Get comfortable with swimlanes by using the template and explore how to add and connect shapes in the flow, move shapes between swimlanes, and add and remove swimlanes. 
 
-1. Go to app.diagrams.net, select your storage location, and create a new diagram.
+1. Go to the online draw.io at [app.diagrams.net](https://app.diagrams.net), select your storage location, and create a new diagram.
 2. Edit the filename, select the _Swimlane Diagram_ template that is in the _Basic_ template collection, then click _Create_.
-<br /><img src="/assets/img/blog/swimlane-diagram-create.png" style="width=100%;max-width:300px;height:auto;" alt="Select the basic swimlane diagram template to work with it in diagrams.net">
-   * There are more complex swimlane diagram templates in the _Flowcharts_ template category: From the diagrams.net editor, click _Arrange > Insert > Template_, then select _Flowcharts_ on the left. 
+<br /><img src="/assets/img/blog/swimlane-diagram-create.png" style="width=100%;max-width:300px;height:auto;" alt="Select the basic swimlane diagram template to work with it in draw.io">
+   * There are more complex swimlane diagram templates in the _Flowcharts_ template category: From the draw.io editor, click _Arrange > Insert > Template_, then select _Flowcharts_ on the left. 
    * Click on the magnifying glass in the top right of a template to see a larger preview. Select the template you want to use, then click _Insert_.
    <br /><img src="/assets/img/blog/swimlane-flowchart-templates.png" style="width=100%;max-width:300px;height:auto;" alt="More complex flowcharts with swimlanes are found under the Flowchart category in the template library">
 3. The swimlane diagram template is added to the drawing canvas, ready for you to modify and add to it.
@@ -69,7 +69,7 @@ If the shapes are in an outer swimlane, you can drag a selection box around them
 
 **Replace a shape in a swimlane:** Drag the shape you want to use from the shape library, hover over a different shape that is in a swimlane until you see the circular 'replace' arrow appear, then drop the new shape.
 
-**Connect shapes:** There are [many different ways you can connect shapes in diagrams.net](/blog/connect-shapes.html). Hover over a shape and drag a connector from one of the direction arrows or one of the fixed connection points, and drop it on the target shape to connect them. 
+**Connect shapes:** There are [many different ways you can connect shapes in draw.io](/blog/connect-shapes.html). Hover over a shape and drag a connector from one of the direction arrows or one of the fixed connection points, and drop it on the target shape to connect them. 
 
 **Add and connect a shape in one step:** Drag a shape from the shape library, hover over a shape that is in a swimlane, and drop the new shape on one of the blue direction arrows to add it to the swimlane and connect it. 
 
@@ -101,7 +101,7 @@ You can create a duplicate of a swimlane that isn't automatically added to the c
 Most of the shapes you will need are in the _General_, _Misc_, and _Advanced_ shape libraries, which are enabled by default. Additional flowchart shapes are in their own, specialised shape library.
 
 **Enable the Flowchart shape library:** Click on _More Shapes_ at the bottom of the left panel, make sure the _Flowchart_ shape library is enabled, then click _Apply_.
-<br /><img src="/assets/img/blog/flowchart-shape-library.png" style="width=100%;max-width:300px;height:auto;" alt="Select the shape libraries you want to work with in diagrams.net">
+<br /><img src="/assets/img/blog/flowchart-shape-library.png" style="width=100%;max-width:300px;height:auto;" alt="Select the shape libraries you want to work with in draw.io">
 
 * **Rectangle** - Basic steps in your process.
 * **Diamond (rhombus)** - Decisions that split the process into two or more branches.
@@ -110,22 +110,22 @@ Most of the shapes you will need are in the _General_, _Misc_, and _Advanced_ sh
 * **Cylinder** - Databases and storage media that indicate when data is stored.
 * **Rectangle with a wavy bottom line** - Documents that are produced as a result of a process step.
 
-<img src="/assets/img/blog/flow-chart-shapes.png" style="max-width:100%;height:auto;" alt="A selection of shapes available in diagrams.net commonly used in flow charts">
+<img src="/assets/img/blog/flow-chart-shapes.png" style="max-width:100%;height:auto;" alt="A selection of shapes available in draw.io commonly used in flow charts">
 
 ## Cross-functional flowcharts
 
-Cross-functional flowcharts use both horizontal and vertical swimlanes, allowing you to add more contextual information and improve cross-team communication. In diagrams.net, cross-functional flowchart shapes are an [advanced form of table](/blog/tables.html), where you can add and remove columns and rows (swimlanes) using the _Arrange_ tab of the format panel on the right. 
+Cross-functional flowcharts use both horizontal and vertical swimlanes, allowing you to add more contextual information and improve cross-team communication. In draw.io, cross-functional flowchart shapes are an [advanced form of table](/blog/tables.html), where you can add and remove columns and rows (swimlanes) using the _Arrange_ tab of the format panel on the right. 
 
 Just as with swimlane diagrams, there are templates under the _Basic_ and _Flowcharts_ template categories to give you an idea of how cross-functional flowcharts work. The basic cross-functional flowchart template organises the steps into two actors, and notes the state of one of the actors as the process is stepped through.
-<br /><img src="/assets/img/blog/basic-cross-functional-flowchart-template.png" style="width=100%;max-width:500px;height:auto;" alt="The basic cross-functional flowchart template after being styled, as provided in the diagrams.net template manager">
-<br />[_Open an uncoloured version as a template in the diagrams.net viewer_](https://viewer.diagrams.net/?splash=0&ui=kennedy&ibs=bpmn2&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fbasic%2Fcross.xml)
+<br /><img src="/assets/img/blog/basic-cross-functional-flowchart-template.png" style="width=100%;max-width:500px;height:auto;" alt="The basic cross-functional flowchart template after being styled, as provided in the draw.io template manager">
+<br />[_Open an uncoloured version as a template in our diagram viewer_](https://viewer.diagrams.net/?splash=0&ui=kennedy&ibs=bpmn2&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fbasic%2Fcross.xml)
 
-The basic cross-functional table shape is in the _Misc_ shape library. Alternatively, you can add your own empty cross-functional table shape using the table tool in diagrams.net.
+The basic cross-functional table shape is in the _Misc_ shape library. Alternatively, you can add your own empty cross-functional table shape using the table tool in draw.io.
 
 **Add a cross-functional flowchart** 
 
 With nothing selected in your diagram, click on the _Table_ tool in the toolbar, then hold down the ``Ctrl`` key while you select a table with the number of rows and columns you need. Click to add the table with cross-functional swimlanes to the drawing canvas. 
-<br /><img src="/assets/img/blog/cross-functional-flowchart-table-add.gif" style="width=100%;max-width:600px;height:auto;" alt="Add a cross-functional flowchart with a custom number of horizontal and vertical swimlanes by holding down Ctrl when inserting a table via the toolbar in diagrams.net">
+<br /><img src="/assets/img/blog/cross-functional-flowchart-table-add.gif" style="width=100%;max-width:600px;height:auto;" alt="Add a cross-functional flowchart with a custom number of horizontal and vertical swimlanes by holding down Ctrl when inserting a table via the toolbar in draw.io">
 
 You can now work with shapes and connectors in the swimlanes in your cross-functional flowchart just like you would in the more basic swimlane diagrams as described above.
 

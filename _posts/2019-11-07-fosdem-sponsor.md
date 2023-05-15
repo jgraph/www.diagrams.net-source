@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: fosdem-sponsor
 date: 2019-11-07 15:21:00
 title: We are sponsoring FOSDEM 2020
@@ -18,7 +18,7 @@ There is no registration and the event is free to attend!
 
 As an [open source technology stack](https://github.com/jgraph) and one of the world’s most widely used browser-based diagramming applications, we are [proud to be sponsoring FOSDEM’20](https://fosdem.org/2020/about/sponsors/) and supporting open source developers around the world.
 
-Open source has a huge number of advantages for customers. With diagrams.net you get the following benefits.
+Open source has a huge number of advantages for customers. With draw.io you get the following benefits.
 
   - Increased trust – anyone can scrutinise the source code.
   - Extendable – open source encourages third-parties to develop integrations with various platforms.
@@ -26,7 +26,7 @@ Open source has a huge number of advantages for customers. With diagrams.net you
 
 Our goal is to _provide free, high quality diagramming software for everyone_ and disrupt the world of diagramming tools.
 
-<img src="/assets/img/blog/FOSDEM2020.png" style="max-width:100%;height:auto;" alt="diagrams.net is sponsoring the FOSDEM'20 conference for open source developers">
+<img src="/assets/img/blog/FOSDEM2020.png" style="max-width:100%;height:auto;" alt="draw.io is sponsoring the FOSDEM'20 conference for open source developers">
 
 ## FOSDEM: hundreds of open source speakers and events
 
@@ -36,4 +36,4 @@ In this 20th instalment of the conference, it’s free to participate in [more t
 
 In addition to the developer rooms, there are keynotes, main track talks, as well as stands you visit to chat in person with open source project developers. Certification organisations also run several exams during the conference that visitors can take.
 
-Keep an eye on the [FOSDEM website](https://fosdem.org/2020/schedule/) or follow []@fosdem on Twitter](https://twitter.com/fosdem) as the schedule of speakers and events are confirmed.
+Keep an eye on the [FOSDEM website](https://fosdem.org/2020/schedule/) or follow @fosdem on Twitter as the schedule of speakers and events are confirmed.

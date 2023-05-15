@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: publish-link
 page.date: 2018-08-26
 title: Publish a diagram as a link from Google Drive

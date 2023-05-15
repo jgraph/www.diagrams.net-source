@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: embed-diagrams-vscode
 date: 2020-06-01 09:02:00
 title: Create diagrams directly in VS Code
@@ -10,13 +10,13 @@ categories: [use-cases,integrations]
 
 Diagrams make coding go a lot smoother, especially when you are programming in teams. Having diagrams version tracked and right with the code they reference, and version tracked similarly in your code editor saves you time. You don't have to exit your workspace to switch to an external tool, or have to export/import every time you want to update a diagram.
 
-[Henning Dieterichs has created a third party diagramming integration for the VS Code editor](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio) that lets you do exactly that. Now you can create .drawio diagrams using the diagrams.net editor without leaving your code editor.
+[Henning Dieterichs has created a third party diagramming integration for the VS Code editor](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio) that lets you do exactly that. Now you can create .drawio diagrams using the draw.io editor without leaving your code editor.
 
 At the moment, you can create and edit .drawio, .dio, or .drawio.svg files, with .drawio.png file support under development. The diagram editor extension is bundled with the VS Code editor so you can code and diagram offline.
 
-This is possible because diagrams.net is both open source, and supports being embedded in other applications.
+This is possible because draw.io is both open source, and supports being embedded in other applications.
 
-[See the full list of third-party integrations](https://www.diagrams.net/integrations.html)
+[See the full list of third-party integrations](/integrations.html)
 
 ## Install the VS Code integration
 
@@ -41,6 +41,6 @@ The diagram editor automatically uses the dark theme in the VS Code editor to ma
 
 1. Select _Preferences > Settings_ in the VS Code menu.
 2. Search for ``theme`` on the Settings page.
-3. Under _Extensions_, click on _Draw.io integration_, then select a new theme from the drop-down list. Learn more about the diagrams.net
+3. Under _Extensions_, click on _Draw.io integration_, then select a new theme from the drop-down list. Learn more about the draw.io.
 <br /><img src="/assets/img/blog/vscode-drawio-theme-selection.png" style="max-width:100%;height:auto;" alt="Change the diagram editor theme via the VS Code Settings">
 <br /><img src="/assets/img/blog/vscode-gitflow-diagram-light.png" style="max-width:100%;height:auto;" alt="You can use a different diagram editor theme within the VS Code editor">

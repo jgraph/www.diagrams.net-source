@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: shape-properties
 date: 2022-04-29 10:13:00
 title: Edit shape properties in diagrams
@@ -8,27 +8,30 @@ tags: [features]
 categories: [features,shapes]
 ---
 
-The shape libraries in diagrams.net provide you with a wide variety of shapes and clipart to use in your diagrams. The Style tab lets you quickly style your shapes, but for finer control and complex shapes, you can modify the shape properties. 
+The shape libraries in draw.io provide you with a wide variety of shapes and clipart to use in your diagrams. The Style tab lets you quickly style your shapes, but for finer control and complex shapes, you can modify the shape properties. 
 
 **Note:** [Shape metadata](/doc/faq/shape-metadata.html), such as a link, tooltips, tags, and custom properties, are not included in the shape properties. Here's some examples of [working with shape _data_](/blog/shape-data.html).
 
 As there are many thousands of different shape properties, many that only apply to specific shapes, we do not provide a definitive list. Try different values for various shape properties to see how they affect your diagram.
 
 **Shape property examples on this page**
-* [Force floating connectors to snap to connectors](#force-floating-connectors-to-snap-to-connection-points)
-* [Set a gap between shape and connectors](#set-a-gap-between-shape-and-connectors)
-* [Curve sharp corners more or less](#curve-sharp-corners)
-* [Change the perimeter of a shape](#change-the-perimeter-of-a-shape)
-* [Change the length and width of an arc shape](#change-the-length-and-width-of-an-arc)
-* [Set field values in complex shapes](#set-field-values-in-complex-shapes)
-* [Change the sketch style shape properties](#change-the-sketch-style-shape-properties)
+- [View the shape properties](#view-the-shape-properties)
+- [Work with shape properties - examples](#work-with-shape-properties---examples)
+  - [Force floating connectors to snap to connection points](#force-floating-connectors-to-snap-to-connection-points)
+  - [Set a gap between shape and connectors](#set-a-gap-between-shape-and-connectors)
+  - [Curve sharp corners](#curve-sharp-corners)
+  - [Change the perimeter of a shape](#change-the-perimeter-of-a-shape)
+  - [Change the length and width of an arc](#change-the-length-and-width-of-an-arc)
+  - [Set field values in complex shapes](#set-field-values-in-complex-shapes)
+  - [Change the sketch style shape properties](#change-the-sketch-style-shape-properties)
+- [Further resources](#further-resources)
 
 
 ## View the shape properties
 
 1. Select a shape or connector.
 2. In the _Style tab_ in the format panel on the right, click on the _Properties_ section to expand the shape properties. 
-<br /><img src="/assets/img/blog/shape-properties.png" style="width=100%;max-width:400px;height:auto;" alt="View a shape's properties in diagrams.net"> 
+<br /><img src="/assets/img/blog/shape-properties.png" style="width=100%;max-width:400px;height:auto;" alt="View a shape's properties in draw.io"> 
 
 **Note:** You can see shape properties for multiple selected shapes/connectors, but only the shape properties that apply to all selected shapes/connectors are displayed.
 
@@ -68,7 +71,7 @@ Click on the right-side of the shape property to edit its value. The values may 
 1. Select an arc or a pie shape. These may be components in grouped shapes, such as those in the Infographic shape library.
 2. Set a new _Start Angle_, _End Angle_ to change the length and starting/ending point of the arc.
 3. Change the _Arc Width_ to bring the inner side of the arc closer to the center. 
-<br /><img src="/assets/img/blog/shape-properties-arc.png" style="width=100%;max-width:500px;height:auto;" alt="Change the length, angle and width of an arc shape via its shape properties in diagrams.net">
+<br /><img src="/assets/img/blog/shape-properties-arc.png" style="width=100%;max-width:500px;height:auto;" alt="Change the length, angle and width of an arc shape via its shape properties in draw.io">
 
 ### Set field values in complex shapes
 
@@ -79,13 +82,13 @@ For example:
 <br /><img src="/assets/img/blog/shape-properties-gauge.png" style="width=100%;max-width:500px;height:auto;" alt="Change the gauge shape properties in diagrams.net">
 
 * _Issue_ shape in the Atlassian shape library: Change the issue type, priority and status. 
-<br /><img src="/assets/img/blog/shape-properties-issue.gif" style="width=100%;max-width:400px;height:auto;" alt="Change the type, priority and status of a Jira issue shape via its shape properties in diagrams.net">
+<br /><img src="/assets/img/blog/shape-properties-issue.gif" style="width=100%;max-width:400px;height:auto;" alt="Change the type, priority and status of a Jira issue shape via its shape properties in draw.io">
 
 ### Change the sketch style shape properties
 
 A number of shape properties change how shapes and connectors are drawn using the Sketch rough style. In addition to [different fill patterns](/doc/faq/sketch-style-fill-patterns.html), you can use the following shape properties to change how those patterns are drawn.
 
-<img src="/assets/img/blog/shape-properties-sketch-style.png" style="max-width:100%;height:auto;" alt="Set shape properties to change how the fill pattern appears when using the sketch rough style in diagrams.net">
+<img src="/assets/img/blog/shape-properties-sketch-style.png" style="max-width:100%;height:auto;" alt="Set shape properties to change how the fill pattern appears when using the sketch rough style in draw.io">
 
 For example:
 
@@ -103,4 +106,4 @@ If you can't find a shape in any of the shape libraries to suit your needs, you 
 Automatically number shapes with the [Enumerate shape property](/blog/number-shapes.html).
 
 Right click on a shape and select _Edit Connection Points_ to use the visual editor and [change the connection points on a shape](/blog/edit-connection-points.html).
-<br /><img src="/assets/img/blog/connection-points-delete.png" style="width=100%;max-width:200px;height:auto;" alt="Delete connection points on a shape in the visual editor with diagrams.net">
+<br /><img src="/assets/img/blog/connection-points-delete.png" style="width=100%;max-width:200px;height:auto;" alt="Delete connection points on a shape in the visual editor with draw.io">

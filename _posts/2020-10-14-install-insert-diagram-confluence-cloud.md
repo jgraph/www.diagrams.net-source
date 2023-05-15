@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: embed-diagrams-confluence-cloud
 date: 2020-10-14 09:54:00
 title: How to install and insert a diagram in Confluence Cloud
@@ -8,7 +8,7 @@ tags: [features, Atlassian]
 categories: [features,atlassian]
 ---
 
-If you are looking for information on licensing draw.io for Confluence DC, [there is another article for that](https://www.diagrams.net/doc/faq/license-drawio-confluence-jira-server).
+If you are looking for information on licensing draw.io for Confluence DC, [there is another article for that](/doc/faq/license-drawio-confluence-jira-server.html).
 
 With the draw.io app for Confluence Cloud, you can add diagrams to Confluence Cloud pages and collaboratively edit them. You can reuse one diagram on multiple pages, embed diagrams from cloud storage platforms, and cut down on the time spent maintaining multiple copies of the same diagram.
 

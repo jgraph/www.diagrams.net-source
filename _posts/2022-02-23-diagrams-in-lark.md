@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: diagrams-in-lark
 date: 2022-02-23 09:13:00
 title: Diagram in Lark with our open-source editor
@@ -22,11 +22,11 @@ Hover over the page, and click on the ``+``, then select the type of diagram you
 
 <img src="/assets/img/blog/lark-add-diagram.png" style="width=100%;max-width:650px;;height:auto;" alt="Add a new diagram to a page in Lark">
 
-The diagram editor will open in the same tab in your browser. Now you can add shapes and their labels, drag connectors between the shapes and style your diagram just as you would in the diagrams.net editor. 
+The diagram editor will open in the same tab in your browser. Now you can add shapes and their labels, drag connectors between the shapes and style your diagram just as you would in the draw.io editor. 
 
 When you are finished, click _Close_ to save your diagram.
 
-<img src="/assets/img/blog/lark-edit-diagram.png" style="width=100%;max-width:650px;;height:auto;" alt="Edit a diagram in Lark just as you would in diagrams.net">
+<img src="/assets/img/blog/lark-edit-diagram.png" style="width=100%;max-width:650px;;height:auto;" alt="Edit a diagram in Lark just as you would in draw.io">
 
 ## Work with diagrams on Lark pages
 
@@ -58,8 +58,8 @@ Click on the action menu icon that appears next to the top left corner of a diag
 
 We love seeing our diagram editor being adapted and integrated into other applications - it's why we've made it [open source on Github](https://github.com/jgraph/drawio). As JGraph, we develop some integrations ourselves - all of our apps and add-ons are branded as draw.io for Atlassian Confluence and Jira, Microsoft Office applications and Teams, and Google Workplace and Classroom.
 
-[Learn more about the diagrams.net integrations](/integrations.html) - both those we develop, and those developed by third parties.
+[Learn more about the draw.io integrations](/integrations.html) - both those we develop, and those developed by third parties.
 
-[<img src="/assets/img/blog/integrations.png" style="width=100%;max-width:500px;;height:auto;" alt="There is a large ecosystem of diagrams.net and draw.io apps for diagramming in whichever platform or app you are using for documentation">](/integrations.html)
+[<img src="/assets/img/blog/integrations.png" style="width=100%;max-width:500px;;height:auto;" alt="There is a large ecosystem of draw.io apps for diagramming in whichever platform or app you are using for documentation">](/integrations.html)
 
 

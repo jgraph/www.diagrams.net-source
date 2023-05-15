@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: rotate-shapes
 date: 2020-10-28 09:54:00
 title: Rotate shapes, connectors and connector labels
@@ -8,7 +8,7 @@ tags: [shapes, features]
 categories: [features, shapes]
 ---
 
-Shapes are placed on the drawing canvas in diagrams.net using a default orientation. You can rotate shapes into another position as you need.
+Shapes are placed on the drawing canvas in draw.io using a default orientation. You can rotate shapes into another position as you need.
 
 1. Select a shape and you'll see the rotate grab handle appear - a small circular arrow above the top right corner of the shape.
 <br /><img src="/assets/img/blog/rotate.png" style="width=100%;max-width:300px;height:auto;" alt="Rotate a shape using the rotate grab handle">

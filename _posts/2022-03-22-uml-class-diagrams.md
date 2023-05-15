@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: uml-class-diagrams
 date: 2022-03-22 09:43:00
 title: Create UML class diagrams
@@ -9,7 +9,7 @@ categories: [use-cases, templates, shape-libraries]
 ---
 
 UML class diagrams are used to illustrate the structure of a computer program. They detail the types of data or attributes stored within each 'class', the methods (operations or functions) that each class provides, and the relationships between the classes.
-<br /><img src="/assets/img/blog/class-diagram-example.png" style="width=100%;max-width:500px;height:auto;" alt="A class diagram based on the basic class diagram template in diagrams.net">
+<br /><img src="/assets/img/blog/class-diagram-example.png" style="width=100%;max-width:500px;height:auto;" alt="A class diagram based on the basic class diagram template in draw.io">
 
 Class diagrams are likely the most common and important type of UML diagram. 
 
@@ -25,20 +25,20 @@ While [UML has a well-defined notation](https://www.omg.org/spec/UML/2.5.1/About
 
 **On this page**
 
-- [Draw UML class diagrams in diagrams.net](#draw-uml-class-diagrams-in-diagramsnet)
+- [Draw UML class diagrams in draw.io](#draw-uml-class-diagrams-in-drawio)
   - [Work with class shapes](#work-with-class-shapes)
-    - [Editing UML classes in diagrams.net](#editing-uml-classes-in-diagramsnet)
+    - [Editing UML classes in draw.io](#editing-uml-classes-in-drawio)
 - [Using UML notation in class diagrams](#using-uml-notation-in-class-diagrams)
   - [Attribute and method names in UML notation](#attribute-and-method-names-in-uml-notation)
   - [Connectors for relationships in UML class diagrams](#connectors-for-relationships-in-uml-class-diagrams)
-    - [Draw class relationships in diagrams.net](#draw-class-relationships-in-diagramsnet)
+    - [Draw class relationships in draw.io](#draw-class-relationships-in-drawio)
   - [Notes in complex UML class diagrams](#notes-in-complex-uml-class-diagrams)
 - [Related](#related)
   - [Other types of UML diagrams](#other-types-of-uml-diagrams)
 
 
 
-## Draw UML class diagrams in diagrams.net
+## Draw UML class diagrams in draw.io
 
 The shapes you need to create class diagrams are in the two UML shape libraries.
 
@@ -62,7 +62,7 @@ Most class shapes are in the main _UML_ shape library. Hover over any shape in t
    * _Software_ category: complex class diagrams.
    * _UML_ category: higher level class diagrams, and package diagrams.
 3. Select a template, and click _Create_ or _Insert_. 
-<br /><img src="/assets/img/blog/template-class-diagram-insert.png" style="width=100%;max-width:400px;height:auto;" alt="Insert a UML class diagram example from the template manager in diagrams.net">
+<br /><img src="/assets/img/blog/template-class-diagram-insert.png" style="width=100%;max-width:400px;height:auto;" alt="Insert a UML class diagram example from the template manager in draw.io">
 
 ### Work with class shapes
 
@@ -78,13 +78,13 @@ Detailed UML classes are separated into three sections with the class name at th
 
 Parameter names, and data types are optional. They are typically used in a detailed class diagrams of an implementation or for formal specification documents.
 
-Click on a class shape on the left in diagrams.net, or drag one onto the drawing canvas. The UML 2.5 shape library contains some specialised class shapes.
-<br /><img src="/assets/img/blog/uml-add-class-shapes.gif" style="width=100%;max-width:600px;height:auto;" alt="Add UML class shapes from the UML and UML 2.5 shape libraries in diagrams.net">
+Click on a class shape on the left in draw.io, or drag one onto the drawing canvas. The UML 2.5 shape library contains some specialised class shapes.
+<br /><img src="/assets/img/blog/uml-add-class-shapes.gif" style="width=100%;max-width:600px;height:auto;" alt="Add UML class shapes from the UML and UML 2.5 shape libraries in draw.io">
 
 
 **Tip:** Work with class shapes as you would other table shapes including [entity shapes in ER diagrams](/blog/entity-relationship-tables.html). 
 
-#### Editing UML classes in diagrams.net
+#### Editing UML classes in draw.io
 
 **Select a row inside a class shape:** Click on a class shape once to select the entire shape. Click a second time, this time on a row inside the class, to select that attribute or method row. 
 
@@ -93,13 +93,13 @@ Click on a class shape on the left in diagrams.net, or drag one onto the drawing
 **Edit an attribute or method:** Double click on the attribute or method to highlight all of the text. Start typing to replace it, or use the cursor keys or mouse to reposition the cursor within the text. 
 <br /><img src="/assets/img/blog/class-shape-edit-text.gif" style="width=100%;max-width:300px;height:auto;" alt="Edit the text in class shapes in UML class diagrams">
 
-**Add an attribute or method:** There are many ways to add new rows to class shapes in diagrams.net.
+**Add an attribute or method:** There are many ways to add new rows to class shapes in draw.io.
 
 * **Add an attribute or divider from the library:** Drag an _``Item 1`` (attribute)_ or _``Divider``_ shape from the UML shape library and drop it on an existing class shape on the drawing canvas in the position where you want to insert it.
 * **Clone a row:** Select a row, and press the keyboard shortcut ``Ctrl+Enter`` on Windows or ``Cmd+Enter`` on macOS to insert a clone of the selected row immediately below. The ``Ctrl+D``/``Cmd+D`` keyboard shortcut or right-clicking on the row and selecting _Duplicate_ from the context menu work in the same way.
 * **Add a blank row:** In the _Arrange_ tab of the format panel, click the _Insert Row After_ or the _Insert Row Above_ button. If you had selected the entire class shape, a blank row will be inserted at the end or at the start of your class, otherwise it will be inserted before or after the selected row.
 * **Move an attribute or method from another class:** Drag a row from one existing class and drop it on another.
-<br /><img src="/assets/img/blog/class-shape-add-rows.gif" style="width=100%;max-width:600px;height:auto;" alt="Add rows to class shapes in UML class diagrams in many ways using diagrams.net">
+<br /><img src="/assets/img/blog/class-shape-add-rows.gif" style="width=100%;max-width:600px;height:auto;" alt="Add rows to class shapes in UML class diagrams in many ways using draw.io">
 
 **Delete a row:** Select the row, then press ``Delete`` or right-click and select _Delete_ from the context menu.
 
@@ -109,7 +109,7 @@ Click on a class shape on the left in diagrams.net, or drag one onto the drawing
 
 UML diagrams often follow a strict notation so that they can be easily turned into (or generated automatically from) code. 
 
-Of course, these 'rules' can be relaxed, as the basic class diagram template in diagrams.net shows. Even so, it is best to use a consistent naming style.
+Of course, these 'rules' can be relaxed, as the basic class diagram template in draw.io shows. Even so, it is best to use a consistent naming style.
 
 ### Attribute and method names in UML notation
 
@@ -150,11 +150,11 @@ Define the type of relationship between classes using a connector that has a spe
 * **Aggregation:** An open diamond at class 1. A special type of association that shows that class 2 is _a part of_ class 1.
 * **Composition:** A solid diamond at class 1. A special type of aggregation that shows that class 2 _can not exist without_ class 1.
 <br />[<img src="/assets/img/blog/uml-connectors.png" style="width=100%;max-width:600px;height:auto;" alt="The various types of relationships in a UML class diagram">](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=UML-class-diagram-tutorial.drawio#R7Vxrc5s4FP01ntndmXh4mIc%2Fxk7a7U6624k70%2F2qgAxqAXlBju3%2B%2BhUg2QhhYzvG4IY004kusgDdc3XPuQIP9Gm4%2FhiDhf8ZuzAYaIq7HugPA00bWxr9PzVscoNpjnKDFyM3N6k7wwz9hMyoMOsSuTAROhKMA4IWotHBUQQdIthAHOOV2G2OA%2FGsC%2BBByTBzQCBbvyGX%2BLnV1qyd%2FU%2BIPJ%2BfWTXH%2BZEQ8M7sThIfuHhVMOmPA30aY0zyv8L1FAbp3G3nZbNRkv9miqk8R%2BvlX99%2F%2Frt27vLBPpzyke0txDAilx1aY959BcGSTdjMBwvI7phs%2BDQmKxQGIKKtyRxHZMaOqLTt%2BChwn8AGL9OLSwhwfvDWxMcx%2Bkn7g4B1podjwlCimUKPWfpJalaoNYYJ7fOF37FaMn0Ga6HjE0gIMzg4CMAiQS%2Fb6wtB7KFoggnBIes0R0EwxQGOs5vT50b6j91awZ7%2FZFcd4x%2BwcMTMfuiRI13DXPgKYwLXBWAyV32EOIQk3tAu%2FOiIoY6HncXaqx2It338AoAN5lHA4sbbDr3DBv2DweMUqJgSVJ5pwILIC3q4tA2XElpspW206IqElscgoIt%2Bj5W2saKZnQPLSAKLhBIYufcpHaCtlwCn3pxQE3O3aubNDyg9ceYHn4QcGDFeRi502QHoUn7AxsUx8bGHIxA87qzMJZwt6Ce7IsHL2IEH%2BvGllALWg4cG5POQXvNB1xZdx90bwwAQ9CryoCrfseG%2BYETvbgsTXSvBZKyIQ%2BS3yT5VJB6lgUZ2zUD5NEgDUXeDTaHbIu2Q7L9gVRXPY1nKwevSDvenf%2BRXsMP1dsLfAHXjfUGd54Ee6peEun4TUJcJ46fIhzGinNGRaQDNXkQEs5gaI5xThEJ%2BZSYQIC%2BiTYdCFlL7JM2FiErAe3YgRK6bwX3lIwJnC5BBdkX1rhQyZQaStVnkWU3y%2FXGJ7%2BtyUjYrcrJeAtjlcrIlee8Z0plOaKDhqPee4D1T6Zj3RrKu%2F2cV0ek9gXzXOobgxY1y9AIstJvg7MbIEAFWVQ6oQphlN4UwvYLITNKbp6nSBwn8RGD42%2B%2F7FopTV4cAzsleCCZ0TUCR95T1eRjtLM9sIlITpp%2BdBxmr8umKAqNs9SCAgBwrKTBY3qUXakzoL53PqTI0Bga98Cltq7s2%2FU27xxQfEb0XgDJ%2FQwrEFUzBKGOsEF3KkTDZRnE9ThguuLKogwXvd3lYyGkjh0VCP9xDogVIcNXeHiRsCRJfYJxUkIg%2BGd1EMhoZYjJqv4DEBy5AbIrDBYg2PcZuE2Om2TmM7SM8r4B8Beu%2Fl%2BFLCpr7dBym7vskd16SM05OclW8pwodjSU5Qy52SBCoqOu5IPEz9apKVb1CyU87VOQrT7hc0qsvA54WxbVFP57xa4t%2BnM20UvTTxRVmrJ5b9BvXDHShop%2Bhiuex7MNFP1M72L%2BZop9Rxf%2FfaxzwdayPg0vGgaXfQhxcQvT0TPMaaqa0Ha6P22aaZtV2eMo0fZDMYErgUpL5gnHQs0wGs2OJpX00OrpCLE1Z2n7Gr%2BiXf4zm5taRbUm%2BO%2BvIaZoEL7KoLfEtgZm9gXxdmlodKzF4%2FLRBrewyJMr7fcdSK1XRa0baw60uRWdMmdY%2FQIoXutA7co3tvW8Gi3xTN1reDLZ0OexrpZA4l7s%2BTzglBdmEfoeEbNiMgiXBosvLS0JhpWHOFnVe40uGeeySYR27ZBy9PLzNfTIdJOAHTCqd%2BgReYCA64viYylL1XsL2cD7v4giUgmj73gc766D4akVVcN0pQ6Wk59SLrNWqMOYdr7XwAfB8nsBGltaxKrlXHQ6Hf7xL9ypDqwHf3mnCoOOruVbeMnifbr1ryK%2BmGLRXc6wpV3dmZOnCin2fxmTZPkXUDbnWGVlWejNm1Po%2BImcXwl71Mr7mizE9dM56UaYD2JHfHrhPEuyg%2FqHc%2BkeqdbNtHSbXY%2Fqs0c3QL2UNY9R65MsFmHvXpdMuy8AeO91KGx0Aj0xXZRkiFYILaaNUE86QwXu7CIQ4cr%2F6KCqBRh1xQ3E7v7byVLMp9cJQ0HYF2jr2JU4eurXlJK5qxFKEfhGpVKbB1pmVaE2pGajhQrQ1lqDsg5sqhe3bgjyrFKbaYmnjjbr6%2BtUvu6L69S69qQyt8nPVvGz11tAXEaJdzbXyV0Dce14MvV6s1IsVo0JrXlWs2HLtcopi59f%2Frpebe%2FCg%2FABT%2B3zTlnespvSm4wK%2F6AVLdwBUfnKlAwA67VsyGhMs6q8kWPiKXitYePi2K1jKxddzFYuptatYbLnqd1uKZRuMvWLJpkNWoLekWC7nTWVo6%2BaoAWde8dkLWaKk743iBPUSpfa5tgYlCm3uvlc1d%2Fbuy2n1x%2F8B)
-<br />[_Open these relationships in diagrams.net_](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=UML-class-diagram-tutorial.drawio#R7Vxrc5s4FP01ntndmXh4mIc%2Fxk7a7U6624k70%2F2qgAxqAXlBju3%2B%2BhUg2QhhYzvG4IY004kusgDdc3XPuQIP9Gm4%2FhiDhf8ZuzAYaIq7HugPA00bWxr9PzVscoNpjnKDFyM3N6k7wwz9hMyoMOsSuTAROhKMA4IWotHBUQQdIthAHOOV2G2OA%2FGsC%2BBByTBzQCBbvyGX%2BLnV1qyd%2FU%2BIPJ%2BfWTXH%2BZEQ8M7sThIfuHhVMOmPA30aY0zyv8L1FAbp3G3nZbNRkv9miqk8R%2BvlX99%2F%2Frt27vLBPpzyke0txDAilx1aY959BcGSTdjMBwvI7phs%2BDQmKxQGIKKtyRxHZMaOqLTt%2BChwn8AGL9OLSwhwfvDWxMcx%2Bkn7g4B1podjwlCimUKPWfpJalaoNYYJ7fOF37FaMn0Ga6HjE0gIMzg4CMAiQS%2Fb6wtB7KFoggnBIes0R0EwxQGOs5vT50b6j91awZ7%2FZFcd4x%2BwcMTMfuiRI13DXPgKYwLXBWAyV32EOIQk3tAu%2FOiIoY6HncXaqx2It338AoAN5lHA4sbbDr3DBv2DweMUqJgSVJ5pwILIC3q4tA2XElpspW206IqElscgoIt%2Bj5W2saKZnQPLSAKLhBIYufcpHaCtlwCn3pxQE3O3aubNDyg9ceYHn4QcGDFeRi502QHoUn7AxsUx8bGHIxA87qzMJZwt6Ce7IsHL2IEH%2BvGllALWg4cG5POQXvNB1xZdx90bwwAQ9CryoCrfseG%2BYETvbgsTXSvBZKyIQ%2BS3yT5VJB6lgUZ2zUD5NEgDUXeDTaHbIu2Q7L9gVRXPY1nKwevSDvenf%2BRXsMP1dsLfAHXjfUGd54Ee6peEun4TUJcJ46fIhzGinNGRaQDNXkQEs5gaI5xThEJ%2BZSYQIC%2BiTYdCFlL7JM2FiErAe3YgRK6bwX3lIwJnC5BBdkX1rhQyZQaStVnkWU3y%2FXGJ7%2BtyUjYrcrJeAtjlcrIlee8Z0plOaKDhqPee4D1T6Zj3RrKu%2F2cV0ek9gXzXOobgxY1y9AIstJvg7MbIEAFWVQ6oQphlN4UwvYLITNKbp6nSBwn8RGD42%2B%2F7FopTV4cAzsleCCZ0TUCR95T1eRjtLM9sIlITpp%2BdBxmr8umKAqNs9SCAgBwrKTBY3qUXakzoL53PqTI0Bga98Cltq7s2%2FU27xxQfEb0XgDJ%2FQwrEFUzBKGOsEF3KkTDZRnE9ThguuLKogwXvd3lYyGkjh0VCP9xDogVIcNXeHiRsCRJfYJxUkIg%2BGd1EMhoZYjJqv4DEBy5AbIrDBYg2PcZuE2Om2TmM7SM8r4B8Beu%2Fl%2BFLCpr7dBym7vskd16SM05OclW8pwodjSU5Qy52SBCoqOu5IPEz9apKVb1CyU87VOQrT7hc0qsvA54WxbVFP57xa4t%2BnM20UvTTxRVmrJ5b9BvXDHShop%2Bhiuex7MNFP1M72L%2BZop9Rxf%2FfaxzwdayPg0vGgaXfQhxcQvT0TPMaaqa0Ha6P22aaZtV2eMo0fZDMYErgUpL5gnHQs0wGs2OJpX00OrpCLE1Z2n7Gr%2BiXf4zm5taRbUm%2BO%2BvIaZoEL7KoLfEtgZm9gXxdmlodKzF4%2FLRBrewyJMr7fcdSK1XRa0baw60uRWdMmdY%2FQIoXutA7co3tvW8Gi3xTN1reDLZ0OexrpZA4l7s%2BTzglBdmEfoeEbNiMgiXBosvLS0JhpWHOFnVe40uGeeySYR27ZBy9PLzNfTIdJOAHTCqd%2BgReYCA64viYylL1XsL2cD7v4giUgmj73gc766D4akVVcN0pQ6Wk59SLrNWqMOYdr7XwAfB8nsBGltaxKrlXHQ6Hf7xL9ypDqwHf3mnCoOOruVbeMnifbr1ryK%2BmGLRXc6wpV3dmZOnCin2fxmTZPkXUDbnWGVlWejNm1Po%2BImcXwl71Mr7mizE9dM56UaYD2JHfHrhPEuyg%2FqHc%2BkeqdbNtHSbXY%2Fqs0c3QL2UNY9R65MsFmHvXpdMuy8AeO91KGx0Aj0xXZRkiFYILaaNUE86QwXu7CIQ4cr%2F6KCqBRh1xQ3E7v7byVLMp9cJQ0HYF2jr2JU4eurXlJK5qxFKEfhGpVKbB1pmVaE2pGajhQrQ1lqDsg5sqhe3bgjyrFKbaYmnjjbr6%2BtUvu6L69S69qQyt8nPVvGz11tAXEaJdzbXyV0Dce14MvV6s1IsVo0JrXlWs2HLtcopi59f%2Frpebe%2FCg%2FABT%2B3zTlnespvSm4wK%2F6AVLdwBUfnKlAwA67VsyGhMs6q8kWPiKXitYePi2K1jKxddzFYuptatYbLnqd1uKZRuMvWLJpkNWoLekWC7nTWVo6%2BaoAWde8dkLWaKk743iBPUSpfa5tgYlCm3uvlc1d%2Fbuy2n1x%2F8B)
+<br />[_Open these relationships in our diagram viewer_](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=UML-class-diagram-tutorial.drawio#R7Vxrc5s4FP01ntndmXh4mIc%2Fxk7a7U6624k70%2F2qgAxqAXlBju3%2B%2BhUg2QhhYzvG4IY004kusgDdc3XPuQIP9Gm4%2FhiDhf8ZuzAYaIq7HugPA00bWxr9PzVscoNpjnKDFyM3N6k7wwz9hMyoMOsSuTAROhKMA4IWotHBUQQdIthAHOOV2G2OA%2FGsC%2BBByTBzQCBbvyGX%2BLnV1qyd%2FU%2BIPJ%2BfWTXH%2BZEQ8M7sThIfuHhVMOmPA30aY0zyv8L1FAbp3G3nZbNRkv9miqk8R%2BvlX99%2F%2Frt27vLBPpzyke0txDAilx1aY959BcGSTdjMBwvI7phs%2BDQmKxQGIKKtyRxHZMaOqLTt%2BChwn8AGL9OLSwhwfvDWxMcx%2Bkn7g4B1podjwlCimUKPWfpJalaoNYYJ7fOF37FaMn0Ga6HjE0gIMzg4CMAiQS%2Fb6wtB7KFoggnBIes0R0EwxQGOs5vT50b6j91awZ7%2FZFcd4x%2BwcMTMfuiRI13DXPgKYwLXBWAyV32EOIQk3tAu%2FOiIoY6HncXaqx2It338AoAN5lHA4sbbDr3DBv2DweMUqJgSVJ5pwILIC3q4tA2XElpspW206IqElscgoIt%2Bj5W2saKZnQPLSAKLhBIYufcpHaCtlwCn3pxQE3O3aubNDyg9ceYHn4QcGDFeRi502QHoUn7AxsUx8bGHIxA87qzMJZwt6Ce7IsHL2IEH%2BvGllALWg4cG5POQXvNB1xZdx90bwwAQ9CryoCrfseG%2BYETvbgsTXSvBZKyIQ%2BS3yT5VJB6lgUZ2zUD5NEgDUXeDTaHbIu2Q7L9gVRXPY1nKwevSDvenf%2BRXsMP1dsLfAHXjfUGd54Ee6peEun4TUJcJ46fIhzGinNGRaQDNXkQEs5gaI5xThEJ%2BZSYQIC%2BiTYdCFlL7JM2FiErAe3YgRK6bwX3lIwJnC5BBdkX1rhQyZQaStVnkWU3y%2FXGJ7%2BtyUjYrcrJeAtjlcrIlee8Z0plOaKDhqPee4D1T6Zj3RrKu%2F2cV0ek9gXzXOobgxY1y9AIstJvg7MbIEAFWVQ6oQphlN4UwvYLITNKbp6nSBwn8RGD42%2B%2F7FopTV4cAzsleCCZ0TUCR95T1eRjtLM9sIlITpp%2BdBxmr8umKAqNs9SCAgBwrKTBY3qUXakzoL53PqTI0Bga98Cltq7s2%2FU27xxQfEb0XgDJ%2FQwrEFUzBKGOsEF3KkTDZRnE9ThguuLKogwXvd3lYyGkjh0VCP9xDogVIcNXeHiRsCRJfYJxUkIg%2BGd1EMhoZYjJqv4DEBy5AbIrDBYg2PcZuE2Om2TmM7SM8r4B8Beu%2Fl%2BFLCpr7dBym7vskd16SM05OclW8pwodjSU5Qy52SBCoqOu5IPEz9apKVb1CyU87VOQrT7hc0qsvA54WxbVFP57xa4t%2BnM20UvTTxRVmrJ5b9BvXDHShop%2Bhiuex7MNFP1M72L%2BZop9Rxf%2FfaxzwdayPg0vGgaXfQhxcQvT0TPMaaqa0Ha6P22aaZtV2eMo0fZDMYErgUpL5gnHQs0wGs2OJpX00OrpCLE1Z2n7Gr%2BiXf4zm5taRbUm%2BO%2BvIaZoEL7KoLfEtgZm9gXxdmlodKzF4%2FLRBrewyJMr7fcdSK1XRa0baw60uRWdMmdY%2FQIoXutA7co3tvW8Gi3xTN1reDLZ0OexrpZA4l7s%2BTzglBdmEfoeEbNiMgiXBosvLS0JhpWHOFnVe40uGeeySYR27ZBy9PLzNfTIdJOAHTCqd%2BgReYCA64viYylL1XsL2cD7v4giUgmj73gc766D4akVVcN0pQ6Wk59SLrNWqMOYdr7XwAfB8nsBGltaxKrlXHQ6Hf7xL9ypDqwHf3mnCoOOruVbeMnifbr1ryK%2BmGLRXc6wpV3dmZOnCin2fxmTZPkXUDbnWGVlWejNm1Po%2BImcXwl71Mr7mizE9dM56UaYD2JHfHrhPEuyg%2FqHc%2BkeqdbNtHSbXY%2Fqs0c3QL2UNY9R65MsFmHvXpdMuy8AeO91KGx0Aj0xXZRkiFYILaaNUE86QwXu7CIQ4cr%2F6KCqBRh1xQ3E7v7byVLMp9cJQ0HYF2jr2JU4eurXlJK5qxFKEfhGpVKbB1pmVaE2pGajhQrQ1lqDsg5sqhe3bgjyrFKbaYmnjjbr6%2BtUvu6L69S69qQyt8nPVvGz11tAXEaJdzbXyV0Dce14MvV6s1IsVo0JrXlWs2HLtcopi59f%2Frpebe%2FCg%2FABT%2B3zTlnespvSm4wK%2F6AVLdwBUfnKlAwA67VsyGhMs6q8kWPiKXitYePi2K1jKxddzFYuptatYbLnqd1uKZRuMvWLJpkNWoLekWC7nTWVo6%2BaoAWde8dkLWaKk743iBPUSpfa5tgYlCm3uvlc1d%2Fbuy2n1x%2F8B)
 
 **Tip:** When two classes are aware of each other, and may use each other's attributes or methods, place an association with [arrows at both ends](/doc/faq/connector-bidirectional.html) to indicate a bidirectional association.
 
-#### Draw class relationships in diagrams.net
+#### Draw class relationships in draw.io
 
 Click on or drag the connector you want to use from the _UML_ shape library, then drag each end and drop it onto a class shape on the drawing canvas. 
 
@@ -164,7 +164,7 @@ Alternatively, draw a connector from class 1 to class 2 or select an existing co
 
 **Tip:** Drop a connector end on the class name while the outer edge of the class is highlighted in blue - the [connector will float around the class](/doc/faq/connector-fixed-vs-floating.html) as you move it on the drawing canvas. 
 
-[Learn more about working with connectors in diagrams.net](/doc/faq/connectors.html)
+[Learn more about working with connectors in draw.io](/doc/faq/connectors.html)
 
 **Connector labels**
 
@@ -175,12 +175,12 @@ You can add labels to a connector to further define the relationship between the
 * Note ownership or roles.
 * Clarify visibility.
 * ...
-<br ><img src="/assets/img/blog/class-diagram-example.png" style="width=100%;max-width:500px;height:auto;" alt="A class diagram based on the basic class diagram template in diagrams.net">
+<br ><img src="/assets/img/blog/class-diagram-example.png" style="width=100%;max-width:500px;height:auto;" alt="A class diagram based on the basic class diagram template in draw.io">
 
 ### Notes in complex UML class diagrams
 
 Add a note shape and connect it to a class with a dashed or dotted arrow to include additional information. Use the _Comment_ or _Constraint_ shapes from the UML 2.5 shape library. 
-<br ><img src="/assets/img/blog/uml-comment-shape.png" style="width=100%;max-width:400px;height:auto;" alt="Add comments and constraints from the UML 2.5 shape library in diagrams.net">
+<br ><img src="/assets/img/blog/uml-comment-shape.png" style="width=100%;max-width:400px;height:auto;" alt="Add comments and constraints from the UML 2.5 shape library in draw.io">
 
 For more about UML notation, please refer to the [UML 2.5 specification](https://www.omg.org/spec/UML/2.5/About-UML/).
 

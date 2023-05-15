@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: confluence-diagram-search
 date: 2020-10-20 09:10:00
 title: Search for diagrams in Confluence Cloud and Server

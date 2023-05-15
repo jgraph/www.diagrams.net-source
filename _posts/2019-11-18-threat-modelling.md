@@ -1,9 +1,9 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: threat-modelling
 date: 2019-11-18 11:14:00
-title: Analysing vulnerabilities with threat modelling using diagrams.net
+title: Analysing vulnerabilities with threat modelling using draw.io
 tags: [threat modelling, data flow diagrams, custom libraries]
 categories: [use-cases]
 ---
@@ -39,24 +39,24 @@ Hierarchical visualisations of one component or asset in your infrastructure all
 
 <a href="https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&page=2&nav=1&title=threat-modelling.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fthreat-modelling.drawio"><img src="/assets/img/blog/threat-modelling-attack-tree.png" style="max-width:100%;height:auto;" alt="Example attack tree diagram for threat modelling"></a>
 
-[Open all of these diagrams in diagrams.net](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=threat-modelling.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fthreat-modelling.drawio)
+[Open all of these diagrams in our online diagram viewer](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=threat-modelling.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fthreat-modelling.drawio)
 
 ## Enable the Threat Modeling shape library
 
-Michael Henrikson developed a couple of custom libraries and explained [why he likes to use draw.io (diagrams.net) for threat modelling](https://michenriksen.com/blog/drawio-for-threat-modeling/). He has kindly given us permission to include his library in diagrams.net.
+Michael Henrikson developed a couple of custom libraries and explained [why he likes to use draw.io for threat modelling](https://michenriksen.com/blog/drawio-for-threat-modeling/). He has kindly given us permission to include his library in draw.io.
 
 The shapes used to create these diagrams are now available in the threat modeling shape library.
 
 1. Click _More Shapes_ at the bottom of the left panel.
 2. Scroll down to the _Other_ section, enable the _Threat Modeling_ shape library, then click _Apply_.
 
-<img src="/assets/img/blog/threat-modeling-shape-library.png" style="width=100%;max-width:400px;height:auto;" alt="Enable the Threat Modeling shape library in diagrams.net">
+<img src="/assets/img/blog/threat-modeling-shape-library.png" style="width=100%;max-width:400px;height:auto;" alt="Enable the Threat Modeling shape library in draw.io">
 
-## Use the diagrams.net desktop app for secure threat modelling
+## Use the draw.io desktop app for secure threat modelling
 
-Because your threat modelling diagrams contain highly sensitive data about your applications and infrastructure, ensure they are secure and use the diagrams.net desktop app, available for Windows, macOS and Linux.
+Because your threat modelling diagrams contain highly sensitive data about your applications and infrastructure, ensure they are secure and use the draw.io desktop app, available for Windows, macOS and Linux.
 
-When you use the diagrams.net desktop app, your diagrams will be stored on your local device. Because this is a stand-alone application, also designed to run offline, there are no interfaces to cloud storage platforms available. Of course, you can still store your diagrams in folders that are synchronised to your cloud storage if you wish.
+When you use the draw.io desktop app, your diagrams will be stored on your local device. Because this is a stand-alone application, also designed to run offline, there are no interfaces to cloud storage platforms available. Of course, you can still store your diagrams in folders that are synchronised to your cloud storage if you wish.
 
 The desktop app can be used behind a strong firewall or even offline as there is no external communication of diagram data.
 
