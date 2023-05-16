@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: modifier-shortcuts-in-diagrams
 date: 2022-02-07 09:54:00
 title: Diagram faster using mouse + keyboard shortcuts
@@ -8,13 +8,13 @@ tags: [shortcuts]
 categories: [shortcuts]
 ---
 
-There are many combination mouse plus keyboard shortcuts in diagrams.net that will speed up your drawing. You can select and deselect multiple shapes, resize grouped shapes in various ways, and swap, connect and clone shapes quickly.
+There are many combination mouse plus keyboard shortcuts in draw.io that will speed up your drawing. You can select and deselect multiple shapes, resize grouped shapes in various ways, and swap, connect and clone shapes quickly.
 
 You are probably familiar with the copy & paste keyboard shortcuts (``Ctrl+C`` and ``Ctrl+V``) as they are used in almost all applications. 
 
 Combination or _modifier keyboard shortcuts_ are when you press keys on your keyboard and it modifies a mouse action that you do at the same time. 
 
-All of the [current modifier keyboard shortcuts in diagrams.net and draw.io](https://app.diagrams.net/shortcuts.svg) are described below.
+All of the [current modifier keyboard shortcuts in draw.io](https://app.diagrams.net/shortcuts.svg) are described below.
 
 **Note:** macOS users should use ``Cmd`` instead of ``Ctrl``, and ``Option`` instead of ``Alt`` in the shortcuts below.
 
@@ -25,7 +25,7 @@ Several modifier keyboard shortcuts work directly with or on the drawing canvas.
 
 **Open a diagram file:** Hold ``Shift`` while you ``drag`` a diagram file onto the drawing canvas. Your diagram file will be opened in a new tab if you are using diagrams.net in your browser, instead of being pasted into your current diagram.
 
-If you are using the [diagrams.net Desktop app](https://get.diagrams.net/), and had previously made changes to an open diagram, you will be prompted to _Save_ or _Discard Changes_ before the editor opens the file you dropped on the canvas.
+If you are using the [draw.io Desktop app](https://get.diagrams.net/), and had previously made changes to an open diagram, you will be prompted to _Save_ or _Discard Changes_ before the editor opens the file you dropped on the canvas.
 
 **Open the context menu:** Hold ``Ctrl`` and ``left-click`` on the drawing canvas.
 
@@ -46,7 +46,7 @@ If you are using the [diagrams.net Desktop app](https://get.diagrams.net/), and 
 <br /><img src="/assets/img/blog/shape-select-shortcut-alt-selection-box.gif" style="width=100%;max-width:600px;;height:auto;" alt="Hold down Alt when you drag a selection box to capture all intersecting shapes and shapes inside groups, even if they are partially in the selection box">
 
 **Select the shape or connector underneath:** When you have shapes or connectors stacked on top of each other, hold ``Alt`` and ``click`` on the shape to select the next shape down the [z-order stack](/blog/move-shapes-forwards-backwards.html), behind the currently selected shape. 
-<br /><img src="/assets/img/blog/shape-select-shortcut-alt.gif" style="width=100%;max-width:300px;;height:auto;" alt="Select the next shape down the stack when shapes are overlapping in diagrams.net with Alt+Click">
+<br /><img src="/assets/img/blog/shape-select-shortcut-alt.gif" style="width=100%;max-width:300px;;height:auto;" alt="Select the next shape down the stack when shapes are overlapping in draw.io with Alt+Click">
 
 [See more keyboard-only shortcuts for selecting shapes](/blog/shortcut-select.html)
 
@@ -89,7 +89,7 @@ You can use mouse + keyboard shortcuts to work with shapes that are already on t
 
 Some mouse + keyboard shortcuts let you work quickly with shapes from the shape libraries.
 
-**Ignore current default style:** Hold ``Shift`` and ``click`` on or ``drag`` a shape from the shape libraries. The new shape will have a white fill and a black outline, as per the original diagrams.net default style for shapes and not a custom default style that you have set.
+**Ignore current default style:** Hold ``Shift`` and ``click`` on or ``drag`` a shape from the shape libraries. The new shape will have a white fill and a black outline, as per the original draw.io default style for shapes and not a custom default style that you have set.
 
 **Disable connections on drop:** Hold ``Alt`` and ``drag`` a shape from the library to disable the direction or connection arrows on the existing shapes on the drawing canvas. When you drop the shape, the editor will not try to auto-connect it.
 
@@ -104,7 +104,7 @@ Some mouse + keyboard shortcuts let you work quickly with shapes from the shape 
 
 ## More diagramming keyboard shortcuts
 
-[<img src="https://app.diagrams.net/shortcuts.svg" style="width=100%;max-width:400px;;height:auto;" alt="Shortcuts available in diagrams.net and the draw.io diagramming apps">](https://app.diagrams.net/shortcuts.svg)
-<br />[See all of the diagrams.net and draw.io keyboard shortcuts on this cheat sheet](https://app.diagrams.net/shortcuts.svg)
+[<img src="https://app.diagrams.net/shortcuts.svg" style="width=100%;max-width:400px;;height:auto;" alt="Shortcuts available in draw.io">](https://app.diagrams.net/shortcuts.svg)
+<br />[See all of the draw.io keyboard shortcuts on this cheat sheet](https://app.diagrams.net/shortcuts.svg)
 
 Our [series of posts on keyboard shortcuts](/blog/shortcuts.html) explain many of the common keyboard shortcuts in greater detail.

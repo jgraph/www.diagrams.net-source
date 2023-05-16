@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: project-planning-diagrams
 date: 2021-08-11 12:07:00
 title: Plan, design and track projects with diagrams in remote teams
@@ -8,18 +8,18 @@ tags: [features]
 categories: [features, use-cases]
 ---
 
-Teams in different departments use many different methods to plan projects, but most of these plans are initially sketched on a whiteboard. Collaborate in real time and online with distributed team members, customers and stakeholders easily in the [diagrams.net whiteboard-like editor theme](https://sketch.diagrams.net) throughout your project development process.
+Teams in different departments use many different methods to plan projects, but most of these plans are initially sketched on a whiteboard. Collaborate in real time and online with distributed team members, customers and stakeholders easily in the [draw.io whiteboard-like editor theme](https://sketch.diagrams.net) throughout your project development process.
 
 Note that this sketch editor theme is also available as the [draw.io Board macro](/blog/online-whiteboard-confluence.html) in our [draw.io branded integration to Confluence Cloud](https://marketplace.atlassian.com/apps/1210933/draw-io-diagrams-for-confluence?hosting=cloud&tab=overview). It is also coming to [draw.io for Confluence Data Center](https://marketplace.atlassian.com/apps/1210933/draw-io-diagrams-for-confluence?hosting=datacenter&tab=overview).
 
 **Create a new whiteboard diagram**
 
-1. Go to [sketch.diagrams.net](https://sketch.diagrams.net/).
+1. Go to our online editor at [sketch.diagrams.net](https://sketch.diagrams.net/).
 2. Select the [storage location for your diagram file](/doc/faq/storage-location-select.html). 
 <br />Cloud platforms, like Google Drive, Microsoft OneDrive and Dropbox, allow you to share your diagrams easily with your team members. 
 3. Add a filename for your diagram and start using your online whiteboard.  
 
-**Tip:** Right-click on the drawing canvas and [share your mouse cursor with your team](/blog/concurrent-editing.html) in real-time with draw.io for Confluence Cloud, as well as in diagrams.net when storing shared diagram files in Google Drive or Microsoft OneDrive.
+**Tip:** Right-click on the drawing canvas and [share your mouse cursor with your team](/blog/concurrent-editing.html) in real-time with draw.io for Confluence Cloud, as well as in our online draw.io editor when storing shared diagram files in Google Drive or Microsoft OneDrive.
 
 ## Project planning process
 
@@ -42,7 +42,7 @@ Alternatively or additionally, brainstorm topics and subtopics, or problems and 
 
 These types of rough diagrams and notes are the most common starting point for many types of structured planning documents: user stories, [story mapping (as below)](/blog/story-mapping.html), customer journeys, product features, process optimisation, business models, persona descriptions, and more.
 <br />[<img src="/assets/img/blog/story-mapping-example-purchase-groceries.png" style="max-width:100%;height:auto;" alt="An example of a use case diagram">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fstory-map.drawio)
-<br />[_Open this story map in the diagrams.net viewer_](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fstory-map.drawio)
+<br />[_Open this story map in our diagram viewer_](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fstory-map.drawio)
 
 **Tip:** If your brainstorm becomes too large to fit comfortably in your browser window, click on the _Outline_ tool in the bottom right toolbar. Drag the blue highlighted section in the floating Outline panel to move quickly around your whiteboard.
 
@@ -50,7 +50,7 @@ These types of rough diagrams and notes are the most common starting point for m
 
 Start planning quickly with a template, like the business model canvas below: Click the _Template_ tool on the left to open the template manager. Templates are organised into a wide range of categories. 
 <br />[<img src="/assets/img/blog/business-model-in-sketch-theme.png" style="width=100%;max-width:600px;height:auto;" alt="Use a template to start project planning quickly in sketch.diagrams.net">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fbusiness%2Fbusiness_model_canvas_1.xml)
-<br />[_Open the business model canvas template in the diagrams.net viewer_](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fbusiness%2Fbusiness_model_canvas_1.xml)
+<br />[_Open the business model canvas template in our diagram viewer_](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fbusiness%2Fbusiness_model_canvas_1.xml)
 
 
 ### Keep all research and design ideas in one place
@@ -75,7 +75,7 @@ You can also drag and drop images and screenshots directly onto the whiteboard c
 
 Design mockups and wireframes of web pages and applications together: [Share the mockups with stakeholders or customers](/blog/share-diagrams-via-google.html) and invite them to add their feedback directly on your whiteboard diagram. 
 <br />[<img src="/assets/img/blog/online-whiteboard-mockup-template.png" style="width=100%;max-width:600px;height:auto;" alt="Use a mockup template to design your site or app online with your team in sketch.diagrams.net">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Flayout%2Fbootstrap_1.xml)
-<br />[_Open this application mockup template in the diagrams.net viewer_](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Flayout%2Fbootstrap_1.xml)
+<br />[_Open this application mockup template in our diagram viewer_](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Flayout%2Fbootstrap_1.xml)
 
 
 ### Vote on what to implement
@@ -86,7 +86,7 @@ Add a specific shape - a coloured pin is traditional in agile projects - to the 
 
 When everyone votes on planned changes in such a way, your team will collaborate more effectively, moving your projects forward together with a single shared vision, even when working remotely.
 
-<img src="/assets/img/blog/kanban-template-vote.png" style="width=100%;max-width:500px;height:auto;"  alt="Vote on tasks or set task priorities by placing pins or other simple shapes on your kanban board in diagrams.net">
+<img src="/assets/img/blog/kanban-template-vote.png" style="width=100%;max-width:500px;height:auto;"  alt="Vote on tasks or set task priorities by placing pins or other simple shapes on your kanban board in draw.io">
 
 
 ### Plan the implementation and track its progress
@@ -96,7 +96,7 @@ When everyone votes on planned changes in such a way, your team will collaborate
 3. Use a Gantt chart or roadmap template to plan the project schedule. Check in the _Tables_ category in the template manager dialog for examples.
 
 [<img src="/assets/img/blog/online-whiteboard-gantt-template.png" style="width=100%;max-width:600px;height:auto;" alt="Use a Gantt chart template to schedule the implementation of your project in sketch.diagrams.net">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Ftables%2Fgantt_1.xml)
-<br />[_Open this Gantt chart template in the diagrams.net viewer_](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Ftables%2Fgantt_1.xml)
+<br />[_Open this Gantt chart template in our diagram viewer_](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Ftables%2Fgantt_1.xml)
 
 Don't forget to update this whiteboard project plan for (remote) standup meetings, during sprint planning and retrospectives.
 
@@ -109,16 +109,16 @@ Use a simple whiteboard brainstorming layout to look back and see what went well
 
 Break the drawing canvas into regions, add screenshots, images, and notes where where required to hold a retrospective and review the project outcome, the implementation process and how your team worked together.
 
-<img src="/assets/img/blog/online-whiteboard-agile-retrospective.png" style="width=100%;max-width:600px;height:auto;"  alt="Hold an online retrospective in the simple Sketch whiteboard theme in diagrams.net">
+<img src="/assets/img/blog/online-whiteboard-agile-retrospective.png" style="width=100%;max-width:600px;height:auto;"  alt="Hold an online retrospective in the simple Sketch whiteboard theme in draw.io">
 
 In the _Outline_ floating panel above right, you can see that the brainstorming, design and project implementation information are still on other areas of the whiteboard canvas. An infinite canvas is great for teams who like to keep all of the relevant information in one place.
 
-## Collaborate in other applications using diagrams.net
+## Collaborate in other applications using draw.io
 
-There are many [diagrams.net app integrations with popular project planning tools and content platforms](/integrations.html), including Atlassian Jira and Confluence, Google Workplace and Classroom, Microsoft Office and soon Teams, Trello, Dropbox and more. 
+There are many [draw.io app integrations with popular project planning tools and content platforms](/integrations.html), including Atlassian Jira and Confluence, Google Workplace and Classroom, Microsoft Office and soon Teams, Trello, Dropbox, Notion and more. 
 
-As diagrams.net allows you to store diagram files in multiple cloud storage platforms, you can also embed your diagram files in a variety of content platforms and applications. For example, in Confluence Cloud with our draw.io branded app, that we build, deliver and maintain alongside the online diagrams.net and desktop tools.
+As draw.io allows you to store diagram files in multiple cloud storage platforms, you can also embed your diagram files in a variety of content platforms and applications, including in Confluence Cloud.
 <br /><img src="/assets/img/blog/embed-diagrams-confluence-cloud.png" style="width=100%;max-width:500px;height:auto;" alt="Embedded diagrams in draw.io for Confluence Cloud">
 
 By default, the editor in these integrations uses a more complex [interface theme](/blog/diagram-editor-theme.html), but you can switch easily to the simpler editor theme.
-* In the diagrams.net editor, select _Extras > Theme > Sketch_, then reload the editor to see the whiteboard-style interface.
+* In the draw.io editor, select _Extras > Theme > Sketch_, then reload the editor to see the whiteboard-style interface.

@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: automated-layout-shapes
 date: 2020-09-22 09:54:00
 title: Automatic layout shapes for flow charts, tree diagrams and mind maps
@@ -8,9 +8,9 @@ tags: [features, shapes]
 categories: [features, shapes]
 ---
 
-The automatic layout shapes in the _Advanced_ shape library in diagrams.net organise your flow charts, tree diagrams, org charts, and mind maps for you as you add and connect more shapes. The automated layout ensures that all shapes in your diagram are spaced evenly, either in a horizontal or vertical format, and will automatically increase or decrease the container shape's size to match the contents.
+The automatic layout shapes in the _Advanced_ shape library in draw.io organise your flow charts, tree diagrams, org charts, and mind maps for you as you add and connect more shapes. The automated layout ensures that all shapes in your diagram are spaced evenly, either in a horizontal or vertical format, and will automatically increase or decrease the container shape's size to match the contents.
 
-<img src="/assets/img/blog/automatic-layout-shapes-hover.png" style="width=100%;max-width:500px;height:auto;" alt="The automatic layout container shapes are available in the Advanced shape library in diagrams.net">
+<img src="/assets/img/blog/automatic-layout-shapes-hover.png" style="width=100%;max-width:500px;height:auto;" alt="The automatic layout container shapes are available in the Advanced shape library in draw.io">
 
 **Advanced shape library:** If you don't see this library, click on _More Shapes_ at the bottom of the left panel, select the _General_ shape library, and click _Apply_.
 

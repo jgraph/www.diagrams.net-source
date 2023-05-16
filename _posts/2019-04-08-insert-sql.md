@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: insert-sql
 page.date: 2019-04-08
 title: Insert from SQL to create an ER diagram
@@ -10,11 +10,11 @@ categories: [features, use-cases]
 
 Entity relationship diagrams show how data is structured in relational databases. Each entity consists of rows of attributes. ER diagrams are used in software development and by IT workers to design and document database structure.
 
-You can document your existing databases quickly and easily in diagrams.net by inserting your SQL code. This adds entities, or table shapes, to the drawing canvas which automatically contain rows for the attributes defined in your SQL code, which you will simply need to connect appropriately.
+You can document your existing databases quickly and easily in draw.io by inserting your SQL code. This adds entities, or table shapes, to the drawing canvas which automatically contain rows for the attributes defined in your SQL code, which you will simply need to connect appropriately.
 
 ## How to insert from SQL to create a diagram
 
-As SQL and MySQL are the most popular languages used to program and work with relational database systems, diagrams.net has made it easy to automatically create your diagrams from your code.
+As SQL and MySQL are the most popular languages used to program and work with relational database systems, draw.io has made it easy to automatically create your diagrams from your code.
 
 1. Click _Arrange > Insert > Advanced > SQL_. Alternatively, click the ``+`` icon in the toolbar, then select _Advanced > SQL_.
 <br /><img src="/assets/img/blog/arrange-insert-advanced-sql-menu.png" style="max-width:100%;height:auto;" alt="Arrange > Insert > Advanced > SQL to create an ER diagram from SQL code">

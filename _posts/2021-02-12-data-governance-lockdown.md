@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: data-governance-lockdown
 date: 2021-02-12 09:43:00
 title: Introducing data governance and lockdown configuration options
@@ -8,17 +8,17 @@ tags: [data protection]
 categories: [trust, integrations, atlassian]
 ---
 
-diagrams.net is a [unique security-first diagramming tool](/blog/data-protection.html) in that we provide the application platform, but your diagram data only lives in your computer memory while you are working on it.  As you can [store your diagrams on your preferred enterprise-level cloud storage platforms](/blog/secure-diagramming-storage.html) or on your local device, diagrams.net gives you control over your diagram data.
+draw.io is a [unique security-first diagramming tool](/blog/data-protection.html) in that we provide the application platform, but your diagram data only lives in your computer memory while you are working on it.  As you can [store your diagrams on your preferred enterprise-level cloud storage platforms](/blog/secure-diagramming-storage.html) or on your local device, draw.io gives you control over your diagram data.
 
-Some extended editor features, such as PDF generation (``File > Export As > PDF``), are only available from the diagrams.net server endpoints. In these cases, your diagram data is securely transmitted from your browser to our server endpoint, and when the converted file is sent back to your browser, your diagram data is deleted from the diagrams.net server.
+Some extended editor features, such as PDF generation (``File > Export As > PDF``), are only available from the draw.io server endpoints. In these cases, your diagram data is securely transmitted from your browser to our server endpoint, and when the converted file is sent back to your browser, your diagram data is deleted from the draw.io server.
 
 Data is encrypted during all network transmission up to the endpoint processing.
 
 **Data governance regions for server endpoints**
 
-diagrams.net is delivered via Cloudflare edge data centers and data transmitted outbound is directed via those same Cloudflare centers. The server endpoints are all located within AWS data centers. The features requiring server-side functionality are:
+The online draw.io editor at app.diagrams.net is delivered via Cloudflare edge data centers and data transmitted outbound is directed via those same Cloudflare centers. The server endpoints are all located within AWS data centers. The features requiring server-side functionality are:
 
-- Translation of ``vsd``, ``vss``, and ``vdx`` files to ``vsdx``. diagrams.net understands ``vsdx`` natively in JavaScript on the client.
+- Translation of ``vsd``, ``vss``, and ``vdx`` files to ``vsdx``. draw.io understands ``vsdx`` natively in JavaScript on the client.
 - Import of Gliffy files.
 - Migration of EMF images embedded in ``vsd``/``vsdx`` files. EMF licensing means only the Windows operating system may manipulate these.
 - Generation of PlantUML diagrams. PlantUML is written in Java.
@@ -27,9 +27,9 @@ diagrams.net is delivered via Cloudflare edge data centers and data transmitted 
 
 Wherever possible we use serverless (AWS Lambda) functionality to reduce the attack surface of the endpoints.
 
-diagrams.net has server endpoints in three regions: one in the EU (in Frankfurt, Germany) and one in the US (in Northern Virginia). By default, invoking each of the above functions will use the server endpoint that is nearest to the Cloudflare data center that the request entered via. That is, geolocation is not performed on your IP address to determine the endpoint.
+draw.io has server endpoints in three regions: one in the EU (in Frankfurt, Germany) and one in the US (in Northern Virginia). By default, invoking each of the above functions will use the server endpoint that is nearest to the Cloudflare data center that the request entered via. That is, geolocation is not performed on your IP address to determine the endpoint.
 
-However, you can force the endpoint locations, rather than rely on entering the Cloudflare network at the right place. Specifying ``dataGovernance`` region in the editor configuration to ``EU`` or ``US`` ensures diagrams.net uses your preferred server endpoint. 
+However, you can force the endpoint locations, rather than rely on entering the Cloudflare network at the right place. Specifying ``dataGovernance`` region in the editor configuration to ``EU`` or ``US`` ensures draw.io uses your preferred server endpoint. 
 
 
 **Data transmission lockdown**
@@ -40,18 +40,18 @@ Additionally, you can use the ``lockdown`` toggle in the editor configuration to
 ## Set server endpoints and disable data transmission
 
 
-1. Select _Extras > Configuration_ to customise diagrams.net.
-<br /><img src="/assets/img/blog/extras-configuration-menu.png" style="width=100%;max-width:300px;height:auto;" alt="Access the diagrams.net configuration via Extras > Configuration">
+1. Select _Extras > Configuration_ to customise draw.io.
+<br /><img src="/assets/img/blog/extras-configuration-menu.png" style="width=100%;max-width:300px;height:auto;" alt="Access the draw.io configuration via Extras > Configuration">
 2. Add the following [JSON (JavaScript Object Notation)](http://www.json.org/) string: ``"dataGovernance": "EU"`` or ``"dataGovernance": "US"``.
 3. To restrict data transmission to between your browser and your storage location, add the following JSON string: ``"lockdown": true"``. Note the dataGovernance value is ignored with lockdown set to true.
-<br /><img src="/assets/img/blog/edit-configuration-data-governance-lockdown.png" style="width=100%;max-width:300px;height:auto;" alt="Set which diagrams.net server region to use and restrict data transmission to between browser and storage location only in the editor configuration JSON code">
-4. Click _Apply_ to save your changes, and then reload the diagrams.net editor (refresh the browser page).
+<br /><img src="/assets/img/blog/edit-configuration-data-governance-lockdown.png" style="width=100%;max-width:300px;height:auto;" alt="Set which draw.io server region to use and restrict data transmission to between browser and storage location only in the editor configuration JSON code">
+4. Click _Apply_ to save your changes, and then reload the draw.io editor (refresh the browser page).
 
 
 ## Data residency in Atlassian Cloud
 
 
-The architectures for draw.io for Confluence and Jira Cloud are identical to those used with diagrams.net. However, you can set the data governance rules centrally for all users on your Confluence instance.
+The architectures for draw.io for Confluence and Jira Cloud are identical to those used with draw.io. However, you can set the data governance rules centrally for all users on your Confluence instance.
 
 If you are using the draw.io apps for Confluence or Jira Cloud, [Atlassian lets you additionally set your **data residency** region](https://confluence.atlassian.com/cloud/manage-data-residency-976763149.html) to choose where your data or _in-scope product content_ resides. That means the content of your instance and associated metadata will be stored on servers in that region when it is at rest.
 

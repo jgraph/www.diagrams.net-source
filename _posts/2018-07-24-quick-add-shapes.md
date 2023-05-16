@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: quick-add-shapes
 page.date: 2018-07-24
 title: Click to add shapes to the drawing canvas
@@ -22,4 +22,4 @@ The shapes will all appear stacked in a neat line down the left side of your dia
 
 To reformat several shapes at once, drag a selection box around them, or hold down the ``Shift`` or ``Alt`` key as you click on them. Now, when you click on a style in the format panel, they will all update at the same time.
 
-Save your mouse miles and time by improving your diagramming efficiency. What are your favourite time-saving tips for using diagrams.net?
+Save your mouse miles and time by improving your diagramming efficiency with draw.io.

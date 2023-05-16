@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: move-diagrams-net
 date: 2020-02-26 09:54:00
 title: Reference implementation moving to app.diagrams.net
@@ -8,7 +8,7 @@ tags: [news, Atlassian]
 categories: [news,atlassian]
 ---
 
-The reference implementation of the draw.io project will be hosted at app.diagrams.net. Everything else is the same, 
+The reference implementation of the draw.io project will be hosted at app.diagrams.net. Everything else remains the same - the online editor has all the functionality of the draw.io core editor.
 
 ## .io domains
 
@@ -24,13 +24,13 @@ However, the domain administrator made no attempt, at any time, to communicate w
 
 draw.io will remain as-is within Atlassian. Our partnership in that ecosystem with [//SEIBERT/MEDIA](https://seibert-media.com) will continue in the same way for a long time to come.
 
-The current Atlassian specific web site at about.draw.io will move away from the .io domain to [drawio-app.com](https://drawio-app.com).
+Our draw.io documentation and official blog will move away from the .io domain to [drawio.com](https://drawio.com).
 
 ## What's next?
 
-We will be building our a new web site at [www.drawio.io](https://www.drawio.com) and this is focused on the core open source project and the reference implementation at [app.diagrams.net](https://app.diagrams.net).
+Our web site at [www.drawio.com](https://www.drawio.com) is focused on the core open source project and the reference implementation at [app.diagrams.net](https://app.diagrams.net).
 
-We are testing https://app.diagrams.net to check everything that works on the draw.io domain works there. Don't switch away from www.draw.io just yet.
+We are testing https://app.diagrams.net to check everything that works on the old draw.io domain works there. Don't switch away from www.draw.io just yet.
 
 When we're happy with the new app sub-domain we'll mark it as the canonical domain and file open requests from Google Drive will be sent there.
 

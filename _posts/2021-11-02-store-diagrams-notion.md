@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: drawio-notion
 date: 2021-11-03 09:10:00
 title: draw.io for Notion Chrome extension
@@ -43,7 +43,7 @@ If you click away from the diagram editor on another location in your notion pag
 Click on a diagram to open the editor panels and tools. If you want to work with a larger drawing canvas, click on the _Fullscreen_ tool in the top right.
 <br /><img src="/assets/img/blog/notion-chrome-extension-fullscreen.png" style="width=100%;max-width:500px;height:auto;" alt="Click on the Fullscreen tool to expand the diagram editor's drawing canvas to take up the width of the page">
 
-Creating a diagram in the draw.io for Notion extension is just like using diagrams.net and draw.io.
+Creating a diagram in the draw.io for Notion extension is just like using draw.io.
 
 **New to diagramming?** Follow this [tutorial to create a simple flowchart](/doc/getting-started-basic-flowchart.html) and get used to the diagram editor features.
 

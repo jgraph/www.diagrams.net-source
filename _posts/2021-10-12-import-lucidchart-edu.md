@@ -1,9 +1,9 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: import-lucidchart-edu
 date: 2021-10-12 11:13:00
-title: Import diagrams from Lucidchart EDU to diagrams.net
+title: Import diagrams from Lucidchart EDU to draw.io
 tags: [features]
 categories: [features,integrations]
 ---
@@ -12,40 +12,40 @@ Lucidchart recently limited their free education plans, Lucidchart EDU, for stud
 
 Individual licenses for educational apps can be quite expensive. This is especially hard for parents with multiple children in distance learning, or educators who are provided with a limited selection of remote tools.
 
-You can create and edit an unlimited number of diagrams for free with diagrams.net
+You can create and edit an unlimited number of diagrams for free with draw.io, both in our [online app](https://app.diagrams.net) and with draw.io Desktop.
 
-Because diagrams.net works on a [bring-your-own-storage model](/blog/secure-diagramming-storage.html), your files are not locked behind a paywall. You can choose to store your files in many different cloud storage locations (Google Drive, OneDrive, GitHub, ... ), in your browser, or on your local computer. You are free to view, edit, publish and share them at any time. 
+Because draw.io works on a [bring-your-own-storage model](/blog/secure-diagramming-storage.html), your files are not locked behind a paywall. You can choose to store your files in many different cloud storage locations (Google Drive, OneDrive, GitHub, ... ), in your browser, or on your local computer. You are free to view, edit, publish and share them at any time. 
 
-**Tip:** [diagrams.net also integrates well with Google Classroom](/blog/google-classroom-diagrams.html). See below for more details.
+**Tip:** [draw.io also integrates well with Google Classroom](/blog/google-classroom-diagrams.html). See below for more details.
 
 ## How to import Lucidchart diagrams
 
-By using the free diagrams.net and draw.io Importer extension for the Google Chrome browser, you can convert all of your Lucidchart diagrams to draw.io in a couple of steps. 
+By using the free draw.io Importer extension for the Google Chrome browser, you can convert all of your Lucidchart diagrams to draw.io in a couple of steps. 
 
-1. Install the [diagrams.net and draw.io Importer extension](https://chrome.google.com/webstore/detail/diagramsnet-and-drawio-im/cnoplimhpndhhhnmoigbanpjeghjpohi) in Google Chrome.
+1. Install the [draw.io Importer extension](https://chrome.google.com/webstore/detail/diagramsnet-and-drawio-im/cnoplimhpndhhhnmoigbanpjeghjpohi) in Google Chrome.
 2. Log into your Lucidchart account in one tab. 
 3. Open another tab and go to [app.diagrams.net/tools/lucid/import.html](https://app.diagrams.net/tools/lucid/import.html)
 4. Click on a diagram file to see a preview and select or deselect it, or click _Select all_ to select everything, then click _Import_. 
-<br /><img src="/assets/img/blog/lucidchart-chrome-importer.gif" style="width=100%;max-width:400px;height:auto;" alt="Use Google Chrome with the diagrams.net and draw.io Importer extension to convert all your Lucidchart diagrams to the .drawio format in one step">
+<br /><img src="/assets/img/blog/lucidchart-chrome-importer.gif" style="width=100%;max-width:400px;height:auto;" alt="Use Google Chrome with the draw.io Importer extension to convert all your Lucidchart diagrams to the .drawio format in one step">
 
 All of the selected diagrams will be converted and saved in a ``.zip`` file in your default downloads folder. Expand this ZIP file to access all of the diagrams, now in the ``.drawio`` format. 
 
-* Drag a ``.drawio`` diagram file into a new diagram in the app.diagrams.net editor or select _File > Import from_ in the menu then select your file to open it.
+* Drag a ``.drawio`` diagram file into a new diagram in the online editor at app.diagrams.net or select _File > Import from_ in the menu then select your file to open it.
 
-* If you have installed the [desktop version of diagrams.net](https://get.diagrams.net/), double click on a ``.drawio`` file to open it in the desktop application.
+* If you have installed the [draw.io Desktop](https://get.diagrams.net/), double click on any ``.drawio`` file to open it in the desktop application.
 
 ## Import a single Lucidchart diagram
 
-You can import diagrams individually from Lucidchart into diagrams.net. 
+You can import diagrams individually from Lucidchart into draw.io. 
 
 **Note:** It is important that you **use these keyboard shortcuts** to copy and to past your diagram.
 
 1. Open the diagram you wish to import in the Lucidchart editor.
 2. Select everything in the diagram with the keyboard shortcut ``Ctrl+A`` on Windows, ``Cmd+A`` on macOS.
 3. Copy everything you have selected with the keyboard shortcut ``Ctrl+C`` on Windows, ``Cmd+C`` on macOS. 
-4. Open a [new, blank diagram in diagrams.net](https://app.diagrams.net/?splash=0).
-5. Paste the diagram into diagrams.net with the keyboard shortcut ``Ctrl+V`` on Windows, ``Cmd+V`` on macOS, and save your new diagram file. 
-<br /><img src="/assets/img/blog/lucidchart-import-copy-paste.gif" style="width=100%;max-width:400px;height:auto;" alt="Use the keyboard shortcuts to copy all of the elements in your Lucidchart diagram and past it into the diagrams.net editor to convert a single diagram">
+4. Open a [new, blank diagram in draw.io](https://app.diagrams.net/?splash=0).
+5. Paste the diagram into draw.io with the keyboard shortcut ``Ctrl+V`` on Windows, ``Cmd+V`` on macOS, and save your new diagram file. 
+<br /><img src="/assets/img/blog/lucidchart-import-copy-paste.gif" style="width=100%;max-width:400px;height:auto;" alt="Use the keyboard shortcuts to copy all of the elements in your Lucidchart diagram and past it into the draw.io editor to convert a single diagram">
 
 ## Work with educational diagrams
 

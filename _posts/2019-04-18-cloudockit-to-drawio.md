@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: cloudockit-to-drawio
 page.date: 2019-04-18
 title: Export from Cloudockit to a .drawio diagram
@@ -21,7 +21,7 @@ Updated diagrams can be generated on a schedule and exported to document how you
 
 <img src="/assets/img/blog/cloudockit-to-drawio-options.png" style="width=100%;max-width:400px;height:auto;" alt="Export from Cloudockit to a .drawio file">
 
-You can also choose to have your documentation exported to a Word or PDF document or an Excel spreadsheet as well as a few other diagramming formats. Of course, as diagrams.net and its .drawio file format are open source and available to everyone, this is the best diagram format to use.
+You can also choose to have your documentation exported to a Word or PDF document or an Excel spreadsheet as well as a few other diagramming formats. Of course, as the draw.io editor and its .drawio file format are open source and available to everyone, this is the best diagram format to use.
 
 Use the left hand menu and settings to change what components are included in your diagram and what sections are include in your report.
 

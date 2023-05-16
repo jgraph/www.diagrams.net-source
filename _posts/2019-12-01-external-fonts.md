@@ -1,14 +1,14 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: external-fonts
 date: 2019-12-01 09:21:00
-title: Using external or custom fonts in diagrams.net
+title: Using external or custom fonts in draw.io
 tags: [features, fonts]
 categories: [features, text]
 ---
 
-If you don't want to use the fonts that are available by default in diagrams.net, you can use your own custom fonts or external fonts, such as Google's fonts or web fonts stored on your own server. This is useful when you need to match the style guide of a publication, your company's corporate image, or to add interest and emphasis in an infographic.
+If you don't want to use the fonts that are available by default in draw.io, you can use your own custom fonts or external fonts, such as Google's fonts or web fonts stored on your own server. This is useful when you need to match the style guide of a publication, your company's corporate image, or to add interest and emphasis in an infographic.
 
 It's easy to specify a different system font, use a Google font, or even use your own web font by providing its URL.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: disable-resize-children
 page.date: 2018-09-16
 title: Disable resize children to resize grouped shapes individually

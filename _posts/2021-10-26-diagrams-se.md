@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: diagrams-se
 date: 2200-10-26 09:10:00
 title: Enhanced security with Google Workplace and se.diagrams.net
@@ -8,9 +8,9 @@ tags: [data protection, integrations]
 categories: [trust, integrations, features]
 ---
 
-Many diagrams in companies contain highly sensitive data - you don't want to share this data outside of your company's cloud systems. A stricter content security policy lets you diagram securely with [se.diagrams.net](https://se.diagrams.net), storing your diagram file in your Google Workspace or Google Drive account. 
+Many diagrams in companies contain highly sensitive data - you don't want to share this data outside of your company's cloud systems. A stricter content security policy lets you diagram securely with draw.io via our online editor at [se.diagrams.net](https://se.diagrams.net), storing your diagram file in your Google Workspace or Google Drive account. 
 
-Features that require conversion tools on the diagrams.net servers, required to import and export files in a couple of formats, are not available when you use se.diagrams.net. 
+Features that require conversion tools on our servers, required to import and export files in a couple of formats, are not available when you use se.diagrams.net. 
 
 All other features that require processing of your diagram data are done directly in your browser. This ensures your diagram data is only communicated between your browser and your Google Workplace account.
 
@@ -18,17 +18,17 @@ All other features that require processing of your diagram data are done directl
 
 ## Diagram securely
 
-diagrams.net is a unique security-first diagramming tool in that we provide the application platform, but your diagram data only lives in your browser while you are working on it, and in your Google Drive or Workspace account at rest. 
+draw.io is a unique security-first diagramming tool in that we provide the application platform, but your diagram data only lives in your browser while you are working on it, and in your Google Drive or Workspace account at rest. 
 
-We are dedicated to data security - we don’t use any trackers within our diagram editor or store your diagram data. Your [diagram data is secure and private when you use diagrams.net](/blog/data-protection.html). The few conversion tools that require remote server functionality are not available on se.diagrams.net.
+We are dedicated to data security - we don’t use any trackers within our diagram editor or store your diagram data. Your [diagram data is secure and private when you use draw.io](/blog/data-protection.html). The few conversion tools that require remote server functionality are not available on se.diagrams.net.
 
-<img src="/assets/img/blog/ibm-iot-network-diagram-template.png" style="width=100%;max-width:500px;height:auto;" alt="IBM Internet of Things template network diagram from diagrams.net">
+<img src="/assets/img/blog/ibm-iot-network-diagram-template.png" style="width=100%;max-width:500px;height:auto;" alt="IBM Internet of Things template network diagram from draw.io">
 
 ### Protect sensitive diagram data 
 
 Many types of diagrams require stricter data security in a corporate context: [entity relationship diagrams](/blog/entity-relationship-tables.html) for modelling or documenting databases, infrastructure and network diagrams, sensitive business processes and [BPMN diagrams](/blog/bpmn-2-0.html), supply chain dependencies, business models, attack trees and flows in [threat modelling](/blog/threat-modelling.html), and even [UML diagrams](/blog/uml-2-5.html) that expose the inner workings of your applications' code.
 
-Because your sensitive diagram data doesn't leave your infrastructure and is never stored on the diagrams.net servers, se.diagrams.net is a tool which lets you comply with data protection certifications such as ``ISO 27000``, ``27001`` and ``27002``.
+Because your sensitive diagram data doesn't leave your infrastructure and is never stored on the our servers, se.diagrams.net is a tool which lets you comply with data protection certifications such as ``ISO 27000``, ``27001`` and ``27002``.
 
 <img src="/assets/img/blog/bpmn-orchestration-vs-choreography.png" style="width=100%;max-width:500px;height:auto;" alt="Where orchestration models show process flow in BPMN diagrams, choreography models focus on the message passing between two (or more) roles.">
 
@@ -40,7 +40,7 @@ Because your sensitive diagram data doesn't leave your infrastructure and is nev
 * When you select _File > Export As > PDF_, it will automatically open a dialog where you can [print your diagram to a PDF file](/doc/faq/pdf-print-to.html).
 * The conversion to a ``.vsdx`` file is done in your browser. Select _File > Export As > VSDX_ to export to this format.
 
-**PlantUML:** PlantUML is a text description of a UML diagram, which is converted into a SVG or PNG image shape using tools on the diagrams.net servers. PlantUML conversion is not available when you use se.diagrams.net as diagram data is never sent to our servers. 
+**PlantUML:** PlantUML is a text description of a UML diagram, which is converted into a SVG or PNG image shape using tools on the our servers. PlantUML conversion is not available when you use se.diagrams.net as diagram data is never sent to our servers. 
 
 Use the [Mermaid syntax](/blog/mermaid-diagrams.html) instead: _Arrange > Insert > Advanced > Mermaid_
 

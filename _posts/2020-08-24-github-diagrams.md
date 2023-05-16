@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: embed-diagrams-github-markdown
 date: 2020-08-24 09:43:00
 title: Embed a diagram in GitHub markdown
@@ -12,7 +12,7 @@ You can use a versioned diagram in a GitHub README file in a number of different
 
 You can also [use GitHub as the storage location for your diagrams](https://app.diagrams.net/?mode=github), even if you don't plan to display them in the README files.
 
-The integration with GitHub to display and edit diagrams uses the [diagrams.net embed mode](https://github.com/jgraph/drawio-integration), where the storage of the diagram is taken care of by a host application (GitHub), and where diagrams.net is used for diagram editing.
+The integration with GitHub to display and edit diagrams uses the draw.io editor's [embed mode](https://github.com/jgraph/drawio-integration), where the storage of the diagram is taken care of by a host application (GitHub), and where our online editor (app.diagrams.net) is used for diagram editing.
 
 Embedded diagrams and diagram editing in Github support the following file formats: ``.png``, ``.svg``, ``.html`` and ``.xml`` (default)
 
@@ -30,7 +30,7 @@ Embedded diagrams and diagram editing in Github support the following file forma
 
 Using the file ``edit-diagram.html``, [available from our GitHub repository](https://github.com/jgraph/drawio-github), you can enable developers with appropriate access to edit the diagrams embedded in Github markdown pages.
 
-The ``edit-diagram.html`` file interfaces with GitHub and uses diagrams.net in embed mode allowing you to edit and save diagrams stored in a repository. The following URL parameters are required: ``user``, ``pass``, ``repo``, ``path``, ``ref`` and ``action=open``.
+The ``edit-diagram.html`` file interfaces with GitHub and uses draw.io in embed mode allowing you to edit and save diagrams stored in a repository. The following URL parameters are required: ``user``, ``pass``, ``repo``, ``path``, ``ref`` and ``action=open``.
 
 Use ``action=open``, and pass the ``user`` and ``pass`` parameters to create links that let your developers immediately edit diagrams. Your link will look similar to the following.
 
@@ -42,7 +42,7 @@ Use ``action=open``, and pass the ``user`` and ``pass`` parameters to create lin
 
 ### Use a diagram in GitHub as a template
 
-Pass the diagram as a [URL parameter](/doc/faq/supported-url-parameters.html) to diagrams.net to use the diagram stored in GitHub as a template. Your link will look something like the following:
+Pass the diagram as a [URL parameter](/doc/faq/supported-url-parameters.html) to the draw.io editor at app.diagrams.net to use the diagram stored in GitHub as a template. Your link will look something like the following:
 
 ``https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-github%2Fmaster%2Fdiagram.png``
 

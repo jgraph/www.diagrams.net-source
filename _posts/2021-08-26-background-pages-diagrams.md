@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: background-pages-diagrams
 date: 2021-08-26 16:10:00
 title: Using pages as backgrounds
@@ -8,7 +8,7 @@ tags: [features]
 categories: [features]
 ---
 
-One of the [most requested features](https://github.com/jgraph/drawio/issues/60) for diagrams.net and draw.io was the concept of using one or more pages as backgrounds for other pages. This could be a background graphic to provide a consistent branding across your diagrams. Another popular use case is more technical diagrams where each page displays a border with an information block in a specific format and dimensions.
+One of the [most requested features](https://github.com/jgraph/drawio/issues/60) for draw.io and draw.io was the concept of using one or more pages as backgrounds for other pages. This could be a background graphic to provide a consistent branding across your diagrams. Another popular use case is more technical diagrams where each page displays a border with an information block in a specific format and dimensions.
 
 Background pages are now implemented in the [15.0.0 editor release](https://github.com/jgraph/drawio/tree/v15.0.0).
 
@@ -28,7 +28,7 @@ Select your foreground page:
 
 <img src="/assets/img/blog/foreground-page.png" style="max-width:100%;height:auto;" alt="Foreground page to diagram">
 
-Note that we're using [built-in placeholders](https://www.diagrams.net/doc/faq/predefined-placeholders) within the information block.
+Note that we're using [built-in placeholders](/doc/faq/predefined-placeholders) within the information block.
 
 With nothing in the diagram selected click **change** in the right-hand **diagram** format panel to bring up the background dialog:
 
@@ -44,15 +44,15 @@ And the first page now contains the second page as a non-selectable background (
 
 ## Create a Template
 
-If you are using draw.io for Confluence you could add templates of your background pages in both [Cloud](https://www.diagrams.net/doc/faq/custom-templates-confluence-cloud) and [Data Center](https://www.diagrams.net/doc/faq/custom-templates-confluence-server).
+If you are using draw.io for Confluence you could add templates of your background pages in both [Cloud](/doc/faq/custom-templates-confluence-cloud) and [Data Center](/doc/faq/custom-templates-confluence-server).
 
 If you are storing your diagrams in Google Drive, you could create a background pages folder in your shared team drive that users can copy and use as a basis for their own diagrams.
 
 ## When can I use the features?
 
-There are a number of flavours of diagrams.net and draw.io that we, JGraph, are responsible for. There are also other packages that third-parties author. In the later case, ask your app author when they will update.
+There are a number of flavours of draw.io that we, JGraph, are responsible for. There are also other packages that third-parties author. In the later case, ask your app author when they will update.
 
-Of the apps we update:
+Of the apps we develop and maintain:
 
 * app.diagrams.net. Background pages are available in v15.0.2 (see the help menu of the editor). If you are struggling to update in a particular browser, close the app, go to [https://app.diagrams.net/clear.html](https://app.diagrams.net/clear.html) and try re-opening it.
 

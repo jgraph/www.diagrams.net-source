@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: venn-diagrams
 date: 2022-05-23 09:43:00
 title: Venn diagrams and templates
@@ -9,8 +9,8 @@ categories: [use-cases, templates, shape-libraries]
 ---
 
 Venn diagrams are widely used in business, education and research to visualise commonalities and differences. Although, you have probably most often seen theme used in memes.
-<br />[<img src="/assets/img/blog/venn-template1.png" style="width=100%;max-width:500px;height:auto;" alt="diagrams.net and draw.io have many Venn diagram templates with various numbers of sets">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fvenn%2Fvenn_9.xml)
-<br />[_Open this Venn diagram in the diagrams.net viewer_](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fvenn%2Fvenn_9.xml)
+<br />[<img src="/assets/img/blog/venn-template1.png" style="width=100%;max-width:500px;height:auto;" alt="draw.io comes with many Venn diagram templates with various numbers of sets">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fvenn%2Fvenn_9.xml)
+<br />[_Open this Venn diagram in our diagram viewer_](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fvenn%2Fvenn_9.xml)
 
 ## How to read a Venn diagram
 
@@ -21,9 +21,9 @@ Occasionally, larger and smaller circles show the relative sizes of the sets, or
 ## When to use Venn diagrams
 
 Survey results, disease symptoms, feature lists, behaviour triggers, characteristics, risk factors, group interests or hobbies, opinions held by different groups, course entrance requirements, ... 
-<br /><img src="/assets/img/blog/venn-example.png" style="width=100%;max-width:250px;height:auto;" alt="Create a Venn diagram in draw.io and diagrams.net to visualise the similarities and differences between groups">
+<br /><img src="/assets/img/blog/venn-example.png" style="width=100%;max-width:250px;height:auto;" alt="Create a Venn diagram in draw.io to visualise the similarities and differences between groups">
 
-You can visualise any data based on groups (sets) and their characteristics to see what aspects are shared and what aren't, using the basic shapes at [app.diagrams.net](https://app.diagrams.net) and our draw.io apps. Alternatively, start with a template from the Venn category.
+You can visualise any data based on groups (sets) and their characteristics to see what aspects are shared and what aren't, using the basic shapes in our [online draw.io editor](https://app.diagrams.net) and our draw.io apps. Alternatively, start with a template from the Venn category.
 
 * **Compare two companies** in the same industry and show which products are produced by both companies, and which exclusive products each company offers. 
 * Organise the **characteristics or interests of different groups** to find your ideal target market or user group.
@@ -33,13 +33,13 @@ You can visualise any data based on groups (sets) and their characteristics to s
 * Compare the **needs versus desires** of different user groups or target markets.
 * **Show how many people preferred each product** or process when surveyed to make better business decisions.
 
-## Venn diagram templates in draw.io and diagrams.net
+## Venn diagram templates in draw.io
 
 1. Create a new diagram, or select _Arrange > Insert > Template_ to open the template manager. 
 2. Click on the _Venn_ category on the left to see a variety of Venn diagram templates with 3-8 sets. Click on the magnifying glass in the top right of any template to see a larger preview.
-<br /><img src="/assets/img/blog/template-venn-insert.png" style="width=100%;max-width:350px;height:auto;" alt="diagrams.net and draw.io have many Venn diagram templates with various numbers of sets">
-3. Select one of the templates, and click _Insert_ (or _Create_) to add it to the drawing canvas. 
-4. Double click on any text labels to edit it.
+<br /><img src="/assets/img/blog/template-venn-insert.png" style="width=100%;max-width:350px;height:auto;" alt="draw.io has many Venn diagram templates with various numbers of sets">
+1. Select one of the templates, and click _Insert_ (or _Create_) to add it to the drawing canvas. 
+2. Double click on any text labels to edit it.
 
 ## Draw your own Venn diagram
 
@@ -48,8 +48,8 @@ Add two or more **_Circle_ or _Ellipse_ shapes** from the _General_ shape librar
 Use the Style tab in the format panel to **add colour**, and **reduce the opacity** of the shapes so you can clearly see the overlapping segments.
 
 **Add text shapes** from the _General_ shape library, and drag them into good positions on the set circles and intersections to fine-tune the text placement, or list multiple characteristics in each segment.
-<br />[<img src="/assets/img/blog/venn-template2.png" style="width=100%;max-width:500px;height:auto;" alt="diagrams.net and draw.io have many Venn diagram templates with various numbers of sets">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fvenn%2Fvenn_8.xml)
-<br />[_Open this Venn diagram in the diagrams.net viewer_](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fvenn%2Fvenn_8.xml)
+<br />[<img src="/assets/img/blog/venn-template2.png" style="width=100%;max-width:500px;height:auto;" alt="draw.io has many Venn diagram templates with various numbers of sets">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fvenn%2Fvenn_8.xml)
+<br />[_Open this Venn diagram in our diagram viewer_](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fvenn%2Fvenn_8.xml)
 
 ## Euler diagrams versus Venn diagrams
 
@@ -68,4 +68,4 @@ You'll find that the terms Venn diagrams, Euler diagrams, set diagrams, and logi
 
 ### Draw many types of diagrams in our apps
 
-You can create a wide range of diagrams using diagrams.net or our draw.io apps. Have a browse through the [many different diagram use cases](/blog/use-cases.html) featured here on our blog.
+You can create a wide range of diagrams using draw.io. Have a browse through the [many different diagram use cases](/blog/use-cases.html) featured here on our blog.

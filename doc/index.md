@@ -41,7 +41,11 @@ Troubleshooting, how-to instructions, example diagrams and training for the draw
 <br />
 ## draw.io in Atlassian Confluence and Jira
 
-The draw.io app for Atlassian's Confluence and Jira uses the code draw.io editor. Once you are familiar with how to use the editor above, follow the guide below to learn how to customise the draw.io app for Confluence, mass convert all of your images in an instance and troubleshoot problems that are specific to this integration.
+The draw.io app for Atlassian's Confluence and Jira has the same tools and libraries as our free web editor, with extra functionality for revision control, mass import of Gliffy diagrams, collaborative editing, embedded diagrams from Confluence in Jira issues and more. 
+
+Learn the draw.io editor by following the various tutorials linked above. 
+
+If you're an administrator, follow the guides below to learn how to customise the draw.io app for Confluence for your users, mass convert all of the Gliffy diagrams in an instance, and troubleshoot problems that are specific to this draw.io integration.
 
 * **Users:** [Learn to use draw.io for Confluence Cloud](/doc/drawio-confluence-cloud.html)
 * **Administrators:** [Set up and customise draw.io for Confluence Cloud](/doc/drawio-confluence-cloud-admin.html)

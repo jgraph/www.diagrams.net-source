@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: gliffy-vs-drawio
 date: 2022-04-12 09:43:00
 title: Gliffy vs draw.io - concurrent editing

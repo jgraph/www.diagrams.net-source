@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: story-mapping
 date: 2021-02-24 09:43:00
 title: Story mapping 
@@ -17,7 +17,7 @@ A use case diagram shows all of the ways an end-user interacts with your systems
 
 UML use case diagrams are not used for scheduling or broad planning purposes as they are highly technical and specific, but instead function as the foundation for a system's technical documentation. 
 <br />[<img src="/assets/img/blog/uml-use-case-example.png" style="width=100%;max-width:500px;height:auto;" alt="An example of a use case diagram">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fuml-use-case-example.drawio)
-<br />[_Customer updates their account - open this use case diagram in diagrams.net_](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fuml-use-case-example.drawio)
+<br />[_Customer updates their account - open this use case diagram our online diagram viewer_](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fuml-use-case-example.drawio)
 
 ## User stories or story maps
 
@@ -46,21 +46,21 @@ Such customer-focused stories are very popular in agile development, where user 
 
 Story mapping is traditionally done with sticky notes on a whiteboard in some kind of a grid layout, which is not really usable when you work in distributed teams. 
 
-In today's remote world, you can replicate the whiteboard and story map digitally in diagrams.net using table shapes, containers with swimlines (such as those used for cross-functional flowcharts), or even just rectangles arranged on the drawing canvas. 
+In today's remote world, you can replicate the whiteboard and story map digitally in draw.io using table shapes, containers with swimlanes (such as those used for cross-functional flowcharts), or even just rectangles arranged on the drawing canvas. 
 
-[Start story mapping at app.diagrams.net](https://app.diagrams.net/?splash=0)
+[Start story mapping in draw.io with our online editor at app.diagrams.net](https://app.diagrams.net/?splash=0)
 
 [<img src="/assets/img/blog/story-mapping-example-update-account.png" style="max-width:100%;height:auto;" alt="Story mapping an activity that a customer wants to complete - update their account">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&page=1&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fstory-map.drawio)
-<br />[_Open this story map in the diagrams.net viewer_](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&page=1&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fstory-map.drawio)
+<br />[_Open this story map in our diagram viewer_](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&page=1&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fstory-map.drawio)
 
 _Story mapping an activity that the customer wants to complete (update their account) should not include the technical details. This story map is constructed in a cross-functional flowchart shape._
 
 ## How to structure a story map
 
-1. **Understand your customers:** Identify their goals and the broad actvities they want to do to reach their goals. These activities top of your map are the big stories - main actions that have many steps. Put them in the top row of a [table shape or cross-functional flowchart with swimlanes](/blog/tables.html) from the _Advanced_ shape library. 
+1. **Understand your customers:** Identify their goals and the broad activities they want to do to reach their goals. These activities top of your map are the big stories - main actions that have many steps. Put them in the top row of a [table shape or cross-functional flowchart with swimlanes](/blog/tables.html) from the _Advanced_ shape library. 
 <br />For example, ``As a [customer], I want to [order groceries online]``. 
 
-2. **Break activities into smaller steps:** Mustomers must complete these smaller tasks to acheive their goal: ``browse products``, ``add product to shopping cart``, ``select delivery window``, ``enter payment details``, and so on. There may or may not be a definite workflow, and tasks can be broken down into smaller sub-tasks when they are too large.
+2. **Break activities into smaller steps:** Customers must complete these smaller tasks to achieve their goal: ``browse products``, ``add product to shopping cart``, ``select delivery window``, ``enter payment details``, and so on. There may or may not be a definite workflow, and tasks can be broken down into smaller sub-tasks when they are too large.
 
 3. **Organise the tasks and subtasks sequentially:** Arrange the smaller tasks and sub-tasks sequentially underneath their activities in order from left to right (or whichever way you prefer to read your diagrams). This can show the order in which your customer completes the activities and tasks.
 <br /><img src="/assets/img/blog/story-mapping-order-by-time.png" style="width=100%;max-width:400px;height:auto;" alt="Order tasks from left to right by time - in the sequence the customer performs the activities and tasks">
@@ -75,7 +75,7 @@ _Story mapping an activity that the customer wants to complete (update their acc
 * The simpler the shapes you use in your story map, the easier it will be to create and use. 
 
 [<img src="/assets/img/blog/story-mapping-example-purchase-groceries.png" style="max-width:100%;height:auto;" alt="An example of a use case diagram">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fstory-map.drawio)
-<br />[_Open this story map in the diagrams.net viewer_](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fstory-map.drawio)
+<br />[_Open this story map in our diagram viewer_](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fstory-map.drawio)
 
 _This story map of a customer who wants to purchase groceries online uses simple shapes from the General shape library._
 
@@ -93,6 +93,6 @@ Track development in your story map, just as you planned your project using it. 
 
 ## Walk through your story map with your customers
 
-You can easily [publish your diagrams.net story map online](/blog/share-diagrams-via-google.html) and share it with your customers to support communication, provide a shared understanding, and generate new ideas. 
+You can easily [publish your draw.io story map online](/blog/share-diagrams-via-google.html) and share it with your customers to support communication, provide a shared understanding, and generate new ideas. 
 
 Walk through the story map with them to check activity details and gain insights from your customers. 

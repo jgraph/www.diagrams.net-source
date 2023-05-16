@@ -1,9 +1,9 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: use-connectors
 date: 2021-03-30 09:24:00
-title: Draw and style connectors in diagrams.net
+title: Draw and style connectors in draw.io
 tags: [features, connectors]
 categories: [features, connectors]
 ---
@@ -12,11 +12,11 @@ Connectors are lines that connect your shapes together and may or may not have a
 
 Connectors are used to group related information and systems, show flow of information and control, and specify the complex relationships between functions and systems in UML diagrams.
 
-**Tip:** Connectors are also known as lines or edges. Some of the properties in diagrams.net that affect connectors use the term 'edge' when defining connector styles.
+**Tip:** Connectors are also known as lines or edges. Some of the properties in draw.io that affect connectors use the term 'edge' when defining connector styles.
 
 ## Floating and fixed connectors
 
-There are two main types of connectors in diagrams.net. 
+There are two main types of connectors in draw.io. 
 
 **Floating connectors** - These move around the perimeter of your shapes as you move them around the drawing canvas, or change the route that the connector takes. 
 
@@ -32,7 +32,7 @@ You can change a shape's style to only allow connectors to attach to connection 
 
 While there are a number of connector shapes available in the shape libraries, it is easier to draw connectors between shapes on the drawing canvas, then style them as you need. 
 
-There are several different ways you can draw connectors in diagrams.net.
+There are several different ways you can draw connectors in draw.io.
 
 **Draw a floating connector:** Hover over an existing shape, click and drag a connector from one of the four directional arrows and hover over the target shape. Drop the connector end when the shape outline is blue. You'll see the end of the connector turn blue with a circle to indicate it's a floating connection.
 <br /><img src="/assets/img/blog/connector-floating.png" style="width=100%;max-width:400px;height:auto;" alt="Floating connector - Drop the connector on the target shape when the outline is blue">
@@ -53,7 +53,7 @@ Use the [waypoint shape in the _Misc_ shape library](/blog/waypoint-shape.html) 
 
 ### Add connectors automatically when you add a new shape
 
-When you add new shapes to the drawing canvas, diagrams.net can automatically add connectors between them.
+When you add new shapes to the drawing canvas, draw.io can automatically add connectors between them.
 
 **Clone and connect a shape:** Hover over a shape and click on a direction arrow towards a blank space on the drawing canvas, then select a shape to add and connect it in that direction. 
 <br /><img src="/assets/img/blog/clone-connect.gif" alt="Clone and connect by hovering over a shape and clicking on the blue arrows" style="width=100%;max-width:300px;height:auto;"  >
@@ -100,43 +100,43 @@ The default connector style is a solid line with an arrow head at the target end
 
 Just like you can change a shape's colour and outline, you can change a selected connector's colour and line style, and set the ends of a connector to have an arrow or another symbol, using the options in the _Style_ tab of the format panel on the right. 
 
-<img src="/assets/img/blog/connector-style-tools.png" style="width=100%;max-width:400px;;height:auto;" alt="The Style tab in the format panel and the connector tools in the tool bar let you change the style of a selected connector in diagrams.net">
+<img src="/assets/img/blog/connector-style-tools.png" style="width=100%;max-width:400px;;height:auto;" alt="The Style tab in the format panel and the connector tools in the tool bar let you change the style of a selected connector in draw.io">
 
 Here is how the various connector styles appear in a diagram in the editor.
 
 **Sharp/rounded/curved** - this changes how the 'bends' in a connector appear, whether there is a sharp or slightly rounded corner when it changes direction, or a smooth curve.
-<br /><img src="/assets/img/blog/style-tab-line-style.png" style="width=100%;max-width:500px;height:auto;" alt="Style your connector using the options in the Style tab in the format panel on the right in diagrams.net">
+<br /><img src="/assets/img/blog/style-tab-line-style.png" style="width=100%;max-width:500px;height:auto;" alt="Style your connector using the options in the Style tab in the format panel on the right in draw.io">
 
 **Colour** - Click on the colour button next to the line style to open the palette and choose a different colour for the connector.
-<br /><img src="/assets/img/blog/style-tab-colour.png" style="width=100%;max-width:300px;height:auto;" alt="Style your connector using the options in the Style tab in the format panel on the right in diagrams.net">
+<br /><img src="/assets/img/blog/style-tab-colour.png" style="width=100%;max-width:300px;height:auto;" alt="Style your connector using the options in the Style tab in the format panel on the right in draw.io">
 
 **Connection** - Use the top-left drop-down list to choose how the line appears - a single solid line, a double line, or two style of 'thick' arrows. Drag the diamond grab handles on a selected double-line connector to change the size of the gap and/or the arrow head.
-<br /><img src="/assets/img/blog/style-tab-connection.png" style="width=100%;max-width:500px;height:auto;" alt="Style your connector using the options in the Style tab in the format panel on the right in diagrams.net">
+<br /><img src="/assets/img/blog/style-tab-connection.png" style="width=100%;max-width:500px;height:auto;" alt="Style your connector using the options in the Style tab in the format panel on the right in draw.io">
 
 **Pattern** - Use the top-middle drown-down list to select a different pattern for the connector's line/outline. Choose from solid, dashed, or dotted in various patterns. 
-<br /><img src="/assets/img/blog/style-tab-pattern.png" style="width=100%;max-width:500px;height:auto;" alt="Style your connector using the options in the Style tab in the format panel on the right in diagrams.net">
+<br /><img src="/assets/img/blog/style-tab-pattern.png" style="width=100%;max-width:500px;height:auto;" alt="Style your connector using the options in the Style tab in the format panel on the right in draw.io">
 
 **Thickness** - Enter a new ``pt`` value in the textbox to change the thickness of the connector's line/outline.
-<br /><img src="/assets/img/blog/style-tab-thickness.png" style="width=100%;max-width:300px;height:auto;" alt="Style your connector using the options in the Style tab in the format panel on the right in diagrams.net">
+<br /><img src="/assets/img/blog/style-tab-thickness.png" style="width=100%;max-width:300px;height:auto;" alt="Style your connector using the options in the Style tab in the format panel on the right in draw.io">
 
 **Waypoints** - Select one of the predefined paths which will determine how many [waypoints](/blog/waypoints-connectors.html) are added to the connector. 
-<br /><img src="/assets/img/blog/style-tab-waypoints.png" style="width=100%;max-width:600px;height:auto;" alt="Style your connector using the options in the Style tab in the format panel on the right in diagrams.net">
+<br /><img src="/assets/img/blog/style-tab-waypoints.png" style="width=100%;max-width:600px;height:auto;" alt="Style your connector using the options in the Style tab in the format panel on the right in draw.io">
 <br />In the example above, you can see that the different styles have very different waypoints. The entity relation waypoint style always leaves the source shape and enters the target shape on the same side and has two orthogonal bends in the connector - there are no other waypoints in this style of connector.
 
 **Source and target 'arrow' heads** - Select a connector head from the very large drop down list. There are many different types of arrows and symbols. Choose ``None`` for just a plain line.
-<br /><img src="/assets/img/blog/style-tab-line-start-line-end.png" style="width=100%;max-width:400px;height:auto;" alt="Style your connector using the options in the Style tab in the format panel on the right in diagrams.net">
+<br /><img src="/assets/img/blog/style-tab-line-start-line-end.png" style="width=100%;max-width:400px;height:auto;" alt="Style your connector using the options in the Style tab in the format panel on the right in draw.io">
 
 **Line end** and **Line start** - Set the size of the arrow head or symbol, and the space between it and the shape outline. Negative values for spacing will position the end of the connector inside the shape boundary.
-<br /><img src="/assets/img/blog/style-tab-line-end-line-start.png" style="width=100%;max-width:300px;height:auto;" alt="Style your connector using the options in the Style tab in the format panel on the right in diagrams.net">
+<br /><img src="/assets/img/blog/style-tab-line-end-line-start.png" style="width=100%;max-width:300px;height:auto;" alt="Style your connector using the options in the Style tab in the format panel on the right in draw.io">
 
 **Line jumps** - Choose how overlapping connectors should be displayed. Change the size of the gap by entering a new number in the text box to the right of the line jump style. 
-<br /><img src="/assets/img/blog/style-tab-line-jumps.png" style="width=100%;max-width:500px;height:auto;" alt="Style your connector using the options in the Style tab in the format panel on the right in diagrams.net">
+<br /><img src="/assets/img/blog/style-tab-line-jumps.png" style="width=100%;max-width:500px;height:auto;" alt="Style your connector using the options in the Style tab in the format panel on the right in draw.io">
 
 **Opacity** - Change the opacity percentage to let shapes and connectors that are underneath your selected connector show through.
-<br /><img src="/assets/img/blog/style-tab-opacity.png" style="width=100%;max-width:300px;height:auto;" alt="Style your connector using the options in the Style tab in the format panel on the right in diagrams.net">
+<br /><img src="/assets/img/blog/style-tab-opacity.png" style="width=100%;max-width:300px;height:auto;" alt="Style your connector using the options in the Style tab in the format panel on the right in draw.io">
 
 **Shadow** and **Sketch** - Enable the checkboxes to add a shadow to your connector, or make your connector look roughly hand-drawn.
-<br /><img src="/assets/img/blog/style-tab-shadow-sketch.png" style="width=100%;max-width:350px;height:auto;" alt="Style your connector using the options in the Style tab in the format panel on the right in diagrams.net">
+<br /><img src="/assets/img/blog/style-tab-shadow-sketch.png" style="width=100%;max-width:350px;height:auto;" alt="Style your connector using the options in the Style tab in the format panel on the right in draw.io">
 
 You can [copy and paste connector styles](/doc/faq/styles-copy-paste.html) just like you would shape styles using the two buttons in the _Style_ tab of the format panel - _Copy Style_ and _Paste Style_.
 

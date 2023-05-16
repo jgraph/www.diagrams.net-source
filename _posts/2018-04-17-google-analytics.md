@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: google-analytics
 page.date: 2018-04-17
 title: Data privacy and Google Analytics
@@ -20,7 +20,7 @@ The other problem with any kind of analytics/tracking is GDPR isn’t clear whet
 
 The downside for us is we lose all analytics data, but we’re believers in the GDPR and intend to comply with the spirit of the law, not simply the wording.
 
-**Update:** now that the GDPR is in force, we have completed all of the tasks on the Trello board. The [diagrams.net privacy and security processes and measures are fully documented on GitHub](https://github.com/jgraph/security-privacy-legal)
+**Update:** now that the GDPR is in force, we have completed all of the tasks on the Trello board. Our [privacy and security processes and measures are fully documented on GitHub](https://github.com/jgraph/security-privacy-legal)
 
-[<img src="/assets/img/blog/security-privacy-legal-github.png" style="width=100%;max-width:500px;height:auto;" alt="diagrams.net's versioned security, privacy and legal documentation on GitHub">](https://github.com/jgraph/security-privacy-legal)
+[<img src="/assets/img/blog/security-privacy-legal-github.png" style="width=100%;max-width:500px;height:auto;" alt="draw.io's versioned security, privacy and legal documentation on GitHub">](https://github.com/jgraph/security-privacy-legal)
 

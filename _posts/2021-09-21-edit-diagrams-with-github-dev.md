@@ -1,9 +1,9 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: edit-diagrams-with-github-dev
 date: 2021-09-21 09:13:00
-title: Edit diagrams directly in GitHub with diagrams.net and github.dev
+title: Edit diagrams directly in GitHub with draw.io and github.dev
 tags: [features]
 categories: [features,integrations]
 ---
@@ -16,7 +16,7 @@ For developers, github.dev allows you to edit files stored in GitHub repositorie
 
 The [github.dev](https://github.dev/github/dev) version of the site is useful when you want to have more editing and syntax highlighting features in your web browser as you step through, test and edit code in a GitHub repository. 
 
-This lightweight web-based editor runs entirely within your browser's sandbox, similar to the [diagrams.net editor](https://app.diagrams.net), and does not need to explicitly clone a repository to work with the files within it, unlike a desktop code editor. 
+This lightweight web-based editor runs entirely within your browser's sandbox, similar to our [free online diagram editor](https://app.diagrams.net), and does not need to explicitly clone a repository to work with the files within it, unlike a desktop code editor. 
 
 See the [github.dev documentation](https://github.co/codespaces-editor-help) for more details.
 

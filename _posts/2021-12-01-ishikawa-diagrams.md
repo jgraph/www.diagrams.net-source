@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: ishikawa-diagrams
 date: 2021-12-01 15:02:00
 title: Ishikawa diagrams for root cause analyses
@@ -25,14 +25,14 @@ The problem or event is to the right, as the 'head' of the fish. The broad categ
 
 [Learn more about working with multi-page diagrams](/blog/multiple-page-diagrams.html)
 
-## Ishikawa diagrams in diagrams.net
+## Ishikawa diagrams in draw.io
 
-The [diagrams.net template library](/blog/template-diagrams.html) provides you with a few Ishikawa diagram templates, so you don't need to draw the skeleton every time - just change the labels on an existing example to suit your use case. 
+The [draw.io template library](/blog/template-diagrams.html) provides you with a few Ishikawa diagram templates, so you don't need to draw the skeleton every time - just change the labels on an existing example to suit your use case. 
 
 1. Create a new diagram, or click _Arrange > Insert > Template_ to open the template library.
 2. Select the _Business_ category, then scroll down to find the Ishikawa templates. Click on the magnifying glass to see a larger preview. 
 3. Select one of the templates, then click _Create_ or _Insert_ to add it to the drawing canvas.
-<br /><img src="/assets/img/blog/template-ishikawa-insert.png" style="width=100%;max-width:300px;height:auto;" alt="Add an Ishikawa diagram template to the drawing canvas in diagrams.net">
+<br /><img src="/assets/img/blog/template-ishikawa-insert.png" style="width=100%;max-width:300px;height:auto;" alt="Add an Ishikawa diagram template to the drawing canvas in draw.io">
 
 **Edit your diagram** 
 
@@ -49,7 +49,7 @@ Remove or add new 'ribs' as needed. First drag a selection box around an existin
 <br /><img src="/assets/img/blog/ishikawa-delete-rib.gif" style="width=100%;max-width:300px;height:auto;" alt="Select and delete unnecessary ribs in an Ishikawa diagram using a selection box and pressing the Delete or Backspace keys">
 
 **Add new ribs:** If you want to create a new rib, press ``Ctrl+C`` then ``Ctrl+V`` to copy and paste, then drag the new rib into its position. You may need to extend the backbone before you attach the new rib to it. 
-<br /><img src="/assets/img/blog/ishikawa-add-rib.gif" style="width=100%;max-width:600px;height:auto;" alt="Copy existing ribs, paste the copy and move them into position to extend an Ishikawa diagram in diagrams.net">
+<br /><img src="/assets/img/blog/ishikawa-add-rib.gif" style="width=100%;max-width:600px;height:auto;" alt="Copy existing ribs, paste the copy and move them into position to extend an Ishikawa diagram in draw.io">
 
 **Tip:** [Waypoint shapes](/blog/waypoint-shape.html) can make it much easier to attach and move fishbone ribs in an Ishikawa diagram if you need to rearrange sub-branches and ribs regularly.
 
@@ -68,7 +68,7 @@ Ishikawa diagram content is domain specific - there are different standardised f
 This has been expanded in some instances to include three more Ms: mission, management, maintenance
 
 [<img src="/assets/img/blog/ishikawa-example-manufacturing.png" style="width=100%;max-width:600px;height:auto;" alt="An example of an manufacturing Ishikawa diagram for a defective part">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fishikawa-diagram-examples.drawio)
-<br />[_See this example in the diagrams.net lightbox_](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fishikawa-diagram-examples.drawio)
+<br />[_See this example in our diagram viewer_](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fishikawa-diagram-examples.drawio)
 
 ## Ishikawa diagrams in product marketing
 
@@ -77,7 +77,7 @@ Problems that cause a marketing campaign to underperform or fail are quite diffe
 **7P:** This commonly expanded marketing mix is described by popular marketing theory for both physical and digital products and services: Product, Price, Place, Promotion, People, Process, and Proof.
 
 [<img src="/assets/img/blog/ishikawa-example-product-marketing.png" style="width=100%;max-width:500px;height:auto;" alt="An example of an Ishikawa diagram for a poorly selling product for a marketing analysis">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&page=2&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fishikawa-diagram-examples.drawio)
-<br />[_See this example in the diagrams.net lightbox_](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&page=2&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fishikawa-diagram-examples.drawio)
+<br />[_See this example in our diagram viewer_](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&page=2&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fishikawa-diagram-examples.drawio)
 
 **7C:** Alternatively, you can use the 7C Compass Model, most commonly used when co-marketing a product with another company: 
 * Corporation - competitors, organisation, and stakeholders
@@ -99,7 +99,7 @@ Problems that cause a marketing campaign to underperform or fail are quite diffe
 * Safety
 
 [<img src="/assets/img/blog/ishikawa-example-service-industry.png" style="width=100%;max-width:600px;height:auto;" alt="An example of an Ishikawa diagram looking for the reasons behind a mismatch in sales and sold goods in a store">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&page=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fishikawa-diagram-examples.drawio)
-<br />[_See this example in the diagrams.net lightbox_](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&page=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fishikawa-diagram-examples.drawio)
+<br />[_See this example in our diagram viewer_](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&page=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fishikawa-diagram-examples.drawio)
 
 
 ## Related

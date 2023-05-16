@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: waypoints-connectors
 date: 2020-06-08 09:24:00
 title: Work with waypoints on connectors

@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: sketch-online-whiteboard
 date: 2021-08-18 12:07:00
 title: How to use sketch.diagrams.net as an online whiteboard
@@ -8,7 +8,7 @@ tags: [features]
 categories: [features, use-cases]
 ---
 
-This diagrams.net Sketch editor theme has an endless whiteboard-style canvas and is ideal to use as a collaborative online whiteboard with your remote team. The lack of page and grid lines, along with the simple toolbar, minimised panels and the default hand-drawn [rough style for shape outlines, shading, connectors, and text labels](/blog/rough-style.html) feels like an informal physical whiteboard, much less intimidating than traditional diagramming apps.
+The draw.io editor online at can use the Sketch editor theme which has an endless whiteboard-style canvas and simple toolbar. This theme is ideal to use as a collaborative online whiteboard with your remote team. The lack of page and grid lines, along with the simple toolbar, minimised panels and the default hand-drawn [rough style for shape outlines, shading, connectors, and text labels](/blog/rough-style.html) feels like an informal physical whiteboard, much less intimidating than traditional diagramming apps.
 
 Note that the Sketch editor theme is also available in our [draw.io branded integration to Confluence Cloud](https://marketplace.atlassian.com/apps/1210933/draw-io-diagrams-for-confluence?hosting=cloud&tab=overview). It is also coming to [draw.io for Confluence Data Center](https://marketplace.atlassian.com/apps/1210933/draw-io-diagrams-for-confluence?hosting=datacenter&tab=overview).
 
@@ -17,13 +17,13 @@ The Sketch editor theme is under active development. Please add any suggestions 
 **Tip:** To use the Sketch editor theme in our draw.io branded app in Atlassian Confluence, [add the draw.io Board macro to a page](/blog/drawio-board-macro.html). Our [secure draw.io integration for Confluence](/blog/drawio-atlassian-cloud-fortified.html) is built, delivered and maintained by JGraph alongside the online diagrams.net and desktop tools.
 
 <br />[<img src="/assets/img/blog/sketch-theme-tutorial.png" style="width=100%;max-width:600px;height:auto;" alt="Sketch editor theme is currently being developed">](https://app.diagrams.net/?splash=0&ui=sketch&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fboard-visual-tutorial.drawio)
-<br />_[Open this tutorial diagram in the Sketch whiteboard editor theme at diagrams.net](https://app.diagrams.net/?splash=0&ui=sketch&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fboard-visual-tutorial.drawio)_
+<br />_[Open this tutorial diagram in draw.io's Sketch whiteboard editor theme](https://app.diagrams.net/?splash=0&ui=sketch&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fboard-visual-tutorial.drawio)_
 
 This editor theme is also used in our [draw.io for Notion Chrome extension](https://chrome.google.com/webstore/detail/drawio-for-notion/plhaalebpkihaccllnkdaokdoeaokmle) that allows you to [embed, edit and store single-page diagrams in Notion](/blog/store-diagrams-notion.html).
 
-## Use the diagrams.net online whiteboard
+## Use draw.io as an online whiteboard
 
-1. Open the diagram above in diagrams.net using the Sketch editor theme. 
+1. Open the diagram above in our online draw.io editor and make sure you are using the Sketch editor theme. 
    * Alternatively, if you have [sketch.diagrams.net](https://sketch.diagrams.net) already open, drag the ``.png`` image from this page into that browser tab - the image contains all of the diagram information with individual shapes.
 2. If prompted, choose where you want to save the file.
 3. Resize your browser to line the tutorial up with the interface elements.
@@ -35,7 +35,7 @@ Your whiteboard diagram will be automatically saved - you will see notifications
 * Click on the _Shape_ tool in the toolbar on the left to see the shape libraries.
 * Drag any floating panel to another position in your browser window. 
 
-**See tooltips:** Hover over any part of the diagrams.net app to see a tooltip.
+**See tooltips:** Hover over any part of the draw.io editor to see a tooltip.
 
 ### Add and select shapes
 
@@ -49,8 +49,8 @@ Your whiteboard diagram will be automatically saved - you will see notifications
 **Select a group of shapes:** Drag or click on the arrow in the top right of the selected shape to rotate it around a central point. 
 <br /><img src="/assets/img/blog/online-whiteboard-select-shapes.png" style="width=100%;max-width:350px;height:auto;" alt="Click on a shape to select it, or drag a selection box around a group of shapes">
 
-**Undo and redo changes:** Click on the undo and redo arrows next to the diagrams.net icon in the top left to undo and redo the most recent changes. These tools will not be shown unless you have edited the diagram.
-<br /><img src="/assets/img/blog/online-whiteboard-undo-redo.png" style="width=100%;max-width:350px;height:auto;" alt="Undo and redo changes easily with the tools in the top right of the diagrams.net Sketch online whiteboard">
+**Undo and redo changes:** Click on the undo and redo arrows next to the draw.io icon in the top left to undo and redo the most recent changes. These tools will not be shown unless you have edited the diagram.
+<br /><img src="/assets/img/blog/online-whiteboard-undo-redo.png" style="width=100%;max-width:350px;height:auto;" alt="Undo and redo changes easily with the tools in the top right of the draw.io Sketch online whiteboard">
 
 ### Connect shapes on the whiteboard
 
@@ -61,7 +61,7 @@ Once you have added a shape to the whiteboard canvas, hover over it with your mo
 **Connect two existing shapes:** Click and drag a new connector from one of the direction arrows that appear when you hover over the source shape and drop it on another shape to connect them.
 
 **Add a connector from the toolbar:** Click on the _Line_ or _Arrow_ tools in the toolbar to add one to the whiteboard canvas. Drag an end and drop it on an existing shape to attach that end of the connector to it.
-<br /><img src="/assets/img/blog/online-whiteboard-add-connectors.gif" style="width=100%;max-width:600px;height:auto;" alt="Drag connectors between shapes or add them from the toolbar in the diagrams.net online whiteboard">
+<br /><img src="/assets/img/blog/online-whiteboard-add-connectors.gif" style="width=100%;max-width:600px;height:auto;" alt="Drag connectors between shapes or add them from the toolbar in the draw.io online whiteboard">
 
 ### Resize, move and rotate shapes
 
@@ -108,7 +108,7 @@ Click on the draw.io logo in the top left to open the simplified menu. You can e
 
 ### Do more with shapes
 
-There are many shapes available in diagrams.net that aren't in the toolbar on the left. 
+There are many shapes available in draw.io that aren't in the toolbar on the left. 
 
 **See more shapes:** Click on the _Shape_ tool in the toolbar to open the floating shapes panel. 
 
@@ -127,7 +127,7 @@ There are many shapes available in diagrams.net that aren't in the toolbar on th
 
 ### Use a template diagram on the whiteboard
 
-If you don't want to start with a blank diagram, you can choose one of the many diagrams.net templates: Kanban boards, mindmaps, mockups, flowcharts, BPMN diagrams, infrastructure diagrams, floorplans and many more. 
+If you don't want to start with a blank diagram, you can choose one of the many draw.io templates: Kanban boards, mindmaps, mockups, flowcharts, BPMN diagrams, infrastructure diagrams, floorplans and many more. 
 
 1. Click on the template tool in the toolbar on the left to open the template library. 
 2. Select the template category on the left. Click on the magnifying glass in the top right of a template thumbnail on the right to see a larger preview. 

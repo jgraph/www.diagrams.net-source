@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: floorplans
 date: 2020-03-02 09:02:00
 title: Create floorplans and layouts
@@ -9,9 +9,9 @@ categories: [use-cases, templates]
 ---
 
 Floorplans aren't only useful for real-estate agents and people who are moving to a new apartment. You can also plan new office spaces, show emergency routes, create a seating chart, plan a conference or trade show layout - anything where you need to arrange people and furniture in a space.
-<br />[<img src="/assets/img/blog/floorplan-apartment-ground-floor.png" style="width=100%;max-width:300px;height:auto;" alt="A ground floor apartment floorplan created in diagrams.net">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Ffloorplan-apartment.drawio) [<img src="/assets/img/blog/floorplan-apartment-rooftop-terrace.png" style="width=100%;max-width:300px;height:auto;" alt="The second floor of an apartment floorplan created in diagrams.net">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&page=1&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Ffloorplan-apartment.drawio)
+<br />[<img src="/assets/img/blog/floorplan-apartment-ground-floor.png" style="width=100%;max-width:300px;height:auto;" alt="A ground floor apartment floorplan created in draw.io">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Ffloorplan-apartment.drawio) [<img src="/assets/img/blog/floorplan-apartment-rooftop-terrace.png" style="width=100%;max-width:300px;height:auto;" alt="The second floor of an apartment floorplan created in draw.io">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&page=1&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Ffloorplan-apartment.drawio)
 
-_[Explore this floorplan using diagrams.net.](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Ffloorplan-apartment.drawio) Use the viewer toolbar to see both pages and display hidden layers. You can click on the staircase to go to the other floor._
+_[Explore this floorplan in our diagram viewer.](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Ffloorplan-apartment.drawio) Use the viewer toolbar to see both pages and display hidden layers. Click on the staircase to go to the other floor._
 
 
 ## What are floorplans?
@@ -20,7 +20,7 @@ Imagine you are looking at the room from directly above - you can see all the wa
 
 To avoid bottlenecks and make sure that people can move easily around a space, floorplans are essential tools. Even landscape designers use floorplans, where their 'furniture' is actually a variety of plants and garden features. If you've ever moved house, you probably will have drawn a rough floorplan to make sure your furniture will fit your new space.
 
-## Build your floorplan with diagrams.net
+## Build your floorplan with draw.io
 
 First, enable the _Floorplan_ shape library.
 
@@ -53,7 +53,7 @@ Instead of making a large and complex floorplan, use separate pages in your diag
 * Click on _+_ at the bottom of the canvas to add a new page to your diagram.
 * Double click on the name of the page, enter a new name, then click _Rename_.
 
-<img src="/assets/img/blog/floorplan-multiple-pages.png" style="max-width:100%;height:auto;" alt="Add a new page to a complex floorplan in diagrams.net">
+<img src="/assets/img/blog/floorplan-multiple-pages.png" style="max-width:100%;height:auto;" alt="Add a new page to a complex floorplan in draw.io">
 
 ### Add links to your floorplan
 
@@ -87,11 +87,11 @@ In the layers dialog:
 
 ## Office floorplan template
 
-If you want to create an office floorplan, you may find the floorplan template at diagrams.net a useful foundation.
+If you want to create an office floorplan, you may find the floorplan templates in draw.io a useful foundation.
 
 1. When you create a new diagram, in the template library dialog, select the _Other_ category on the left.
 2. Select the floorplan template, then click _Create_.
 
-<img src="/assets/img/blog/floorplans-office-template.png" alt="Start with the office floorplan template in diagrams.net" style="width=100%;max-width:400px;height:auto;" >
+<img src="/assets/img/blog/floorplans-office-template.png" alt="Start with the office floorplan template in draw.io" style="width=100%;max-width:400px;height:auto;" >
 
 If you already have a blank diagram, select _Arrange > Insert > Template_, select the _Other_ category then the office floorplan template, then click _Insert_ to add it to your diagram.

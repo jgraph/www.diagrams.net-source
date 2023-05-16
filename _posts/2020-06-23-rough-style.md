@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: rough-style
 date: 2020-06-23 09:24:00
 title: Support for hand-drawn diagrams with rough.js
@@ -45,7 +45,7 @@ Click on a shape or connector, then expand the _Properties_ section in the _Styl
 * _Disable Multi Stroke Fill_ - use only one pass of the 'pen' in the sketched fill colour in a shape.
 * _Sketch Style_ - choose between the rough and comic sketch styles.
 
-<img src="/assets/img/blog/sketch-style-properties.png" style="max-width:100%;height:auto;" alt="You can change many style properties to customise the rough and comic sketch styles in diagrams.net">
+<img src="/assets/img/blog/sketch-style-properties.png" style="max-width:100%;height:auto;" alt="You can change many style properties to customise the rough and comic sketch styles in draw.io">
 
 ## Change the style of the entire diagram
 
@@ -61,7 +61,7 @@ You can set a new global style using one of the presets instead of selecting sha
 
 ### Use the ``rough=1`` URL parameter
 
-Alternatively, add ``rough=1`` as a URL parameter so the whole diagram has that style. For example:
+Alternatively, add ``rough=1`` as a URL parameter so the whole diagram has that style. For example, when using the free draw.io online diagram editor:
 
 [```https://app.diagrams.net/?lightbox=1&rough=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fgitflow-examples.drawio```](https://app.diagrams.net/?lightbox=1&rough=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fgitflow-examples.drawio)
 

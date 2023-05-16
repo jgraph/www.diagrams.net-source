@@ -1,25 +1,25 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: rack-diagrams
 date: 2020-05-27 08:02:00
-title: Create a rack diagram in diagrams.net
+title: Create a rack diagram in draw.io
 tags: [rack-diagrams]
 categories: [use-cases, templates]
 ---
 
-diagrams.net has a number of shape libraries and templates for creating rack diagrams. Both electronics cabinets can be visualised, as well as IT racks with servers and networking hardware, including those provided by specific vendors like APC, Cisco, Dell, F5, HP, IBM and Oracle.
-<br />[<img src="/assets/img/blog/rack-diagram-electronics-cabinet-example.png" style="width=100%;max-width:120px;height:auto;" alt="An electronics cabinet diagram, created at diagrams.net">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fengineering%2Fcabinet_2.xml) [<img src="/assets/img/blog/rack-diagram-simple-server.png" alt="A simple rack diagram, created with diagrams.net" style="width=100%;max-width:190px;height:auto;">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Frack-diagram-simple-server.drawio) [<img src="/assets/img/blog/rack-diagram-arista-example.png" alt="An Arista rack diagram layout, created with diagrams.net" style="width=100%;max-width:300px;height:auto;" >](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fnetwork%2Farista.drawio)
+draw.io has a number of shape libraries and templates for creating rack diagrams. Both electronics cabinets can be visualised, as well as IT racks with servers and networking hardware, including those provided by specific vendors like APC, Cisco, Dell, F5, HP, IBM and Oracle.
+<br />[<img src="/assets/img/blog/rack-diagram-electronics-cabinet-example.png" style="width=100%;max-width:120px;height:auto;" alt="An electronics cabinet diagram, created at draw.io">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fengineering%2Fcabinet_2.xml) [<img src="/assets/img/blog/rack-diagram-simple-server.png" alt="A simple rack diagram, created with draw.io" style="width=100%;max-width:190px;height:auto;">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Frack-diagram-simple-server.drawio) [<img src="/assets/img/blog/rack-diagram-arista-example.png" alt="An Arista rack diagram layout, created with draw.io" style="width=100%;max-width:300px;height:auto;" >](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fnetwork%2Farista.drawio)
 
 ## Enable the rack shape libraries
 
-1. In the diagrams.net editor, click on _More Shapes_ at the bottom of the left panel.
+1. In the draw.io editor, click on _More Shapes_ at the bottom of the left panel.
 2. Enable the _Rack_ checkbox under _Networking_. Enable _Cabinets_ under _Other_ if you want to create an electronics cabinet diagram.
 3. Click _Apply_. The shape libraries will appear in the left panel.
 
-Alternatively, use the [``libs`` URL parameter](/doc/faq/supported-url-parameters.html) and go directly to [https://app.diagrams.net/?libs=rack;cabinets&splash=0](https://app.diagrams.net/?libs=rack;cabinets&splash=0)
+Alternatively, use the [``libs`` URL parameter](/doc/faq/supported-url-parameters.html) and go directly to our online editor at [https://app.diagrams.net/?libs=rack;cabinets&splash=0](https://app.diagrams.net/?libs=rack;cabinets&splash=0)
 
-<img src="/assets/img/blog/rack-shape-libraries.png" style="max-width:100%;height:auto;" alt="Rack and cabinet shapes in diagrams.net">
+<img src="/assets/img/blog/rack-shape-libraries.png" style="max-width:100%;height:auto;" alt="Rack and cabinet shapes in draw.io">
 
 ## Create a rack diagram
 
@@ -46,12 +46,12 @@ First, add a cabinet shape to the drawing canvas. Some are numbered, others are 
 
 ## Rack diagram templates
 
-diagrams.net includes a couple of templates for a rack and an electronics cabinet.
+draw.io includes a couple of templates for a rack and an electronics cabinet.
 
 1. To add a template to the drawing canvas, select _Arrange > Insert > Template_ from the menu. Alternatively, create a new diagram and you'll see the template dialog.
 2. To see a larger preview of the template, click on the magnifying glass in the top right. Select one of the templates:
    * The electronics cabinet template is in the _Engineering_ section.
-   <br /><img src="/assets/img/blog/rack-diagram-electronics-cabinet-template.png" style="width=100%;max-width:400px;height:auto;" alt="Arista rack diagram template in diagrams.net">
+   <br /><img src="/assets/img/blog/rack-diagram-electronics-cabinet-template.png" style="width=100%;max-width:400px;height:auto;" alt="Arista rack diagram template in draw.io">
    * The Arista rack equipment template is in the _Network_ section.
-   <br /><img src="/assets/img/blog/rack-diagram-arista-template.png" style="width=100%;max-width:400px;height:auto;" alt="Arista rack diagram template in diagrams.net">
+   <br /><img src="/assets/img/blog/rack-diagram-arista-template.png" style="width=100%;max-width:400px;height:auto;" alt="Arista rack diagram template in draw.io">
 3. Click insert to add it to the drawing canvas.

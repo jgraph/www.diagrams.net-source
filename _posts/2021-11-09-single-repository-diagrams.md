@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: single-repository-diagrams
 date: 2021-11-09 09:19:00
 title: Diagram only in selected GitHub repositories
@@ -48,13 +48,13 @@ In the draw.io App's application configuration settings, there is a _Danger Zone
 
 ### Authorise GitHub to save diagrams
 
-At the moment, when you save a diagram from diagrams.net to GitHub, you will still use the OAuth method. 
+At the moment, when you save a diagram from draw.io to GitHub, you will still use the OAuth method. 
 
 [Install the draw.io GitHub app](https://github.com/apps/draw-io-app), and select the repositories in which you want to save diagrams, so you will be ready to go when we switch authentication methods.
 
 ## Do more with diagrams in GitHub
 
-If you are a developer using VSCode, you can also use github.dev with diagrams.net to edit diagram files that are stored in GitHub repositories without leaving your code editor. 
+If you are a developer using VSCode, you can also use github.dev with draw.io to edit diagram files that are stored in GitHub repositories without leaving your code editor. 
 
 When you commit changes in VSCode, when you have installed the unofficial draw.io extension developed by Henning Dieterichs, you'll see the two diagrams side-by-side in the diagram editor so you can easily compare the two versions.
 

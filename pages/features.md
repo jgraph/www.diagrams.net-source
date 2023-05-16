@@ -28,12 +28,12 @@ Use whichever cloud platform you prefer to store your diagram files: [Google Dri
 
 **No account needed** - your diagrams are not locked behind an account. 
 
-Use app.diagrams.net in your browser and on [mobile and touchscreen devices](/blog/touch-screen-diagrams.html).
+Use [our free online editor](https://app.diagrams.net) in your browser and on [mobile and touchscreen devices](/blog/touch-screen-diagrams.html).
 <br /><img src="/assets/img/blog/touch-diagrams-connectors.gif" style="width=100%;max-width:500px;height:auto;" alt="Tap and drag a connector from the direction arrows on one shape and release over another shape to connect the two">
 
 ### Integrate diagrams with other software
 
-Store and work with diagrams in [Atlassian Confluence](https://marketplace.atlassian.com/apps/1210933/draw-io-diagrams-for-confluence) and [Jira](https://marketplace.atlassian.com/apps/1211413/draw-io-diagrams-for-jira?hosting=cloud&tab=overview) with our draw.io apps, available from the Atlassian Marketplace. External collaborators don't need to join your instance, they can view and edit diagram files that you share with them in app.diagrams.net - no account or diagram format conversion is needed.
+Store and work with diagrams in [Atlassian Confluence](https://marketplace.atlassian.com/apps/1210933/draw-io-diagrams-for-confluence) and [Jira](https://marketplace.atlassian.com/apps/1211413/draw-io-diagrams-for-jira?hosting=cloud&tab=overview) with our draw.io apps, available from the Atlassian Marketplace. External collaborators don't need to join your instance, they can view and edit diagram files that you share with them using our [online editor](https://app.diagrams.net) - no account or diagram format conversion is needed.
 
 **Embed diagrams** in other applications with our draw.io add-ons:
 * [Microsoft Office 365 apps](/doc/faq/microsoft-office-diagrams.html) and [Microsoft Teams](/doc/faq/microsoft-teams-diagrams.html)

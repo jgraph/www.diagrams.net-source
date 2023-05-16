@@ -1,14 +1,14 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: draw-structural-formulas
 date: 2022-03-28 09:43:00
-title: Draw structural formulas in diagrams.net
+title: Draw structural formulas in draw.io
 tags: [shape libraries]
 categories: [use-cases, shape-libraries]
 ---
 
-Represent the three-dimensional molecular shape of a chemical by drawing a structural or skeletal formula in diagrams.net with the two new connector shapes in the _Arrows_ shape library - the solid wedge and the dashed wedge.
+Represent the three-dimensional molecular shape of a chemical by drawing a structural or skeletal formula in draw.io with the two new connector shapes in the _Arrows_ shape library - the solid wedge and the dashed wedge.
 
 ## Represent a 3D chemical structure in 2D
 
@@ -16,19 +16,19 @@ Structural formulas in organic chemistry can represent more than molecules conne
 
 Known as a Natta projection, the wedges in a skeletal formula indicate whether an atom is sticking out of the screen (or paper) toward you (a solid wedge) or away from you (a dashed wedge).
 
-<img src="/assets/img/blog/chemistry-structural-formula-example.png" style="width=100%;max-width:300px;height:auto;" alt="Draw structural formula (Natta projections and more) in diagrams.net">
+<img src="/assets/img/blog/chemistry-structural-formula-example.png" style="width=100%;max-width:300px;height:auto;" alt="Draw structural formula (Natta projections and more) in draw.io">
 
 ### Enable the _Arrows_ shape library
 
 1. Click on _More shapes_ at the bottom of the left panel. 
 2. Enable the checkbox next to the _Arrows_ shape library and click _Apply_. 
-<br /><img src="/assets/img/blog/shape-library-arrows-enable.png" style="width=100%;max-width:400px;height:auto;" alt="Enable the arrows shape library in diagrams.net">
+<br /><img src="/assets/img/blog/shape-library-arrows-enable.png" style="width=100%;max-width:400px;height:auto;" alt="Enable the arrows shape library in draw.io">
 
 **Tip:** Add all of the shapes you will be using a lot of in your diagram from the shape libraries on the left to the drawing canvas. Drag them all one-by-one from the drawing canvas to the _Scratchpad_ in the left panel. Then you don't have to go searching through multiple shape libraries.
 
-[Learn how to use the scratchpad in diagrams.net](/doc/faq/scratchpad.html)
+[Learn how to use the scratchpad in draw.io](/doc/faq/scratchpad.html)
 
-### Draw a structural formula in diagrams.net
+### Draw a structural formula in draw.io
 
 **Atom name:** Atoms in a structural formula are indicated with their atomic symbol (from the periodic table)
 1. Double click on a blank space on the drawing canvas and select the _Text_ shape from the shape palette that appears at your mouse cursor. 
@@ -42,12 +42,12 @@ Known as a Natta projection, the wedges in a skeletal formula indicate whether a
 <br /><img src="/assets/img/blog/chemistry-double-bond.png" style="width=100%;max-width:300px;height:auto;" alt="Change the style of the connector to show a double bond">
 <br />Drag the orange grab handles on a double bond on the canvas further apart if necessary. 
 
-**Carbon molecule without a label:** As you can't join a connector end to another connector in diagrams.net, you'll need to use the [waypoint shape](/blog/waypoint-shape.html) from the _Misc_ shape library (a sub-library in the _General_ shape library).
+**Carbon molecule without a label:** As you can't join a connector end to another connector in draw.io, you'll need to use the [waypoint shape](/blog/waypoint-shape.html) from the _Misc_ shape library (a sub-library in the _General_ shape library).
 <br /><img src="/assets/img/blog/waypoint-shape-misc-shape-library.png" style="width=100%;max-width:400px;height:auto;" alt="Use a waypoint shape to join connectors where carbon atoms are not named">
 
 With the waypoint shape, you can create the common zig-zag structure of a hydrocarbon chain. The stereochemistry at each carbon is shown with solid and dashed wedges.
 
-<img src="/assets/img/blog/chemistry-carbon-chain.png" style="width=100%;max-width:400px;height:auto;" alt="Use the waypoint shape in diagrams.net to form a zig-zag carbon chain">
+<img src="/assets/img/blog/chemistry-carbon-chain.png" style="width=100%;max-width:400px;height:auto;" alt="Use the waypoint shape in draw.io to form a zig-zag carbon chain">
 <br />_An example zig-zag carbon chain in a glucose molecule, omitting the single hydrogens and carbons along the chain._
 
 
@@ -70,7 +70,7 @@ You can represent a molecule in two dimensions in various ways by using differen
 * The carbon atoms in the center of the crossing horizontal and vertical lines are often not labelled. 
 * Use the [_Waypoint_ shape](/blog/waypoint-shape.html) as in the zig-zag carbon chain above at the junctions of horizontal and vertical bonds. 
 
-<img src="/assets/img/blog/chemistry-projection-notations1.png" style="width=100%;max-width:600px;height:auto;" alt="Draw a 3D representation of a chemical in diagrams.net using various projection notations">
+<img src="/assets/img/blog/chemistry-projection-notations1.png" style="width=100%;max-width:600px;height:auto;" alt="Draw a 3D representation of a chemical in draw.io using various projection notations">
 <br />_A glucose molecule represented in three different projection notations._
 
 **Haworth projection:** This is commonly used for cyclic structures in organic chemistry and biochemistry. Thicker lines indicate atoms that are closer to you, as the observer. Both carbon and hydrogen are usually not explicitly written.
@@ -85,6 +85,6 @@ You can represent a molecule in two dimensions in various ways by using differen
 
 **Sawhorse projection:** This is a variant of the Newman projection, looking at the same bond, but from an angle. The front carbon is usually on the left and lower than the rest of the atoms. Use the waypoint shape to 'join' connectors.
 
-<img src="/assets/img/blog/chemistry-projection-notations2.png" style="width=100%;max-width:450px;height:auto;" alt="Draw a 3D representation of a chemical in diagrams.net using various projection notations">
+<img src="/assets/img/blog/chemistry-projection-notations2.png" style="width=100%;max-width:450px;height:auto;" alt="Draw a 3D representation of a chemical in draw.io using various projection notations">
 <br />_A butane molecule drawn in Newman and Sawhorse projections, coloured for ease of comparison._
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: gitflow-diagram
 date: 2020-02-07 09:54:00
 title: How to create a gitflow diagram
@@ -13,11 +13,11 @@ It's easier to show new development team members your project's branch structure
 
 The default size of the shapes from the shape library are not able to be overridden, which is why the [clone and connect feature](/blog/shortcut-clone-connect.html) is such a time-saver: it copies both a shape's style and text content.
 
-Go to [app.diagrams.net](https://app.diagrams.net/?splash=0) to start creating your diagram. You only need the shapes in the basic shape library to create your Git workflow.
+Go to the online draw.io editor at [app.diagrams.net](https://app.diagrams.net/?splash=0) to create your diagram. You only need the shapes in the basic shape library to create your Git workflow.
 
 The example below shows you how to create and style a gitflow diagram and use default styles to diagram faster.
 
-[See the completed example on diagrams.net](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fgitflow-examples.drawio)
+[See the completed example in draw.io](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fgitflow-examples.drawio)
 
 ## Add a Master or Main branch
 
@@ -71,11 +71,11 @@ As you can see, branching schemes for development can become quite complex. They
 
 [<img src="/assets/img/blog/gitflow-example.png" style="max-width:100%;height:auto;" alt="An example gitflow diagram">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fgitflow-examples.drawio)
 
-[Open this example in diagrams.net](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fgitflow-examples.drawio)
+[Open this example in our online viewer](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fgitflow-examples.drawio)
 
 ## Gitflow templates
 
 1. Click _Arrange > Insert > Template_ or create a new diagram to open the template library. 
 2. Select the _Software_ category on the left. Click on the magnifying glass in the top right to [see a larger preview of a template](/blog/template-diagrams.html).
-<br /><img src="/assets/img/blog/template-library-gitflows.png" style="width=100%;max-width:400px;height:auto;" alt="Start your gitflow diagram from one of the templates in diagrams.net">
+<br /><img src="/assets/img/blog/template-library-gitflows.png" style="width=100%;max-width:400px;height:auto;" alt="Start your gitflow diagram from one of the templates in draw.io">
 3. Select one of the gitflow diagram templates, then click _Insert_ or _Create_ to copy this template to the diagram canvas.
