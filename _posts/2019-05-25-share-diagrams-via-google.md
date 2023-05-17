@@ -5,7 +5,7 @@ slug: share-diagrams-via-google
 date: 2019-05-25 09:54:00
 title: Share diagrams via Google public links
 tags: [integrations]
-categories: [integrations, features]
+categories: [integrations, features, export]
 ---
 
 You can share and collaborate on diagrams with anyone, either inside or outside of your company, when they are stored as public files in your Google Drive account.

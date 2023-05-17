@@ -5,7 +5,7 @@ slug: import-lucidchart-edu
 date: 2021-10-12 11:13:00
 title: Import diagrams from Lucidchart EDU to draw.io
 tags: [features]
-categories: [features,integrations]
+categories: [features,integrations, import]
 ---
 
 Lucidchart recently limited their free education plans, Lucidchart EDU, for students and teachers to only 3 editable diagrams. That means that all of the diagrams after your most recent three diagram files are set to read only, unless you switch to a premium subscription. 

@@ -5,7 +5,7 @@ slug: export-html
 page.date: 2018-08-26
 title: Export a diagram to HTML
 tags: [export, features]
-categories: [features]
+categories: [features, export]
 ---
 
 You can embed a diagram in a web page or in any online platform that can render HTML. While some third-party integrations can embed diagrams more efficiently (in WordPress, for example), embedding a diagram as HTML may be a good option. You can also share these HTML diagram files with others.

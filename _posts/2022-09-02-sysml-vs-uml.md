@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: sysml-vs-uml
 date: 2022-09-02 09:43:00
 title: SysML vs UML - what's the difference?
@@ -21,7 +21,7 @@ Two new types of diagrams in SysML - requirements and parametric diagrams - are 
 
 ## Enable the SysML shape library
 
-To create SysML diagrams in diagrams.net or draw.io, enable the SysML shape library. The shapes are organised into diagram-type sub-categories.
+To create SysML diagrams in draw.io, enable the SysML shape library. The shapes are organised into diagram-type sub-categories.
 1. Click on _More Shapes_ at the bottom of the shape panel on the left.
 2. Enable the checkbox next to _SysML_ in the _Business_ section.
 3. Click _Apply_.
@@ -53,7 +53,7 @@ Non-functional requirements can be specialised in the following ways.
 * ``<<physicalRequirement>>``
 
 Contained requirements are indicated with a circle with a vertical cross at the parent requirement. Test cases and derived requirements are linked to requirements with a dashed connector and an appropriate label.
-<br />[<img src="/assets/img/blog/sysml-requirements-diagram.png" style="width=100%;max-width:500px;height:auto;" alt="Draw SysML requirements diagrams in diagrams.net and draw.io with the SysML shape library">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&page=0&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fsysml-requirements-diagram.drawio)
+<br />[<img src="/assets/img/blog/sysml-requirements-diagram.png" style="width=100%;max-width:500px;height:auto;" alt="Draw SysML requirements diagrams in draw.io with the SysML shape library">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&page=0&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fsysml-requirements-diagram.drawio)
 
 ### Use-case diagrams
 
@@ -63,7 +63,7 @@ A use case diagram all of the ways an end-user interacts with your systems. _(Sa
 ### Sequence diagrams
 
 [Sequence diagrams](/blog/sequence-diagrams.html) show the order of messages that are passed between the elements of a system to complete a particular task or use case. _(Same as UML)_
-<br />[<img src="/assets/img/blog/uml-sequence-example.png" style="width=100%;max-width:400px;height:auto;" alt="Add shape and connector labels and drag text for conditions into a frame shape in a sequence diagram in diagrams.net">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fsequence-diagram-examples.drawio)
+<br />[<img src="/assets/img/blog/uml-sequence-example.png" style="width=100%;max-width:400px;height:auto;" alt="Add shape and connector labels and drag text for conditions into a frame shape in a sequence diagram in draw.io">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fsequence-diagram-examples.drawio)
 
 
 ### State machine diagrams
@@ -119,8 +119,8 @@ Connectors indicate behaviour similar to UML class diagrams, but with fewer 'arr
 * **generalisation** - empty triangle
 * **namespace containment** - circle with horizontal/vertical bars
 
-Connectors can split to form multi-branch associations. Use the waypoint shape to join these connectors neatly in diagrams.net.
-<br />[<img src="/assets/img/blog/sysml-block-definition-diagram.png" style="width=100%;max-width:600px;height:auto;" alt="Draw SysML block definition diagrams in diagrams.net and draw.io with the SysML shape library">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&page=0&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fsysml-block-definition-diagram.drawio)
+Connectors can split to form multi-branch associations. Use the waypoint shape to join these connectors neatly in draw.io.
+<br />[<img src="/assets/img/blog/sysml-block-definition-diagram.png" style="width=100%;max-width:600px;height:auto;" alt="Draw SysML block definition diagrams in draw.io with the SysML shape library">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&page=0&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fsysml-block-definition-diagram.drawio)
 
 **Work with text in block shapes:** 
 * Press ``Enter`` to add a new line.  
@@ -145,13 +145,13 @@ Connectors in internal block diagrams can show the following:
 * **binding** - solid line, optionally with tye type indicated, e.g. ``<<equal>>``
 
 Indicate flow directions with solid arrows - basic filled triangle shapes - in the middle of the connectors.
-<br />[<img src="/assets/img/blog/sysml-internal-block-diagram.png" style="width=100%;max-width:600px;height:auto;" alt="Draw SysML internal block diagrams in diagrams.net and draw.io with the SysML shape library">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&page=0&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fsysml-internal-block-diagram.drawio)
+<br />[<img src="/assets/img/blog/sysml-internal-block-diagram.png" style="width=100%;max-width:600px;height:auto;" alt="Draw SysML internal block diagrams in draw.io with the SysML shape library">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&page=0&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fsysml-internal-block-diagram.drawio)
 
 #### Parametric diagrams
 
 A parametric model is a specialised form of internal block diagram used to analyse metrics for performance, safety, reliability, and measurable physical characteristics. _(SysML only)_
 
 Link each constraint via its ports to either a constraint parameter node or another constraint shape. Use the shapes in the _Constraints_ and _Ports and Flows_ categories, and modify, flip and label them as needed to suit your layout.
-<br />[<img src="/assets/img/blog/sysml-parametric-diagram.png" style="width=100%;max-width:600px;height:auto;" alt="Draw SysML parametric diagrams in diagrams.net and draw.io with the SysML shape library">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&page=0&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fsysml-parametric-diagram.drawio)
+<br />[<img src="/assets/img/blog/sysml-parametric-diagram.png" style="width=100%;max-width:600px;height:auto;" alt="Draw SysML parametric diagrams in draw.io with the SysML shape library">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&page=0&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fsysml-parametric-diagram.drawio)
 
 **Tip:** Overlay additional square shapes to add more than two constraints and group them with the constraint shape. Hold down ``Alt`` or ``Option`` to [overlap shapes on container shapes](/doc/faq/shapes-overlap).

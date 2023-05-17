@@ -1,24 +1,24 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: public-custom-libraries
 date: 2023-02-24 09:10:00
 title: Use a custom shape library from the web
 tags: [shape libraries]
-categories: [features]
+categories: [features, import]
 ---
 
-diagrams.net and draw.io makes it easy to collect your most used shapes, images, [custom shapes](/doc/faq/custom-shapes.html) and diagram fragments in your own convenient [custom shape library](/blog/custom-libraries.html). Many custom libraries are available online as open source for you to use in diagrams, infographics and user documentation.
-<br /><img src="/assets/img/blog/gesture-icons-custom-library-example.png" style="width=100%;max-width:400px;height:auto;" alt="Open the gesture icons custom shape library in diagrams.net from the drawio-libs Github repository">
+draw.io makes it easy to collect your most used shapes, images, [custom shapes](/doc/faq/custom-shapes.html) and diagram fragments in your own convenient [custom shape library](/blog/custom-libraries.html). Many custom libraries are available online as open source for you to use in diagrams, infographics and user documentation.
+<br /><img src="/assets/img/blog/gesture-icons-custom-library-example.png" style="width=100%;max-width:400px;height:auto;" alt="Open the gesture icons custom shape library in draw.io from the drawio-libs Github repository">
 
 When you store the custom library ``.xml`` file on a website, anyone who has access to that website can use your shapes to draw their diagrams.
 
 ## Load a custom library from the web
 
 1. Click on the ``...`` in the toolbar and select _Open Library from > URL_. (_File > Open Library from > URL_ in Classic mode).
-<br /><img src="/assets/img/blog/modern-moden-open-shape-library-url.png" style="width=100%;max-width:300px;height:auto;" alt="Open a custom shape library stored on the web in diagrams.net">
+<br /><img src="/assets/img/blog/modern-moden-open-shape-library-url.png" style="width=100%;max-width:300px;height:auto;" alt="Open a custom shape library stored on the web in draw.io">
 2. Enter the URL of the custom library ``.xml`` file and click _Open_.
-<br /><img src="/assets/img/blog/open-shape-library-url.png" style="width=100%;max-width:200px;height:auto;" alt="Open a custom shape library stored on the web in diagrams.net">
+<br /><img src="/assets/img/blog/open-shape-library-url.png" style="width=100%;max-width:200px;height:auto;" alt="Open a custom shape library stored on the web in draw.io">
 
 The shape library will appear in the shapes panel on the left. If is it a particularly large library, containing detailed shapes, or if it is stored on a slow web server, it may take a while to load into the shapes panel.
 
@@ -28,7 +28,7 @@ Previously opened custom libraries from the web will remain open in the editor u
 
 Links that include your custom library as a [URL parameter](/doc/faq/supported-url-parameters.html) are easier to share with new users who may be unfamiliar with the menu in our editor. 
 
-* Edit the URL of our diagram editor and add the ``clibs`` parameter and the address of the custom library with URL encoded characters. For example, this custom library is hosted in our GitHub repository.
+* Edit the URL of our online diagram editor and add the ``clibs`` parameter and the address of the custom library with URL encoded characters. For example, this custom library is hosted in our GitHub repository.
 <br />``https://app.diagrams.net/?clibs=Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ftemplates.xml``
 
 * To only open that particular library and hide the default shape library, add the ``libs=0`` parameter:
@@ -41,16 +41,16 @@ You can also [load custom shape libraries into draw.io in Confluence Cloud](/doc
 **draw.io-libs custom library collection**
 
 Our [repository on Github](https://github.com/jgraph/drawio-libs) contains a selection of general libraries and vector shapes, including UN-OCHA icons, technical diagram templates, OSA icons, Font Awesome shapes for accurate website mockups, and many more. 
-<br /><img src="/assets/img/blog/font-awesome-shape-library-example.png" style="width=100%;max-width:500px;height:auto;" alt="Open the Font Awesome custom shape library in diagrams.net from the drawio-libs Github repository">
+<br /><img src="/assets/img/blog/font-awesome-shape-library-example.png" style="width=100%;max-width:500px;height:auto;" alt="Open the Font Awesome custom shape library in draw.io from the drawio-libs Github repository">
 
-Follow any [link from the ``draw.io-libs`` repository](https://github.com/jgraph/drawio-libs) to open that custom library in the diagrams.net editor.
+Follow any [link from the ``draw.io-libs`` repository](https://github.com/jgraph/drawio-libs) to open that custom library in the draw.io editor.
 
 **DevSecOps**
 
 For modelling security and operations in development pipelines, GitHub users djschleen and aquasecurity have created some custom libraries that work well together: [pipeline shapes](https://github.com/djschleen/devsecops-architecture-tools) with stages, bends and forks in various colours; and vendor and product logos for [software and service components for cloud security](https://github.com/aquasecurity/cloudsec-icons) stages.
 <br /><img src="/assets/img/blog/pipeline-custom-library-example.png" style="width=100%;max-width:500px;height:auto;" alt="Open the pipeline and cloud security custom shape libraries from GitHub to draw devops and cloud security pipeline diagrams">
 
-[Open these two public custom libraries in diagrams.net](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdjschleen%2Fdevsecops-architecture-tools%2Fmain%2Fdrawio%2Flibraries%2Fpipeline-shapes.xml;Uhttps%3A%2F%2Fgithub.com%2Faquasecurity%2Fcloudsec-icons%2Freleases%2Flatest%2Fdownload%2Fdraw.io.xml)
+[Open these two public custom libraries in the draw.io editor](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fdjschleen%2Fdevsecops-architecture-tools%2Fmain%2Fdrawio%2Flibraries%2Fpipeline-shapes.xml;Uhttps%3A%2F%2Fgithub.com%2Faquasecurity%2Fcloudsec-icons%2Freleases%2Flatest%2Fdownload%2Fdraw.io.xml)
 
 The pipeline shapes can snap together, and can also be used to draw neat transport line and timeline diagrams.
 
@@ -58,27 +58,27 @@ The pipeline shapes can snap together, and can also be used to draw neat transpo
 
 Create mockups of apps and websites with wireframe components, avatars, form elements, icons and more, with the [custom shape libraries and wireframe kit](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fpuzzle%2Fwireframe-kit%2Fmaster%2Flibraries%2F07_Typography_v0-1.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fpuzzle%2Fwireframe-kit%2Fmaster%2Flibraries%2F06_Colors_v0-1.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fpuzzle%2Fwireframe-kit%2Fmaster%2Flibraries%2F05_Avatars_v0-1.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fpuzzle%2Fwireframe-kit%2Fmaster%2Flibraries%2F04_Icons_v0-1.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fpuzzle%2Fwireframe-kit%2Fmaster%2Flibraries%2F03_Navigation_v0-1.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fpuzzle%2Fwireframe-kit%2Fmaster%2Flibraries%2F02_Elements_Placeholders_v0-1.xml;Uhttps://raw.githubusercontent.com/puzzle/wireframe-kit/master/libraries/02_Elements_Forms_v0-1.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fpuzzle%2Fwireframe-kit%2Fmaster%2Flibraries%2F02_Elements_Feedback_Notification_Toasts_Dialog_v0-1.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fpuzzle%2Fwireframe-kit%2Fmaster%2Flibraries%2F02_Elements_Cards_v0-1.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fpuzzle%2Fwireframe-kit%2Fmaster%2Flibraries%2F02_Elements_Buttons_v0-1.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fpuzzle%2Fwireframe-kit%2Fmaster%2Flibraries%2F01_Devices_v0-1.xml%20;Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fpuzzle%2Fwireframe-kit%2Fmaster%2Flibraries%2F00_Views_v0-1.xml&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fpuzzle%2Fwireframe-kit%2Fmaster%2FPuzzle-Wireframe-Kit.xml)
  compiled by [Puzzle](https://github.com/puzzle/wireframe-kit). 
-<br /><img src="/assets/img/blog/puzzle-wireframe-kit-custom-libraries-example.png" style="width=100%;max-width:500px;height:auto;" alt="Puzzle wireframe kit custom libraries loaded from GitHub in diagrams.net">
+<br /><img src="/assets/img/blog/puzzle-wireframe-kit-custom-libraries-example.png" style="width=100%;max-width:500px;height:auto;" alt="Puzzle wireframe kit custom libraries loaded from GitHub in draw.io">
 
 
 Puzzle also provides several libraries in their [corporate colours](https://app.diagrams.net/?splash=0&clibs=Uhttps://raw.githubusercontent.com/puzzle/wireframe-kit/master/libraries/puzzle-brand-libraries/03_Puzzle-Infographic_v0-1.xml;Uhttps://raw.githubusercontent.com/puzzle/wireframe-kit/master/libraries/puzzle-brand-libraries/01_Puzzle-Colors-Fonts_v0-1.xml;Uhttps://raw.githubusercontent.com/puzzle/wireframe-kit/master/libraries/puzzle-brand-libraries/02_Puzzle-Logos-Icons_v0-1.xml) to help their users create infographics following their brand guidelines. 
 
 **Threat modelling**
 
-Michael Henrikson's [threat modelling](/blog/threat-modelling.html) shape library has been integrated into diagrams.net and draw.io. It was originally [available on GitHub](https://github.com/michenriksen/drawio-threatmodeling). 
+Michael Henrikson's [threat modelling](/blog/threat-modelling.html) shape library has been integrated into draw.io. It was originally [available on GitHub](https://github.com/michenriksen/drawio-threatmodeling). 
 <br />[<img src="/assets/img/blog/threat-modeling-data-flow-example.png" style="width=100%;max-width:500px;height:auto;" alt="Data flow diagram for threat modelling">](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fmichenriksen%2Fdrawio-threatmodeling%2Fmaster%2Fattack-tree.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fmichenriksen%2Fdrawio-threatmodeling%2Fmaster%2Fdfd.xml&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fthreat-modelling.drawio)
 
 **Infrastructure diagrams**
 
 [Exoscale](https://github.com/exoscale/drawio-library) has provided three custom libraries to draw architecture and infrastructure diagrams and made them available on GitHub. 
-<br />[<img src="/assets/img/blog/exoscale-custom-library-example.png" style="width=100%;max-width:500px;height:auto;" alt="Exoscale has provided custom libraries on GitHub for infrastructure diagrams in diagrams.net and draw.io"><br />_Open these libraries_](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fexoscale%2Fdrawio-library%2Fmain%2Fexoscale.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fexoscale%2Fdrawio-library%2Fmain%2Fexoscale_com.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fexoscale%2Fdrawio-library%2Fmain%2Fexoscale_ext.xml)
+<br />[<img src="/assets/img/blog/exoscale-custom-library-example.png" style="width=100%;max-width:500px;height:auto;" alt="Exoscale has provided custom libraries on GitHub for infrastructure diagrams in draw.io"><br />_Open these libraries_](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fexoscale%2Fdrawio-library%2Fmain%2Fexoscale.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fexoscale%2Fdrawio-library%2Fmain%2Fexoscale_com.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fexoscale%2Fdrawio-library%2Fmain%2Fexoscale_ext.xml)
 
 **Note:** When using publicly available custom shape libraries, make sure you check any license or usage restrictions. 
 
 
 ### More public custom libraries on GitHub
 
-Many more have published a wide range of public custom libraries that you can use in diagrams.net and draw.io on GitHub. Here is a small selection.
+Many more have published a wide range of public custom libraries that you can use in draw.io on GitHub. Here is a small selection.
 
 * [Puppetlabs](https://github.com/puppetlabs/diagrams-net-libraries) - logos, icons and illustrations. [_Open_](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fpuppetlabs%2Fdiagrams-net-libraries%2Fmain%2Flogos.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fpuppetlabs%2Fdiagrams-net-libraries%2Fmain%2Fillustrations.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fpuppetlabs%2Fdiagrams-net-libraries%2Fmain%2Ficons.xml)
 

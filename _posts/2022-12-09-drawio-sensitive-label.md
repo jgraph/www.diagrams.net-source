@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: drawio-sensitive-label
 date: 2022-12-09 09:24:00
 title: Use the new sensitive label to stop draw.io listing a diagram in the recent diagrams list and search results

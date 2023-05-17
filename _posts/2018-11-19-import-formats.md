@@ -5,7 +5,7 @@ slug: import-formats
 page.date: 2018-11-19
 title: draw.io import formats and sources
 tags: [import, features]
-categories: [features]
+categories: [features, import]
 ---
 
 As draw.io aims to become the de facto diagramming tool, used by everyone around the world, it's important to be able to import from a variety of file formats and from a number of storage locations.

@@ -1,15 +1,15 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: diagrams-other-names
 date: 2022-08-19 08:21:00
-title: The many faces of diagrams.net and draw.io
+title: The many faces of draw.io
 tags: [news]
 categories: [news]
 ---
 
-Finding a typo-proof word that is also pronounced the same throughout the world is simple, how sensible companies fail to stop users from mis-spelling product names eludes us. diagrams.net and draw.io demonstrate the right way to do this, clearly. However, a small, minor, fractional, minority of users regularly fall asleep on their keyboards while typing our product name, this is the only rational explanation.
-<br />[<img src="/assets/img/blog/freehand-crow.png" style="width=100%;max-width:500px;height:auto;" alt="Freehand drawing in diagrams.net on a tablet - click the freehand tool in the toolbar on the left">](/blog/freehand-drawing.html)
+Finding a typo-proof word that is also pronounced the same throughout the world is simple, how sensible companies fail to stop users from mis-spelling product names eludes us. draw.io demonstrates the right way to do this, clearly. However, a small, minor, fractional, minority of users regularly fall asleep on their keyboards while typing our product name, this is the only rational explanation.
+<br />[<img src="/assets/img/blog/freehand-crow.png" style="width=100%;max-width:500px;height:auto;" alt="Freehand drawing in draw.io on a tablet - click the freehand tool in the toolbar on the left">](/blog/freehand-drawing.html)
 
 **craw.io** - do our diagrams make you angry? Or maybe it's a reference to the cleverness of crows? Do those filthy BPMN shapes make your skin crawl?
 
@@ -19,7 +19,7 @@ Finding a typo-proof word that is also pronounced the same throughout the world 
 
 **draq.io** - uncertain, unexpected, indefinable, but riveting. Or perhaps fashionable? Or cut off accidentally while typing something longer...
 
-**drag.io** - a wonderfully concise description of [how to use diagrams.net and draw.io](/doc/getting-started-editor.html) - drag shapes onto the canvas and drag connectors between them.
+**drag.io** - a wonderfully concise description of [how to use draw.io](/doc/getting-started-editor.html) - drag shapes onto the canvas and drag connectors between them.
 
 **drsw.io** - That's tough to say after you've been drinking. Maybe that's the reason you spelt it like that. But that's cool, we'd totally all vote for Sanna Marin if we could.
 

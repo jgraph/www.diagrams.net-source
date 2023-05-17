@@ -5,7 +5,7 @@ slug: custom-libraries
 date: 2020-04-06 09:10:00
 title: Work with custom shape libraries
 tags: [shape libraries]
-categories: [features]
+categories: [features, export]
 ---
 
 Custom shape libraries let you add the shapes, images, clipart, groups of shapes, custom shapes, and even entire diagrams to your own shape library to make diagramming faster and easier.

@@ -5,7 +5,7 @@ slug: export-from-diagram-viewer
 date: 2021-07-15 09:10:00
 title: Export images of diagrams directly from the lightbox viewer
 tags: [export, features]
-categories: [features]
+categories: [features, export]
 ---
 
 When you look at a draw.io diagram in our lightbox viewer, and not in our [online diagram editor](https://app.diagrams.net), hover the mouse over the diagram to see the viewer toolbar. Click on a tool to select which layers to display, zoom in and out, and step through the pages in a multi-page diagram. You can also export your diagram as a PNG image and print the diagram directly from the draw.io lightbox viewer using these tools. 

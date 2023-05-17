@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: uml-state-diagrams
 date: 2022-08-05 09:43:00
 title: Draw a UML state machine diagram
@@ -91,7 +91,7 @@ The label on the connector / transition usually follows the format ``trigger [gu
 
 ## Create a UML state diagram in PlantUML
 
-You can define a state diagram in text, and diagrams.net will generate the diagram for you. 
+You can define a state diagram in text, and draw.io will generate the diagram for you. 
 
 1. Click _Arrange > Insert > Advanced > PlantUML_ to open the text entry.
 2. Enter the PlantUML description of your state machines in the textbox, and click _Apply_. The diagram editor will convert this to a SVG representation on the canvas. Double-click on this to edit the PlantUML again. 
@@ -122,7 +122,7 @@ InvalidKey --> [*] : /ignore
 @enduml
 ```
 
-<img src="/assets/img/blog/uml-state-diagram-plantuml.png" style="width=100%;max-width:600px;height:auto;" alt="The Reconnecting sub-state diagram converted into text with PlantUML and a diagram generated automatically in diagrams.net">
+<img src="/assets/img/blog/uml-state-diagram-plantuml.png" style="width=100%;max-width:600px;height:auto;" alt="The Reconnecting sub-state diagram converted into text with PlantUML and a diagram generated automatically in draw.io">
 
 ## Example UML state diagrams - smart lock
 
@@ -130,7 +130,7 @@ The following state and sub-state diagrams document a smart lock system that rel
 
 What problems can you discover by analysing these diagrams?
 
-[Open this example in diagrams.net](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&page=0&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fuml-state-diagram-smart-lock.drawio)
+[Open this example in our diagram viewer](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&page=0&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fuml-state-diagram-smart-lock.drawio)
 
 [<img src="/assets/img/blog/uml-state-diagram-smart-lock.png" style="width=100%;max-width:600px;height:auto;" alt="An example top-level UML state machine diagram of a smart lock">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&page=0&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fuml-state-diagram-smart-lock.drawio)
 

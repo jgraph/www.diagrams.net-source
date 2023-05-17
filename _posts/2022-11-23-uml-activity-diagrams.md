@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: uml-activity-diagrams
 date: 2022-11-23 09:43:00
 title: Draw UML activity diagrams
@@ -10,7 +10,7 @@ categories: [use-cases, templates, shape-libraries]
 
 UML activity diagrams show the sequence of actions and the flow of control in a system or a process. You can model the behaviour of physical and digital systems, as well as business process flows with activity diagrams.
 <br /><img src="/assets/img/blog/uml-activity-diagram-template.png" style="width=100%;max-width:500px;height:auto;" alt="UML activity diagrams are used to model the flow of control and sequence of actions in a process or system">
-<br />_UML activity diagram template in diagrams.net and draw.io_
+<br />_UML activity diagram template in draw.io_
 
 **What's the difference between activity and sequence diagrams?**
 
@@ -22,7 +22,7 @@ They are similar to [basic flowcharts](/doc/getting-started-basic-flow-chart.htm
 
 **Enable the UML shape libraries**
 
-Go to [app.diagrams.net](https://app.diagrams.net) or open draw.io or our desktop app to create a new activity diagram.
+Go to [our online version of draw.io](https://app.diagrams.net) or open the draw.io desktop app or any of our integrations to create a new activity diagram.
 
 Shapes for activity diagrams are in the _General_ shape library and its _Advanced_ sub-library (enabled by default), and the [_UML 2.5 shape library_](/blog/uml-2-5.html). The older _UML_ shape library also contains some useful shapes.
 
@@ -35,14 +35,14 @@ Shapes for activity diagrams are in the _General_ shape library and its _Advance
 1. Select _Arrange > Insert > Template_ from the menu.
 2. Select the _UML_ category, then select an activity diagram template. 
 3. Click _Insert_ to add the template to the drawing canvas.
-<br /><img src="/assets/img/blog/activity-diagram-template.png" style="width=100%;max-width:300px;height:auto;" alt="Insert an UML activity diagram template in diagrams.net from the template library">
+<br /><img src="/assets/img/blog/activity-diagram-template.png" style="width=100%;max-width:300px;height:auto;" alt="Insert an UML activity diagram template in draw.io from the template library">
 
 ## UML activity diagram symbols
 
 The shapes used to draw activity diagrams are similar to those use to draw simple flowcharts.
 
 [<img src="/assets/img/blog/uml-activity-diagram-shapes.png" style="width=100%;max-width:500px;height:auto;" alt="The shapes used in UML activity diagrams are in the General and UML 2.5 shape libraries">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&page=1&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fuml-activity-example.drawio)
-<br />_Shapes used in UML activity diagrams - [open this reference in diagrams.net](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&page=1&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fuml-activity-example.drawio)_
+<br />_Shapes used in UML activity diagrams - [open this reference in our diagram viewer](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&page=1&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fuml-activity-example.drawio)_
 
 * **Start:** solid circle.
   
@@ -92,7 +92,7 @@ The shapes used to draw activity diagrams are similar to those use to draw simpl
 The following activity diagram example details the action steps and flow of control to process a customer's order.
 
 [<img src="/assets/img/blog/uml-2-5-activity-diagram-example.png" style="width=100%;max-width:500px;height:auto;" alt="Activity diagrams are used to model workflows in various ways">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&page=0&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fuml-activity-example.drawio)
-<br />_Activity diagram for processing a customer's order - [open this in diagrams.net](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&page=0&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fuml-activity-example.drawio)_
+<br />_Activity diagram for processing a customer's order - [open this in our diagram viewe](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&page=0&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fuml-activity-example.drawio)_
 
 ## Advanced activity diagram symbols
 
@@ -135,7 +135,7 @@ UML is a diagramming standard with many different types of diagrams used to mode
 
 [<img src="/assets/img/blog/uml-2-5-diagram-overview.png" style="max-width:100%;height:auto;" alt="Diagram types defined in UML 2.5">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fconcept-map-uml-diagrams-overview.drawio)
 
-Learn more about the following UML diagram types and how to create them in diagrams.net.
+Learn more about the following UML diagram types and how to create them in draw.io.
 
 * [UML class diagrams](/blog/uml-class-diagrams.html)
 * [Use case diagrams](/blog/uml-use-case-diagrams.html)
@@ -143,4 +143,4 @@ Learn more about the following UML diagram types and how to create them in diagr
 * [State machine diagrams](/blog/uml-state-diagrams.html)
 * Examples of [component, composite structure and deployment diagrams](/blog/uml-2-5.html#example-uml-diagrams)
 
-**Tip:** diagrams.net and draw.io can also automatically create activity diagrams from text using the [Mermaid syntax](/blog/mermaid-diagrams.html) and PlantUML.
+**Tip:** draw.io can also automatically create activity diagrams from text using the [Mermaid syntax](/blog/mermaid-diagrams.html) and PlantUML.

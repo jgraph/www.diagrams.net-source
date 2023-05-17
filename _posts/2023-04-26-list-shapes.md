@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: list-shapes
 date: 2023-04-26 09:24:00
 title: Use lists in diagrams to present text information clearly
@@ -8,14 +8,14 @@ tags: [features, tables]
 categories: [features, shapes]
 ---
 
-The list shape in diagrams.net functions just like a table shape - use keyboard shortcuts, or the table tools in the _Arrange_ tab of the format panel on the right, or the table tool in the toolbar above the drawing canvas to quickly add and delete list entries. 
+The list shape in draw.io functions just like a table shape - use keyboard shortcuts, or the table tools in the _Arrange_ tab of the format panel on the right, or the table tool in the toolbar above the drawing canvas to quickly add and delete list entries. 
 <br /><img src="/assets/img/blog/list-shape-tools.png" style="width=100%;max-width:400px;height:auto;" alt="Use the Arrange tab of the format panel, the table tool in the toolbar or keyboard shortcuts to work with list shapes in diagram.net">
 
 Find this list shape and the row shape (list item) in the _General_ shape library. 
 
 **Note:** There are many other specialised list shapes in the _Misc_ shape library, and more if you search for "list" in the Shapes panel. While some work like the list shape described in this post, others have very different features, such as the infographic, clipart, or mock-up lists.
 
-## Work with the list shape in diagrams.net
+## Work with the list shape in draw.io
 
 **Add a row:** There are several ways you can add a row to a list shape.
 First, click on a list shape and click again to select a row inside the shape.
@@ -68,7 +68,7 @@ To [overlay a shape](/doc/faq/shapes-overlap.html) and not turn it into a row, h
 
 ## Diagrams using this list shape
 
-If you're using diagrams.net as an online whiteboard in a team meeting, use the list shape to quickly prepare checklists and to-do lists. 
+If you're using draw.io as an online whiteboard in a team meeting, use the list shape to quickly prepare checklists and to-do lists. 
 <br /><img src="/assets/img/blog/list-shape-todo.png" style="width=100%;max-width:400px;height:auto;" alt="To do lists, checklists, and lists of information are naturally suited to the list shape from the General shape library">
 
 
@@ -85,4 +85,4 @@ You may find text-rich templates, like this business model canvas, easier to wor
 <br /><img src="/assets/img/blog/list-shape-business-model-canvas.png" style="width=100%;max-width:400px;height:auto;" alt="List shapes can be used in any text-heavy diagram, like this business model canvas">
 
 **Advanced users:** List shapes are useful in [data-driven diagrams](/blog/data-driven-diagrams), just like the table in dashboard below. As each row in the list shape has its own unique shape ID, it can also be referred to and updated by other applications dynamically.
-<br /><img src="/assets/img/blog/data-driven-diagram-example.gif" style="width=100%;max-width:400px;height:auto;" alt="Update shapes in a diagram based on live data with diagrams.net, Grafana and the Flowcharting plugin">
+<br /><img src="/assets/img/blog/data-driven-diagram-example.gif" style="width=100%;max-width:400px;height:auto;" alt="Update shapes in a diagram based on live data with draw.io, Grafana and the Flowcharting plugin">

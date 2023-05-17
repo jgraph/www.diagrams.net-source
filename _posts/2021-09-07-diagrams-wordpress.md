@@ -5,7 +5,7 @@ slug: diagrams-in-wordpress
 date: 2021-09-02 09:10:00
 title: Embed diagrams in WordPress as SVG
 tags: [features]
-categories: [features,integrations]
+categories: [features,integrations, export]
 ---
 
 You can embed SVG versions of your diagrams in a WordPress blog post or page. SVG images are quick to load when compared to other formats, and can include your diagram data if you want to allow viewers to download and view a copy of the diagram in the [draw.io editor online](https://app.diagrams.net).

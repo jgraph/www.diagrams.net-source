@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: onprem-diagrams-confluence
 date: 2200-12-06 09:54:00
 title: Keep your diagrams on premises with draw.io

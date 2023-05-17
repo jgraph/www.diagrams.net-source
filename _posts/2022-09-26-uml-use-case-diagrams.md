@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: uml-use-case-diagrams
 date: 2022-09-26 09:43:00
 title: Draw a UML use case diagram
@@ -11,7 +11,7 @@ categories: [use-cases, templates, shape-libraries]
 UML use case diagrams show all of the ways an end-user interacts with your systems, with all of its pre- and post-conditions, exceptions and alternate paths. These diagrams are used to establish your system requirements, whether that be a software system or an interaction with another person or team. 
 <br />[<img src="/assets/img/blog/uml-use-case-example.png" style="width=100%;max-width:500px;height:auto;" alt="An example of a use case diagram">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fuml-use-case-example.drawio)
 
-[_Customer updates their account - open this use case diagram in diagrams.net_](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fuml-use-case-example.drawio)
+[_Customer updates their account - open this use case diagram in our diagram viewer_](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fuml-use-case-example.drawio)
 
 UML use case diagrams are not used for scheduling or broad planning purposes as they are highly technical and specific, but instead function as the foundation for a system's technical documentation. 
 
@@ -25,8 +25,8 @@ Each _goal_ or task that a user wants to achieve with your system or program is 
 
 **Data stores** are typically represented by the database shape.
 
-These shapes are available in the _General_ shape library in diagrams.net and our draw.io apps.
-<br /><img src="/assets/img/blog/uml-use-case-diagram-shapes.png" style="width=100%;max-width:600px;;height:auto;" alt="The shapes needed to create UML use case diagrams are available in the General shape library in diagrams.net">
+These shapes are available in the _General_ shape library in draw.io.
+<br /><img src="/assets/img/blog/uml-use-case-diagram-shapes.png" style="width=100%;max-width:600px;;height:auto;" alt="The shapes needed to create UML use case diagrams are available in the General shape library in draw.io">
 
 **Solid connectors** from the actors (or to the actors) represents them performing that task. 
 
@@ -36,7 +36,7 @@ These shapes are available in the _General_ shape library in diagrams.net and ou
 * when a task contains or ``includes`` subtasks 
 <br /><img src="/assets/img/blog/uml-use-case-diagram-connector-styles.png" style="width=100%;max-width:600px;;height:auto;" alt="Change the connector style using the Style tab of the format panel">
 
-**An open arrow head** on a connector to indicate inheritance. You can add a label to this connector to show multiplicity: ``1``,  ``1..n`` or ``*``. Connectors in diagrams.net can contain three labels - source, target and center labels.
+**An open arrow head** on a connector to indicate inheritance. You can add a label to this connector to show multiplicity: ``1``,  ``1..n`` or ``*``. Connectors in draw.io can contain three labels - source, target and center labels.
 
 **Bounding boxes** or rectangles can be placed to surround a system - uncheck the _Fill_ checkbox in the _Style_ tab in the format panel. Alternatively, [use colours and styles](/doc/faq/shape-styles.html) to indicate different systems and keep the diagram easier to read. 
 
@@ -73,4 +73,4 @@ UML is a standard with many different types of diagrams used to model the behavi
 
 [<img src="/assets/img/blog/uml-2-5-diagram-overview.png" style="max-width:100%;height:auto;" alt="Diagram types defined in UML 2.5">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fconcept-map-uml-diagrams-overview.drawio)
 
-**Tip:** diagrams.net and draw.io can also automatically create use case diagrams from text using the [Mermaid syntax](/blog/mermaid-diagrams.html) and PlantUML.
+**Tip:** draw.io can also automatically create use case diagrams from text using the [Mermaid syntax](/blog/mermaid-diagrams.html) and PlantUML, or using the [smart template generator](/blog/smart-diagram-generation.html).

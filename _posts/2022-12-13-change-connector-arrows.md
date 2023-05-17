@@ -1,15 +1,15 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: change-connector-arrows
 date: 2022-12-13 09:24:00
-title: Change connector arrows in diagrams.net
+title: Change connector arrows in draw.io
 tags: [features, connectors]
 categories: [features, connectors]
 ---
 
 There are many different styles of connectors - the lines that join shapes in a diagram. Some are plain, some have arrows, and some have particular symbols to show a type of connection. Change the connector arrows and their styles in the Style tab of the format panel.
-<br /><img src="/assets/img/blog/connector-arrows.png" style="width=100%;max-width:500px;height:auto;" alt="There are a wide range of arrow heads you can use at either end of connectors in diagrams.net">
+<br /><img src="/assets/img/blog/connector-arrows.png" style="width=100%;max-width:500px;height:auto;" alt="There are a wide range of arrow heads you can use at either end of connectors in draw.io">
 
 ## Change a connector arrow
 
@@ -17,7 +17,7 @@ There are many different styles of connectors - the lines that join shapes in a 
 Select the connector that you want to style, then go to the _Style_ tab on the format panel.
 
 Click on the drop-down list for the _Start_ and _End_ of the connector and choose a different connector arrow from the long list.
-<br /><img src="/assets/img/blog/connector-arrow-select.png" style="width=100%;max-width:500px;height:auto;" alt="Select a different arrow head for the start and end of your connector via the Style tab in the format panel in diagrams.net">
+<br /><img src="/assets/img/blog/connector-arrow-select.png" style="width=100%;max-width:500px;height:auto;" alt="Select a different arrow head for the start and end of your connector via the Style tab in the format panel in draw.io">
 
 If you don't see all of these arrows and connector symbols, you may need to make your browser window larger!
 
@@ -28,7 +28,7 @@ Several shape libraries contain connectors with specific arrows or symbols used 
 Hover over any shape to see a larger preview.
 <br /><img src="/assets/img/blog/connector-arrow-uml.png" style="width=100%;max-width:500px;height:auto;" alt="Shape libraries, such as the UML shape library, contain relevant connectors with specific arrow heads">
 
-[Learn more about shape libraries in diagrams.net](/blog/shape-libraries.html)
+[Learn more about shape libraries in draw.io](/blog/shape-libraries.html)
 
 ## Style connector arrows
 

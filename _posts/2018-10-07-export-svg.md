@@ -5,7 +5,7 @@ slug: export-svg
 page.date: 2018-10-07
 title: Export diagrams as SVG images
 tags: [export, features]
-categories: [features]
+categories: [features, export]
 ---
 
 SVG images load quickly, especially when compared to loading diagram images in other formats. You can embed an SVG image exported from draw.io in a website, document or even a WordPress site if you have installed a plugin that support the upload of SVG files.

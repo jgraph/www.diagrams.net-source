@@ -5,7 +5,7 @@ slug: cloudockit-to-drawio
 page.date: 2019-04-18
 title: Export from Cloudockit to a .drawio diagram
 tags: [integrations, infrastructure diagrams, AWS, network diagrams]
-categories: [integrations, use-cases]
+categories: [integrations, use-cases, import]
 ---
 
 [Cloudockit](https://www.cloudockit.com) is a platform which connects to and monitors your cloud and on-premises environment and automatically generates 2D or 3D diagrams. It works with AWS, Azure, Google Cloud Platform (GCP), VMWare Hyper-V, Alibaba Cloud, IBM Cloud, and your local infrastructure to visualise your network and automatically generate documentation.

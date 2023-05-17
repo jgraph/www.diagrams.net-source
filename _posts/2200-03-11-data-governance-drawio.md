@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: data-governance-drawio
 date: 2200-03-11 09:54:00
 title: Introducing Data Governance in our Standard draw.io plans 
