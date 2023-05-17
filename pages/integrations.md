@@ -70,6 +70,7 @@ The following integrations are not directly provided by the draw.io team.
 * [**Bioiocons:**](https://bioicons.com/extensions/) Open-source icon libraries that work with the draw.io web app for life science illustrations and diagrams.
 * [**BookStack:**](https://www.bookstackapp.com/blog/beta-release-v0-20-0/) An open source information management system.
 * [**Docstell:**](https://docstell.com/) Docstell provide software documentation for developers.
+* [**DokuWiki:**](https://www.dokuwiki.org/plugin:diagrams) Plugin for one of the most popular Open Source wiki engines.
 * [**FOSWiki:**](https://foswiki.org/Extensions/DrawIOPlugin) Combine text and structured content, macros and data from web APIs wth FOSWiki.
 * [**Grafana:**](https://github.com/algenty/grafana-flowcharting) Add diagrams to this analytics and modelling platform with Arnaud Genty’s open-source plugin.
 * [**Growi:**](https://growi.org/en/) Growi is team collaboration software that uses markdown. It can integrate draw.io into the platform.
