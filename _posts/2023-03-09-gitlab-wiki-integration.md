@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: gitlab-wiki-integration
 date: 2023-03-09 09:43:00
 title: Using diagrams with GitLab
@@ -8,7 +8,7 @@ tags: [gitlab]
 categories: [integrations, features, use-cases]
 ---
 
-diagrams.net will be available as an integration in the web-based GitLab Wiki editor on 22 March with the [GitLab 15.10 release and product kickoff](https://about.gitlab.com/direction/kickoff/). When you add your diagram to a GitLab Wiki page while editing the source of that page, it will be saved as an SVG image containing the diagram code, and displayed in the page content. 
+draw.io will be available as an integration in the web-based GitLab Wiki editor on 22 March with the [GitLab 15.10 release and product kickoff](https://about.gitlab.com/direction/kickoff/). When you add your diagram to a GitLab Wiki page while editing the source of that page, it will be saved as an SVG image containing the diagram code, and displayed in the page content. 
 
 Like all files in GitLab, the image with its embedded diagram is versioned, so all changes are tracked. 
 
@@ -43,12 +43,12 @@ A blank diagram will be opened in the Sketch whiteboard-style editor theme. Use 
 You can also store your individual diagram files in GitLab. Select GitLab as the save file destination when you create a new diagram, or select _Save as_ from the menu. 
 <br /><img src="/assets/img/blog/save-file-gitlab.png" style="width=100%;max-width:250px;height:auto;" alt="Select GitLab as the location where you want to store your files">
 
-Alternatively go to [``app.diagrams.net/?mode=gitlab``](https://app.diagrams.net/?mode=gitlab) to start diagramming now using GitLab to store your diagrams.
+Alternatively go to [our online editor](https://app.diagrams.net/?mode=gitlab) to start diagramming now using GitLab to store your diagrams.
 
 You'll need to [authorise access to your GitLab repositories](/blog/gitlab-support.html), if you haven't already done so.
 <br /><img src="/assets/img/blog/authorize-gitlab2.png" style="width=100%;max-width:250px;height:auto;" alt="Authorize GitLab to save diagram files to this location">
 
-**Tip:i** As [diagrams.net uses secure direct client authorisation](blog/gitlab-support.html), your password is never shared. 
+**Tip:i** As [draw.io uses secure direct client authorisation](blog/gitlab-support.html), your password is never shared. 
 
 ### Diagram in VSCode with GitLab
 

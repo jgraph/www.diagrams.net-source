@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: embed-diagrams-confluence
 date: 2200-12-12 09:54:00
 title: Embed existing draw.io diagrams in Confluence pages

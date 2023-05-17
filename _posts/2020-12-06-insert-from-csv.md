@@ -5,7 +5,7 @@ slug: insert-from-csv
 date: 2020-12-06 09:43:00
 title: Insert a diagram from specially formatted CSV data
 tags: [features]
-categories: [features, integrations]
+categories: [features, integrations, import]
 ---
 
 You can create a diagram automatically from a combination of formatting information and CSV data from a spreadsheet. This may be practical when working with spreadsheet models of various types of data ([org charts](/blog/org-charts.html), [attack trees](/blog/threat-modelling.html), process flows), or CSV files exported from other programs, for example, modeled network topologies or software dependencies. 

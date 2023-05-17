@@ -5,7 +5,7 @@ slug: insert-sql
 page.date: 2019-04-08
 title: Insert from SQL to create an ER diagram
 tags: [SQL, entity relationship diagrams, databases]
-categories: [features, use-cases]
+categories: [features, use-cases, import]
 ---
 
 Entity relationship diagrams show how data is structured in relational databases. Each entity consists of rows of attributes. ER diagrams are used in software development and by IT workers to design and document database structure.

@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: default-styles
 date: 2023-01-27 09:24:00
 title: Work with default styles
@@ -8,8 +8,8 @@ tags: [features]
 categories: [features, shapes, connectors]
 ---
 
-When you set a default style for shapes and connectors in diagrams.net and draw.io, all subsequent shapes that you add from the shape library will use that default style. This includes shape outline or connector line colour, thickness and style, shape fill colour and effects, opacity and more. 
-<br /><img src="/assets/img/blog/shape-style-default-set.png" style="width=100%;max-width:300px;height:auto;" alt="Set a default shape or connector style in diagrams.net">
+When you set a default style for shapes and connectors in draw.io, all subsequent shapes that you add from the shape library will use that default style. This includes shape outline or connector line colour, thickness and style, shape fill colour and effects, opacity and more. 
+<br /><img src="/assets/img/blog/shape-style-default-set.png" style="width=100%;max-width:300px;height:auto;" alt="Set a default shape or connector style in draw.io">
 
 See how to apply [shape styles](/doc/faq/shape-styles.html) and [connector styles](/doc/faq/connector-styles.html)
 

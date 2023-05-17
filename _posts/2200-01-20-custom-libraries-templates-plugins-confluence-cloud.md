@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: custom-libraries-templates-plugins-confluence-cloud
 date: 2200-01-20 09:54:00
 title: Customise draw.io for Confluence Cloud

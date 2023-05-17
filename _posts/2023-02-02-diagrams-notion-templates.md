@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: diagram-notion-templates
 date: 2023-02-02 09:10:00
 title: Include diagrams in Notion templates with the draw.io extension
@@ -20,10 +20,10 @@ The _draw.io for Notion extension_ will automatically change the background of t
 If you aren't using Chrome and the draw.io for Notion extension, you can still see the diagram in the page as an SVG image on a light background. 
 <br /><img src="/assets/img/blog/drawio-notion-onboarding-template.png" style="width=100%;max-width:600px;height:auto;" alt="Non-Chrome users can see view .diagrams in Notion pages and templates, but won't be able to edit them in Notion">
 
-You can also right-click and download the image files and open them in [app.diagrams.net](https://app.diagrams.net) because the diagram data is embedded right there in the SVG image. 
+You can also right-click and download the image files and open them in the [online version of draw.io](https://app.diagrams.net) because the diagram data is embedded right there in the SVG image. 
 
-You can embed the ``.drawio.svg`` image files in normal webpages too. For example, the flowchart below is an SVG file with embedded diagram data - download and open this image file in the diagrams.net or draw.io editor to edit the diagram. 
-<br /><img src="/assets/img/blog/application-process.drawio.svg" style="width=100%;max-width:600px;height:auto;" alt="You can embed .drawio.svg files in normal websites, download them and then open them in app.diagrams.net to edit the diagrams">
+You can embed the ``.drawio.svg`` image files in normal webpages too. For example, the flowchart below is an SVG file with embedded diagram data - download and open this image file in the draw.io editor to edit the diagram. 
+<br /><img src="/assets/img/blog/application-process.drawio.svg" style="width=100%;max-width:600px;height:auto;" alt="You can embed .drawio.svg files in normal websites, download them and then open them in the draw.io editor to edit the diagrams">
 
 **Note:** Different browsers may not download the full diagram data when you save the image file. If you are having trouble opening it as a diagram in the editor, try downloading the SVG image file using another browser.
 

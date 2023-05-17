@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: flowcharts-atlassian-community
 date: 2300-12-10 09:54:00
 title: Flowcharts and templates in Confluence Cloud

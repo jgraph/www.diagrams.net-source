@@ -5,7 +5,7 @@ slug: embed-diagrams-confluence-cloud
 date: 2020-10-14 09:54:00
 title: How to install and insert a diagram in Confluence Cloud
 tags: [features, Atlassian]
-categories: [features,atlassian]
+categories: [features,atlassian, import]
 ---
 
 If you are looking for information on licensing draw.io for Confluence DC, [there is another article for that](/doc/faq/license-drawio-confluence-jira-server.html).

@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: diagrams-jira
 date: 2200-02-07 09:54:00
 title: Using draw.io diagrams in Jira Cloud

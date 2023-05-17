@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: infographics-layered-shapes
 date: 2022-06-27 08:54:00
 title: Create infographics and slides using layered shapes
@@ -8,8 +8,8 @@ tags: [shape-libraries]
 categories: [templates, use-cases, shapes]
 ---
 
-When you slice a 3D shape up and layer it in a diagram, you clearly visualise that a concept or process is broken up into smaller parts. Here's a step-by-step tutorial to create your own infographic using shapes from the basic diagrams.net shape libraries.
-<br />[<img src="/assets/img/blog/infographic-example-1.png" style="width=100%;max-width:500px;height:auto;" alt="An infographic example diagram created in diagrams.net">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Finfographic-example-1.drawio)
+When you slice a 3D shape up and layer it in a diagram, you clearly visualise that a concept or process is broken up into smaller parts. Here's a step-by-step tutorial to create your own infographic using shapes from the basic draw.io shape libraries.
+<br />[<img src="/assets/img/blog/infographic-example-1.png" style="width=100%;max-width:500px;height:auto;" alt="An infographic example diagram created in draw.io">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Finfographic-example-1.drawio)
 
 Such layered, repeating shapes are ideal for infographics or when creating slides in a presentation. 
 
@@ -87,29 +87,29 @@ The _Textbox_ shape is formatted with HTML tags. You can edit these tags directl
 ## Embed or export the diagram
 
 * Save the diagram file to **Microsoft OneDrive** and [embed the diagram file in a Powerpoint presentation](/blog/office-diagrams.html) using the draw.io add-in for Powerpoint. 
-* Save the diagram file in **Google Drive** Embed it in Google Slides using the [diagrams.net for Slides add-on](https://gsuite.google.com/u/0/marketplace/app/diagramsnet_for_slides/588283048931?hl=en&pann=docs_addon_widget).
+* Save the diagram file in **Google Drive** Embed it in Google Slides using the [draw.io for Slides add-on](https://gsuite.google.com/u/0/marketplace/app/diagramsnet_for_slides/588283048931?hl=en&pann=docs_addon_widget).
 
 You can [export your diagram to various formats](/doc/faq/export-diagram.html), including image files, PDF documents, HTML code and more
 
 [<img src="/assets/img/blog/infographic-example-1.png" style="width=100%;max-width:400px;height:auto;" alt="Exported as an image, you can now add this to a presentation slide or a document">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Finfographic-example-1.drawio)
-<br />[_Open this example in the diagrams.net viewer_](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Finfographic-example-1.drawio)
+<br />[_Open this example in the draw.io viewer_](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Finfographic-example-1.drawio)
 
 ## More layered infographic diagrams
 
 The _Infographic_ shape library contains several ready-built templates for infographics and slides with overlapping shapes. 
 
-**Tip:** Click on a diagram to open it in the diagrams.net viewer.
+**Tip:** Click on a diagram to open it in the draw.io viewer.
 
 [<img src="/assets/img/blog/infographic-shape-library-layers.png" style="width=100%;max-width:600px;height:auto;" alt="The infographic shape library contains many shapes with layers ready to label">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Finfographic-shape-library-layers.drawio)
 
-The following examples were all created in diagrams.net using basic shapes from the _General_, _Infographic_ and _Shapes_ shape libraries.
+The following examples were all created in draw.io using basic shapes from the _General_, _Infographic_ and _Shapes_ shape libraries.
 
 [<img src="/assets/img/blog/infographic-project-steps.png" style="width=100%;max-width:400px;height:auto;" alt="Steps in a project, prepared for a presentation slide">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Finfographic-project-steps.drawio)
 
-[<img src="/assets/img/blog/infographic-example-2.png" style="width=100%;max-width:400px;height:auto;" alt="An infographic example created in diagrams.net">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Finfographic-example-2.drawio)
+[<img src="/assets/img/blog/infographic-example-2.png" style="width=100%;max-width:400px;height:auto;" alt="An infographic example created in draw.io">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Finfographic-example-2.drawio)
 
-[<img src="/assets/img/blog/infographic-example-4.png" style="width=100%;max-width:500px;height:auto;" alt="An infographic example created in diagrams.net">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Finfographic-example-4.drawio)
+[<img src="/assets/img/blog/infographic-example-4.png" style="width=100%;max-width:500px;height:auto;" alt="An infographic example created in draw.io">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Finfographic-example-4.drawio)
 
-[<img src="/assets/img/blog/infographic-example-5.png" style="width=100%;max-width:600px;height:auto;" alt="An infographic example with a dark background created in diagrams.net">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Finfographic-example-5.drawio)
+[<img src="/assets/img/blog/infographic-example-5.png" style="width=100%;max-width:600px;height:auto;" alt="An infographic example with a dark background created in draw.io">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Finfographic-example-5.drawio)
 
 [See more infographics in our example diagram gallery](/example-diagrams.html#timelines-and-roadmaps)

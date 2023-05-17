@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: custom-colours-fonts-styles-ui-confluence-cloud
 date: 2200-01-20 09:54:00
 title: Customise default colours, fonts, styles and the draw.io UI in Confluence Cloud

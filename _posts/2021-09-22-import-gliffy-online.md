@@ -5,7 +5,7 @@ slug: import-gliffy-online
 date: 2021-09-21 11:13:00
 title: Import diagrams from Gliffy Online to draw.io
 tags: [features]
-categories: [features,integrations]
+categories: [features,integrations, import]
 ---
 
 Gliffy recently removed their free tier offering in their online version. This means if your trial version has expired, you will no longer be able to edit up to 5 diagrams that you have created, unless you start a paid subscription.

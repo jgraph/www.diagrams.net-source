@@ -5,7 +5,7 @@ slug: publish-link
 page.date: 2018-08-26
 title: Publish a diagram as a link from Google Drive
 tags: [export, features]
-categories: [features]
+categories: [features, export]
 ---
 
 Publishing a diagram that you have saved on Google Drive as a link makes it easy to share them with people on forums, via chat apps or by email.

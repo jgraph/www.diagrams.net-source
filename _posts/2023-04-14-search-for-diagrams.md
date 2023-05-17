@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: search-for-diagrams
 date: 2023-04-14 10:21:00
 title: A history of diagram search terms
@@ -35,11 +35,11 @@ It was a little surprising to see [network diagrams](/blog/network-diagrams.html
 <br /><img src="/assets/img/blog/search-trends-it-diagrams.png" style="width=100%;max-width:400px;height:auto;" alt="While UML and network diagrams are less often searched for, mockups and user flows are becoming more popular">
 
 [UML diagrams](/search?search=uml) have been losing popularity over time - they can be quite time consuming to draw and maintain for complex software products. When looking at the different types of UML diagrams, class diagrams are still regularly searched for.
-<br /><img src="/assets/img/blog/class-diagram-example.png" style="width=100%;max-width:300px;height:auto;" alt="A class diagram based on the basic class diagram template in diagrams.net">
+<br /><img src="/assets/img/blog/class-diagram-example.png" style="width=100%;max-width:300px;height:auto;" alt="A class diagram based on the basic class diagram template in draw.io">
 
 Reflecting today's faster software development and release cycles, the search trends clearly show that mockups and user flows are increasingly popular.
 <br />[<img src="/assets/img/blog/feature-flag-control-interface-mockup.png" style="width=100%;max-width:400px;height:auto;" alt="The best way to control which feature flags are enabled or disabled, and set user target segment rules is via a visual interface">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&page=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Ffeature-flag-control-interface-mockup.drawio)
-<br />_Mockups - like this feature-flag control panel - are easily created in diagrams.net_
+<br />_Mockups - like this feature-flag control panel - are easily created in draw.io_
 
 
 ### Business diagrams for project management
