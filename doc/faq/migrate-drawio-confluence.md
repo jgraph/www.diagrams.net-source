@@ -5,11 +5,18 @@ faq: true
 categories: [Confluence Data Center and Server, Confluence Cloud]
 ---
 
-You can migrate the draw.io diagrams from your source Confluence instance to your target Confluence instance via the draw.io app administration.
-
 draw.io data in Confluence consists of two parts:
+
 * attachments on the pages that contain the diagram data
 * draw.io macros in the pages that use the attachments
+
+draw.io macros either reference diagram attachments attached to that page (most commonly), or contain a pageID which is the Confluence page ID that the diagram exists on.
+
+All draw.io attachments and macro are migrated as part of your standard Confluence migration. Our migration steps migrate no data.
+
+The issue when you migrate across Confluence instances is that pageIDs change. This migration step isn't a data migration step, it's, mainly, a "fix pageIDs" migration step.
+
+
 
 **Diagrams with links on shapes** that link to a Confluence page, somewhere in your instance contain the ``Page ID`` of the target page. 
 
