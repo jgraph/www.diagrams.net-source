@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: drawio-updates
 date: 2200-03-11 09:55:00
 title: Updates to the draw.io apps for Confluence and Jira

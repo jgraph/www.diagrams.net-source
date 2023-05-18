@@ -1,11 +1,11 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: diagrams-from-code
 date: 2022-10-21 09:10:00
 title: Generate diagrams from code
 tags: [uml]
-categories: [features,use-cases]
+categories: [features,use-cases, import]
 ---
 
 Documenting software costs developers time and becomes outdated quickly. A code-first diagramming approach - describing the diagram in code or text while programming - works well for entity models (SQL database code), and class descriptions (PlantUML and Mermaid syntax).
@@ -40,14 +40,14 @@ To recreate the entities, you'll need to delete the existing entities and their 
 PlantUML is a syntax for drawing UML diagrams from plain text descriptions.
 
 1. Click _Arrange > Insert > Advanced > PlantUML_.
-<br /><img src="/assets/img/blog/mindmap-plantuml-example1-insert.png" style="width=100%;max-width:300px;height:auto;" alt="Generate a mindmap from text in diagrams.net by inserting PlantUML in arithmetic notation via Arrange > Insert > Advanced > PlantUML">
+<br /><img src="/assets/img/blog/mindmap-plantuml-example1-insert.png" style="width=100%;max-width:300px;height:auto;" alt="Generate a mindmap from text in draw.io by inserting PlantUML in arithmetic notation via Arrange > Insert > Advanced > PlantUML">
 2. Paste or write the PlantUML description of your diagram in the text field. 
 3. Click _Insert_ to generate a diagram, and it will be inserted as a 'shape' on the drawing canvas.
 
 PlantUML can describe other types of diagrams, [such as mindmaps](/blog/plantuml-mindmaps-from-text.html) as in the example above, and simple flow charts, but it's predominantly used to document software systems. 
 
 UML class, use case, object, activity, component, deployment, sequence, state and timing diagrams can all be created using PlantUML.  
-<br /><img src="/assets/img/blog/uml-state-diagram-plantuml.png" style="width=100%;max-width:600px;height:auto;" alt="The Reconnecting sub-state diagram converted into text with PlantUML and a diagram generated automatically in diagrams.net">
+<br /><img src="/assets/img/blog/uml-state-diagram-plantuml.png" style="width=100%;max-width:600px;height:auto;" alt="The Reconnecting sub-state diagram converted into text with PlantUML and a diagram generated automatically in draw.io">
 
 **Code ➞ PlantUML text**
 
@@ -96,10 +96,10 @@ There currently seems to be fewer tools that generate Mermaid syntax from code. 
 <br />
 ## Generate PlantUML & Mermaid diagrams offline
 
-PlantUML conversion is not available in our diagrams.net desktop app because it requires our servers to convert text to a diagram. 
+PlantUML conversion is not available in our draw.io desktop app because it requires our servers to convert text to a diagram. 
 
-Instead, [run your own diagrams.net server with our docker app](/blog/diagrams-docker-app.html) as it supports PlantUML diagram, image and PDF generation, and does not depend on the diagrams.net website.
-<br /><img src="/assets/img/blog/dockerhub-drawio.png" style="width=100%;max-width:400px;height:auto;" alt="The diagrams.net desktop app works on MacOS, Windows and Linux">
+Instead, [run your own draw.io server with our docker app](/blog/diagrams-docker-app.html) as it supports PlantUML diagram, image and PDF generation, and does not depend on the draw.io servers.
+<br /><img src="/assets/img/blog/dockerhub-drawio.png" style="width=100%;max-width:400px;height:auto;" alt="The draw.io desktop app works on MacOS, Windows and Linux">
 
 ## Related
 

@@ -8,7 +8,7 @@ tags: [features]
 categories: [features, shapes]
 ---
 
-Quick mockups of the user interfaces are invaluable for software developers and designers both for websites and software or mobile applications. Designers and software engineers can draw it together collaboratively with the mockups shape library in our draw.io apps or online at [app.diagrams.net](https://app.diagrams.net).
+Quick mockups of the user interfaces are invaluable for software developers and designers both for websites and software or mobile applications. Designers and software engineers can draw it together collaboratively with the mockups shape library in our draw.io apps or our [online editor](https://app.diagrams.net).
 
 ## Add diagrams to Jira issues
 
@@ -110,6 +110,6 @@ As the diagram file is stored on Confluence and only embedded in the Jira issue,
 
 * If your developers use GitHub or GitLab for storing project documentation, use the [unofficial extension for draw.io](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio) to edit diagram files directly from within VSCode or the [VSCode web editor](/blog/edit-diagrams-with-github-dev.html).
 
-* The [diagrams.net (draw.io) PowerUp for Trello](https://trello.com/power-ups/59e60179a83e5a5354c68bec/diagramsnet) is useful if you are using Atlassian's lighter-weight planning and tracking system.
+* Our [PowerUp for Trello](https://trello.com/power-ups/59e60179a83e5a5354c68bec/diagramsnet) is useful if you are using Atlassian's lighter-weight planning and tracking system.
 
 * And if you use our [Notion Chrome extension](/blog/drawio-notion.html), you can create and store mockups and diagrams directly in your Notion pages, if your designers and developers are collaborating on that platform.

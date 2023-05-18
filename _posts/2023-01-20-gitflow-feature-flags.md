@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: gitflow-feature-flags
 date: 2023-01-20 10:21:00
 title: Feature flag development with tags in gitflow diagrams
@@ -9,7 +9,7 @@ categories: [use-cases]
 ---
 
 Feature-based development and lean release cycles are becoming more common in online software services (SaaS products), where continuous development and continuous deployment are required. Feature flags give administrators and developers fine control over what features are available to which customer segments on release.
-<br /><img src="/assets/img/blog/feature-flag-gitflow-tags.png" style="width=100%;max-width:600px;height:auto;" alt="Trunk-based development with feature branches works well with feature flags on release - apply tags to shapes to visualise this in diagrams.net and draw.io">
+<br /><img src="/assets/img/blog/feature-flag-gitflow-tags.png" style="width=100%;max-width:600px;height:auto;" alt="Trunk-based development with feature branches works well with feature flags on release - apply tags to shapes to visualise this in draw.io">
 
 
 **Traditional software development** 
@@ -47,9 +47,9 @@ Feature flags can make continuous development and continuous deployment smoother
 
 Feature flags don't replace feature-based development branches, they extend their functionality.
 
-For this example, we'll modify the [gitflow that we developed in our earlier post](/blog/gitflow-diagram.html) (also available as a template in diagrams.net and draw.io). 
+For this example, we'll modify the [gitflow that we developed in our earlier post](/blog/gitflow-diagram.html) (also available as a template in draw.io). 
 
-**Note:** The diagram file used in this post has multiple pages - one for each method used to display feature flags in the gitflow. Open the file in the diagrams.net viewer and step through the pages to compare the four different methods.
+**Note:** The diagram file used in this post has multiple pages - one for each method used to display feature flags in the gitflow. Open the file in the draw.io viewer and step through the pages to compare the four different methods.
 
 ### Leaner trunk-based development
 
@@ -58,12 +58,12 @@ For this example, we'll modify the [gitflow that we developed in our earlier pos
 
 Gitflow diagrams are simple to draw and edit - they use the shapes in the General shape library with basic connectors between them. Follow the [steps in our earlier post](/blog/gitflow-diagram.html#add-a-master-or-main-branch) to create a gitflow that matches your branching structure.
 
-<img src="/assets/img/blog/gitflow-before-feature-flag-tags.png" style="width=100%;max-width:600px;height:auto;" alt="Gitflow modified from the diagrams.net template for feature-based trunk development before applying feature flag tags">
+<img src="/assets/img/blog/gitflow-before-feature-flag-tags.png" style="width=100%;max-width:600px;height:auto;" alt="Gitflow modified from the draw.io template for feature-based trunk development before applying feature flag tags">
 <br />_A modified gitflow from the built-in template to show a trunk-based development structure with short-lived feature branches_
 
 ### Use tags in your gitflow for feature flags
 
-In a diagrams.net and draw.io gitflow diagram, you can indicate feature flags in a number of ways, but the easiest is to [add tags](/blog/tags-in-diagrams.html) to shapes. 
+In a draw.io gitflow diagram, you can indicate feature flags in a number of ways, but the easiest is to [add tags](/blog/tags-in-diagrams.html) to shapes. 
 
 Tags let you hide or display tagged shapes and connectors, visualising how released software updates will appear to users when feature flags are enabled or disabled. 
 
@@ -78,8 +78,8 @@ Tags let you hide or display tagged shapes and connectors, visualising how relea
 
 **Note:** In this example, we've added the core tag to all trunk (main) versions to make it easier to visualise. 
 
-[<img src="/assets/img/blog/feature-flag-gitflow.png" style="width=100%;max-width:600px;height:auto;" alt="Trunk-based development with feature branches works well with feature flags on release - apply tags to shapes to visualise this in diagrams.net and draw.io">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fgitflow-feature-flags.drawio)
-<br />[_Open this gitflow with feature flag tags in the diagrams.net viewer_](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fgitflow-feature-flags.drawio)
+[<img src="/assets/img/blog/feature-flag-gitflow.png" style="width=100%;max-width:600px;height:auto;" alt="Trunk-based development with feature branches works well with feature flags on release - apply tags to shapes to visualise this in draw.io">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fgitflow-feature-flags.drawio)
+<br />[_Open this gitflow with feature flag tags in our diagram viewer_](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fgitflow-feature-flags.drawio)
 
 **Tip:** You can turn tags on and off via the tags tool in the viewer. 
 
@@ -89,9 +89,9 @@ Tags let you hide or display tagged shapes and connectors, visualising how relea
 Now, with nothing selected in your diagram, click the eye symbols next to tags (feature flags) to see which feature branches and main versions they affect. If more than one flag is applied to a feature, both need to be hidden to hide those branches they affect.
 
 For example, to see which feature branches are flagged as "api", hide all other branches.  If you want to select just those shapes/connectors, click on the select checkbox next to the tag name.
-<br /><img src="/assets/img/blog/gitflow-api-feature-flag-tag.gif" style="width=100%;max-width:600px;height:auto;" alt="Tags in diagrams.net let you clearly visualise which feature branches and main versions on the trunk are affected by feature flags and quickly select them">
+<br /><img src="/assets/img/blog/gitflow-api-feature-flag-tag.gif" style="width=100%;max-width:600px;height:auto;" alt="Tags in draw.io let you clearly visualise which feature branches and main versions on the trunk are affected by feature flags and quickly select them">
 
-**Tips for working with tags in diagrams.net and draw.io**
+**Tips for working with tags in draw.io**
 
 * Hover over any shape to see their tags.
 * Connectors coming from or going to hidden shapes will not be displayed.
@@ -101,7 +101,7 @@ In our example Gitflow with feature flag tags, to see which versions on any bran
 <br /><img src="/assets/img/blog/gitflow-versions-with-feature-flags.png" style="width=100%;max-width:600px;height:auto;" alt="Use an extra tag that applies to all versions on the trunk (main) branch so you can visualise which releases are not actually affected by any feature flags">
 
 
-### Alternative methods to add feature flags to gitflows in diagrams.net
+### Alternative methods to add feature flags to gitflows in draw.io
 
 If you don't want the interactive visualisation of tags in the diagram editor or viewer, you could add feature flags in the following ways. 
 
@@ -125,7 +125,7 @@ Also called [shape data](/doc/faq/shape-metadata.html), these could also indicat
 <br /><img src="/assets/img/blog/feature-flags-shape-property.png" style="width=100%;max-width:250px;height:auto;" alt="Add feature flags to a custom shape property in your gitflow diagram">
 
 **Tip:** Copy and paste shape data to quickly duplicate custom properties on another shape via _Edit_ in the right-click context menu.
-<br /><img src="/assets/img/blog/feature-flags-copy-paste-shape-data.png" style="width=100%;max-width:250px;height:auto;" alt="Copy and paste tags on shapes via the right-click context menu in diagrams.net"> 
+<br /><img src="/assets/img/blog/feature-flags-copy-paste-shape-data.png" style="width=100%;max-width:250px;height:auto;" alt="Copy and paste tags on shapes via the right-click context menu in draw.io"> 
 
 [Learn how to work with custom shape properties](/blog/shape-data.html)
 

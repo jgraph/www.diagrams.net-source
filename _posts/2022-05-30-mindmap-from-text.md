@@ -5,7 +5,7 @@ slug: plantuml-mindmaps-from-text
 date: 2022-05-30 09:10:00
 title: Create a mindmap from text with PlantUML
 tags: [integrations,uml]
-categories: [integrations,features,use-cases]
+categories: [integrations,features,use-cases, import]
 ---
 
 Mindmaps are useful to quickly capture ideas, and are easy to draw in draw.io and our draw.io branded apps. But some people prefer to work from text lists when brainstorming. Drop a text list into the PlantUML import tool and draw.io will generate your mindmap for you - no need to fuss with connectors or layouts.

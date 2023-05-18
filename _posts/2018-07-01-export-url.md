@@ -5,7 +5,7 @@ slug: export-url
 page.date: 2018-07-01
 title: Export a diagram to a URL
 tags: [export, features]
-categories: [features]
+categories: [features, export]
 ---
 
 draw.io makes it easy to share your diagrams. You can even encode it in an URL if your diagram is smaller than a certain size. When someone clicks on the (very long) URL, they will open the diagram in the diagram viewer. From there, it's easy to print or edit their own copy of the diagram - your original diagram will not be changed unless you specify otherwise.

@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: feature-flag-devops
 date: 2023-04-06 10:21:00
 title: Explain feature flag DevOps easily with diagrams
@@ -28,7 +28,7 @@ To justify these changes, you'll need to convince stakeholders. Diagrams convey 
 
 You can draw the wide variety of diagrams you need for presentations and whitepapers more quickly and neatly in our diagram editor than if you would use the built-in presentation or word document diagramming tools. 
 
-All of the diagrams in our [feature flag DevOps whitepaper](/feature-flag-devops-whitepaper.html) were created in diagrams.net, using the built-in shape libraries and icons found using search terms. 
+All of the diagrams in our [feature flag DevOps whitepaper](/feature-flag-devops-whitepaper.html) were created in draw.io, using the built-in shape libraries and icons found using search terms. 
 
 **Add diagrams to proposals and documentation**
 

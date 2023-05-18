@@ -1,28 +1,28 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: data-driven-diagrams
 date: 2022-11-08 09:10:00
-title: Create data-driven diagrams with diagrams.net
+title: Create data-driven diagrams with draw.io
 tags: [integrations]
-categories: [integrations,features,use-cases]
+categories: [integrations,features,use-cases, import, export]
 ---
 
 Using diagrams.net or draw.io together with scripts and data sources, you can create data-driven diagrams, with colours, shapes, text labels and even animations that change to reflect live data. 
-<br /><img src="/assets/img/blog/data-driven-diagram-example.gif" style="width=100%;max-width:500px;height:auto;" alt="Update shapes in a diagram based on live data with diagrams.net, Grafana and the Flowcharting plugin">
+<br /><img src="/assets/img/blog/data-driven-diagram-example.gif" style="width=100%;max-width:500px;height:auto;" alt="Update shapes in a diagram based on live data with draw.io, Grafana and the Flowcharting plugin">
 
-Aside from live diagrams of cloud network infrastructures, and _charts_ that visualise data in graphs, there are few true data-driven diagrams. As diagrams.net does not include spreadsheet or graph functionality - it's a diagram editor - dynamically updated charts are not possible. 
+Aside from live diagrams of cloud network infrastructures, and _charts_ that visualise data in graphs, there are few true data-driven diagrams. As draw.io does not include spreadsheet or graph functionality - it's a diagram editor - dynamically updated charts are not possible. 
 
-You can program your own scripts or use integrations with other applications to achieve data-driven diagrams where diagram shapes change to reflect live data because diagrams.net is open source and the ``.drawio`` diagram format uses accessible XML.
+You can program your own scripts or use integrations with other applications to achieve data-driven diagrams where diagram shapes change to reflect live data because draw.io is open source and the ``.drawio`` diagram format uses accessible XML.
 
 ## How it works
 
-Each shape in a diagrams.net diagram has a unique shape ID. 
+Each shape in a draw.io diagram has a unique shape ID. 
 
 Because the diagram data is stored in your file using XML tags, you can use a script to search for the shape ID in the XML source and replace common shape properties with a different value to reflect the data at that time.
 
 **What you'll need**
-* diagram created in [app.diagrams.net](https://app.diagrams.net) saved as an XML file
+* diagram created in the [draw.io editor](https://app.diagrams.net) and saved as an XML file
 * application or script to do the following:
    * display and refresh the diagram
    * query or read the live data 
@@ -40,14 +40,14 @@ This example uses [Grafana](https://grafana.com) and Arnaud Genty's [Flowchartin
 
 ### Draw your diagram and set it up for data
 
-Create your diagram in [app.diagrams.net](https://app.diagrams.net) or one of our draw.io apps. 
+Create your diagram in [draw.io online](https://app.diagrams.net) or one of our draw.io apps. 
 
 You can draw [any type of diagram](/example-diagrams.html) - flow charts, wireframes, floorplans, org charts, wiring diagrams, etc. 
 
 Avoid using complex shapes for elements you want to update. Those that contain multiple fields, like tables, entity shapes or swimlanes won't typically have unique IDs that you can refer to later. 
 
 In this example, we've created a factory [floorplan](/blog/floorplans.html) with simple text shapes to show important machine information.
-<br /><img src="/assets/img/blog/data-driven-dashboard.png" style="width=100%;max-width:400px;height:auto;" alt="Draw your diagram in diagrams.net or draw.io">
+<br /><img src="/assets/img/blog/data-driven-dashboard.png" style="width=100%;max-width:400px;height:auto;" alt="Draw your diagram in draw.io">
 
 **Set custom unique shape IDs**
 
@@ -84,7 +84,7 @@ You need to read (and copy) the full XML source of your diagram, so export it as
 2. Copy all the diagram data that appears after the initial ``<?xml ... >`` tag.
 <br /><img src="/assets/img/blog/data-driven-diagram-xml-source.png" style="width=100%;max-width:500px;height:auto;" alt="Open the .xml file in a text editor and copy all of the text that appears after the first XML tag">
 3. Now, add the diagram data to the _Flowchart panel_ in Grafana.
-  * Set the _Editor URL & Theme_ to ``embed.diagrams.net``, and select ``Dark`` or ``Light`` from the drop down list. If you [run your own diagrams.net server](/blog/diagrams-docker-app.html), use its URL instead.
+  * Set the _Editor URL & Theme_ to our online service at ``embed.diagrams.net``, and select ``Dark`` or ``Light`` from the drop down list. If you [run your own draw.io server](/blog/diagrams-docker-app.html), use its URL instead.
   * Set the _Source Type_ to ``XML``.
   * In the _Source Content_ text field, paste the diagram data you copied from your text editor. 
   <br /><img src="/assets/img/blog/data-driven-diagram-flowchart-setup1.png" style="width=100%;max-width:300px;height:auto;" alt="Add the diagram data to the Flowchart panel in Grafana">
@@ -110,7 +110,7 @@ You can change the colour or tooltip of the shape, its text label or link, or ad
 
 Now, when your dashboard runs and your data queries are updated, your diagram will update according to the rules you have set. 
 
-<img src="/assets/img/blog/data-driven-diagram-example.gif" style="width=100%;max-width:500px;height:auto;" alt="Update shapes in a diagram based on live data with diagrams.net, Grafana and the Flowcharting plugin">
+<img src="/assets/img/blog/data-driven-diagram-example.gif" style="width=100%;max-width:500px;height:auto;" alt="Update shapes in a diagram based on live data with draw.io, Grafana and the Flowcharting plugin">
 
 
 ## More data-driven diagram examples

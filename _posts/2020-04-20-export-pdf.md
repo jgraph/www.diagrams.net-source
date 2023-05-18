@@ -5,7 +5,7 @@ slug: export-pdf
 date: 2020-04-22 09:10:00
 title: Export diagrams to PDF files
 tags: [export,features]
-categories: [features]
+categories: [features, export]
 ---
 
 There are many reasons why you may want to print a diagram, or save it as a PDF file: floor plans with emergency routes or conference booth layouts, infographics, business plans and BPMN diagrams, or infrastructure and rack diagrams when you don't have a tablet on hand for easy reference.

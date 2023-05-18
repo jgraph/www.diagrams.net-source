@@ -5,7 +5,7 @@ slug: office-diagrams
 date: 2021-05-13 11:04:00
 title: Embed diagrams in PowerPoint
 tags: [features, connectors]
-categories: [features]
+categories: [features, export]
 ---
 
 Embed images of your diagrams in Microsoft PowerPoint slides with the [free draw.io branded add-in](https://appsource.microsoft.com/en-us/product/office/wa200000113). The add-ins can be used in all Microsoft 365 Office applications on both Windows and macOS, and in older versions of PowerPoint, Word and Excel.

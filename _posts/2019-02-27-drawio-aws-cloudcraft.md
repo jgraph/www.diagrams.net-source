@@ -5,7 +5,7 @@ slug: drawio-aws-cloudcraft
 date: 2019-02-27 09:43:00
 title: Use Cloudcraft to export your AWS architecture to a .drawio diagram
 tags: [AWS, integrations, infrastructure diagrams, network diagrams, shape libraries]
-categories: [integrations, use-cases]
+categories: [integrations, use-cases, import]
 ---
 
 Using Cloudcraft, you can securely connect to cloud environments and infrastructure components via your architecture diagrams where statistics, resource information and more is updated in real time. The 3D isometric view that Cloudcraft uses is familiar to engineers and IT staff as it often matches the tools they learned on. The automatic updates driven from your company's live systems makes Cloudcraft a fantastic tool for monitoring your AWS cloud infrastructure. The statistics are also helpful to estimate costs when you want to make changes to your system.

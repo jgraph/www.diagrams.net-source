@@ -1,6 +1,6 @@
 ---
 layout: post
-author: diagrams.net
+author: draw.io
 slug: diagrams-incident-response
 date: 2022-10-14 09:43:00
 title: Diagrams for  a better incident response
@@ -44,17 +44,17 @@ Workflows or [cross-functional flowcharts](/blog/swimlane-diagrams.html#cross-fu
 **Document your infrastructure** 
 
 Draw your [cloud network](/blog/network-diagrams.html) and [rack layouts](/blog/rack-diagrams.html) in diagrams to allow engineers to quickly identify and resolve both hardware and software incidents.
-<br />[<img src="/assets/img/blog/industrial-it-ot-network-example.png" style="width=100%;max-width:200px;height:auto;" alt="An industrial IT-OT network diagram for a manufacturing company">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Findustrial-iot-example.drawio) [<img src="/assets/img/blog/rack-diagram-simple-server.png" alt="A simple rack diagram, created with diagrams.net" style="width=100%;max-width:190px;height:auto;">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Frack-diagram-simple-server.drawio)
+<br />[<img src="/assets/img/blog/industrial-it-ot-network-example.png" style="width=100%;max-width:200px;height:auto;" alt="An industrial IT-OT network diagram for a manufacturing company">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Findustrial-iot-example.drawio) [<img src="/assets/img/blog/rack-diagram-simple-server.png" alt="A simple rack diagram, created with draw.io" style="width=100%;max-width:190px;height:auto;">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Frack-diagram-simple-server.drawio)
 
 Prior to an incident, analyse threats with attack trees and the [threat modelling shape library](/blog/threat-modelling.html) to identify where problems may occur.
-<br /><a href="https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&page=2&nav=1&title=threat-modelling.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fthreat-modelling.drawio"><img src="/assets/img/blog/threat-modelling-attack-tree.png" style="width=100%;max-width:400px;height:auto;" alt="Example attack tree diagram for threat modelling"></a>
+<br />[<img src="/assets/img/blog/threat-modelling-attack-tree.png" style="width=100%;max-width:400px;height:auto;" alt="Example attack tree diagram for threat modelling">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&page=2&nav=1&title=threat-modelling.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fthreat-modelling.drawio)
 
 **Floor plans and area layouts** 
 
 Not all incidents are digital - fires, physical security breaches, and health emergencies should also be planned for. 
 
 Use the [_Floor Plans_ shape library](/blog/floorplans.html) to draw your space and note evacuation paths, fire fighting equipment, and information points. If you are creating an incident response plan for a laboratory, include all of the health and safety measures on your plan. 
-<br />[<img src="/assets/img/blog/template-evacuation_plan_4.png" style="width=100%;max-width:300px;height:auto;" alt="A floorplan created in diagrams.net">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fplans%2Fevacuation_plan_4.xml)
+<br />[<img src="/assets/img/blog/template-evacuation_plan_4.png" style="width=100%;max-width:300px;height:auto;" alt="A floorplan created in draw.io">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fplans%2Fevacuation_plan_4.xml)
 
 If your incident occurs over a wide area, use a map as the [diagram background](/doc/faq/background-image.html) and annotate it with text labels, connectors and shapes to convey the additional information.
 
@@ -70,7 +70,7 @@ While you could use a responsibility assignment matrix (RAM or RACI chart), thes
 
 **Store your plans centrally:** Make sure they are easily accessed in case of an incident. The draw.io app for Confluence and our [Chrome extension for Notion](/blog/drawio-notion.html) let you embed diagrams directly into your information repository. 
 
-**Infographics for training:** Draw with the _Infographics_ shape library and embed diagram in a presentation or training document with our add-ons for [MS Office](https://office.diagrams.net/) or [Google Workspace](https://gsuite.diagrams.net/), or in a Confluence page with our [draw.io app](https://marketplace.atlassian.com/apps/1210933/draw-io-diagrams-for-confluence).
+**Infographics for training:** Draw with the _Infographics_ shape library and embed diagram in a presentation or training document with our add-ons for [MS Office](https://office.diagrams.net/) or [Google Workspace](https://gsuite.diagrams.net/), or in a wiki page with our [draw.io app for Confluence](https://marketplace.atlassian.com/apps/1210933/draw-io-diagrams-for-confluence).
 <br />[<img src="/assets/img/blog/incident-management-infographic.png" style="width=100%;max-width:300px;height:auto;" alt="Use infographics explain incident management and its importance to your teams">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fincident-management-infographic.drawio)
 
 
@@ -83,7 +83,7 @@ Find contributing problems that have led to the incident by drawing a fishbone o
 
 **Incident response timeline** 
 
-Note which steps were taken and when from the moment an incident was detected until it was resolved. This helps you to pinpoint problems with response workflows and gaps in expert knowledge. [Timelines](/blog/timeline-diagrams.html) are easy to create in diagrams.net and draw.io - teams can keep adding to it as they respond. 
+Note which steps were taken and when from the moment an incident was detected until it was resolved. This helps you to pinpoint problems with response workflows and gaps in expert knowledge. [Timelines](/blog/timeline-diagrams.html) are easy to create in draw.io - teams can keep adding to it as they respond. 
 <br />[<img src="/assets/img/blog/incident-response-timeline.png" style="width=100%;max-width:150px;height:auto;" alt="Record the steps taken in a timeline as your respond to an incident - it will help you conduct a post-incident review of your processes">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fincident-response-timeline.drawio)
 
 **Tip:** Keep your diagrams simple during an incident and use shapes and text from the basic shape libraries. You can edit and style the diagrams afterwards if you need to use them in reports and presentations.
