@@ -66,7 +66,6 @@ The draw.io apps for Confluence and Jira are available via the Atlassian Marketp
 The following integrations are not directly provided by the draw.io team.
 
 * [**Aha!:**](https://blog.aha.io/introducing-aha-mockups/) Develop project management mockups and flow diagrams, product roadmaps and marketing planning.
-* [**Atom:**](https://atom.io/packages/atom-drawio) Atom has a package that lets you edit draw.io diagrams directly within the text editor.
 * [**Bioiocons:**](https://bioicons.com/extensions/) Open-source icon libraries that work with the draw.io web app for life science illustrations and diagrams.
 * [**BookStack:**](https://www.bookstackapp.com/blog/beta-release-v0-20-0/) An open source information management system.
 * [**Docstell:**](https://docstell.com/) Docstell provide software documentation for developers.
@@ -75,15 +74,13 @@ The following integrations are not directly provided by the draw.io team.
 * [**Growi:**](https://growi.org/en/) Growi is team collaboration software that uses markdown. It can integrate draw.io into the platform.
 * [**JupyterLab:**](https://github.com/QuantStack/jupyterlab-drawio/) Project Jupyter by QuantStack lets you combine various content types like runnable code snippets, LaTeX, images, embedded interactive diagrams.
 * [**Lark:**](https://larksuite.com) Lark has integrated our diagram editor into their page editor as part of their content and collaboration suite.
-* [**LumApps:**](https://www.lumapps.com/blog-post/drawio-integration/) Insert diagrams into your LumApps content.
-* **MediaWiki:** There are two extensions available for MediaWiki, [Drawio](https://www.mediawiki.org/wiki/Extension:Drawio) (not actively maintained) and [DrawioEditor](https://www.mediawiki.org/wiki/Extension:DrawioEditor).
+* [**LumApps:**](https://docs.lumapps.com/docs/docs/design-visual-design-and-layout-landing/design-l8845750598632305/design-l4121423633803367/design-l186374575206823) Insert diagrams into your LumApps content.
+* [**MediaWiki:**](https://www.mediawiki.org/wiki/Extension:DrawioEditor) DrawioEditor is a MediaWiki extension that integrates draw.io and allows inline editing of diagrams. 
 * [**Nuclino:**](https://www.nuclino.com/apps/drawio/) Embed your diagrams easily into this content development platform.
 * [**ONLYOFFICE:**](https://www.onlyoffice.com/blog/2022/03/onlyoffice-integrates-draw-io/) Integrates the diagram editor in documents via a plugin to their Docs application.
 * [**ownCloud:**](https://marketplace.owncloud.com/apps/drawio/) Create and modify diagrams in the ownCloud open-source collaboration platform's file editor app.
 * [**Redmine:**](https://www.redmine.org/plugins/redmine_drawio) Create diagrams in your project documentation in Redmine, a project management web application, based on Ruby on Rails.
-* [**Samepage:**](https://www.samepage.io/draw-diagram-online) Develop diagrams, track tasks, share files, communicate using this team collaboration platform.
-* [**Sandstorm:**](https://apps.sandstorm.io/app/nfqhx83vvzm80edpgkpax8mhqp176qj2vwg67rgq5e3kjc5r4cyh) Create personal/private instances of web apps and create diagrams via Sandstorm.io, an open source hosting platform.
 * [**Tiki Wiki CMS Groupware:**](https://info.tiki.org/HomePage) Manage [diagrams](https://doc.tiki.org/Diagram) in Tiki Wiki CMS Groupware, a collaborative, free and open source wiki-based content management system.
 * [**VS Code:**](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio) Edit and manage diagrams directly inside VS Code. [See how to use the VS Code extension with github.dev](/blog/edit-diagrams-with-github-dev.html)
-* [**XWiki:**](https://extensions.xwiki.org/xwiki/bin/view/Extension/Diagram%20Application) Create diagrams in XWiki, a lightweight wiki software by using the Diagram Application extension.
+* [**XWiki:**](https://extensions.xwiki.org/xwiki/bin/view/Extension/Diagram%20Application) Create diagrams in XWiki by using the Diagram Application extension.
 * [**Wiki.js:**](https://js.wiki/feedback/p/drawio) Store and display diagrams in your documentation in Wiki.js, an open source Wiki program.
