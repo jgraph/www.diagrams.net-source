@@ -5,4 +5,4 @@ faq: true
 categories: [Import]
 ---
 
-diagrams.net does not support any of the LibreOffice Draw file formats at this time (``.odg``, ``.otg``, and ``.fodg``).
+draw.io does not support any of the LibreOffice Draw file formats at this time (``.odg``, ``.otg``, and ``.fodg``).

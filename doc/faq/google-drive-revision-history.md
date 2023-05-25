@@ -5,12 +5,12 @@ faq: true
 categories: [Integrations,Features,Google]
 ---
 
-Google Drive supports version control, where changes to your files are automatically saved as a different version. This includes .drawio diagrams that are created using the diagrams.net add-on for Google Drive.
+Google Drive supports version control, where changes to your files are automatically saved as a different version. This includes .drawio diagrams that are created using the draw.io add-on for Google Drive.
 
-When you store your diagrams in Google Drive, diagrams.net automatically saves the changes you make to the files version history.
+When you store your diagrams in Google Drive, draw.io automatically saves the changes you make to the files version history.
 
-1. From within the diagrams.net editor, select _File > Revision History_ from the menu to see the different versions of your diagram.
-<br /><img src="/assets/img/blog/google-drive-revision-history.png" style="max-width:100%;height:auto;" alt="Work with revisions of your diagrams stored on Google Drive in diagrams.net">
+1. From within the draw.io editor, select _File > Revision History_ from the menu to see the different versions of your diagram.
+<br /><img src="/assets/img/blog/google-drive-revision-history.png" style="max-width:100%;height:auto;" alt="Work with revisions of your diagrams stored on Google Drive in draw.io">
 2. Click on a tab on the left side of the dialog to view a particular revision. The most current version is at the top of the tabs.
 <br /><img src="/assets/img/blog/google-drive-select-revision.png" style="width=100%;max-width:300px;height:auto;" alt="Select a revision of your diagram file that is stored on Google Drive to see a preview">
 3. Zoom into your diagram, or move around the diagram canvas using the tools beneath the preview image inside the dialog. 
@@ -19,7 +19,7 @@ When you store your diagrams in Google Drive, diagrams.net automatically saves t
    * _Download_ that particular version of your diagram.
    * _Edit_ that version in a new tab in your browser.
    * _Restore_ that version of your diagram (roll back your changes), then click _OK_ to confirm.
-   * _Show_ that version of your diagram in the diagrams.net lightbox in a new browser tab.
+   * _Show_ that version of your diagram in the draw.io lightbox in a new browser tab.
 
 ### Manually save a new version of your diagram
 

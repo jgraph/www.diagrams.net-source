@@ -9,7 +9,7 @@ When you look at a [diagram exported to an SVG image](/doc/faq/export-to-svg.htm
 
 __Simple explanation__ : The exported SVG is only designed to be displayed in web pages, we didn't design the output to be editable in SVG editors. The warning that ``Text is not SVG - cannot display`` isn't actual SVG, so SVG editors cannot display it.
 
-__Technical explanation__ : The diagrams.net and draw.io editor uses foreign objects (``foreignObject``) in the SVG data to allow complex HTML labels on shapes. 
+__Technical explanation__ : The draw.io editor uses foreign objects (``foreignObject``) in the SVG data to allow complex HTML labels on shapes. 
 
 For example, in the following diagram, some of the shapes have bold and italic words in the label text - they use formatted text.
 <br /><img src="/assets/img/blog/text-label-formatted-text.png" style="width=100%;max-width:400px;height:auto;" alt="You can use different formatting options inside a text label - on part of the label only">
@@ -43,7 +43,7 @@ You can also disable formatted text and word wrapping for all labels in your dia
 <img src="/assets/img/blog/svg-export-remove-text-formatting.gif" style="max-width:100%;height:auto;" alt="Disable the Formatted Text and Word Wrap options before exporting to SVG to view it correctly in IE and SVG editors">
 
 ### Disable complex HTML labels by default
-To disable complex HTML labels by default (so that the output does not contain foreign objects), click [here](https://app.diagrams.net#_CONFIG_UzV3UjUyyk0tSk8F0qrGjqpggeLM3IKcVJ/EpNScYoh4SVFpqqq5CxABAA==). This sets the JSON configuration in the browser that you load it in. That is why a warning is shown. If you accept, the line:
+So that the output doesn't contain foreign objects, [click here to disable complex HTML labels by default](https://app.diagrams.net#_CONFIG_UzV3UjUyyk0tSk8F0qrGjqpggeLM3IKcVJ/EpNScYoh4SVFpqqq5CxABAA==). This sets the JSON configuration in the browser that you load it in. That is why a warning is shown. If you accept, the line:
 
 ```
 "simpleLabels": true

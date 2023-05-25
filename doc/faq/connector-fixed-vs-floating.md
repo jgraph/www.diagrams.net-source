@@ -5,7 +5,7 @@ faq: true
 categories: [Connectors]
 ---
 
-Connectors in diagrams.net attach to shapes in two different ways: 
+Connectors in draw.io attach to shapes in two different ways: 
 
 **Floating connectors** move around the perimeter of a shape as you move it to another location on the drawing canvas, or when you drag a connector and add way points to change the route it takes. 
 

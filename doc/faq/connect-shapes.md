@@ -1,5 +1,5 @@
 ---
-title: Connect shapes in diagrams.net
+title: Connect shapes in draw.io
 layout: page
 faq: true
 categories: [Shapes,Connectors]

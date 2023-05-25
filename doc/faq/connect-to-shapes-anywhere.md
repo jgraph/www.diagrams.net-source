@@ -19,6 +19,6 @@ You can force a floating or fixed connection at any location by using a keyboard
 <br /><img src="/assets/img/blog/connect-to-shapes-anywhere.gif" style="width=100%;max-width:400px;height:auto;" alt="Hold down Alt key as you connect to a shape to connect to any position on that shape">
 2. To add a floating connection to the outline of the shape, ignoring the defined connection points (even with snap to point enabled), hold down ``Shift`` while you attach the connector to the target shape (blue shape outline and connection points are hidden).
 
-[Learn more about adding and connecting shapes in diagrams.net](/doc/faq/connect-shapes.html)
+[Learn more about adding and connecting shapes in draw.io](/doc/faq/connect-shapes.html)
 
 **Tip:** If you want a specific location on a shape to accept a fixed connector, you can [edit the shape's fixed connection points](/blog/edit-connection-points.html).

@@ -28,7 +28,7 @@ When you are editing the page in Confluence, you'll see a small comment icon on 
 **Edit and delete comments:** Under each saved comment are some options - you can _Edit_ and _Delete_ your own comments. 
 
 **Reply to a comment:** You can reply to comments too. Click on _Reply_, enter your comment and click _Save_. Replies will be nested.
-<br /><img src="/assets/img/blog/confluence-cloud-comment-reply.png" style="width=100%;max-width:400px;height:auto;" alt="Reply to a comment on a diagram stored in Google Drive via the diagrams.net editor">
+<br /><img src="/assets/img/blog/confluence-cloud-comment-reply.png" style="width=100%;max-width:400px;height:auto;" alt="Reply to a comment on a diagram stored in Google Drive via the draw.io editor">
 
 
 **Resolve comments:** Click on _Resolve_ under the comment (or thread) you want to resolve. It will disappear from the list of open comments. To see all comments, click on the tick button at the bottom of the _Comment_ dialog. Resolved comments are not displayed in the diagram viewer.

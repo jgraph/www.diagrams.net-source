@@ -14,4 +14,4 @@ Bug reports or feature requests belong on GitHub issues with the _teams_ label:
 
 * [Github project issues](https://github.com/jgraph/drawio/issues).
 
-You can file a support ticket at our [desk](https://drawio.atlassian.net/servicedesk/customer/portal/16) or by emailing [support@diagrams.net](mailto:support@diagrams.net).
+You can file a support ticket at our [desk](https://drawio.atlassian.net/servicedesk/customer/portal/16).

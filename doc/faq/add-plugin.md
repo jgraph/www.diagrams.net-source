@@ -1,5 +1,5 @@
 ---
-title: Permanently load a plugin using diagrams.net
+title: Permanently load a plugin using draw.io
 layout: page
 faq: true
 categories: [Plugins]
@@ -13,19 +13,19 @@ Some of the more popular plugins include:
 * ``sql``: Lets you insert SQL to automatically create a database diagram.
 * ``text``: Extracts all of the text in your diagram.
 
-[See the full list of diagrams.net plugins](/doc/faq/plugins.html)
+[See the full list of draw.io plugins](/doc/faq/plugins.html)
 
 ## Start diagramming with the plugin immediately
 
 Add the ``p=XXXX`` URL parameter with a plugin ID to start diagramming with it immediately. This does not permanently load the plugin, so the next time you create a diagram it won't be available.
 
-To start diagramming with the anonymize plugin loaded, go to: [https://app.diagrams.net/?splash=0&p=anon](https://app.diagrams.net/?splash=0&p=anon)
+To start diagramming in the online draw.io editor with the anonymize plugin loaded, go to: [https://app.diagrams.net/?splash=0&p=anon](https://app.diagrams.net/?splash=0&p=anon)
 
 To load more than one plugin, separate them in the URL option with a semicolon: [https://app.diagrams.net/?p=anon;text](https://app.diagrams.net/?p=anon;text)
 
 ## Permanently load a plugin
 
-You can make sure the diagram editor loads the plugin every time you create or open a diagram at diagrams.net.
+You can make sure the diagram editor loads the plugin every time you create or open a diagram in draw.io.
 
 1. From the menu, select _Extras > Plugins_.
 <br /><img src="/assets/img/blog/extras-plugins.png" style="width=100%;max-width:400px;height:auto;" alt="Open the plugins list">

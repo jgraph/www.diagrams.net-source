@@ -37,7 +37,7 @@ Right click on a shape and select _Edit Connection Points_.
 **Add new connection points:** Double click anywhere on or around the shape or click _Add_.
 
 **Move connection points:** Drag the selected connection point(s) to a new position or shift selected connection points to the left/right or up/down by entering a positive or negative value in _Dx_ or _Dy_.
-<br /><img src="/assets/img/blog/connection-points-edit.gif" style="width=100%;max-width:250px;height:auto;" alt="Move, delete and add connection points to a shape visually in diagrams.net">
+<br /><img src="/assets/img/blog/connection-points-edit.gif" style="width=100%;max-width:250px;height:auto;" alt="Move, delete and add connection points to a shape visually in draw.io">
 
 
 ## Define connection points in the shape style

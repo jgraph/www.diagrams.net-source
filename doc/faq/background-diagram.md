@@ -5,7 +5,7 @@ faq: true
 categories: [Features]
 ---
 
-You can set your diagram background to be a [solid colour](/doc/faq/background-colour.html), an [image file](/doc/faq/background-image.html) or one of the pages in your diagram.
+You can set your diagram background to be a [solid colour](/doc/faq/background-colour.html), an [image file](/doc/faq/background-image.html) or one of the pages in your draw.io diagram.
 
 This is useful when you have a repeating design, logo or watermark that you want to continue throughout all of your diagram pages when they are embedded or printed. It can also be used to display fixed user interface elements so you can easily mockup various layouts without needing to add them to every diagram page.
 
@@ -28,6 +28,6 @@ Shapes, connectors and text in the background can not be selected, tooltips that
 Add text labels with placeholders which automatically update depending on their context in your diagram, and use a background diagram to provide the non-dynamic aspects. This is good for adding dates, page numbers, version numbers and more. 
 
 <a href="https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=background-page.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fbackground-page.drawio" target="_blank"><img src="/assets/img/blog/diagram-with-background.png" style="max-width:100%;height:auto;" alt="Diagram complete with background"></a>
-<br />[_Open this example in the diagrams.net viewer_](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=background-page.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fbackground-page.drawio)
+<br />[_Open this example in our diagram viewer_](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=background-page.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fmaster%2Fblog%2Fbackground-page.drawio)
 
-[Learn more about using background diagrams in the diagrams.net and draw.io apps](/blog/background-pages-diagrams.html)
+[Learn more about using background diagrams in draw.io](/blog/background-pages-diagrams.html)

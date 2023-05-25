@@ -5,7 +5,7 @@ faq: true
 categories: [Features]
 ---
 
-JPEG, PNG, and SVG images can all be inserted into the diagram editor at diagrams.net with drag and drop or via the menu. 
+JPEG, PNG, and SVG images can all be inserted into the draw.io editor with drag and drop or via the menu. 
 
 Image files in diagrams work in the same way as in documents - you can resize, rotate and flip them as a single image, but you can't resize any components within the image. 
 
@@ -13,7 +13,7 @@ Image files in diagrams work in the same way as in documents - you can resize, r
 
 **Drag and drop** 
 
-Drag the image file on your computer, or drag the image from a web page in your browser window, and drop it onto the drawing canvas at diagrams.net. 
+Drag the image file on your computer, or drag the image from a web page in your browser window, and drop it onto the drawing canvas. 
 
 <img src="/assets/img/blog/image-insert.gif" style="max-width:100%;height:auto;" alt="Drag and drop your image onto the diagram editor or use the menu to insert it from a URL">
 
@@ -22,8 +22,8 @@ Once the image file has been loaded into the editor, you can resize it or [rotat
 **Via the menu** 
 
 1. Select _Arrange > Insert > Image_.  Alternatively, click the ``+`` icon in the toolbar, then select _Image_.
-<br /><img src="/assets/img/blog/arrange-insert-image.png" style="width=100%;max-width:400px;height:auto;" alt="Select Arrange > Insert > Image in the diagrams.net editor">
-2. Paste the URL to your image file, or drag it from your desktop onto the dialog.
+<br /><img src="/assets/img/blog/arrange-insert-image.png" style="width=100%;max-width:400px;height:auto;" alt="Select Arrange > Insert > Image in the draw.io editor">
+1. Paste the URL to your image file, or drag it from your desktop onto the dialog.
 <br /><img src="/assets/img/blog/image-insert-url.png" style="width=100%;max-width:300px;height:auto;" alt="Paste the URL to your image file, or drag it onto the dialog and click Apply to add an image to your diagram">
 
 **Note:** Larger image files may take a few moments before they are visible in the diagram editor.
@@ -32,7 +32,7 @@ Once the image file has been loaded into the editor, you can resize it or [rotat
 
 Alternatively, you can access the _Insert_ tool (``+``) via the toolbar that is just above the drawing canvas.
 
-<img src="/assets/img/blog/toolbar-insert.png" style="width=100%;max-width:400px;height:auto;" alt="You can insert a wide range of shapes, text, links, layouts, images, templates and more via the Insert tool on the toolbar in diagrams.net">
+<img src="/assets/img/blog/toolbar-insert.png" style="width=100%;max-width:400px;height:auto;" alt="You can insert a wide range of shapes, text, links, layouts, images, templates and more via the Insert tool on the toolbar in draw.io">
 
 ## Image quality and size
 
@@ -46,7 +46,7 @@ To change this setting again, you will need to delete two entries from your brow
 
 ### Reset the image quality and size setting
 
-As your browser remembers this setting in its internal storage, you will need to clear that to reset the image quality and size settings for the diagrams.net editor. 
+As your browser remembers this setting in its internal storage, you will need to clear that to reset the image quality and size settings for the online version of the draw.io editor. 
 
 If you are using Firefox, follow the steps below. These steps are similar in other browsers.
 1. Press ``Ctrl+Alt+I`` on Windows or ``Cmd+Option+I`` on macOS to open the browser debugger console. 

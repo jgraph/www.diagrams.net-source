@@ -47,7 +47,7 @@ Your diagram is embedded as an image, and can be edited like any other embedded 
 
 ### Update embedded diagrams to see changes
 
-Your diagrams are displayed as images inside your Word document, Excel spreadsheet or Powerpoint presentation. When the diagram file that is stored in your Google Drive or One Drive has been edited in diagrams.net, you'll need to regenerate the images to see those changes reflected in your document.
+Your diagrams are displayed as images inside your Word document, Excel spreadsheet or Powerpoint presentation. When the diagram file that is stored in your Google Drive or One Drive has been edited in draw.io, you'll need to regenerate the images to see those changes reflected in your document.
 
 1. Select the _Insert_ tab in the toolbar.
 2. Select the diagram you want to update, and click _Update Selected_. To update all of the diagrams in your document, click _Update All_.
@@ -56,4 +56,4 @@ Your diagrams are displayed as images inside your Word document, Excel spreadshe
 ### Edit the embedded diagram
 
 1. Select the diagram you want to edit.
-2. Select the _Insert tab in the toolbar, then click _Edit Selected_. Your diagram will open in the editor at diagrams.net.
+2. Select the _Insert tab in the toolbar, then click _Edit Selected_. Your diagram will open in the draw.io editor.

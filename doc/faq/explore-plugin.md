@@ -11,11 +11,11 @@ The explore plugin allows you to step through your diagram from the point of vie
 
 This is useful for exploring complex organisation charts, mind maps, UML class diagrams, flow charts and more.
 
-[More information about diagrams.net plugins](/doc/faq/plugins.html)
+[More information about draw.io plugins](/doc/faq/plugins.html)
 
 ## Load the explore plugin
 
-* To create a new diagram with the plugin already loaded, go to [https://app.diagrams.net/?splash=0&p=ex](https://app.diagrams.net/?splash=0&p=ex)
+* To create a new diagram in our online editor with the plugin already loaded, go to [https://app.diagrams.net/?splash=0&p=ex](https://app.diagrams.net/?splash=0&p=ex)
 
 ## Explore a diagram
 

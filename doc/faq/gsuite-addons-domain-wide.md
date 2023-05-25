@@ -5,7 +5,7 @@ faq: true
 categories: [Integrations,Google]
 ---
 
-As a Google Workplace (G Suite) administrator, you can install and approve the diagrams.net add-ons for Google Workplace on behalf of all users on a domain.
+As a Google Workplace (G Suite) administrator, you can install and approve the draw.io add-ons for Google Workplace on behalf of all users on a domain.
 
 1. Go to [https://admin.google.com](https://admin.google.com) and log in.
 2. Select _Apps_.
@@ -14,6 +14,6 @@ As a Google Workplace (G Suite) administrator, you can install and approve the d
 <br /><img src="/assets/img/blog/gsuite-marketplace-apps.png" style="width=100%;max-width:150px;height:auto;" alt="Select Marketplace apps to see Google Workplace add-ons">
 4. Click on the plus symbol (_+_) in the top right of the page.
 <br /><img src="/assets/img/blog/gsuite-add-marketplace-app.png" style="width=100%;max-width:150px;height:auto;" alt="Add a new marketplace app">
-5. Search for _diagrams.net_, then click on _diagrams.net_ (draw.io).
-6. Click _Domain install_ and accept the terms and permissions that are presented.
-<br /><img src="/assets/img/blog/gsuite-domain-install.png" style="max-width:100%;height:auto;" alt="Install the diagrams.net add-on for Google Workplace domain wide">
+1. Search for ``draw.io`` or ``diagrams.net``, then select an add-on.
+2. Click _Domain install_ and accept the terms and permissions that are presented.
+<br /><img src="/assets/img/blog/gsuite-domain-install.png" style="max-width:100%;height:auto;" alt="Install the draw.io add-ons for Google Workplace domain wide">
