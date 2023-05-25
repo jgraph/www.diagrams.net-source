@@ -5,34 +5,34 @@ faq: true
 categories: [Features]
 ---
 
-Layouts allow you to quickly rearrange the shapes and connectors on the drawing canvas in the diagrams.net editor. Your diagram is reorganised following the specific rules and spacing information defined by the layout you choose. 
+Layouts allow you to quickly rearrange the shapes and connectors on the drawing canvas in the draw.io editor. Your diagram is reorganised following the specific rules and spacing information defined by the layout you choose. 
 
-Select _Arrange > Layout_ from the diagrams.net editor, then select the layout you want to use.
-<br /><img src="/assets/img/blog/arrange-layout.png" style="width=100%;max-width:400px;height:auto;" alt="Apply a layout via Arrange > Layout to automatically rearrange the shapes and connectors in diagrams.net">
+Select _Arrange > Layout_ from the draw.io editor, then select the layout you want to use.
+<br /><img src="/assets/img/blog/arrange-layout.png" style="width=100%;max-width:400px;height:auto;" alt="Apply a layout via Arrange > Layout to automatically rearrange the shapes and connectors in draw.io">
 
 **Note:** Some of these layouts are quite specific, and will only work for certain diagram types. If you apply a layout that you don't like, press ``Ctrl+Z`` on Windows or ``Cmd+Z`` on macOS to undo that change. 
 
 Layouts are calculated from your diagram's current state - applying a layout after you have applied another layout will not result consistently in the same diagram structure.
 
 The following layouts are available. See the sections below for examples where the layout has been applied.
-* [Horizontal and vertical flow layouts](#flow-layouts)
-* [Horizontal, vertical, and radial tree layouts](#tree-layouts)
-* [Circle layout](#circle-layout)
-* [Organic layout](#organic-layout)
-* [Org chart layouts](#org-chart-layouts)
-* [Parallel layout to expose overlapping connectors](#parallels-layout)
-* [Custom layouts and layout parameters](#custom-layouts)
+- [Flow layouts](#flow-layouts)
+- [Tree layouts](#tree-layouts)
+- [Circle layout](#circle-layout)
+- [Organic layout](#organic-layout)
+- [Org chart layouts](#org-chart-layouts)
+- [Parallels layout](#parallels-layout)
+- [Custom layouts](#custom-layouts)
 
 **Tip:** You can also build a diagram with a wizard that [automatically applies a layout](/doc/faq/insert-layouts.html) as you build it via _Insert > Layout_, or [use layout shapes](/blog/automated-layout-shapes.html) to automatically rearrange shapes in a swimlane as you add and connect them. 
 
 ## Flow layouts
 
-Flow layouts work well for visualising processes, mind maps, or any typs of diagram where there is some flow-like structure or movement. For example, using one of the map templates from the template library in diagrams.net, both the horizontal and vertical flow layouts are clear and readable. 
+Flow layouts work well for visualising processes, mind maps, or any typs of diagram where there is some flow-like structure or movement. For example, using one of the map templates from the template library in draw.io, both the horizontal and vertical flow layouts are clear and readable. 
 
-<img src="/assets/img/blog/arrange-layout-horizontal-flow.png" style="width=100%;max-width:400px;height:auto;" alt="Apply a flow layout via Arrange > Layout to automatically rearrange the shapes and connectors in diagrams.net">
+<img src="/assets/img/blog/arrange-layout-horizontal-flow.png" style="width=100%;max-width:400px;height:auto;" alt="Apply a flow layout via Arrange > Layout to automatically rearrange the shapes and connectors in draw.io">
 <br />_Horizontal flow_
 
-<img src="/assets/img/blog/arrange-layout-vertical-flow.png" style="width=100%;max-width:500px;height:auto;" alt="Apply a flow layout via Arrange > Layout to automatically rearrange the shapes and connectors in diagrams.net">
+<img src="/assets/img/blog/arrange-layout-vertical-flow.png" style="width=100%;max-width:500px;height:auto;" alt="Apply a flow layout via Arrange > Layout to automatically rearrange the shapes and connectors in draw.io">
 <br />_Vertical flow_
 
 ## Tree layouts
@@ -42,7 +42,7 @@ The previous example has flows in both directions, toward and away from the root
 When you select one of the tree layouts, enter a number for the spacing between shapes, then click _Apply_.
 
 |----|------|----|------|----|
-|<img src="/assets/img/blog/arrange-layout-horizontal-tree.png" style="width=100%;max-width:100px;height:auto;" alt="Apply a tree layout via Arrange > Layout to automatically rearrange the shapes and connectors in diagrams.net"> | &nbsp;&nbsp;&nbsp; | <img src="/assets/img/blog/arrange-layout-vertical-tree.png" style="width=100%;max-width:300px;height:auto;" alt="Apply a tree layout via Arrange > Layout to automatically rearrange the shapes and connectors in diagrams.net"> | &nbsp;&nbsp;&nbsp; | <img src="/assets/img/blog/arrange-layout-radial-tree.png" style="width=100%;max-width:100px;height:auto;" alt="Apply a tree layout via Arrange > Layout to automatically rearrange the shapes and connectors in diagrams.net"> |
+|<img src="/assets/img/blog/arrange-layout-horizontal-tree.png" style="width=100%;max-width:100px;height:auto;" alt="Apply a tree layout via Arrange > Layout to automatically rearrange the shapes and connectors in draw.io"> | &nbsp;&nbsp;&nbsp; | <img src="/assets/img/blog/arrange-layout-vertical-tree.png" style="width=100%;max-width:300px;height:auto;" alt="Apply a tree layout via Arrange > Layout to automatically rearrange the shapes and connectors in draw.io"> | &nbsp;&nbsp;&nbsp; | <img src="/assets/img/blog/arrange-layout-radial-tree.png" style="width=100%;max-width:100px;height:auto;" alt="Apply a tree layout via Arrange > Layout to automatically rearrange the shapes and connectors in draw.io"> |
 
 _Horizontal tree, vertical tree, and radial tree layouts_
 
@@ -54,7 +54,7 @@ Rearranging shapes into a circle is useful when you are designing graphic compon
 
 ## Organic layout
 
-This works well for mindmaps and networks where devices are organised into clusters. For example, the organic layout below is applied to one of the network templates in the diagrams.net template library with a spacing.
+This works well for mindmaps and networks where devices are organised into clusters. For example, the organic layout below is applied to one of the network templates in the draw.io template library with a spacing.
 <br /><img src="/assets/img/blog/arrange-layout-organic.gif" style="width=100%;max-width:500px;height:auto;" alt="Apply a layout via Arrange > Layout > Organic to automatically rearrange the shapes and connectors">
 
 ## Org chart layouts
@@ -80,7 +80,7 @@ You can customise a layout by specifying a variety of layout parameters.
 
 1. Select _Arrange > Layout > Apply_. 
 2. Copy over the example custom layout with the parameters and values you want to use in the text area, and click _Apply_.
-<br /><img src="/assets/img/blog/arrange-layout-apply.png" style="width=100%;max-width:400px;height:auto;" alt="Apply a layout via Arrange > Layout to automatically rearrange the shapes and connectors in diagrams.net">
+<br /><img src="/assets/img/blog/arrange-layout-apply.png" style="width=100%;max-width:400px;height:auto;" alt="Apply a layout via Arrange > Layout to automatically rearrange the shapes and connectors in draw.io">
 
 Refer to the _Variables_ section on each of the following pages that describe a particular layout to see how these parameters are used.
 

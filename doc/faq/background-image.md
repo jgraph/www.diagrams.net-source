@@ -1,5 +1,5 @@
 ---
-title: Use a background image in your diagram
+title: Use a background image in your draw.io diagram
 layout: page
 faq: true
 categories: [Features]

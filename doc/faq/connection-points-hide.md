@@ -5,7 +5,7 @@ faq: true
 categories: [Connectors,Shapes]
 ---
 
-Connection points are shown when you hover over a shape, indicating the positions on the shape where a fixed connector can be attached. You can click and drag new connectors from one of these points, or drop a connector you are dragging from another shape on one of these connection points to connect the two shapes. 
+Connection points are shown when you hover over a shape in draw.io, indicating the positions on the shape where a fixed connector can be attached. You can click and drag new connectors from one of these points, or drop a connector you are dragging from another shape on one of these connection points to connect the two shapes. 
 
 By default, connection points are displayed. If you don't want to use connection points, you can hide them. This hides them on all shapes throughout your diagram. 
 

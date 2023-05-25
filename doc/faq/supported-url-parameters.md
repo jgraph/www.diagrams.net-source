@@ -5,7 +5,7 @@ faq: true
 categories: [Integrations, Customisation]
 ---
 
-The following URL parameters are supported in diagrams.net in the precedence order as described below:
+The following URL parameters are supported by the online version of the draw.io editor in the precedence order as described below:
 ## Settings
 
 * ``open=prefix+ID``: If [location hash properties](/doc/faq/supported-location-hash-properties.html) are not available, use this as a replacement. The browser will add the hash property to the URL immediately and not remove the URL parameter. Existing hash property takes precedence.

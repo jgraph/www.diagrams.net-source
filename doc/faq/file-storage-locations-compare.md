@@ -5,19 +5,19 @@ faq: true
 categories: [Export,Integrations,Features]
 ---
 
-There are many different locations where you can store your diagram files. Depending on the location, diagrams.net can provide additional useful features, such as a diagram autosave or revision history.
+There are many different locations where you can store your diagram files. Depending on the location, draw.io can provide additional useful features, such as a diagram autosave or revision history.
 
-Several of the locations that diagrams.net can use for file storage are in the cloud, and require you to have an online connection to access and edit them.
+Several of the locations that draw.io can use for file storage are in the cloud, and require you to have an online connection to access and edit them.
 
 ## Diagram offline
 
 Storing diagram files on your device or in your browser does not require an internet connection, and can therefore be used offline.
 
-**Tip:** The [desktop version of diagrams.net](https://get.diagrams.net/) also does not require an internet connection as it has been designed to work fully offline in secured environments.
+**Tip:** The [desktop version of draw.io](https://get.diagrams.net/) also does not require an internet connection as it has been designed to work fully offline in secured environments.
 
 ## Online diagram storage locations
 
-Diagrams.net can use the following online platforms for your diagrams, after you have authorised the app to read/write your files stored at these locations.
+draw.io can use the following online platforms for your diagrams, after you have authorised the app to read/write your files stored at these locations.
 
 * [Google Drive](https://app.diagrams.net/?mode=google)
 * [Microsoft OneDrive](https://app.diagrams.net/?mode=onedrive)
@@ -32,15 +32,15 @@ Your diagram files are hosted in the cloud on the servers provided by these plat
 
 * [Select a storage location for your diagram files](/doc/faq/storage-location-select.html)
 * [Synchronise and merge external changes to your diagram](/doc/faq/synchronize.html)
-* [Install diagrams.net on a mobile device](/doc/faq/mobile-diagram-app.html)
-* [Use diagrams.net with Google Drive](/doc/faq/google-drive-diagrams.html)
+* [Install draw.io on a mobile device](/doc/faq/mobile-diagram-app.html)
+* [Use draw.io with Google Drive](/doc/faq/google-drive-diagrams.html)
 * [Use Dropbox to store diagrams](/doc/faq/dropbox-diagrams-store.html)
 
 **Store diagrams in Atlassian Confluence and Jira**
 
-diagrams.net is also available as draw.io, an Atlassian Marketplace app for [Confluence](https://marketplace.atlassian.com/apps/1214854/diagram-viewer-for-confluence-cloud) and [Jira](https://marketplace.atlassian.com/apps/1211413/draw-io-diagrams-for-jira?hosting=cloud&tab=overview) on both Cloud and Data Center.
+draw.io is also available in the Atlassian Marketplace for both [Confluence](https://marketplace.atlassian.com/apps/1214854/diagram-viewer-for-confluence-cloud) and [Jira](https://marketplace.atlassian.com/apps/1211413/draw-io-diagrams-for-jira?hosting=cloud&tab=overview) on Cloud and Data Center.
 
-## diagrams.net features at different storage locations
+## draw.io features at different storage locations
 
 **File > Save As**
 
@@ -53,9 +53,9 @@ If you store your diagram in Google Drive, you can't use _Save As_ to create a n
 
 Autosave saves your changes shortly after you make them, and reduces the risk that you will lose your work if your internet connection fails or your computer crashes.
 
-Autosave is enabled by default when you store your diagrams on all online platforms, and can be enabled in diagrams.net Desktop.
+Autosave is enabled by default when you store your diagrams on all online platforms, and can be enabled in draw.io Desktop.
 
-* Select _Extras > Autosave_ to enable or disable this feature on all platforms, including in diagrams.net Desktop.
+* Select _Extras > Autosave_ to enable or disable this feature on all platforms, including in draw.io Desktop.
 
 **Version control**
 

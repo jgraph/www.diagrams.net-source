@@ -5,7 +5,7 @@ faq: true
 categories: [Connectors,Features]
 ---
 
-To **add a waypoint**, use one of the following methods.
+To **add a waypoint** to a connector in a draw.io diagram, use one of the following methods.
 * Right-click on the connector, then select _Add Waypoint_ from the context menu.
 * Drag anywhere on the connector if it is connected at both ends.
 * Select the connector, then drag the blue round handles. As you move the connector, new waypoints are added automatically.

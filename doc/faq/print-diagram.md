@@ -5,11 +5,11 @@ faq: true
 categories: [Features,Export]
 ---
 
-1. Select _File > Print_ from the menu in diagrams.net to open the print options. Alternatively, press ``Ctrl+P`` on Windows or ``Cmd+P`` on macOS.
+1. Select _File > Print_ from the menu in draw.io to open the print options. Alternatively, press ``Ctrl+P`` on Windows or ``Cmd+P`` on macOS.
 2. Select your print options, then click _Print_.
 3. Choose your printer and follow its instructions to print your diagram.
 
-<img src="/assets/img/blog/file-print-dialog.png" style="width=100%;max-width:200px;height:auto;" alt="Click File > Print to open the print options dialog in diagrams.net">
+<img src="/assets/img/blog/file-print-dialog.png" style="width=100%;max-width:200px;height:auto;" alt="Click File > Print to open the print options dialog in draw.io">
 
 **Pages**
 

@@ -18,7 +18,7 @@ Zooming in or out makes your diagram appear on your screen as larger or smaller.
 * Hold down ``Ctrl`` on Windows, or ``Cmd`` on macOS and use the scroll wheel or press ``+`` or ``-`` keys on the number pad to zoom in or out. 
 <br /><img src="/assets/img/blog/zoom-in-out-ctrl-mousewheel.gif" style="width=100%;max-width:400px;height:auto;" alt="Hold down Ctrl on Windows or Cmd on macOS and use the mouse scroll wheel to zoom in and out">
 
-**Touchscreen:** If you are [using diagrams.net on a mobile device](/doc/faq/mobile-diagram-app.html), make sure nothing is selected in your diagram, then pinch the canvas with two fingers and push them outwards to zoom out, or pull them together to zoom in.
+**Touchscreen:** If you are [using draw.io on a mobile device](/doc/faq/mobile-diagram-app.html), make sure nothing is selected in your diagram, then pinch the canvas with two fingers and push them outwards to zoom out, or pull them together to zoom in.
 
 ## Pan or scroll
 

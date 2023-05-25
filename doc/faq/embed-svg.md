@@ -13,7 +13,7 @@ You can embed the SVG markup of your diagram in web pages, or services such as B
    * **Shadow:** Adds a drop shadow filter to the diagram.
    * **Image:** Creates an image that contains SVG markup.
    * **Lightbox:** Opens the diagram in a new tab or using a lightbox.
-      * **Edit:** Determines the behaviour when a viewer clicks on the _Edit_ button. By default, diagrams.net will make a copy of the diagram.
+      * **Edit:** Determines the behaviour when a viewer clicks on the _Edit_ button. By default, draw.io will make a copy of the diagram.
       * **Layers:** Specifies whether individual layers can be shown or hidden in the lightbox.
     <br /><img src="/assets/img/blog/embed-svg.png" style="width=100%;max-width:300px;height:auto;" alt="Options available when you export your diagram to embeddable SVG markup">
 3. Click _Embed_.

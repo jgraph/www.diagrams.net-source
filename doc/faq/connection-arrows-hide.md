@@ -5,7 +5,7 @@ faq: true
 categories: [Connectors,Shapes]
 ---
 
-Connection arrows are the four direction arrows that appear when you hover over a shape. By default, connection arrows are displayed, but you can hide this feature.
+Connection arrows are the four direction arrows that appear when you hover over a shape in draw.io. By default, connection arrows are displayed, but you can hide this feature.
 
 1. Make sure nothing is selected in your diagram so you can see the _Diagram_ tab in the format panel.
 2. Click on the _Connection Arrows_ checkbox to hide or display the four direction arrows that appear when you hover over a shape on the drawing canvas. 

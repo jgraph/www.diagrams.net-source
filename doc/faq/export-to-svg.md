@@ -11,7 +11,7 @@ categories: [Export]
    * If you only want to export the shapes and connectors that are currently selected, enable the _Selection only_ checkbox. This only appears if you have selected part of your diagram.
    * Select whether to print the entire _Diagram_ (default) or just a single diagram _Page_ from the _Size_ drop down list.
    * Enable the checkboxes if you want a _Transparent Background_, a _Shadow_ on your shapes, or to include the _Grid_ of the drawing canvas. 
-   * Make sure the checkbox to _Include a copy of my diagram_ is selected if you want to be able to open your diagram and edit it again when you import the SVG file into diagrams.net. 
+   * Make sure the checkbox to _Include a copy of my diagram_ is selected if you want to be able to open your diagram and edit it again when you import the SVG file into draw.io. 
    * Enable _Embed Images_ to include image components, such as clip art, into the SVG.
    * Choose which _Text Settings_ to use for complex formatted text labels (see troubleshooting below). 
    * By default _Links_ will open following the viewer's browser preferences. Select a different behaviour if you want links to always open in a new tab or a new browser window.

@@ -1,5 +1,5 @@
 ---
-title: diagrams.net Frequently Asked Questions
+title: draw.io Frequently Asked Questions
 layout: page
 path: /doc/faq/
 ---

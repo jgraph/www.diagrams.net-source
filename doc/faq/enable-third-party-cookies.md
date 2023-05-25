@@ -7,10 +7,10 @@ categories: [Integrations]
 
 Cookies are pieces of data stored by web browsers that websites and applications can use to remember a web browser from one request to the next. There are first-party and third-party cookies.
 
-Third-party cookies are needed to remember your authentication details when you use a cloud storage platform with diagrams.net so you can save your diagram data.
+Third-party cookies are needed to remember your authentication details when you use a cloud storage platform with draw.io so you can save your diagram data.
 
 * **First-party cookies** are created by the web server at the address shown in browser's address bar.
-* **Third-party cookies** are created when content is loaded from domains other than the one shown in the address bar, such as when you load a diagram saved in Google Drive in diagrams.net.
+* **Third-party cookies** are created when content is loaded from domains other than the one shown in the address bar, such as when you load a diagram saved in Google Drive in draw.io.
 
 ## Configure your browser to allow third-party cookies
 

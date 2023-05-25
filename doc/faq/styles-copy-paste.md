@@ -11,9 +11,9 @@ Instead of styling every shape individually, you can style one, then apply that 
 2. Select that shape or connector, in the _Style_ tab of the format panel, click _Copy Style_.
 3. Select the other shapes or connectors that you want to apply this style to. In the _Style_ tab, click on _Paste Style_.
 
-<img src="/assets/img/blog/styles-copy-paste.gif" style="max-width:100%;height:auto;" alt="Copy and paste styles from one shape or connector to another in diagrams.net">
+<img src="/assets/img/blog/styles-copy-paste.gif" style="max-width:100%;height:auto;" alt="Copy and paste styles from one shape or connector to another in draw.io">
 
-**Tip:** There are [many shortcuts for working with styles](/blog/shortcut-styles) in diagrams.net.
+**Tip:** There are [many shortcuts for working with styles](/blog/shortcut-styles) in draw.io.
 
 ## Related
 

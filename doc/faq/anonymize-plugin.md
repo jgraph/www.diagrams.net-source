@@ -9,10 +9,10 @@ _This plugin should be used as-is, as an unsupported example for developers._
 
 If you need to remove confidential, sensitive or identifying information before sharing your diagrams, use the anonymize plugin. This plugin will scramble all of the text and metadata in your diagram.
 
-[More information about diagrams.net plugins](/doc/faq/plugins.html)
+[More information about draw.io plugins](/doc/faq/plugins.html)
 
 ## Load the anonymize plugin
-* To create a new diagram with the plugin already loaded, go to [https://app.diagrams.net/?splash=0&p=anon](https://app.diagrams.net/?splash=0&p=anon)
+* To create a new diagram with the plugin already loaded in the online draw.io editor, go to [https://app.diagrams.net/?splash=0&p=anon](https://app.diagrams.net/?splash=0&p=anon)
 
 ## Anonymise your diagram content
 

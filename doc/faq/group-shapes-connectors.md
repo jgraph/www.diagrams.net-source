@@ -26,7 +26,7 @@ You can group related shapes and connectors, and then work with them as if they 
 
 **Rotate:** Drag the rotate symbol in the top right corner to rotate all of the shapes in the group around a central point. 
 
-<img src="/assets/img/blog/group-ungroup-shapes.gif" style="width=100%;max-width:500px;;height:auto;" alt="Group shapes, resize and rotate a group, and ungroup them in diagrams.net">
+<img src="/assets/img/blog/group-ungroup-shapes.gif" style="width=100%;max-width:500px;;height:auto;" alt="Group shapes, resize and rotate a group, and ungroup them in draw.io">
 
 ## Ungroup shapes and connectors
 

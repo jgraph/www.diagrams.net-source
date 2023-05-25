@@ -5,7 +5,7 @@ faq: true
 categories: [Features]
 ---
 
-You can remove a [background image](/doc/faq/background-image.html) from your diagram via the format panel.
+You can remove a [background image](/doc/faq/background-image.html) from your draw.io diagram via the format panel.
 
 1. Make sure nothing is selected in your diagram to see the _Diagram_ tab in the format panel. 
 2. Click on _Change_ next to the _Background_ checkbox.

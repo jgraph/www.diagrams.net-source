@@ -5,7 +5,7 @@ faq: true
 categories: [Connectors]
 ---
 
-By default, connectors have arrow heads at one end, where it connects to the target shape. You can remove a connector's arrow heads via the format panel on the right.
+In draw.io by default, connectors have arrow heads at one end, where it connects to the target shape. You can remove a connector's arrow heads via the format panel on the right.
 
 1. Select the connector.
 2. In the _Style_ tab of the format panel, select the middle or the right drop down list on the second row, then select ``None`` at the top of the lists. This will remove the arrow heads pointing towards the source and target shapes.

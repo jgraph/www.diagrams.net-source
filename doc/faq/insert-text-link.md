@@ -18,7 +18,7 @@ This is the same as double-clicking on an empty section of the drawing canvas an
 <br /><img src="/assets/img/blog/arrange-insert-link.png" style="width=100%;max-width:400px;height:auto;" alt="Enter your link in the text field, then click _Insert_ to add a rectangle shape with the link">
 
 Links are inserted in basic rectangle shapes with rounded corners and a solid white background.
-<br /><img src="/assets/img/blog/insert-text-link.png" style="width=100%;max-width:200px;height:auto;" alt="You can insert a text shape and a link in a rectangle via the Arrange > Insert menu in diagrams.net">
+<br /><img src="/assets/img/blog/insert-text-link.png" style="width=100%;max-width:200px;height:auto;" alt="You can insert a text shape and a link in a rectangle via the Arrange > Insert menu in draw.io">
 
 **Tip:** You can [add links to other pages in your diagram](/blog/multiple-page-diagrams.html) with the second option if it contains multiple pages.
 

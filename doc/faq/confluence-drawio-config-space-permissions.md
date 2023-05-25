@@ -24,6 +24,6 @@ Administrators must ensure that all draw.io users have the appropriate **read** 
 
 * [Share custom shape libraries](/doc/faq/custom-libraries-confluence-cloud.html) with other draw.io users in Confluence
 
-* Learn how to [configure and customise the diagrams.net and draw.io diagram editors](/doc/faq/configure-diagram-editor.html)
+* Learn how to [configure and customise the draw.io diagram editor](/doc/faq/configure-diagram-editor.html)
 
 * See more [customisation options for draw.io in Confluence Cloud](/doc/drawio-confluence-cloud-admin.html)

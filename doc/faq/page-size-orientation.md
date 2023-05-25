@@ -5,7 +5,7 @@ faq: true
 categories: [Features]
 ---
 
-By default, diagrams.net uses an A4 paper size in a portrait orientation. You can change the paper size and the orientation via the _Format_ panel or the menu. 
+By default, draw.io uses an A4 paper size in a portrait orientation. You can change the paper size and the orientation via the _Format_ panel or the menu. 
 
 ## Use the format panel to change the paper size
 
