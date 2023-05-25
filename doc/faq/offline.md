@@ -21,9 +21,9 @@ Creating diagrams in the desktop app doesn't need an internet connection. This i
 
 ## Use draw.io offline as a progressive web app
 
-When you go to app.diagrams.net in your web browser on your computer or mobile device, and load a diagram, you can continue working on it even if you disconnect from the internet.
+When you go to our online editor at [app.diagrams.net](https://app.diagrams.net) using your web browser on your computer or mobile device and load a diagram, you can continue working on it even if you disconnect from the internet.
 
-As app.diagrams.net runs as a [progressive web app (PWA)](https://en.wikipedia.org/wiki/progressive_web_application), after the editor and your diagram have been loaded via your internet connection, you can safely disconnect from the internet and continue to work on the diagram.
+As the editor runs as a [progressive web app (PWA)](https://en.wikipedia.org/wiki/progressive_web_application), after the editor and your diagram have been loaded via your internet connection, you can safely disconnect from the internet and continue to work on the diagram.
 
 Depending on where you you have chosen to save your diagram, you may need to reconnect before closing that browser tab.
 

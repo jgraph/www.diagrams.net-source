@@ -1,5 +1,5 @@
 ---
-title: Uninstall a plugin from diagrams.net
+title: Uninstall a plugin from draw.io
 layout: page
 faq: true
 categories: [Plugins]

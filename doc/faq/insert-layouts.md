@@ -5,7 +5,7 @@ faq: true
 categories: [Features]
 ---
 
-You can use the automatic layout dialog in diagrams.net to build neat flow charts, trees and other common layouts quickly. 
+You can use the automatic layout dialog in draw.io to build neat flow charts, trees and other common layouts quickly. 
 
 1. Click _Arrange > Insert > Layout_, then select the diagram type and layout you want to use.  Alternatively, click the ``+`` icon in the toolbar, then select _Layout_ and select the layout you want to use.
 <br /><img src="/assets/img/blog/arrange-insert-layout.png" style="width=100%;max-width:400px;height:auto;" alt="Select Arrange > Insert > Layout then select a layout to quickly build your diagram">
@@ -20,16 +20,16 @@ You can use the automatic layout dialog in diagrams.net to build neat flow chart
 Build your diagram in the layout dialog you selected via _Arrange > Insert > Layout_.
 
 **Horizontal flow**
-<br /><img src="/assets/img/blog/layout-horizontal-flow.gif" style="width=100%;max-width:400px;height:auto;" alt="Quickly click together a horizontal flow in diagrams.net">
+<br /><img src="/assets/img/blog/layout-horizontal-flow.gif" style="width=100%;max-width:400px;height:auto;" alt="Quickly click together a horizontal flow in draw.io">
 
 **Vertical tree**
-<br /><img src="/assets/img/blog/layout-vertical-tree.gif" style="width=100%;max-width:400px;height:auto;" alt="Quickly click together a vertical tree in diagrams.net">
+<br /><img src="/assets/img/blog/layout-vertical-tree.gif" style="width=100%;max-width:400px;height:auto;" alt="Quickly click together a vertical tree in draw.io">
 
 **Organic layout**
-<br /><img src="/assets/img/blog/layout-organic.gif" style="width=100%;max-width:400px;height:auto;" alt="Quickly click together a a diagram with a neatly spaced, organic layout in diagrams.net">
+<br /><img src="/assets/img/blog/layout-organic.gif" style="width=100%;max-width:400px;height:auto;" alt="Quickly click together a a diagram with a neatly spaced, organic layout in draw.io">
 
 **Circle**
-<br /><img src="/assets/img/blog/layout-circle.gif" style="width=100%;max-width:400px;height:auto;" alt="Quickly click together a diagram with a circular layout in diagrams.net">
+<br /><img src="/assets/img/blog/layout-circle.gif" style="width=100%;max-width:400px;height:auto;" alt="Quickly click together a diagram with a circular layout in draw.io">
 
 [See all of the elements you can insert into your diagram](/doc/faq/arrange-insert-menu.html)
 

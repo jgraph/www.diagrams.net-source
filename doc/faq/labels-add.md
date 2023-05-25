@@ -12,7 +12,7 @@ Labels on shapes make it easier to understand a diagram quickly. For some diagra
 
 **Tip:** Press ``Shift+Enter`` to [add a line break in a label](/doc/faq/line-breaks.html).
 
-<img src="/assets/img/blog/basic-flow-add-labels.gif" style="width=100%;max-width:500px;height:auto;" alt="Add labels to shapes and connectors in diagrams.net">
+<img src="/assets/img/blog/basic-flow-add-labels.gif" style="width=100%;max-width:500px;height:auto;" alt="Add labels to shapes and connectors in draw.io">
 
 ### Edit container shape labels
 

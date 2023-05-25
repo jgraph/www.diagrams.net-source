@@ -5,7 +5,7 @@ faq: true
 categories: [Shapes,Connectors]
 ---
 
-The _Arrange_ tab in the format panel on the right of the diagrams.net editor allows you to precisely arrange and orient shapes on the drawing canvas. 
+The _Arrange_ tab in the format panel on the right of the draw.io editor allows you to precisely arrange and orient shapes on the drawing canvas. 
 
 <img src="/assets/img/blog/arrange-tab-shape.png" style="width=100%;max-width:500px;height:auto;" alt="Select a shape, then use the tools in the Arrange tab to rotate, reposition or resize it"> 
 
@@ -13,14 +13,14 @@ The options that are available on this tab will change depending on what you hav
 
 Click on a link below to see how to use the particular feature on the Arrange tab. 
 
-* [Move shapes forwards and backwards on the drawing canvas](#move-shapes-forwards-and-backwards)
-* [Form a group of shapes](#group-multiple-shapes)
-* [Resize a shape](#resize-a-shape)
-* [Reposition a shape](#reposition-a-shape)
-   * [Reposition multiple shapes with respect to each other](#reposition-multiple-shapes)
-* [Rotate a shape](#rotate-a-shape)
-* [Reset a connector's waypoints to the minimum](#reset-connector-waypoints)
-* [Edit Data, Edit Link and related features](#related-features)
+- [Move shapes forwards and backwards](#move-shapes-forwards-and-backwards)
+- [Group multiple shapes](#group-multiple-shapes)
+- [Resize a shape](#resize-a-shape)
+- [Reposition a shape](#reposition-a-shape)
+  - [Reposition multiple shapes](#reposition-multiple-shapes)
+- [Rotate a shape](#rotate-a-shape)
+- [Reset connector waypoints](#reset-connector-waypoints)
+- [Related features](#related-features)
 
 ## Move shapes forwards and backwards
 

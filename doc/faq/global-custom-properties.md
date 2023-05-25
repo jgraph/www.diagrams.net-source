@@ -18,5 +18,5 @@ You can also define your own global properties for your diagram, which work simi
 
 ## Related
 
-* [Use shortcuts to work with styles quickly](/blog/shortcut-styles) in diagrams.net.
+* [Use shortcuts to work with styles quickly](/blog/shortcut-styles) in draw.io.
 * [Learn more about global diagram and editor settings](/doc/faq/diagram-options.html)

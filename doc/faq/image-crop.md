@@ -15,6 +15,6 @@ After you have [inserted an image](/doc/faq/add-images.html) into your diagram, 
    * _Rounded_ rounds the corners on the rectangular crop.
 5. Click on _Apply_
 
-<img src="/assets/img/blog/crop.gif" style="width=100%;max-width:600px;height:auto;" alt="Crop an embedded or imported image in diagrams.net and draw.io">
+<img src="/assets/img/blog/crop.gif" style="width=100%;max-width:600px;height:auto;" alt="Crop an embedded or imported image in draw.io">
 
 This is a non-destructive crop. To reset the crop to the original image, click on _Reset_ in the crop image dialog.

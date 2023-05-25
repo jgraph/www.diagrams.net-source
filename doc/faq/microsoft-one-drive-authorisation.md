@@ -1,11 +1,11 @@
 ---
-title: Authorise diagrams.net to access files in Microsoft OneDrive
+title: Authorise draw.io to access files in Microsoft OneDrive
 layout: page
 faq: true
 categories: [Integrations, Microsoft]
 ---
 
-When you first choose OneDrive as the storage location for your diagrams, you must authorise diagrams.net to allow it to access files there. Follow the steps below. 
+When you first choose OneDrive as the storage location for your diagrams, you must authorise draw.io to allow it to access files there. Follow the steps below. 
 
 1. Click _Authorize_ to start the OneDrive authorisation process. 
 <br /><img src="/assets/img/blog/onedrive-authorise.png" style="width=100%;max-width:200px;height:auto;" alt="Start the OneDrive authorisation process">
@@ -20,4 +20,4 @@ When you first choose OneDrive as the storage location for your diagrams, you mu
 
 Now, your diagram files will be saved to the location you chose in your OneDrive account. 
 
-As diagrams.net remembers your selected location, to save a file elsewhere, choose _Save as_ from the _File_ menu in the editor and select a different location.
+As draw.io remembers your selected location, to save a file elsewhere, choose _Save as_ from the _File_ menu in the editor and select a different location.

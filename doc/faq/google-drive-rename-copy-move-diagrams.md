@@ -5,7 +5,7 @@ faq: true
 categories: [Integrations,Google]
 ---
 
-You can rename, copy and move your diagram files that are stored in Google Drive using the the _File_ menu in the diagrams.net editor. 
+You can rename, copy and move your diagram files that are stored in Google Drive using the the _File_ menu in the draw.io editor. 
 
 ## Rename a diagram file
 
@@ -32,15 +32,15 @@ You can rename, copy and move your diagram files that are stored in Google Drive
 
 ## Work with diagram files stored in Google Drive
 
-Storing your files in Google Drive lets you and your teams collaborate easily. Your [diagram files in Google Drive are versioned](/doc/faq/google-drive-revision-history.html) - you can see who makes changes and when, and roll back to an older version if someone has made a mistake. [Publishing a diagram as a link from a diagram stored in Google Drive](/doc/faq/google-drive-publicly-publish-diagram.html) results in shorter, more readable links. You can [import diagrams into Google Drive](/doc/faq/google-drive-import-diagram.html) in a number of ways, both in and out of the diagrams.net editor. 
+Storing your files in Google Drive lets you and your teams collaborate easily. Your [diagram files in Google Drive are versioned](/doc/faq/google-drive-revision-history.html) - you can see who makes changes and when, and roll back to an older version if someone has made a mistake. [Publishing a diagram as a link from a diagram stored in Google Drive](/doc/faq/google-drive-publicly-publish-diagram.html) results in shorter, more readable links. You can [import diagrams into Google Drive](/doc/faq/google-drive-import-diagram.html) in a number of ways, both in and out of the draw.io editor. 
 
-To return to Google Drive from the diagrams.net editor, hover over the diagrams.net logo at the top left. It will change to the Google Drive logo and display a tooltip - click on it to automatically save your diagram and return to your Google Drive.
+To return to Google Drive from the draw.io editor, hover over the draw.io logo at the top left. It will change to the Google Drive logo and display a tooltip - click on it to automatically save your diagram and return to your Google Drive.
 
-<img src="/assets/img/blog/google-drive-return-from-editor.png" style="width=100%;max-width:400px;height:auto;" alt="Click on the logo at the top left to return to Google Drive from the diagrams.net editor">
+<img src="/assets/img/blog/google-drive-return-from-editor.png" style="width=100%;max-width:400px;height:auto;" alt="Click on the logo at the top left to return to Google Drive from the draw.io editor">
 
 **Embed diagrams in Google Docs, Slides and Sheets** 
 
-Using the diagrams.net apps for Google Workplace, you can [add diagrams from Google Drive to Google Docs](/blog/diagrams-google-docs.html) and other Google Workplace apps, without needing to create and embed a static image version of your diagram.
+Using the draw.io apps for Google Workplace, you can [add diagrams from Google Drive to Google Docs](/blog/diagrams-google-docs.html) and other Google Workplace apps, without needing to create and embed a static image version of your diagram.
 
 <img src="/assets/img/blog/addon-google-docs-examples.png" style="max-width:100%;height:auto;" alt="Embed a diagram in Google Docs">
 

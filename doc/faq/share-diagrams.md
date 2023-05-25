@@ -13,7 +13,7 @@ While you can [share diagrams via Dropbox](doc/faq/share-diagram-dropbox.html), 
 
 When collaborative editing diagram files stored in Google Drive and OneDrive, you see everyone's cursors, selections and changes in real-time, as you edit a diagram together.
 
-**Tip:** We recommend Google Drive as it provides more secure permissions for third-party apps like diagrams.net, and lets you open diagrams easily via your normal file manager.
+**Tip:** We recommend Google Drive as it provides more secure permissions for third-party apps like draw.io, and lets you open diagrams easily via your normal file manager.
 
 ## Shared mouse cursors by default
 
@@ -26,9 +26,9 @@ Google Drive also tracks the changes that are made by each user, and you can see
 
 To share a diagram with people who don't use Google Drive, you can [publicly publish your diagram](/doc/faq/google-drive-publicly-publish-diagram.html).
 
-You can use diagrams stored in Google Drive with the [diagrams.net add-on in Google Docs, Sheets and Slides](/doc/faq/google-docs-diagrams.html).
+You can use diagrams stored in Google Drive with the [draw.io (diagrams.net) add-on in Google Docs, Sheets and Slides](/doc/faq/google-docs-diagrams.html).
 
-**Troubleshooting:** If you find you are having connection problems, [check that your browser allows third-party cookies](/doc/faq/google-drive-connection-problems.html) so that diagrams.net can talk to Google Drive.
+**Troubleshooting:** If you find you are having connection problems, [check that your browser allows third-party cookies](/doc/faq/google-drive-connection-problems.html) so that draw.io can talk to Google Drive.
 
 <img src="/assets/img/blog/addon-google-docs-examples.png" style="max-width:100%;height:auto;" alt="Embed a diagram in Google Docs">
 

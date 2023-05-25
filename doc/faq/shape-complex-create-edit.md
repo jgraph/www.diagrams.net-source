@@ -5,14 +5,14 @@ faq: true
 categories: [Shapes]
 ---
 
-diagrams.net has a large library of pre-built shapes, but it also lets you embed your own raster and SVG images in your diagrams. While this provides you with a lot of flexibility, it doesn't let you style raster or SVG images, except to [change the colours in embedded SVG images](/doc/faq/svg-edit-colours.html). Because SVGs and raster images aren't native shapes, they don't contain the necessary information about which shapes on which to draw shadows, apply line widths, and so on.
+draw.io has a large library of pre-built shapes, but it also lets you embed your own raster and SVG images in your diagrams. While this provides you with a lot of flexibility, it doesn't let you style raster or SVG images, except to [change the colours in embedded SVG images](/doc/faq/svg-edit-colours.html). Because SVGs and raster images aren't native shapes, they don't contain the necessary information about which shapes on which to draw shadows, apply line widths, and so on.
 
 ## Basic custom shapes
 
 
-You can create your own custom shapes in diagrams.net by describing their geometry, connection points and styles in an XML format. The basic diagrams.net shapes use XML. Select _Arrange > Insert > Shape_ from the diagrams.net menu  to open the _Edit Shape_ dialog where you can see the XML structure of the shape.
+You can create your own custom shapes in draw.io by describing their geometry, connection points and styles in an XML format. The basic draw.io shapes use XML. Select _Arrange > Insert > Shape_ from the draw.io menu  to open the _Edit Shape_ dialog where you can see the XML structure of the shape.
 
-<img src="/assets/img/blog/custom-shape-example-code.png" style="width=100%;max-width:300px;height:auto;" alt="A complex custom shape and its code, created in diagrams.net">
+<img src="/assets/img/blog/custom-shape-example-code.png" style="width=100%;max-width:300px;height:auto;" alt="A complex custom shape and its code, created in draw.io">
 
 [See how to create this basic custom shape](/doc/faq/custom-shapes.html)
 
@@ -23,15 +23,15 @@ You can create your own custom shapes in diagrams.net by describing their geomet
 
 ## Create advanced custom shapes
 
-At the end of this page you'll find the XML to create the example used below. Copy and paste this XML into the _Edit Shape_ dialog via _Arrange > Insert > Shape_ in [diagrams.net](https://app.diagrams.net/), and click _Preview_ to see [how more complex shapes are constructed in XSD](https://jgraph.github.io/mxgraph/docs/stencils.xsd).
+At the end of this page you'll find the XML to create the example used below. Copy and paste this XML into the _Edit Shape_ dialog via _Arrange > Insert > Shape_ in [draw.io online](https://app.diagrams.net/), and click _Preview_ to see [how more complex shapes are constructed in XSD](https://jgraph.github.io/mxgraph/docs/stencils.xsd).
 
-<img src="/assets/img/blog/edit-shape-dialog-complex-shape.png" style="width=100%;max-width:300px;height:auto;" alt="A complex custom shape and its code, created in diagrams.net">
+<img src="/assets/img/blog/edit-shape-dialog-complex-shape.png" style="width=100%;max-width:300px;height:auto;" alt="A complex custom shape and its code, created in draw.io">
 
 Use the reference below to see how each custom shape element is defined and the order in which you need to nest these elements.
 
 ### ``<shape>``
 The outer element is ``<shape>``, which has the following attributes:
-* ``name`` - string, required. This name uniquely identifies the shape. Not currently used in diagrams.net.
+* ``name`` - string, required. This name uniquely identifies the shape. Not currently used in draw.io.
 * ``w,h`` - optional decimal view bounds. This defines your co-ordinate system for the graphics operations in the shape. The default is ``100,100``.
 * ``aspect`` - optional string with the value of either ``"variable"``, the default, or ``"fixed"``. _Fixed_ always renders the shape with the aspect ratio defined by the ratio ``w/h``. _Variable_ causes the ratio to match that of the geometry of the current vertex.
 * ``strokewidth`` - optional string containing either an integer or the string ``"inherit"``. _Inherit_ indicates that the _strokewidth_ of the cell is only changed when you scale it, and not when you resize it. If you use a numeric value, the _strokewidth_ of the cell will change both when you scale and when you resize the shape. This numeric value defines the multiplier that is applied to the width. The default is ``"1"``.
@@ -53,7 +53,7 @@ Any _stroke_, _fill_ or _fillstroke_ of a background must be defined as the firs
 
 The ``<background>`` element can only contain one ``<path>``, ``<rect>``, ``<roundrect>`` or ``<ellipse>`` element (or none). It can not contain any _fill_, _stroke_, _image_, _text_ or _include-shape_.
 
-Note that the state, styling and drawing in the mxGraph shapes used in diagrams.net is very close in design to that of HTML 5 canvas. Use these suggested [HTML 5 tutorials](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial) for a high-level introduction to the concepts used.
+Note that the state, styling and drawing in the mxGraph shapes used in draw.io is very close in design to that of HTML 5 canvas. Use these suggested [HTML 5 tutorials](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial) for a high-level introduction to the concepts used.
 
 ### State
 _Foreground_ and _background_ elements are rendered following the concept of state. In addition to the state save/load operation, there are two other types of operations: style and draw. An applied style changes the current state.
@@ -74,7 +74,7 @@ The other style elements are as follows:
 * ``<strokewidth>`` - defines the integer thickness elements drawn by _stroke_ or _fillstroke_. Use ``fixed="1"`` to apply the value as-is, with no scaling.
 * ``<dashed>`` - defines the stroke style. Use ``"1"`` to enable dashes and ``"0"`` for a solid line.
 * ``<dashpattern>`` - defines the pattern of dashes and spaces on dashed strokes (when these are enabled). Use a sequence of space-separated "on, off" lengths to define the number of points used to draw a line or a space. The pattern repeats, and the default is ``"3 3"``. You can define a more complex pattern with ``"5 3 2 6"``, for example. An even number of elements in the _dashpattern_ looks more balanced, but is not required.
-* ``<linejoin>``, ``<linecap>`` and ``<miterlimit>`` - determine how two connecting segments of a line are joined together, how the end points of every line are drawn, and the maximum distance between the outer and inner connection points of two lines respectively. For a visual example, refer to the [Mozilla page on Canvas styling](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors). diagrams.net uses the same definitions, except that _linecap_ is ``"flat"`` instead of Canvas' ``"butt"``.
+* ``<linejoin>``, ``<linecap>`` and ``<miterlimit>`` - determine how two connecting segments of a line are joined together, how the end points of every line are drawn, and the maximum distance between the outer and inner connection points of two lines respectively. For a visual example, refer to the [Mozilla page on Canvas styling](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors). draw.io uses the same definitions, except that _linecap_ is ``"flat"`` instead of Canvas' ``"butt"``.
 
 For font styling, the following elements are used:
 * ``<fontsize>`` - an integer.
@@ -82,7 +82,7 @@ For font styling, the following elements are used:
 * ``<fontfamily>`` - a string that defines the typeface to be used.
 
 ### Drawing
-Most of the drawing (the lines inside the shape) is contained within a ``<path>`` element. The graphic primitives used by mxGraph in diagrams.net are very similar to that of HTML 5 Canvas.
+Most of the drawing (the lines inside the shape) is contained within a ``<path>`` element. The graphic primitives used by mxGraph in draw.io are very similar to that of HTML 5 Canvas.
 * ``<move>`` - to attributes, required decimals ``(x,y)``.
 * ``<line>`` - to attributes, required decimals ``(x,y)``.
 * ``<quad>`` - to required decimals ``(x2,y2)`` via the control point, required decimals ``(x1,y1)``.
@@ -104,7 +104,7 @@ _Text_ elements have the following attributes:
 * ``x`` and ``y`` - the decimal location ``(x,y)`` of the text element, required.
 * ``align`` - the horizontal alignment of the text element, either ``"left"``, ``"center"`` or ``"right"``. Optional, default is ``"left"``.
 * ``valign ``- the vertical alignment of the text element, either ``"top"``, ``"middle"`` or ``"bottom"``. Optional, default is ``"top"``.
-* ``localized`` - ``0`` or ``1``. If ``1`` then the ``"str"`` actually contains a key used to fetch the value out of ``mxResources``. Optional, default is ``0``, currently unused in diagrams.net.
+* ``localized`` - ``0`` or ``1``. If ``1`` then the ``"str"`` actually contains a key used to fetch the value out of ``mxResources``. Optional, default is ``0``, currently unused in draw.io.
 * ``vertical`` - ``0`` or ``1``. If ``1`` then the label is rendered vertically (rotated by 90 degrees). Optional, default is ``0``.
 * ``rotation`` - angle in degrees (``0`` to ``360``). The angle to rotate the text by. Optional, default is ``0``.
 * ``align-shape`` - ``0`` or ``1``. If ``0`` then the rotation of the shape is ignored when setting the text rotation. Optional, default is ``1``.
@@ -121,7 +121,7 @@ Attributes are:
 
 ### Sub-shapes
 
-**Note:** This is only supported with the built-in shapes at diagrams.net.
+**Note:** This is only supported with the built-in draw.io shapes.
 
 ``<include-shape>`` allows sub-shapes to be rendered within the current shape by referencing the sub-shape by name.
 
@@ -132,9 +132,9 @@ Attributes are:
 
 ## Example complex custom shape
 
-<img src="/assets/img/blog/edit-shape-dialog-complex-shape.png" style="width=100%;max-width:300px;height:auto;" alt="A complex custom shape and its code, created in diagrams.net">
+<img src="/assets/img/blog/edit-shape-dialog-complex-shape.png" style="width=100%;max-width:300px;height:auto;" alt="A complex custom shape and its code, created in draw.io">
 
-This complex custom shape is represented by the following XML code. Copy and paste this XML into the _Edit Shape_ dialog via _Arrange > Insert > Shape_ in [diagrams.net](https://app.diagrams.net/), then click _Preview_.
+This complex custom shape is represented by the following XML code. Copy and paste this XML into the _Edit Shape_ dialog via _Arrange > Insert > Shape_ in [our online editor](https://app.diagrams.net/), then click _Preview_.
 
 ```xml
 <shape aspect="variable" h="211" w="200" strokewidth="inherit">

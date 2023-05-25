@@ -37,7 +37,7 @@ This is the layout and tools in the draw.io Board editor.
 
 1. Type /``/draw.io`` and select the draw.io Diagram macro to use the more complex draw.io Diagram editor layout with immediate access to more tools. 
 2. Select the _Blank Diagram_ template, enter a filename for your diagram, and click _Create_.
-<br /><img src="/assets/img/blog/template-library-new-diagram.png" style="width=100%;max-width:300px;height:auto;" alt="Choose a diagram template when you create a new diagram at diagrams.net">
+<br /><img src="/assets/img/blog/template-library-new-diagram.png" style="width=100%;max-width:300px;height:auto;" alt="Choose a diagram template when you create a new diagram at draw.io">
 
 This is the layout and tools you will see in the draw.io Diagram editor.
 <br /><img src="/assets/img/blog/drawio-interface-introduction.png" style="width=100%;max-width:600px;height:auto;" alt="Atlassian theme in draw.io for Confluence Cloud">
@@ -46,7 +46,7 @@ This is the layout and tools you will see in the draw.io Diagram editor.
 
 ### Draw a diagram
 
-Step through [this tutorial to draw a basic flowchart](/doc/getting-started-basic-flow-chart.html#add-shapes-to-the-drawing-canvas). Note that the diagrams.net editor and the draw.io Diagram macro use the same layout and tools as both are developed by us here at JGraph.
+Step through [this tutorial to draw a basic flowchart](/doc/getting-started-basic-flow-chart.html#add-shapes-to-the-drawing-canvas). Our free online version of draw.io at app.diagrams.net has the same layout and tools as the draw.io Diagram macro as both are developed by us here at JGraph.
    * add and connect shapes using the shape libraries on the left
    * add labels to the shapes and connectors on the drawing canvas
    * style your diagram using the tools in the format panel on the right.

@@ -8,7 +8,7 @@ categories: [features,shapes]
 Each shape and connector in a diagram can contain [metadata or custom properties](/doc/faq/shape-metadata.html) - extra information about those shapes.
 
 A tooltip is a predefined shape property which appears when you hover over the shape or connector on the drawing canvas, or in the lightbox when viewing a [published diagram](/blog/publish-link.html). 
-<br /><img src="/assets/img/blog/tooltip-hover-editor.png" style="width=100%;max-width:400px;height:auto;" alt="Hover over a shape in the diagrams.net editor to see its tooltip"> 
+<br /><img src="/assets/img/blog/tooltip-hover-editor.png" style="width=100%;max-width:400px;height:auto;" alt="Hover over a shape in the draw.io editor to see its tooltip"> 
 
 You can add a tooltip to a shape or connector via the menu, or by editing the shape properties. 
 
@@ -20,8 +20,8 @@ You can add a tooltip to a shape or connector via the menu, or by editing the sh
 3. Enter the tooltip in the text field of the _Edit Tooltip_ dialog, then click _Apply_. 
 <br /><img src="/assets/img/blog/edit-tooltip-dialog.png" style="width=100%;max-width:200px;height:auto;" alt="Select the shape or connector and click Edit > Edit Tooltip to add a tooltip">
 
-Now, when you hover over the shape in the diagrams.net editor or lightbox, you'll see the tooltip appear just below the mouse cursor. 
-<br /><img src="/assets/img/blog/tooltip-hover-lightbox.png" style="width=100%;max-width:500px;height:auto;" alt="Hover over a shape in the diagrams.net lightbox to see its tooltip">
+Now, when you hover over the shape in the draw.io editor or lightbox, you'll see the tooltip appear just below the mouse cursor. 
+<br /><img src="/assets/img/blog/tooltip-hover-lightbox.png" style="width=100%;max-width:500px;height:auto;" alt="Hover over a shape in the draw.io lightbox to see its tooltip">
 
 **Edit the shape properties to add or edit a tooltip**
 
@@ -30,7 +30,7 @@ Now, when you hover over the shape in the diagrams.net editor or lightbox, you'l
 2. Type ``tooltip`` into the text field where it says _Enter Property Name_, then click _Add Property_.
 <br /><img src="/assets/img/blog/tooltip-add-property.png" style="width=100%;max-width:200px;height:auto;" alt="Add the tooltip shape property, if it doesn't already exist">
 3. Add your tooltip text into the tooltip text field and click _Apply_ to save your tooltip. 
-<br /><img src="/assets/img/blog/tooltip-add-property-value.png" style="width=100%;max-width:200px;height:auto;" alt="Enter the text for your tooltip in the shape properties dialog, then press apply to return to the diagrams.net editor">
+<br /><img src="/assets/img/blog/tooltip-add-property-value.png" style="width=100%;max-width:200px;height:auto;" alt="Enter the text for your tooltip in the shape properties dialog, then press apply to return to the draw.io editor">
 
 **Delete a tooltip**
 

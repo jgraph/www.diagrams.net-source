@@ -5,7 +5,7 @@ faq: true
 categories: [Shapes]
 ---
 
-Customise how a shape or groups of on the drawing canvas look using the _Style_ and _Text_ tabs of the format panel on the right. The diagrams.net editor will automatically switch to the shape style panels when you select one or more shapes. 
+Customise how a shape or groups of on the drawing canvas look using the _Style_ and _Text_ tabs of the format panel on the right. The draw.io editor will automatically switch to the shape style panels when you select one or more shapes. 
 
 The original shape style uses a black outline and a solid white fill colour. 
 
@@ -35,7 +35,7 @@ The style options that you see will depend on the shape or shapes you have selec
 The style palette at the top of the _Style_ tab changes both the fill and outline colour. 
 
 Click the left or right arrows or click on the page dots underneath the palette to view more styles.
-<br /><img src="/assets/img/blog/basic-flow-style-palette.png" style="width=100%;max-width:200px;height:auto;" alt="Set a new shape or connector style easily with the style palette in diagrams.net">
+<br /><img src="/assets/img/blog/basic-flow-style-palette.png" style="width=100%;max-width:200px;height:auto;" alt="Set a new shape or connector style easily with the style palette in draw.io">
 
 ## Change the fill colour or add a gradient
 
@@ -92,7 +92,7 @@ Enter a new value in the _Opacity_ text field, or use the up/down arrows to chan
 1. Select the shape that has the style you want to copy.
 2. In the _Style_ tab of the format panel, click _Copy Style_.
 3. Select the other shapes or connectors that you want to apply this style to. In the _Style_ tab, click on _Paste Style_.
-<br /><img src="/assets/img/blog/styles-copy-paste.gif" style="width=100%;max-width:300px;height:auto;" alt="Copy and paste styles from one shape or connector to another in diagrams.net">
+<br /><img src="/assets/img/blog/styles-copy-paste.gif" style="width=100%;max-width:300px;height:auto;" alt="Copy and paste styles from one shape or connector to another in draw.io">
 
 ## Set a default style
 

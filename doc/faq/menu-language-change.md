@@ -5,7 +5,7 @@ faq: true
 categories: [Features]
 ---
 
-By default, diagrams.net will use the language that your browser is using. You can override this by changing the interface and menu language to another. 
+By default, draw.io will use the language that your browser is using. You can override this by changing the interface and menu language to another. 
 
 ## Set the interface language when creating a new diagram
 
@@ -18,12 +18,12 @@ By default, diagrams.net will use the language that your browser is using. You c
 4. Refresh the page in your browser (press ``Ctrl+R`` on Windows or ``Cmd+R`` on macOS) to switch languages. 
 <br /><img src="/assets/img/blog/interface-language-french.png" style="width=100%;max-width:500px;height:auto;" alt="After refreshing the browser page, the diagram editor interface will be in your selected language">
 
-**Tip:** You can go directly to the editor in your language if you know the language code by using a URL parameter. For example, to use diagrams.net in Spanish: [https://app.diagrams.net/?lang=es](https://app.diagrams.net/?lang=es)
+**Tip:** You can go directly to the editor in your language if you know the language code by using a URL parameter. For example, to use draw.io online in Spanish: [https://app.diagrams.net/?lang=es](https://app.diagrams.net/?lang=es)
 
 This only changes the interface language - text inside the diagram will remain in the original language, unless you have used shape metadata to allow for [in-diagram translations](/blog/translate-diagrams.html).
 
-### Want to help localize diagrams.net?
+### Want to help localize draw.io?
 
 All of the words and phrases (strings) used in the user interface (UI) are stored in a Google Sheet. 
 
-[Learn more about contributing to the localisation of the diagrams.net interface](/blog/translate-diagrams.html)
+[Learn more about contributing to the localisation of the draw.io interface](/blog/translate-diagrams.html)

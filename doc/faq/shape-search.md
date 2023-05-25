@@ -16,7 +16,7 @@ The shape library search feature looks for shape names that match or are similar
 
 **Extended icon search limitations**
 
-External clipart libraries are only available via the diagrams.net servers. These are not searchable if you are using the following:
-* [diagrams.net Desktop application](https://get.diagrams.net/)
+External clipart libraries are only available via draw.io's servers. These are not searchable if you are using the following:
+* [draw.io Desktop application](https://get.diagrams.net/)
 * draw.io app for Atlassian Confluence or Jira Data Center
 * ``lockdown`` option to [restrict data transmission](/blog/data-governance-lockdown.html)
