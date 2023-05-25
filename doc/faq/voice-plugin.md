@@ -31,7 +31,7 @@ You will hear a short beep when the plugin starts and stops listening. The butto
 
 **Tip:** Select _Voice > Hint_ to hear information about the shapes and connectors that are currently selected. Alternatively, use the ``Shift+Esc`` keyboard shortcut.
 
-<img src="/assets/img/blog/voice-plugin.png" style="max-width:100%;height:auto;" alt="Interact with your diagram by speaking to it via the Voice menu provided by the voice plugin in diagrams.net">
+<img src="/assets/img/blog/voice-plugin.png" style="max-width:100%;height:auto;" alt="Interact with your diagram by speaking to it via the Voice menu provided by the voice plugin in draw.io">
 
 ## Configure the voice plugin
 

@@ -7,11 +7,11 @@ categories: [Connectors]
 
 Connectors are lines that connect your shapes. They can also have arrows or other symbols at one or both ends. 
 
-There are two types of connectors in diagrams.net.
+There are two types of connectors in draw.io.
 
 ## Floating and fixed connectors
 
-There are two main types of connectors in diagrams.net. 
+There are two main types of connectors in draw.io. 
 
 * **Floating connectors** move around the perimeter of the shape. 
 * **Fixed connectors**  stay attached to fixed points on your shape. 
@@ -47,7 +47,7 @@ Fixed connectors will remain attached to that particular location on a shape, ev
 
 ## Connect shapes automatically
 
-The diagrams.net editor can automatically add connectors in a variety of ways When you add new shapes to the drawing canvas.
+The draw.io editor can automatically add connectors in a variety of ways When you add new shapes to the drawing canvas.
 
 **Clone and connect a shape:** Click on a direction arrow towards a blank space on the drawing canvas, then select a shape to add and connect it in that direction. 
 
@@ -113,6 +113,6 @@ There are many different ways in which you can style connectors.
 
 To change a connector's style, select the connector, then use the options in the ``Style`` tab of the format panel, or the tools in the toolbar.
 
-[Learn all about connector styles in diagrams.net](/doc/faq/connector-styles.html)
+[Learn all about connector styles in draw.io](/doc/faq/connector-styles.html)
 
-<img src="/assets/img/blog/connector-style-tools.png" style="width=100%;max-width:400px;;height:auto;" alt="The Style tab in the format panel and the connector tools in the tool bar let you change the style of a selected connector in diagrams.net">
+<img src="/assets/img/blog/connector-style-tools.png" style="width=100%;max-width:400px;;height:auto;" alt="The Style tab in the format panel and the connector tools in the tool bar let you change the style of a selected connector in draw.io">

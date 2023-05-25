@@ -11,4 +11,4 @@ The diagram editor grid is not included when you print a diagram. But you can in
 2. Enable the _Grid_ checkbox in the export settings dialog, then click _Export_.
 <br /><img src="/assets/img/blog/export-image-grid.png" style="width=100%;max-width:250px;height:auto;" alt="Include the editor grid when exporting your image">
 3. Enter a filename and download the exported file. The image file will include the grid, and a [background colour](/doc/faq/background-colour.html) or [background image](/doc/faq/background-image.html).
-<br /><img src="/assets/img/blog/export-with-grid-example.png" style="width=100%;max-width:400px;height:auto;" alt="You can include the diagram editor grid and a solid background when you export your diagram to an image or PDF file in diagrams.net"> 
+<br /><img src="/assets/img/blog/export-with-grid-example.png" style="width=100%;max-width:400px;height:auto;" alt="You can include the diagram editor grid and a solid background when you export your diagram to an image or PDF file in draw.io"> 

@@ -16,6 +16,6 @@ categories: [Shapes]
 
 **Note:** You cannot import an SVG representation of a diagram and edit it as a diagram. SVG does not save the connector information needed to be able to determine which elements are shapes and which are connectors.
 
-You can insert PNG, BMP, and JPG images into diagrams using diagrams.net in the same way.
+You can insert PNG, BMP, and JPG images into diagrams using draw.io in the same way.
 
 [See all of the elements you can insert into your diagram](/doc/faq/arrange-insert-menu.html)

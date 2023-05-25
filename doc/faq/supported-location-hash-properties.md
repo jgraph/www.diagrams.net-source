@@ -7,7 +7,7 @@ categories: [Integrations, Customisation]
 
 The _location hash property_ - the part after the ``#`` sign in the URL - is used to reference a diagram file stored in a specific location. It uses a leading character to specify where your file is stored, and the data - either the unique file ID, path to the file or the diagram data itself. This must be URI encoded.
 
-For example, the following is a URL that opens a file stored at a URI-encoded URL (using the ``U`` location hash property).
+For example, the following is a URL that opens a file stored at a URI-encoded URL (using the ``U`` location hash property) in our online editor.
 
 ``https://app.diagrams.net/#Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-diagrams%2Fdiagrams%2Fbulb.xml``
 

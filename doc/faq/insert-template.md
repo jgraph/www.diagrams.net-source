@@ -5,7 +5,7 @@ faq: true
 categories: [Features]
 ---
 
-Templates give you a starting point when you create a new diagram. If you have an existing diagram, you can also add one of the diagrams.net templates to it easily via the menu.
+Templates give you a starting point when you create a new diagram. If you have an existing diagram, you can also add one of the draw.io templates to it easily via the menu.
 
 1. Go to the diagram page to which you want to add a template.
 2. Select _Arrange > Insert > Template_ from the menu. Alternatively, click the ``+`` icon in the toolbar, then select _Template_.

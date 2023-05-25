@@ -1,5 +1,5 @@
 ---
-title: List of diagrams.net plugins
+title: List of draw.io plugins
 layout: page
 faq: true
 categories: [Plugins]
@@ -7,21 +7,21 @@ categories: [Plugins]
 
 _Plugins should be used as-is, as unsupported examples for developers._
 
-There are a number of built-in plugins that can be added to diagrams.net, either added as a one-off or loaded every time you use diagrams.net with that browser.
+There are a number of built-in plugins that can be added to draw.io, either added as a one-off or loaded every time you use draw.io with that browser.
 
 To load a plugin, use the ``p=xxxx`` URL parameter, separating multiple plugin IDs with a semicolon. This does not permanently load the plugin, so the next time you create a diagram it won't be available.
 
 For example:
-* To load the anonymize plugin: [https://app.diagrams.net/?splash=0&p=anon](https://app.diagrams.net/?splash=0&p=anon)
+* To load the anonymize plugin in our online editor: [https://app.diagrams.net/?splash=0&p=anon](https://app.diagrams.net/?splash=0&p=anon)
 * To load both the anonymize and text plugins: [https://app.diagrams.net/?p=anon;text](https://app.diagrams.net/?p=anon;text)
 
-To [permanently add plugins](/doc/faq/add-plugin.html), select a plugin from the list of built-in plugins via the _Add Plugin_ dialog, click _OK_ and then _Apply_ to save your changes. Make sure you reload diagrams.net in your browser tab after you permanently add or remove a plugin.
+To [permanently add plugins](/doc/faq/add-plugin.html), select a plugin from the list of built-in plugins via the _Add Plugin_ dialog, click _OK_ and then _Apply_ to save your changes. Make sure you reload the editor in your browser tab after you permanently add or remove a plugin.
 
 <img src="/assets/img/blog/add-explore-plugin.png" style="width=100%;max-width:200px;height:auto;" alt="Add the explore plugin">
 
-**Note:** Plugins are not part of the core functionality of diagrams.net, they are intended as examples for developers to create additional functionality.
+**Note:** Plugins are not part of the core functionality of draw.io, they are intended as examples for developers to create additional functionality.
 
-The following plugins are available from the [diagrams.net GitHub repository](https://github.com/jgraph/drawio/tree/master/src/main/webapp/plugins).
+The following plugins are available from the [draw.io GitHub repository](https://github.com/jgraph/drawio/tree/master/src/main/webapp/plugins).
 
 | **Filename** | **ID** | **Description** |
 |--------|----------|----------|

@@ -1,19 +1,19 @@
 ---
-title: Create custom shapes in diagrams.net using the text editor
+title: Create custom shapes in draw.io using the text editor
 layout: page
 faq: true
 categories: [Shapes]
 ---
 
-You can create your own custom stencils (shapes) in diagrams.net by describing their geometry, connection points and styles of the components in your stencil in an XML format.
+You can create your own custom stencils (shapes) in draw.io by describing their geometry, connection points and styles of the components in your stencil in an XML format.
 
 Tip: You can drag a custom stencil from the drawing canvas into your Scratchpad, or to a custom library if you want to save or share your custom shapes. Click _File > New Library_ to create a new custom library.
 
 ## General structure
 
-The basic diagrams.net stencils use XML. Click _Arrange > Insert > Shape_ to open the _Edit Shape_ dialog where you can see the XML structure of the stencil. Let's customise this stencil to be a large 'L' with a vertical line inside.
+The basic draw.io stencils use XML. Click _Arrange > Insert > Shape_ to open the _Edit Shape_ dialog where you can see the XML structure of the stencil. Let's customise this stencil to be a large 'L' with a vertical line inside.
 
-<img src="/assets/img/blog/custom-shape-example.png" style="width=100%;max-width:200px;height:auto;" alt="A complex custom shape, created in diagrams.net">
+<img src="/assets/img/blog/custom-shape-example.png" style="width=100%;max-width:200px;height:auto;" alt="A complex custom shape, created in draw.io">
 
 The top level element is "shape". So enter:
 ```
@@ -96,7 +96,7 @@ Notice the stroke exception in the case of the background geometry. You don't de
 
 Click _Preview_ and you should see:
 
-<img src="/assets/img/blog/custom-shape-example-code.png" style="width=100%;max-width:400px;height:auto;" alt="A complex custom shape and its code, created in diagrams.net">
+<img src="/assets/img/blog/custom-shape-example-code.png" style="width=100%;max-width:400px;height:auto;" alt="A complex custom shape and its code, created in draw.io">
 
 
 ## Geometry

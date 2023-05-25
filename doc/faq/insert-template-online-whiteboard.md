@@ -11,4 +11,4 @@ categories: [Online Whiteboard]
 
 <img src="/assets/img/blog/online-whiteboard-template-preview.png" style="width=100%;max-width:500px;height:auto;" alt="Preview a template from the large template library before adding it to your online whiteboard at sketch.diagrams.net">
 
-See how to [use diagrams.net as an online whiteboard](/blog/sketch-online-whiteboard.html)
+See how to [use draw.io as an online whiteboard](/blog/sketch-online-whiteboard.html)

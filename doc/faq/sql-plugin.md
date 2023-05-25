@@ -9,15 +9,15 @@ _This plugin should be used as-is, as an unsupported example for developers._
 
 Insert SQL code  using the SQL plugin to automatically generate entity shapes, including their attributes, as well as their primary and foreign keys. To complete your entity relationship diagram, connect the entities together and set the connector 'arrows' to describe their relationships.
 
-<img src="/assets/img/blog/sql-plugin-insert.gif" style="width=100%;max-width:500px;height:auto;" alt="Insert SQL code to create your ER diagram automatically using the SQL plugin at diagrams.net">
+<img src="/assets/img/blog/sql-plugin-insert.gif" style="width=100%;max-width:500px;height:auto;" alt="Insert SQL code to create your ER diagram automatically using the SQL plugin at draw.io">
 
 ## Load the SQL plugin
 
-* To create a new diagram with the plugin already loaded, go to [https://app.diagrams.net/?splash=0&p=sql](https://app.diagrams.net/?splash=0&p=sql)
+* To create a new diagram in draw.io online with the plugin already loaded, go to [https://app.diagrams.net/?splash=0&p=sql](https://app.diagrams.net/?splash=0&p=sql)
 
 ## Create an ER diagram from SQL code
 
-As SQL and MySQL are the most popular languages used to program and work with relational database systems, diagrams.net has made it easy to automatically create your diagrams from your code.
+As SQL and MySQL are the most popular languages used to program and work with relational database systems, draw.io has made it easy to automatically create your diagrams from your code.
 
 1. Click _Arrange > Insert > From SQL_.
 2. Copy and paste your SQL code into the dialog, then click _Insert MySQL_ or _Insert SQL Server_, whichever matches the code you just pasted.

@@ -9,7 +9,7 @@ If you have nothing selected, in the format panel on the right you'll see two ta
 
 ## Diagram tab
 
-<img src="/assets/img/blog/diagram-options.png" style="width=100%;max-width:400px;height:auto;" alt="The page and drawing canvas options available in diagrams.net">   
+<img src="/assets/img/blog/diagram-options.png" style="width=100%;max-width:400px;height:auto;" alt="The page and drawing canvas options available in draw.io">   
 
 ### View settings
 
@@ -41,14 +41,14 @@ These options change how the diagram editor behaves, by hiding or displaying cer
 
 ### Paper Size
 
-[Change the page size or orientation](/doc/faq/page-size-orientation.html) by selecting from the list or setting a custom size. By default, diagrams.net uses an A4 paper size in a portrait orientation. 
+[Change the page size or orientation](/doc/faq/page-size-orientation.html) by selecting from the list or setting a custom size. By default, draw.io uses an A4 paper size in a portrait orientation. 
 <br /><img src="/assets/img/blog/format-panel-page-size-orientation.png" style="width=100%;max-width:600px;height:auto;" alt="Change the page size and orientation in the format panel when nothing in your diagram is selected">
 
 ### Global diagram properties and styles
 
 **Edit Data:** [Add or edit the diagram's global properties](/doc/faq/global-custom-properties) which can be used in [placeholders in labels and tooltips](/blog/placeholders.html).
 
-**Clear Default Style** [Reset the default styles](/) that are applied whenever you add a new shape or connector back to their diagrams.net default.
+**Clear Default Style** [Reset the default styles](/) that are applied whenever you add a new shape or connector back to their draw.io default.
 
 ## Style tab
 
