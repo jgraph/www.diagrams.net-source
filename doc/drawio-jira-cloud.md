@@ -45,6 +45,8 @@ By default, the draw.io Diagrams section is not displayed in Jira issues to keep
 * Click on the draw.io icon directly above the issue description to display the draw.io Diagrams section.
 <br /><img src="/assets/img/blog/jira-cloud-display-drawio-section.png" style="max-width:100%;height:auto;" alt="Display the draw.io diagrams section in your Jira Cloud issue">
 
+**Tip:** draw.io diagram thumbnails in a Jira issue will automatically change colours to match the user's [Jira Cloud theme settings - either dark or light](/blog/dark-theme-drawio-jira.html). If you want the diagram to always display on a specific coloured background, [set a background colour](/blog/dark-theme-drawio-jira.html#set-a-background-colour-in-a-diagram) in the draw.io editor.
+<br /><img src="/assets/img/blog/jira-cloud-set-background-colour.png" style="width=100%;max-width:300px;height:auto;" alt="Adding a diagram background ensures your diagram looks the same in both Jira's light and dark themes">
 
 ### View a diagram
 
