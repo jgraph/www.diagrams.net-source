@@ -5,7 +5,9 @@ faq: true
 categories: [Export]
 ---
 
-By default, draw.io saves your diagrams as an XML file with the ``.drawio`` file extension. To save your diagram instead with the ``.xml`` file extension and the initial XML version tag (``<?xml version="1.0" encoding="UTF-8"?>``), you need to export the file. 
+By default, draw.io saves your diagrams as an XML file with the ``.drawio`` file extension. This is so that your operating system knows to open this file in draw.io if you are using our desktop app, or the unofficial draw.io extension for VSCode.
+
+To save your diagram instead with the ``.xml`` file extension instead and the initial XML version tag (``<?xml version="1.0" encoding="UTF-8"?>``), you need to export the file. 
 
 1. Select _File > Export as > XML_.
 <br /><img src="/assets/img/blog/file-export-xml.png" style="width=100%;max-width:300px;height:auto;" alt="Export a diagram as an XML file">
