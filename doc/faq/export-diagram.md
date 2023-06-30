@@ -14,17 +14,17 @@ You can export your diagrams to various types of images, files of different type
 
 [Compare embed and export formats and their requirements](/doc/faq/embed-formats-compare.html)
 
+**Tip:** You can choose to embed the diagram data in PNG, SVG, and PDF files so that they can be opened in the draw.io editor as the diagram.
+
 If you have set a [background colour](/doc/faq/background-colour.html) or [background image](/doc/faq/background-image.html), it will be included when you export your diagram.
 
 ## Export your diagram to an image
 
 You can export the current drawing canvas to an image: PNG, JPEG or SVG. JPEG are most commonly used in web pages. PNG and SVG images are scalable (resizeable) and work well in documents and presentation slides.
 
-**Tip:** When you export to a PNG or SVG image, you can choose to embed your diagram. When someone imports the image back into draw.io, they will be able to see your full diagram.
-
 1. Select _File > Export as_ then choose the image format you want to generate - _PNG_, _JPEG_, or _SVG_.
 <br /><img src="/assets/img/blog/file-export-image.png" style="width=100%;max-width:300px;height:auto;" alt="Select File > Export then choose the image format you want to export your diagram to">
-2. Each image format will offer you slightly different options, see below for details. Select the options you want, then click _Export_.
+1. Each image format will offer you slightly different options, see below for details. Select the options you want, then click _Export_.
 
 **Tip:** If you want to [include the editor grid in your image](/doc/faq/export-with-grid.html), enable the _Grid_ checkbox.
 
