@@ -19,9 +19,9 @@ The default and recommended format to save draw.io diagrams in is ``.drawio``.
 
 ## Supported native formats
 
-* ``.drawio`` (XML file): uses exactly the same internal XML content as the .xml format file, but with our file extension name. 
+* ``.drawio`` (XML file): this is an uncompressed file using the XML format, but with our file extension name. 
 
-draw.io Desktop on all operating systems and tools like the [unofficial draw.io extension for VSCode](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio) can recognise this file extension and will open the draw.io diagram editor when you select these types of files.
+draw.io Desktop on all operating systems and tools like the [unofficial draw.io extension for VSCode](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio) can recognise this file extension and will open the draw.io diagram editor automatically when you select these types of files.
 
 * ``.png`` (editable bitmap file): saves your diagram as a PNG image with embedded diagram data. 
 
@@ -34,8 +34,6 @@ There may be display issues with fonts and text formatting as not all SVG viewer
 * ``.html`` (HTML file): saves your diagram as a HTML file which contains both a redirect to the web version of the draw.io editor and your diagram data. 
 
 The HTML file also stores the URL to your file when it is stored in a cloud platform so the draw.io editor can load the actual file. So, for example, if the file is stored in Google Drive, when you load the HTML file in your browser, it will redirect to [app.diagrams.net/#G](https://app.diagrams.net/#G)  and pass the editor your file's URL in Google Drive so you can edit the file directly.
-
-* ``.xml`` (XML file): This uses exactly the same internal XML content as the .drawio format file, but with the generic .xml extension. 
   
 Your operating system and tools will open this file in your default XML editor (usually a text editor).
 
