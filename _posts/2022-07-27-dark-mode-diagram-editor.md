@@ -25,36 +25,24 @@ If you are using the [simplified Sketch editor theme](/blog/sketch-online-whiteb
 
 ## Diagramming in dark mode
 
-There are a few things to keep in mind when diagramming in dark mode. 
+With the new updates to dark mode, you don't have to worry about how your diagrams look when sharing them with others using light mode. 
 
-* When collaborating on a diagram in Google Drive, Microsoft One Drive or in draw.io for Confluence, the others editing your diagram may not be using dark mode. 
+Colours are automatically changed to reflect light and dark mode now, only by their intensity. They don't change hue. This means that whatever colour you set on a shape, connector, text or as the diagram background will change depending on the mode you or those who are collaborating with you are working in.
 
-* If you have set a default style, after you switch editor themes, make sure you [reset that default style](/doc/faq/styles-default-reset.html). Click on _Clear Default Style_ in the Arrange tab in the format panel.
+The _Style_ palettes will also automatically change to reflect the mode. 
 
-* Dark mode will automatically invert the text colour so you can see labels - dark text on a light background becomes light text on a dark background. 
-
-* The _Style_ palette may automatically change to provide a selection of colours that look better on a dark background. Step through the different palettes with the left/right arrows.
+* The _Style_ palettes will also automatically change to reflect dark mode. Step through the different palettes with the left/right arrows.
 <br /><img src="/assets/img/blog/dark-mode-change-style-palette.png" style="width=100%;max-width:300px;height:auto;" alt="Change to a style palette to format shapes more visibly against a dark background when using the Dark editor theme in draw.io">
 
 * Many (but not all) of the diagrams in the [template library](/blog/template-diagrams.html) will switch to a colour palette that is better for dark backgrounds. 
 
-* To [export your diagram](/doc/faq/export-diagram.html) as an image (PNG, JPG or SVG) from the Dark theme and retain a dark background, make sure the _Dark_ checkbox is enabled.
+* To [export your diagram](/doc/faq/export-diagram.html) as an image (PNG, JPG or SVG) from the Dark theme and retain a dark background, make sure _Dark_ is selected in the _Appearance_ list.
 <br /><img src="/assets/img/blog/export-image-dark-theme.png" style="width=100%;max-width:200px;height:auto;" alt="Make sure to leave the Dark checkbox enabled when exporting a diagram as an image from the Dark editor theme">
 
 * The [unofficial draw.io extension for Visual Studio Code](/blog/edit-diagrams-with-github-dev.html), developed by Henning Dieterichs, may automatically use dark mode in the diagram editor if your operating system/VSCode is set to dark mode.
 
 * Our [draw.io Chrome extension for Notion](/blog/drawio-notion.html) works in dark mode to match Notion's dark mode.
 <br /><img src="/assets/img/blog/notion-extension.gif" style="width=100%;max-width:300px;height:auto;" alt="Make sure to leave the Dark checkbox enabled when exporting a diagram as an image from the Dark editor theme">
-
-## Set a different background colour
-
-To diagram with a dark editor interface, but use a light drawing canvas, set a light background colour. 
-
-1. Make sure nothing is selected in your diagram, then enable the _Background_ checkbox in the _Diagram_ tab in the format panel. 
-2. Click on the colour button, select a colour from the palette or enter a colour code, and click _Apply_.
-<br /><img src="/assets/img/blog/dark-mode-diagram-background.png" style="width=100%;max-width:400px;height:auto;" alt="Adding a diagram background will not automatically update the colours of shapes and connectors in your diagram">
-
-**Note:** Setting a [diagram background colour](/doc/faq/background-colour.html) will not automatically change the colours of shapes, connectors or text, so your diagram may be unreadable until you apply a new style to those elements. The background colour will be included when you export your diagram.
 
 ## Further resources
 
