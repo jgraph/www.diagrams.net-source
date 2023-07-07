@@ -28,10 +28,10 @@ Follow these links to reset only the draw.io app data that is stored in your bro
 
 **Diagram on mobile devices too**
 
-For a larger and less cluttered drawing canvas, touch screen users see draw.io's [new modern mode](/blog/modern-mode-diagrams.html) or [Sketch whiteboard editor theme](/blog/sketch-online-whiteboard.html) by default, including those diagramming in Confluence on mobile devices. Click on the toolbars and menu to open any other panels and dialogs you need. 
+For a larger and less cluttered drawing canvas, touch screen users see draw.io's [new simple mode](/blog/simple-mode-diagrams.html) or [Sketch whiteboard editor theme](/blog/sketch-online-whiteboard.html) by default, including those diagramming in Confluence on mobile devices. Click on the toolbars and menu to open any other panels and dialogs you need. 
 <br /><img src="/assets/img/blog/touch-diagrams-add-shapes-label.gif" style="width=100%;max-width:400px;height:auto;" alt="Double tap to open a shape selector, double tap on a shape to add a label, and tap on a direction arrow to add a new shape and connect it">
 
-If you prefer to use the classic interface, select a new theme via the menu, or tap on the sun/moon in the top right and switch modes. 
+If you prefer to use the original editor layout, select a new theme via the menu, or tap on the sun/moon in the top right and switch modes. 
 
 [_See more tips for using draw.io on touch screens_](/blog/touch-screen-diagrams.html)
 

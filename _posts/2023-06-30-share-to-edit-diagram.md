@@ -33,7 +33,7 @@ If you are viewing a draw.io diagram embedded in a webpage that contains diagram
 If you don't want to allow someone to edit a copy of the diagram you shared as a PNG, SVG, HTML code, PDF file, or URL you can deselect the checkbox when you export (or save) the file. 
 
 * Select _File > Export_ as from the draw.io menu, and choose the format you wish the file to be: PNG, SVG, PDF, HTML or URL.
-<br /><img src="/assets/img/blog/export-as-modern-mode.png" style="width=100%;max-width:200px;height:auto;" alt="Export a diagram as view only from draw.io when exporting to PNG, SVG, HTML or PDF"> 
+<br /><img src="/assets/img/blog/export-as-simple-mode.png" style="width=100%;max-width:200px;height:auto;" alt="Export a diagram as view only from draw.io when exporting to PNG, SVG, HTML or PDF"> 
 * Deselect the appropriate check box to prevent edits and not store diagram data in the exported file. Each format has slightly different export settings. 
 <br /><img src="/assets/img/blog/export-as-html-not-editable.png" style="width=100%;max-width:150px;height:auto;" alt="Export a diagram as view only from draw.io when exporting to PNG, SVG, HTML, URL or PDF"> &nbsp; <img src="/assets/img/blog/export-as-pdf-not-editable.png" style="width=100%;max-width:130px;height:auto;" alt="Export a diagram as view only from draw.io when exporting to PNG, SVG, HTML, URL or PDF"> &nbsp; <img src="/assets/img/blog/export-as-svg-not-editable.png" style="width=100%;max-width:150px;height:auto;" alt="Export a diagram as view only from draw.io when exporting to PNG, SVG, HTML, URL or PDF"> &nbsp; <img src="/assets/img/blog/export-as-url-not-editable.png" style="width=100%;max-width:150px;height:auto;" alt="Export a diagram as view only from draw.io when exporting to PNG, SVG, HTML, URL or PDF">
 
@@ -54,6 +54,6 @@ The second PNG image was exported without its diagram data - if you try to impor
 ## Share a diagram via Google Drive or Microsoft OneDrive
 
 If you have saved your diagram file in the cloud storage platform, you can share the diagram via the toolbar and by following the prompts. Make sure your file in Google Drive or OneDrive allows others to edit and not just view it.
-<br /><img src="/assets/img/blog/google-drive-modern-mode-share.png" style="width=100%;max-width:400px;height:auto;" alt="Share a diagram with colleagues from Google Drive or Microsoft OneDrive from the draw.io editor toolbar">
+<br /><img src="/assets/img/blog/google-drive-simple-mode-share.png" style="width=100%;max-width:400px;height:auto;" alt="Share a diagram with colleagues from Google Drive or Microsoft OneDrive from the draw.io editor toolbar">
 
 [Learn more about working with diagrams in these cloud storage platforms](/blog/cloud-storage-diagrams.html)

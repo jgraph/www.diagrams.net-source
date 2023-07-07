@@ -8,7 +8,7 @@ tags: [features]
 categories: [features]
 ---
 
-The Dark mode for the default, Minimal and Sketch editor themes, and the new modern mode, lets you switch draw.io to match your operating system's dark mode or night mode.
+The Dark mode for the default, Minimal and Sketch editor themes, and the new simple mode, lets you switch draw.io to match your operating system's dark mode or night mode.
 <br /><img src="/assets/img/blog/dark-mode-default-theme.png" style="width=100%;max-width:500px;height:auto;" alt="Use draw.io in dark mode when using the default editor theme, as well as with the Minimal and Sketch editor themes">
 
 Go to our online diagram editor with the ``dark`` URL parameter at [app.diagrams.net/?splash=0&ui=dark](https://app.diagrams.net/?splash=0&ui=dark) to open the editor in Dark mode. 
@@ -16,8 +16,8 @@ Go to our online diagram editor with the ``dark`` URL parameter at [app.diagrams
 ## Switch to dark mode
 
 1. Click on the sun/moon icon in the top right of the editor. 
-<br /><img src="/assets/img/blog/mode-switch-classic.png" style="width=100%;max-width:300px;height:auto;" alt="Click on the sun/moon in the top right and switch between classic mode (and the editor themes) and the modern mode, as well as between dark and light modes">
-2. Click on _Dark_ to switch to dark mode in whatever editor theme you are using. Click on it again to return to light mode. 
+<br /><img src="/assets/img/blog/mode-switch-simple.png" style="width=100%;max-width:300px;height:auto;" alt="Click on the sun/moon in the top right and switch between the four different classic editor themes and the simple mode, as well as between dark and light modes">
+1. Click on _Dark_ to switch to dark mode in whatever editor theme you are using. Click on it again to return to light mode. 
 
 **Tip:** _Automatic_ should reflect your operating system or browser settings automatically (when they are set to dark mode).
 

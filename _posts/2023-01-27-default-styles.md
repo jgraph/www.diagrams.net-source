@@ -20,7 +20,7 @@ Connector styles and shape styles each have their own default style, so you need
 1. Style your shape or connector on the drawing canvas first.
 2. While it is selected, click on _Set as Default Style_ from the _Style_ tab of the format panel.
 
-Shapes and connectors that you add from the shape libraries on the left or from the toolbar above the drawing canvas in [modern mode](/blog/modern-mode-diagrams.html) will always use the default style.
+Shapes and connectors that you add from the shape libraries on the left or from the toolbar above the drawing canvas in [simple mode](/blog/simple-mode-diagrams.html) will always use the default style.
 
 **Tip:** Hover over any shape in the shape libraries to see if a default style has been set. 
 <br /><img src="/assets/img/blog/shape-style-default-hover.png" style="width=100%;max-width:300px;height:auto;" alt="Hover over any shape in the shape libraries to see it styled with your default style">
