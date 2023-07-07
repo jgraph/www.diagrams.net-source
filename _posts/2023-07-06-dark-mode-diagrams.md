@@ -15,7 +15,7 @@ draw.io is one of very few diagram editors that lets you work in dark mode. Colo
 **Switch to dark mode in the draw.io editor**
 
 Click on the sun icon in the top right and select _Dark_ to change to dark mode. Alternatively, from the draw.io menu select _Settings > Appearance > Dark_.
-<br /><img src="/assets/img/blog/mode-switch-classic.png" style="width=100%;max-width:250px;height:auto;" alt="Click on the sun/moon in the top right and switch between classic mode (and the editor themes) and the modern mode, as well as between dark and light modes">
+<br /><img src="/assets/img/blog/mode-switch-simple.png" style="width=100%;max-width:250px;height:auto;" alt="Click on the sun/moon in the top right and switch between any of the four editor themes and the simple mode, as well as between dark and light modes">
 
 To switch back, click on the moon icon and select _Light_, or _Settings > Appearance > Light_ from the menu.
 
@@ -50,11 +50,24 @@ When you export a diagram to a PDF, HTML file, draw.io file or URL, or export to
 
 It is assumed when using dark mode that all diagrams have been created in light mode. As this is by far the most common case, it will ensure the colour intensity change when switching to dark mode will be correct, and your diagram readable. 
 
+**Note:** The mode colour intensity change is a CSS filter - this does not change the colours in your diagram data.
+
 **Diagrams not using the right colours?**
 
-If you drew a diagram in dark mode and chose specific colours to suit the dark background, when you re-open that diagram in the most recent version of the editor, the colours will not be as you originally set. 
+If you drew a diagram in dark mode and set specific colours to suit the dark background, when you re-open that diagram in the most recent version of the editor, the colours will not be as you originally set. 
 
-This is because the algorithm for converting light-mode colour intensity to dark mode is applied to _all_ colours in a diagram when using dark mode. This will affect only a minority of users - not many have been using dark mode exclusively to diagram.
+This is because the algorithm for converting light-mode colour intensity to dark mode is applied to _all_ colours in a diagram when using dark mode. This will affect a minority of users - not many have been using dark mode exclusively to diagram.
+
+If you want to continue using the old dark mode and your customised diagram colours, open the [draw.io configuration](/doc/faq/configure-diagram-editor.html) (_Settings > Configuration_ via the draw.io menu), add the following property, and click _Apply_.
+```
+{
+  "enableCssDarkMode": false
+}
+```
+<br /><img src="/assets/img/blog/configuration-css-dark-mode.png" style="width=100%;max-width:200px;height:auto;" alt="Turn off the new CSS dark mode to use the old system if you have customised colours in diagrams specifically for dark mode">
+
+Then, reload the tab or restart draw.io Desktop to load the new configuration. The colours in the diagrams you had customised for dark mode will now look as expected.
+
 
 For more information, please visit the [related discussion in our draw.io GitHub repository](https://github.com/jgraph/drawio/discussions/3701).
 

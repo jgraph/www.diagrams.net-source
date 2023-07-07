@@ -70,7 +70,7 @@ Tags let you hide or display tagged shapes and connectors, visualising how relea
 **Add tags to shapes**
 
 * Click on _View_ in the left of the toolbar and enable _Tags_ or press ``Cmd+K`` on macOS or ``Ctrl+K`` on Windows.
-<br /><img src="/assets/img/blog/modern-mode-view-tags.png" style="width=100%;max-width:250px;height:auto;" alt="Use the View menu on the toolbar to show the Tags dialog or press Ctrl+K/Cmd+K">
+<br /><img src="/assets/img/blog/simple-mode-view-tags.png" style="width=100%;max-width:250px;height:auto;" alt="Use the View menu on the toolbar to show the Tags dialog or press Ctrl+K/Cmd+K">
 
 * Select the shapes and connectors you want to apply a tag to, and click _Add_ in the Tags dialog. Enter the new tag press enter. 
 

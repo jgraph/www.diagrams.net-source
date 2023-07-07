@@ -9,7 +9,7 @@ categories: [features]
 ---
 
 Keyboard shortcuts for [styles](/blog/shortcut-styles.html) and [shapes](/blog/shortcut-shape-library.html), [default styles](/blog/default-styles.html), and [modifier keys when using the mouse](/blog/modifier-shortcuts-in-diagrams.html) help you to diagram faster. Here are a few more ways that draw.io helps you to draw faster and more easily. 
-<br /><img src="/assets/img/blog/modern-mode-shape-selection-dialog.png" style="width=100%;max-width:500px;height:auto;" alt="Style a shape and a connector when you start you diagram, set it as the default style, and use the double-click shape selection dialog to quickly draw the rest in the right style in draw.io">
+<br /><img src="/assets/img/blog/simple-mode-shape-selection-dialog.png" style="width=100%;max-width:500px;height:auto;" alt="Style a shape and a connector when you start you diagram, set it as the default style, and use the double-click shape selection dialog to quickly draw the rest in the right style in draw.io">
 
 ## Shape selection dialog
 
@@ -19,14 +19,14 @@ Double click on the drawing canvas to see a quick selection of shapes, as shown 
 
 * Style one shape, then click _Set as Default Style_ in the _Style_ tab of the format panel.  
 * Style a connector in the same way to set a default connector style. 
-<br /><img src="/assets/img/blog/modern-mode-connector-set-default-style.png" style="width=100%;max-width:300px;height:auto;" alt="Style a shape and a connector when you start you diagram, set it as the default in the Style tab of the format panel in draw.io">
+<br /><img src="/assets/img/blog/simple-mode-connector-set-default-style.png" style="width=100%;max-width:300px;height:auto;" alt="Style a shape and a connector when you start you diagram, set it as the default in the Style tab of the format panel in draw.io">
 
 ## Drag shapes from the toolbar
 
-In both the [new modern mode](/blog/modern-mode-diagrams.html) and the older Sketch editor theme, you can close the Shapes panel to use a larger drawing canvas. 
+In both the [new simple mode](/blog/simple-mode-diagrams.html) and the older Sketch editor theme, you can close the Shapes panel to use a larger drawing canvas. 
 
 Instead of opening the panel again, drag shapes and text from the toolbar onto the canvas. 
-<br /><img src="/assets/img/blog/modern-mode-shapes-from-toolbar.gif" style="width=100%;max-width:400px;height:auto;" alt="Drag shapes from the toolbars quickly onto the drawing canvas in modern mode and the Sketch editor theme in draw.io">
+<br /><img src="/assets/img/blog/simple-mode-shapes-from-toolbar.gif" style="width=100%;max-width:400px;height:auto;" alt="Drag shapes from the toolbars quickly onto the drawing canvas in simple mode and the Sketch editor theme in draw.io">
 
 **Tip:** The [Sketch editor theme](/blog/sketch-online-whiteboard.html) toolbar has the most common shapes used for brainstorming in meetings on a digital whiteboard.
 <br /><img src="/assets/img/blog/sketch-editor-theme-toolbar.png" style="width=100%;max-width:400px;height:auto;" alt="The sketch editor theme in draw.io works well as an online whiteboard, with shapes commonly used in meetings">
@@ -43,12 +43,12 @@ Hover over any existing shape and click on one of its direction arrows to clone 
 You'll want to style shapes and connectors separately, as the Style tab is context sensitive - shapes and connectors have different style options, so when you select a mixture, only the common style options will be available.
 
 To select all shapes at once, right click on an empty area of the drawing canvas and choose _Select Vertices_ from the context menu. 
-<br /><img src="/assets/img/blog/modern-mode-select-vertices.png" style="width=100%;max-width:600px;height:auto;" alt="Select all shapes or all connectors quickly to style them all at once via the right-click context menu in draw.io">
+<br /><img src="/assets/img/blog/simple-mode-select-vertices.png" style="width=100%;max-width:600px;height:auto;" alt="Select all shapes or all connectors quickly to style them all at once via the right-click context menu in draw.io">
 
 To select only the connectors in your diagram, right-click on an empty area of the drawing canvas and choose _Select Edges_ from the context menu. 
 
 Use the options in the Style tab of the format panel to change the style of everything that is selected at the same time. 
-<br /><img src="/assets/img/blog/modern-mode-style-all-edges.png" style="width=100%;max-width:400px;height:auto;" alt="Select all shapes or all connectors quickly to style them all at once via the right-click context menu in draw.io">
+<br /><img src="/assets/img/blog/simple-mode-style-all-edges.png" style="width=100%;max-width:400px;height:auto;" alt="Select all shapes or all connectors quickly to style them all at once via the right-click context menu in draw.io">
 
 You could also apply a global style to all the shapes and connectors in your diagram. Make sure nothing is selected, and switch to the _Style_ tab of the format panel to see the [global style palette](/doc/faq/global-style.html).
 
