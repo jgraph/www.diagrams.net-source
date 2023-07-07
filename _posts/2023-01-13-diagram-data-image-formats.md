@@ -36,7 +36,7 @@ SVG images can include your diagram data, as well as any links you've added to s
 
 Let's use this 5C marketing analysis as an example. You can right-click and download the PNG image file as shown below, and drop it into the draw.io editor to continue editing the diagram, because the diagram data has been exported and saved into this PNG image file. 
 
-<img src="/assets/img/blog/5c-marketing-analysis.png" style="width=100%;max-width:500px;height:auto;" alt="Open a file via the ... menu in the toolbar in the draw.io modern mode">
+<img src="/assets/img/blog/5c-marketing-analysis.png" style="width=100%;max-width:500px;height:auto;" alt="Open a file via the ... menu in the toolbar in the draw.io simple mode">
 
 ## Load a diagram from an image file
 
@@ -49,14 +49,14 @@ Instead, either open the image with the diagram data via the draw.io menu, or dr
 1. Drag the image file into the drawing canvas to open it. 
 2. If prompted, select the image option you want to use (for any embedded images in your diagram).
 
-<img src="/assets/img/blog/open-image-diagram-modern.gif" style="width=100%;max-width:600px;height:auto;" alt="Drag and drop the file to continue editing a diagram when the diagram data has been saved on export into the image file">
+<img src="/assets/img/blog/open-image-diagram-simple.gif" style="width=100%;max-width:600px;height:auto;" alt="Drag and drop the file to continue editing a diagram when the diagram data has been saved on export into the image file">
 
 Instead of embedded the image, draw.io will load the shapes as they have been saved in the diagram data inside the image file. 
 
 **Open a diagram from an image via the menu**
 
-1. Select _File > Open_ or click on the three dots to open the menu at the right end of the toolbar in the [new modern mode](/blog/modern-mode-diagrams.html), and select _Open_. 
-<br /><img src="/assets/img/blog/menu-open-modern.png" style="width=100%;max-width:200px;height:auto;" alt="Open a file via the ... menu in the toolbar in the draw.io modern mode">
+1. Select _File > Open_ or click on the three dots to open the menu at the right end of the toolbar in the [new simple mode](/blog/simple-mode-diagrams.html), and select _Open_. 
+<br /><img src="/assets/img/blog/menu-open-simple.png" style="width=100%;max-width:200px;height:auto;" alt="Open a file via the ... menu in the toolbar in the draw.io simple mode">
 2. Navigate to and select the image file that has the diagram data saved in it, and open it in the viewer. 
    
 
@@ -64,4 +64,4 @@ Instead of embedded the image, draw.io will load the shapes as they have been sa
 
 If you didn't include the image data when you exported your diagram as an image, only the image of the exported diagram will be imported and placed on the drawing canvas. 
 
-<img src="/assets/img/blog/import-image-modern.gif" style="width=100%;max-width:400px;height:auto;" alt="If the image file does not contain the diagram data, only the image of the diagram itself will be added to the drawing canvas on drag and drop">
+<img src="/assets/img/blog/import-image-simple.gif" style="width=100%;max-width:400px;height:auto;" alt="If the image file does not contain the diagram data, only the image of the diagram itself will be added to the drawing canvas on drag and drop">

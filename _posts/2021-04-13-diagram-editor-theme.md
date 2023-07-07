@@ -11,7 +11,7 @@ categories: [features]
 You can customise the draw.io editor and choose your preferred theme for the user interface. The editor theme controls which editor elements are displayed, minimised or hidden in the user interface, including the menu, toolbar, panels and dialog boxes.
 <br /><img src="/assets/img/blog/theme-minimal.png" style="width=100%;max-width:600px;height:auto;" alt="Choose your favourite UI theme in draw.io from Kennedy, Atlas, Dark, Minimal and Sketch">
 
-There are four different _Classic_ editor themes to choose from which work in both dark and light modes.
+There are four different editor themes to choose from which work in both dark and light modes.
 
 **Change the editor theme via the draw.io menu**
 
@@ -22,6 +22,8 @@ There are four different _Classic_ editor themes to choose from which work in bo
 _Please visit GitHub to [leave feedback about the Sketch and Minimal editor themes](https://github.com/jgraph/drawio/discussions/1924) and help guide their development._
 
 **Tip:** If you are new to diagramming, read the [introduction to the draw.io editor](/doc/getting-started-editor.html) that looks at all the various important elements.
+
+Alternatively, you can try the new [simple mode](/blog/simple-mode-diagrams.html) with a streamlined toolbar and minimisable panels for a larger drawing canvas. Click on the sun/moon icon in the top right and select _Simple_.
 
 ## Default 
 

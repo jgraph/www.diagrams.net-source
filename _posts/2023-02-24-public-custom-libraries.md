@@ -15,8 +15,8 @@ When you store the custom library ``.xml`` file on a website, anyone who has acc
 
 ## Load a custom library from the web
 
-1. Click on the ``...`` in the toolbar and select _Open Library from > URL_. (_File > Open Library from > URL_ in Classic mode).
-<br /><img src="/assets/img/blog/modern-moden-open-shape-library-url.png" style="width=100%;max-width:300px;height:auto;" alt="Open a custom shape library stored on the web in draw.io">
+1. Click on the ``...`` in the toolbar and select _Open Library from > URL_. (_File > Open Library from > URL_ in the draw.io menu).
+<br /><img src="/assets/img/blog/simple-moden-open-shape-library-url.png" style="width=100%;max-width:300px;height:auto;" alt="Open a custom shape library stored on the web in draw.io">
 2. Enter the URL of the custom library ``.xml`` file and click _Open_.
 <br /><img src="/assets/img/blog/open-shape-library-url.png" style="width=100%;max-width:200px;height:auto;" alt="Open a custom shape library stored on the web in draw.io">
 

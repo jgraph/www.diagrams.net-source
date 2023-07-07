@@ -116,7 +116,7 @@ All the diagrams in this document were created in draw.io using our online diagr
 
 Teams from different departments need a variety of diagrams for various purposes - training, documentation, planning, presentations, project tracking, and so on. 
 
-[<img src="/assets/img/blog/bpmn-example-modern-mode.png" style="width=100%;max-width:600px;height:auto;" alt="An example BPMN diagram using a pool with swimlanes">](https://app.diagrams.net/?splash=0&ui=kennedy&ibs=bpmn2&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fbpmn-2-example.drawio)
+[<img src="/assets/img/blog/bpmn-example-simple-mode.png" style="width=100%;max-width:600px;height:auto;" alt="An example BPMN diagram using a pool with swimlanes">](https://app.diagrams.net/?splash=0&ui=kennedy&ibs=bpmn2&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fbpmn-2-example.drawio)
 <br />_Diagram 10: A BPMN diagram being edited in draw.io_
 
 With draw.io, you can [draw an extensive range of diagrams](/example-diagrams.html).
@@ -125,7 +125,7 @@ From highly technical UML software specifications, cloud infrastructures, user f
 
 Please see our gallery of examples for more inspiration.
 
-[<img src="/assets/img/blog/aws-example-modern-mode-freehand.png" style="width=100%;max-width:500px;height:auto;" alt="An example AWS diagram being annotated with a freehand shape">](https://app.diagrams.net/?splash=0&ui=kennedy&ibs=bpmn2&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fcloud%2Faws_10.xml)
+[<img src="/assets/img/blog/aws-example-simple-mode-freehand.png" style="width=100%;max-width:500px;height:auto;" alt="An example AWS diagram being annotated with a freehand shape">](https://app.diagrams.net/?splash=0&ui=kennedy&ibs=bpmn2&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Ftemplates%2Fcloud%2Faws_10.xml)
 <br />_DIAGRAM 11: Annotating an AWS network diagram with a freehand shape in a team meeting using draw.io as an online whiteboard_
 
 In addition to the vast shape library and built-in templates, you can create your own shapes, edit connection points on existing shapes, and draw freehand shapes. 

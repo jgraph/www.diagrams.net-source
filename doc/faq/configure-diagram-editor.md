@@ -248,7 +248,7 @@ This configuration produces the following _More Shapes_ dialog when combined wit
 
 * ``showRemoteCursors``: Specifies the default value for showing remote cursors in real-time collaboration. Default is true.
 
-* ``enableCssDarkMode``: Specifies if CSS should be used for dark mode. Default is true.
+* ``enableCssDarkMode``: Specifies if CSS should be used for [dark mode](/blog/dark-mode-diagrams.html). Default is true.
 
 ## Additional options for Confluence Server and Data Center
 

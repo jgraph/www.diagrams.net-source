@@ -17,7 +17,7 @@ There are five main themes.
 3. Reload the browser tab to switch to your selected editor theme. 
 
 
-## Default theme (previously Kennedy)
+## Default Classic theme (previously Kennedy)
 
 <img src="/assets/img/blog/theme-kennedy.png" style="width=100%;max-width:600px;height:auto;" alt="Choose your favourite UI theme in draw.io from Kennedy, Atlas, Dark, Minimal and Sketch">
 

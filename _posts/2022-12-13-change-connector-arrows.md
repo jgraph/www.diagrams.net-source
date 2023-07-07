@@ -71,15 +71,18 @@ When you reverse the direction of a connector, the arrow heads (and labels) at e
 <br /><img src="/assets/img/blog/connector-reverse.gif" style="width=100%;max-width:400px;height:auto;" alt="Reverse a connector via the Arrange tab of the format panel">
 
 
-## Change connector arrows in the simple editor
+## Change connector arrows in the Sketch editor theme
 
-The Sketch or simple editor theme is an online whiteboard with fewer diagramming tools displayed by default to give you a larger drawing canvas. You'll need to display the format panel first.
+The Sketch editor theme is an online whiteboard with fewer diagramming tools displayed by default to give you a larger drawing canvas. You'll need to display the format panel first.
 
 Click on the menu icon and select _Format_. 
-<br /><img src="/assets/img/blog/simple-editor-display-format-panel.png" style="width=100%;max-width:500px;height:auto;" alt="Display or hide the format panel via the menu in the simple or Sketch editor theme">
+<br /><img src="/assets/img/blog/sketch-editor-display-format-panel.png" style="width=100%;max-width:500px;height:auto;" alt="Display or hide the format panel via the menu in the Sketch editor theme">
 
-Alternatively, press ``Ctrl+Shift+P`` to display or hide the format panel.
+## Change connector arrows in simple mode
 
-[Quickly switch between the simple and default editor themes](/blog/simple-dark-mode.html)
+You'll need to display the format panel, if it isn't already. In the simple mode's toolbar, click on Format, or press ``Ctrl+Shift+P`` (``Cmd+Shift+P``) to display or hide the format panel.
+<br /><img src="/assets/img/blog/simple-mode-format-panel.png" style="width=100%;max-width:200px;height:auto;" alt="Display or hide the format panel via the toolbar in the simple mode in draw.io">
+
+[Quickly switch between the simple and default editor themes](/blog/simple-mode-diagrams.html)
 
 

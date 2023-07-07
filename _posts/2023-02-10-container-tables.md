@@ -20,7 +20,7 @@ With draw.io, tables aren't limited to holding text data. Because you can drop s
 2. Click on the _Container_ checkbox to make the table cells hold other shapes. This will automatically add row and column titles, but you can drag the title separator to remove these sections.  
    
 3. Move the mouse in the table selector to include the rows and columns you need, and click to insert the table. You can change the number of columns and rows later. 
-<br /><img src="/assets/img/blog/modern-mode-table-container.gif" style="max-width:100%;height:auto;" alt="Insert a table with container cells via the draw.io toolbar">
+<br /><img src="/assets/img/blog/simple-mode-table-container.gif" style="max-width:100%;height:auto;" alt="Insert a table with container cells via the draw.io toolbar">
 
 **Add shapes into table cells**
 
@@ -31,7 +31,7 @@ With draw.io, tables aren't limited to holding text data. Because you can drop s
 Shapes in container cells in tables move with the table when you reposition it on the drawing canvas, along with their connectors. 
 
 **Tip:** To add or delete columns and rows, use the _Arrange_ tab in the format panel, or the table tool in the toolbar. 
-<br /><img src="/assets/img/blog/modern-mode-table-tools.png" style="width=100%;max-width:500px;height:auto;" alt="Insert a table with container cells via the draw.io toolbar">
+<br /><img src="/assets/img/blog/simple-mode-table-tools.png" style="width=100%;max-width:500px;height:auto;" alt="Insert a table with container cells via the draw.io toolbar">
 
 **Shortcuts for working with tables**
 
