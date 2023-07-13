@@ -58,4 +58,4 @@ To allow someone to see your diagram with its numbers on shapes, when you publis
 
 <img src="/assets/img/blog/publish-link-number-plugin.png" style="width=100%;max-width:400px;height:auto;" alt="Share a link to your diagram and enable the number plugin">
 
-**Note:** Plugins are not supported in draw.io for Confluence.
+**Note:** Plugins work with the web version of draw.io ([app.diagrams.net](https://app.diagrams.net/)) or [our Docker image](/blog/diagrams-docker-app) if you want to run your own server. They do not work with draw.io for Confluence/Jira or with draw.io Desktop.
