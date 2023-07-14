@@ -5,10 +5,11 @@ faq: true
 categories: [Shapes,Connectors,Text]
 ---
 
-* [Change the font and text size](#change-the-font-and-font-size)
-* [Change the text colour, background colour or border colour](#change-text-and-background-colours)
-* [Change the position of text in shapes and on connectors](#change-the-position-of-the-text)
-* [More information about using labels, math typesetting, and styles](#related-features)
+- [Change the font and font size](#change-the-font-and-font-size)
+- [Change text and text background colours](#change-text-and-text-background-colours)
+- [Style part of a text label](#style-part-of-a-text-label)
+- [Change the position of the text](#change-the-position-of-the-text)
+- [Related features](#related-features)
 
 To change the style of a text label, select the shape or connector, then select the _Text_ tab in the format panel on the right. 
 <br /><img src="/assets/img/blog/text-tab.png" style="width=100%;max-width:500px;height:auto;" alt="Select a shape, then select the Text tab in the format panel to change its style">
@@ -17,7 +18,7 @@ To change the style of a text label, select the shape or connector, then select 
 
 ## Change the font and font size
 
-1. In the _Text tab, click the drop down arrow next to the font name to see a list of installed and available fonts. 
+1. In the _Text_ tab, click the drop down arrow next to the font name to see a list of installed and available fonts. 
 2. Select a different font from the list. 
 3. If you don't see the one you want to use, click _Custom_ to add a new system, Google or web font.
 <br /><img src="/assets/img/blog/text-tab-font-custom.png" style="width=100%;max-width:500px;height:auto;" alt="Change the font with the drop down list, or add a custom system, Google or web font">
@@ -26,7 +27,7 @@ To change the style of a text label, select the shape or connector, then select 
 
 [Learn more about using external fonts](/blog/external-fonts.html)
 
-**Increase the font size:** Enter a new value in the text field just underneath the font dropdown list, or use the arrows to increase/decrease the font size. 
+**Increase the font size:** Enter a new value in the text field just underneath the font dropdown list, or use the arrows to increase/decrease the font size. Alternatively, select the shape or label and press ``Ctrl+Shift +/- (Numpad)`` to increase or decrease the text size.
 <br /><img src="/assets/img/blog/text-tab-font-size.png" style="width=100%;max-width:400px;height:auto;" alt="Change the size of the font by entering a new value">
 
 **Tip:** [Copy and pasting styles](/doc/faq/styles-copy-paste.html) will also copy the text style options from one shape to another.

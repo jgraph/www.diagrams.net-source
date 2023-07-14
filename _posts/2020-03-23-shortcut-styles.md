@@ -63,6 +63,6 @@ Select a shape or connector then click _Edit Style_ in the Style tab of the form
 
 ## More keyboard shortcuts
 
-There are many more keyboard shortcuts that will help you diagram faster. Print the following draw.io shortcut for easy reference.
+There are many more keyboard shortcuts that will help you diagram faster. Print the following draw.io shortcuts for easy reference.
 
 [See all of the keyboard shortcuts](https://app.diagrams.net/shortcuts.svg)

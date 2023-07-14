@@ -61,7 +61,7 @@ If you keep holding the key down and clicking on or dragging a selection box aro
 
 ## More diagramming keyboard shortcuts
 
-Print the following shortcut reference page to keep all of the draw.io and draw.io keyboard shortcuts on hand:
+Print the following shortcut reference page to keep all of the draw.io keyboard shortcuts on hand:
 
-[<img src="https://app.diagrams.net/shortcuts.svg" style="width=100%;max-width:400px;;height:auto;" alt="Shortcuts available in draw.io and the draw.io diagramming apps">](https://app.diagrams.net/shortcuts.svg)
+[<img src="https://app.diagrams.net/shortcuts.svg" style="width=100%;max-width:400px;;height:auto;" alt="Shortcuts available in draw.io">](https://app.diagrams.net/shortcuts.svg)
 <br />[_See all of the keyboard shortcuts_](https://app.diagrams.net/shortcuts.svg)
