@@ -35,6 +35,15 @@ Alternatively, change the font size in the _Text_ tab of the format panel.
 Select a shape, and press ``Ctrl+Shift+arrow key`` to increase or decrease the right or lower edge of the shape. This increases or decreases the _Height_ or _Width_ of the shape (in the _Arrange_ tab of the format panel).
 <br /><img src="/assets/img/blog/keyboard-shortcut-increase-decrease-shape-size.gif" style="width=100%;max-width:500px;height:auto;" alt="Press Ctrl+Shift+arrow key to increase or decrease the size of the selected shape">
 
+
+## Clear all extra waypoints on a connector
+
+Waypoints are used in connectors to change its path. Sometimes you may want to remove all of them quickly. 
+
+Select a connector and press ``Alt+Shift+R`` to reset the waypoints back to the default path.
+<br /><img src="/assets/img/blog/keyboard-shortcut-reset-waypoints.gif" style="width=100%;max-width:500px;height:auto;" alt="Press Alt+Shift+R to reset the waypoints of a selected connector">
+
+
 ## More keyboard shortcuts in draw.io
 
 There are many other [mouse + keyboard shortcut combinations](/blog/modifier-shortcuts-in-diagrams.html) in draw.io to help you diagram faster, as well as many [keyboard shortcuts described in previous posts](/blog/shortcuts.html). 
