@@ -41,4 +41,4 @@ The following plugins are available from the [draw.io GitHub repository](https:/
 | webcola.js | [webcola](https://app.diagrams.net/?splash=0&p=webcola) | Adds _Layout > WebCola Layout_ to run the interactive, constraint-based layout |
 | flow.js | [flow](https://app.diagrams.net/?splash=0&p=flow) | Adds _Toggle Flow_ to the context menu, and a connector click handler to the lightbox |
 
-**Note:** Plugins are not supported in draw.io for Confluence.
+**Note:** Plugins work with the web version of draw.io ([app.diagrams.net](https://app.diagrams.net/)) or [our Docker image](/blog/diagrams-docker-app) if you want to run your own server. They do not work with draw.io for Confluence/Jira or with draw.io Desktop.

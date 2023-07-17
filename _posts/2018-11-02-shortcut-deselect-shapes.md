@@ -20,3 +20,5 @@ For example:
 <img src="/assets/img/blog/shortcut-alt-shift-select.gif" style="width=100%;max-width:400px;height:auto;" alt="Use the Alt+Shift+Select shortcut in draw.io to deselect shapes">
 
 You can do this multiple times to reduce your selection to exactly the shapes you want. For example, if you have selected multiple entities and you want to deselect all of the rows, use ``Alt+Shift+Select`` to remove them from your selection.
+
+[See all of the keyboard shortcuts](https://app.diagrams.net/shortcuts.svg)
