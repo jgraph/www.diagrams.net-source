@@ -14,7 +14,7 @@ The user interface of the draw.io editor is entirely client-side, other than exp
 
 Since diagrams are attachments, those attachments are backed up as part of any normal backup of the host software. The recovery time of diagrams is the same as the recovery time of the host software’s database.
 
-JGraph Ltd provides ticketing support for the plugins at the our [support desk](https://desk.draw.io/servicedesk/customer/portal/7/create/24). The initial response time (in business hours) to the ticket depends on the severity of the problem:
+JGraph Ltd provides ticketing support for the plugins at the our [support desk](https://drawio.atlassian.net/servicedesk/customer/portal/14). The initial response time (in business hours) to the ticket depends on the severity of the problem:
 
 - Level 1: 2 hours
 - Level 2: 4 hours
