@@ -20,8 +20,6 @@ All of our draw.io applications and integrations with various platforms, as well
 * Set [data governance options](blog/data-governance-lockdown.html) for fine control over extended features. 
 * [Install our offline desktop app](https://get.diagrams.net/), available on Windows, MacOS and Linux.
 
-We [participate in the huntr.dev bug bounty program](/doc/faq/report-vulnerability.html) to ensure a high level of professional scrutiny and data security.
-
 ## Diagram wherever you want
 
 Use whichever cloud platform you prefer to store your diagram files: [Google Drive](https://app.diagrams.net/?mode=google), [Microsoft OneDrive](https://app.diagrams.net/?mode=onedrive), [DropBox](https://app.diagrams.net/?mode=dropbox), [GitHub](https://app.diagrams.net/?mode=github)/[GitLab](https://app.diagrams.net/?mode=gitlab), in your browser, or on your device.

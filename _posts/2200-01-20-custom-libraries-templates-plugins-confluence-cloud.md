@@ -79,4 +79,4 @@ Now, your plugins will be available in the menu.
 <img src="/assets/img/blog/custom-plugins-confluence-cloud-menu.png" style="width=100%;max-width:400px;height:auto;" alt="The draw.io plugins can be loaded by default in Confluence Cloud">
 
 
-[See the full list of official draw.io plugins ](https://desk.draw.io/support/solutions/articles/16000056430)
+[See the full list of official draw.io plugins ](https://www.drawio.com/doc/faq/plugins)

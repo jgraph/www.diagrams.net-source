@@ -12,7 +12,7 @@ You can customise the various colour palettes in draw.io for Confluence Cloud.Th
 Administrators can set global default and custom colours and styles in the draw.io configuration.
 
 1. Go to the draw.io Configuration section in the Confluence Cloud settings.
-2. On the draw.io Configuration tab, enter the JSON string with the new colour information for the various palettes (sample code and examples are below). [See all of the options that you can customise in the JSON string](https://desk.draw.io/support/solutions/articles/16000058316)
+2. On the draw.io Configuration tab, enter the JSON string with the new colour information for the various palettes (sample code and examples are below). [See all of the options that you can customise in the JSON string](https://www.drawio.com/doc/faq/configure-diagram-editor)
 3. Click _Save_ to save the new colours. Diagram authors will now see either the new default or new custom colours in the palettes you have configured when they next load a draw.io diagram in the editor.
 
 <img src="/assets/img/blog/drawio-configuration-custom-colours.png" style="max-width:100%;height:auto;" alt="Administrators can specify custom colours for draw.io in Confluence Cloud">

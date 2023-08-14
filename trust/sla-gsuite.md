@@ -16,7 +16,7 @@ diagrams.net diagrams are stored within one of the 3 storage options available:
 
 You are responsible for storage and backup of that data, the diagrams.net servers do no have access to your data and cannot provide additional backup.
 
-JGraph Ltd provides ticketing support for the plugins at our [support desk](https://desk.draw.io/servicedesk/customer/portal/8/create/27). The initial response time (in business hours) to the ticket depends on the severity of the problem:
+JGraph Ltd provides ticketing support for the plugins at our [support desk](https://drawio.atlassian.net/servicedesk/customer/portal/16). The initial response time (in business hours) to the ticket depends on the severity of the problem:
 
 | **Level**     | **Response Time**     | **Severity of Issue(s)**        |
 |-----------|-------------------|-----------------------------|
