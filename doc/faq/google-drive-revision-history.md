@@ -16,10 +16,10 @@ When you store your diagrams in Google Drive, draw.io automatically saves the ch
 3. Zoom into your diagram, or move around the diagram canvas using the tools beneath the preview image inside the dialog. 
 <br /><img src="/assets/img/blog/google-drive-revision-preview-tools.png" style="width=100%;max-width:300px;height:auto;" alt="Zoom and pan around the preview of an earlier version of your diagram in the revision history dialog">
 4. Work with the selected version of your diagram, by clicking on the buttons at the bottom of the dialog.
-   * _Download_ that particular version of your diagram.
-   * _Edit_ that version in a new tab in your browser.
-   * _Restore_ that version of your diagram (roll back your changes), then click _OK_ to confirm.
-   * _Show_ that version of your diagram in the draw.io lightbox in a new browser tab.
+   * _Cancel_ to return to the diagram editor.
+   * _Open_ the selected version in a new tab in your browser.
+   * _Create Revision_ to save the current state of your diagram as a new version. Note, the list of revisions will not be updated until you return to the editor.
+   * _Restore_ the selected version of your diagram (roll back your changes), then click _OK_ to confirm.
 
 ### Manually save a new version of your diagram
 
@@ -27,11 +27,11 @@ When you store your diagrams in Google Drive, draw.io automatically saves the ch
 
 ## Manage diagram versions via Google Drive
 
-You manage the versions of your diagram from the file list in your Google Drive, although this method does not provide you with a preview the diagram. 
+You manage the versions of your diagram from the file list in your Google Drive, although this method does not provide you with a preview of the diagram. 
 
 **Note:** Files are limited to 100 versions. If you have a diagram has nearly 100 versions, delete some of the older versions using Google Drive's version management tools. 
 
-1. Right click on the diagram file in your Google Drive and select _Manage versions_ from the context menu. 
+1. Right click on the diagram file in your Google Drive and select _File Information > Manage Versions_ from the context menu. 
 2. Click on the vertical dots next to the version you want to work with to display the options: _Download_ that version of your diagram file, _Keep forever_ to make sure that version is never overwritten, or _Delete_ to delete **only* that version of your diagram.
 <br /><img src="/assets/img/blog/google-drive-manage-file-versions.png" style="width=100%;max-width:300px;height:auto;" alt="Zoom and pan around the preview of an earlier version of your diagram in the revision history dialog">
 3. Click _Close_ when you have finished.
