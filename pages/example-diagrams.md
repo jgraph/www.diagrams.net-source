@@ -43,9 +43,9 @@ Use this table of contents to jump to the diagram type you are interested in.
 
 
 ___
-## Software development and agile
+## Software development
 
-[<img src="/assets/img/blog/gitflow-example.png" style="width=100%;max-width:400px;height:auto;" alt="An example gitflow diagram">](https:/viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fgitflow-examples.drawio)
+[<img src="/assets/img/blog/gitflow-example.png" style="width=100%;max-width:400px;height:auto;" alt="An example gitflow diagram">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fgitflow-examples.drawio)
 <br />[Gitflow diagram](/blog/gitflow-diagram) (template library) | [_Download file_](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/blog/gitflow-examples.drawio)
 
 [<img src="/assets/img/blog/dependency-graph-diagrams-net-website.png" style="width=100%;max-width:400px;height:auto;" alt="Gemfile dependency graph of the draw.io website on GitHub">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fgemfile-dependency-graph.drawio)

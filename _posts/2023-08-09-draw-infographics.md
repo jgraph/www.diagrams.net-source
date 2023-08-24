@@ -9,7 +9,7 @@ categories: [features, use-cases,]
 ---
 
 While the shape libraries in draw.io have a vast array of shapes for technical diagrams, there are relatively few illustrations for use in infographic diagrams. You can create your own illustration shapes easily using draw.io on a tablet. For example, all of the illustrations in this tidal pool infographic were drawn as freehand shapes in draw.io. 
-<br /><img src="/assets/img/blog/freehand-infographic-rockpool.png" style="width=100%;max-width:500px;height:auto;" alt="An infographic created in draw.io composed mostly of freehand shapes">
+<br />[<img src="/assets/img/blog/freehand-infographic-rockpool.png" style="width=100%;max-width:500px;height:auto;" alt="An infographic created in draw.io composed mostly of freehand shapes">](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Finfographic-rockpool.drawio)
 
 ## Draw a freehand shape
 
@@ -41,6 +41,8 @@ When you drag a shape from the shape library over your freehand shape (that has 
 
 In this infographic example, each freehand creature will be placed inside a circle to improve readability in the final infographic.
 <br /><img src="/assets/img/blog/freehand-infographic-combining-shapes.gif" style="width=100%;max-width:400px;height:auto;" alt="Drag your grouped freehand shape to the shape library to more easily reuse it in the infographic or another diagram">
+
+You can download the [freehand rockpool shapes custom library](https://raw.githubusercontent.com/jgraph/drawio-diagrams/dev/blog/freehand-rockpool-shapes.xml) from our drawio-diagrams repository on GitHub.
 
 ## Use layers to organise your infographic
 
@@ -81,6 +83,8 @@ Make sure you format text labels so they are readable - change the font size and
 You may need to change the order of the layers to improve readability. Our example is much clearer when the coloured layer is at the bottom of the diagram. 
 <br /><img src="/assets/img/blog/freehand-infographic-improve-readability.gif" style="width=100%;max-width:600px;height:auto;" alt="Reorder layers in your draw.io infographic to improve readability when colours obscure label text">
 
+[Open this rockpool infographic in draw.io online](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Finfographic-rockpool.drawio)
+
 ## Save your infographic as an image or PDF
 
 The final step is to save your infographic diagram into the format you need. 
@@ -98,6 +102,6 @@ There are several examples of infographics in both the draw.io template library 
 * Click on _More Shapes_ in the shape panel on the left and enable the _Infographic_ shape library.
 
 For example, the _Food Cycle_ template in the _Other_ category in the template library, is easily modified to show the lifecycle of a limpet. 
-<br /><img src="/assets/img/blog/freehand-infographic-limpet-lifecycle.png" style="width=100%;max-width:300px;height:auto;" alt="Modify an existing template or infographic shape in draw.io to create an infographic quickly">
+<br />[<img src="/assets/img/blog/freehand-infographic-limpet-lifecycle.png" style="width=100%;max-width:300px;height:auto;" alt="Modify an existing template or infographic shape in draw.io to create an infographic quickly">](https://viewer.diagrams.net/?lightbox=1&page=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Finfographic-rockpool.drawio)
 
 **Tip:** See our [drawio-diagrams GitHub repository](https://github.com/jgraph/drawio-diagrams/tree/dev/templates/software) for more templates and example diagrams.

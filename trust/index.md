@@ -12,8 +12,8 @@ path: /trust/
     1.1	JGraph Limited is a controller within the meaning of the Data Protection Act 2018 and the UK GDPR. Further details about us and how to contact us appear below.
     1.2	This notice describes how we collect, store, transfer and use personal data. It tells you about your privacy rights and how the law protects you.
     1.3	This Privacy Statement applies to personal data from you when you contact us and provide us with your personal data when you use:
-		a.	our website at diagrams.net;
-        b.	our services made available by our online application named, “diagrams.net”, or our services made available through the Atlassian Confluence and Jira integrated applications named, “draw.io” (“the Application”);```
+		a.	our website at drawio.com;
+        b.	our services made available by our online application named, “draw.io”, or our services made available through the Atlassian Confluence and Jira integrated applications named, “draw.io” (“the Application”);```
     1.4	Except as set out below, we do not share, or sell, or disclose to a third party, any information collected through our website or the Application.
 
 2	How we process your Personal Data
@@ -29,7 +29,7 @@ path: /trust/
 
 3	Personal Data Collected
 
-    3.1	The types of personal data we may collect from you when you visit our website or   contact us is limited to the information you provide us. 
+    3.1	The types of personal data we may collect from you when you visit our website or contact us is limited to the information you provide us. 
     3.2	When you login and use the Application the following technical data may be collected, depending on the activities of users:
 
 		Contact Details: Name, email address(es), address(es), telephone number(s), fax numbers, instant messaging address(es), social media identifiers, nationality, photographs, marital status
@@ -197,10 +197,4 @@ path: /trust/
     17.3 We have appointed a data protection officer who is responsible for ensuring that our Privacy Statement is followed. If you have any questions about how we process your personal data, including any requests to exercise your legal rights, please contact us at privacy@jgraph.com.
 ```
 
-v2.0 2022.03.11
-
-
-
-
-
-
+v2.01 2023.08.24
