@@ -8,7 +8,7 @@ tags: [features, tables]
 categories: [features, shapes]
 ---
 
-The improved [table shapes](/blog/tables.html) in draw.io are useful for many different types of diagrams. now, using the grab handles on the sides of table rows in draw.io, you can select rows more easily, and move a row to a new position in a table, or move it to another table - even if that table is a different size. 
+The improved [table shapes](/blog/tables.html) in draw.io are useful for many different types of diagrams. Now, using the grab handles on the sides of table rows in draw.io, you can select rows more easily, and move a row to a new position in a table, or move it to another table - even if that table is a different size. 
 <br /><img src="/assets/img/blog/table-move-row2.gif" style="width=100%;max-width:600px;height:auto;" alt="Use the grab handle on the right edge of a row to drag it to a new position in the table in draw.io">
 
 
