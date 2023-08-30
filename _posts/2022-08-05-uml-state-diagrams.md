@@ -147,4 +147,5 @@ Learn more about different UML diagrams:
 * [UML class diagrams](/blog/uml-class-diagrams.html) detail the data and methods in each class.
 * [Activity diagrams](/blog/uml-activity-diagrams.html) show the actions and control flows needed to complete a process flow.
 * [Sequence diagrams](/blog/sequence-diagrams.html) show the order of messages passed between the elements of a system.
-* [Component, composite structure and package](/blog/uml-2-5.html) were updated with the UML 2.5 shape library.
+* [Component diagrams](/blog/component-diagrams.html) show the interfaces and ports between components in a larger system to encourage reuse of code.
+* [Composite structure and package diagram shapes](/blog/uml-2-5.html) were updated with the UML 2.5 shape library.
