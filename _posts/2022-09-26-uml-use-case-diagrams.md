@@ -69,7 +69,8 @@ UML is a standard with many different types of diagrams used to model the behavi
 * [Activity diagrams](/blog/uml-activity-diagrams.html)
 * [Sequence diagrams](/blog/sequence-diagrams.html)
 * [State machine diagrams](/blog/uml-state-diagrams.html)
-* Examples of [component, composite structure, deployment and activity diagrams](/blog/uml-2-5.html#example-uml-diagrams)
+* [Component diagrams](/blog/component-diagrams.html)
+* Examples of [composite structure, deployment and activity diagrams](/blog/uml-2-5.html#example-uml-diagrams)
 
 [<img src="/assets/img/blog/uml-2-5-diagram-overview.png" style="max-width:100%;height:auto;" alt="Diagram types defined in UML 2.5">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Fconcept-map-uml-diagrams-overview.drawio)
 

@@ -16,7 +16,7 @@ There are two types of shapes in draw.io where you can add new rows.
 
 [Learn how to work with the new draw.io tables](/blog/tables.html)
 
-## Add a row to a list or UML class shape
+## Add a row to a list or UML class shape or UML component shape
 
 1. Drag a _List Item_ shape from the _Entity Relation_ shape library and drop it over your list shape to insert a new entry.
 2. Drag an _Item_ shape from the _UML_ shape library and drop it over your class shape to insert a new attribute or method.
