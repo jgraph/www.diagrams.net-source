@@ -208,4 +208,5 @@ Learn more about the following UML diagrams:
 * [Use case diagrams](/blog/uml-use-case-diagrams.html)
 * [Sequence diagrams](/blog/sequence-diagrams.html)
 * [State machine diagrams](/blog/uml-state-diagrams.html)
+* [Component diagrams](/blog/component-diagrams.html)
 * Examples of [component, composite structure and deployment diagrams](/blog/uml-2-5.html#example-uml-diagrams)

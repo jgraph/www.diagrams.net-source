@@ -8,7 +8,7 @@ tags: [shortcuts]
 categories: [shortcuts]
 ---
 
-There are many combination mouse plus keyboard shortcuts in draw.io that will speed up your drawing. You can select and deselect multiple shapes, resize grouped shapes in various ways, and swap, connect and clone shapes quickly.
+There are many combination mouse plus keyboard shortcuts in draw.io that will speed up your drawing. You can select and deselect multiple shapes, resize grouped shapes in various ways, connect and clone shapes quickly.
 
 You are probably familiar with the copy & paste keyboard shortcuts (``Ctrl+C`` and ``Ctrl+V``) as they are used in almost all applications. 
 
@@ -56,13 +56,10 @@ You can use mouse + keyboard shortcuts to work with shapes that are already on t
 
 **Clone a shape:** Hold ``Ctrl`` and ``drag`` a shape that is already on the drawing canvas to clone it.
 
-**Swap two shapes:** Hold ``Shift`` and ``drag`` one shape on the drawing canvas and drop it on another shape to swap the two shapes.
-<br /><img src="/assets/img/blog/shortcuts-clone-swap.gif" style="width=100%;max-width:300px;;height:auto;" alt="Hold down Ctrl and drag a shape to clone it, or Shift + drag over another shape to swap them">
-
-**Move or resize shape and ignore grid:** Hold ``Alt`` as you move or resize a shape or group of shapes on the drawing canvas to move it smoothly and not 'snap' it to an exact alignment based on the editor grid.
-
 **Overlay shapes on containers:** Hold ``Alt`` then ``drag`` and drop a shape over a container shape to [overlap the two shapes](/blog/shortcut-overlay-shapes.html) instead of adding them to the container shape. 
 <br /><img src="/assets/img/blog/shortcut-overlay-shapes.gif" style="max-width:100%;height:auto;" alt="Use Alt+drop to overlap a shape on a container shape">
+
+**Move or resize shape and ignore grid:** Hold ``Alt`` as you move or resize a shape or group of shapes on the drawing canvas to move it smoothly and not 'snap' it to an exact alignment based on the editor grid.
 
 **Insert space and move shapes:** Hold ``Alt+Ctrl+Shift`` and ``drag`` the mouse from a blank section on the drawing canvas to insert horizontal and vertical space and move the nearby existing shapes.
 <br /><img src="/assets/img/blog/move-area-example.gif" style="width=100%;max-width:300px;height:auto;" alt="Ctrl+Shift+drag to move an area of the drawing canvas and the shapes it contains">
