@@ -21,9 +21,9 @@ Component diagrams encourage developers to design modular components that can be
 
 They can also highlight where third-party packages of components can be used to more efficiently implement a system, reducing the the time and cost of a project, especially where in-house expertise is lacking.
 
-To draw a component diagram, enable the UML and UML 2.5 shape libraries. 
+To draw a component diagram, enable the UML and UML 2.5 shape libraries in draw.io. 
 1. Click on _More Shapes_ at the bottom of the shape panel. 
-2. Enable the UML and UML 2.5 checkboxes in the _Software_ section and click apply. 
+2. Enable the UML and UML 2.5 checkboxes in the _Software_ section and click _Apply_. 
 <br /><img src="/assets/img/blog/uml-2-5-shape-library-enable.png" style="width=100%;max-width:400px;height:auto;" alt="Enable the UML 2.5 shape library, and the older UML library if you wish to use those shapes">
 
 Component diagram shapes are spread out through both shape libraries. Hover over any shape in the shape libraries to see a larger preview with its name.
