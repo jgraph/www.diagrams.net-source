@@ -40,7 +40,7 @@ Network diagrams are created and updated for many reasons:
 draw.io contains a large number of shape libraries that you can use to create your network diagram.
 1. Click on _More Shapes_ at the bottom of the left panel.
 2. Scroll down to the _Networking_ section.
-3. Enable the shape libraries you want to use, and clikc _Apply_.
+3. Enable the shape libraries you want to use, and click _Apply_.
 
 <img src="/assets/img/blog/networking-shape-libraries.png" style="max-width:100%;height:auto;" alt="Networking shape libraries in draw.io">
 
