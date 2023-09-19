@@ -13,6 +13,8 @@ Each shape has a varying number of connection points, at different locations aro
 
 Compound shapes, like the entity relationship tables in the diagram above, are a bit more complex. As they are shapes within shapes, they have specially defined or limited points - in this case, the row rectangle shapes within the tables have only two connection points to the left and the right of the row.
 
+**Note:** If you don't see any connection points, check that this option is enabled via the _Arrange_ tab of the format panel, or _View > Connection Points_.
+
 ## Reset a complex shape's connection points
 
 You can reset any shape where [custom connection points have been defined by editing the shape style](/doc/faq/shape-connection-points-customise.html). To edit the row shape as in this example, follow the steps below.

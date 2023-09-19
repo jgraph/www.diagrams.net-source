@@ -15,6 +15,8 @@ Connection points are also used when you enable the [_snap to point_ shape prope
 
 [Learn more about connecting shapes](/doc/faq/connect-shapes.html)
 
+**Note:** If you don't see any connection points, [check that this option is enabled](/doc/faq/connection-points-hide.html) via the _Arrange_ tab of the format panel, or _View > Connection Points_.
+
 ### Force a fixed or floating connection
 
 You can [force a floating or fixed connection at any location](/doc/faq/connect-to-shapes-anywhere.html) by using a keyboard shortcut, even if the shape has custom connection points or the _snap to point_ shape property enabled.

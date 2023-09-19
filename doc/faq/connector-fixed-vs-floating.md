@@ -32,3 +32,5 @@ Fixed connection points are usually spaced evenly around the outside of a shape.
 
 In addition to the fixed connection points around a shape, you can drop a [fixed connection anywhere within a shape](/doc/faq/connect-to-shapes-anywhere.html): Hold down ``Alt`` as you drag the connector into position over the target shape, then drop the connector when you see the green shape outline.
 <br /><img src="/assets/img/blog/connect-to-shapes-anywhere.gif" style="width=100%;max-width:300px;height:auto;" alt="Hold down Alt key as you connect to a shape to connect to any position on that shape">
+
+**Note:** If you [don't see any connection points](/doc/faq/connection-points-hide.html) when you hover over a shape, make sure you have the option enabled. Check the _Arrange_ tab of the format panel, or select _View > Connection Points_ from the menu. 
