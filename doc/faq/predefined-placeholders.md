@@ -19,6 +19,7 @@ In addition to using property names as placeholders, you can use the following p
 | ``%id%`` |  Prints the ID of a shape or connector. |
 | ``%width%`` |  Prints the width of a shape. |
 | ``%height%`` |  Prints the height of a shape. |
+| ``%length%`` |  Prints the length of a connector. |
 | ``%date%`` | Prints the current date using the system locale. |
 | ``%time%`` | Prints the current time using the system locale. |
 | ``%timestamp%`` | Prints a timestamp using the system locale. |
