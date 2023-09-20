@@ -11,6 +11,8 @@ Connection arrows are the four direction arrows that appear when you hover over 
 2. Click on the _Connection Arrows_ checkbox to hide or display the four direction arrows that appear when you hover over a shape on the drawing canvas. 
 <br /><img src="/assets/img/blog/diagram-tab-connection-arrows.png" style="width=100%;max-width:350px;height:auto;" alt="Display or hide the four directional connection arrows that appear when you hover over a shape in the Diagram tab of the format panel">
 
+Alternatively, make sure nothing is selected in your diagram and select _View > Connection Arrows_ from the menu (Classic mode), or press ``Alt+Shift+A`` on Windows or ``Option+Shift+A`` on macOS.
+
 All of the connection arrows throughout your diagram will now be hidden when you hover over shapes.
 
 ## Related

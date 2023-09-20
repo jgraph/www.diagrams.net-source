@@ -30,7 +30,7 @@ Set a new style by selecting a shape, then click on the _Set as Default Style_ b
 
 When you want to return to the original default of white shapes with a black outline, make sure nothing is selected, then click _Clear Default Style_ in the Style tab of the format panel or use the following keyboard shortcut:
 
-* **Clear default style:** ``Ctrl+Shift+R``or ``Cmd+Shift+R``
+* **Clear default style:** ``Ctrl+Shift+R`` or ``Cmd+Shift+R``
 
 ## Copy and paste styles
 
@@ -38,8 +38,8 @@ Select a shape that has the style you want to use on other shapes, and click on 
 
 Alternatively, instead of having to move your mouse away from the drawing canvas, copy and paste styles using the keyboard shortcuts, just like you would in any word processor.
 
-* **Copy style:** ``Ctrl+Shift+C`` or ``Cmd+Shift+C``
-* **Paste style:** ``Ctrl+Shift+V`` or ``Cmd+Shift+V``
+* **Copy style:** ``Alt+C`` or ``Option+C``
+* **Paste style:** ``Alt+V`` or ``Option+V``
 
 This is really useful when you have groups of shapes or connectors that need to follow the same styles. For example, in a gitflow diagram.
 

@@ -31,7 +31,7 @@ These options change how the diagram editor behaves, by hiding or displaying cer
 
 **Connection Arrows:** [Hide or display the four direction arrows](/doc/faq/connection-arrows-hide.html) that appear when you hover over a shape.
 
-**Connection Points:** [Hide or display the fixed connection points](/doc/faq/connection-point-hide.html), the little crosses that appear when you hover over a shape.
+**Connection Points:** [Hide or display the fixed connection points](/doc/faq/connection-points-hide.html), the little crosses that appear when you hover over a shape.
 
 **Guides:** [Hide or display the blue guidelines](/doc/faq/guides-hide-display.html) that appear when moving or aligning shapes on the drawing canvas.
 
