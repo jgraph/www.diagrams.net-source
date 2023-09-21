@@ -14,9 +14,8 @@ There are a couple of cases where data is sent to our *.diagrams.net servers to 
 These functions include:
 
 * Export to PDF
-* Export to PNG for IE 11 and Safari
 * Import a .vsd, .vdx, .vssx or .gliffy file
 
-**Tip:** Select your server endpoint (``EU`` or ``US``) for these online services with ``dataGovernance`` in the draw.io configuration. If you want to disable all communication except between the user's browser and the location where it is stored in your Atlassian product, set ``lockdown`` to ``true``. 
+**Tip:** If you want to disable all communication except between the user's browser and the location where it is stored in your Atlassian product, set ``lockdown`` to ``true``. 
 
-[Learn more about data governance and lockdown](/blog/data-governance-lockdown.html)
+[Learn more about lockdown](/blog/data-governance-lockdown.html)

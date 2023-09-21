@@ -23,13 +23,8 @@ The features that use the server endpoints include:
 * Generation of diagram images from PlantUML.
 * Import of Gliffy diagrams.
 
-You must manually set the server endpoints in the app configuration. draw.io has server endpoints in two regions: one in the EU (in Frankfurt, Germany), and one in the US (in Northern Virginia). 
-
-Set your server endpoint (``EU`` or ``US``) for these online services with ``dataGovernance`` in the draw.io app configuration. 
-* Add the following [JSON (JavaScript Object Notation)](http://www.json.org/) string: ``"dataGovernance": "EU"`` or ``"dataGovernance": "US"``.
-
-In Confluence Cloud, you can additionally restrict data transmission to between your browser and your Confluence Cloud instance only (and disable the features above). 
-* Add the following JSON string to the draw.io app configuration: ``"lockdown": true"``. Note the ``dataGovernance`` value is ignored with ``lockdown`` set to true.
+In Confluence Cloud you can restrict data transmission to between your browser and your Confluence Cloud instance only (and disable the features above). 
+* Add the following JSON string to the draw.io app configuration: ``"lockdown": true"``.
 
 <img src="/assets/img/blog/confluence-cloud-data-governance-lockdown-configuration.png" style="width=100%;max-width:400px;height:auto;" alt="Set which draw.io server endppoint region to use and restrict data transmission to between browser and Confluence Cloud in the draw.io app configuration JSON code">
 

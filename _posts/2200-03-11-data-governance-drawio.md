@@ -33,21 +33,11 @@ These functions include:
 
 **Note:** Data is encrypted during all network transmission to and from the endpoint.
 
-### Defining endpoints
-
-In the draw.io standard plans for Confluence Cloud and Jira Cloud, we've implemented the **data governance** option, which lets you specify the draw.io server endpoint region.
-
-You must manually set your preferred region for data governance in the draw.io app configuration. draw.io has server endpoints in two regions: one in the EU (in Frankfurt, Germany), and one in the US (in Northern Virginia). 
-
-Set your draw.io server endpoint (``EU`` or ``US``) for these online services. Note: draw.io will match any data center locations that Atlassian provide in the future.
-
-* Add the following [JSON (JavaScript Object Notation)](http://www.json.org/) string to the draw.io app configuration: ``"dataGovernance": "EU"`` or ``"dataGovernance": "US"``.
-
 ## Data transmission lockdown
 
-In Confluence Cloud, using the draw.io **lockdown** option, you can additionally restrict data transmission to _only_ between your browser and your Confluence Cloud instance (and effectively disable the features described above).
+In Confluence Cloud, using the draw.io **lockdown** option, you can restrict data transmission to _only_ between your browser and your Confluence Cloud instance (and effectively disable the features described above).
 
-* Add the following JSON string to the draw.io app configuration: ``"lockdown": true"``. Note the ``dataGovernance`` value is ignored with ``lockdown`` set to true.
+* Add the following JSON string to the draw.io app configuration: ``"lockdown": true"``.
 
-<img src="/assets/img/blog/confluence-cloud-data-governance-lockdown-configuration.png" style="width=100%;max-width:600px;height:auto;" alt="Set which draw.io server endppoint region to use and restrict data transmission to between browser and Confluence Cloud in the draw.io app configuration JSON code">
+<img src="/assets/img/blog/confluence-cloud-data-governance-lockdown-configuration.png" style="width=100%;max-width:600px;height:auto;" alt="Restrict data transmission to between browser and Confluence Cloud in the draw.io app configuration JSON code">
 
