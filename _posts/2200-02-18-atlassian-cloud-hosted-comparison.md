@@ -49,7 +49,7 @@ The following features and functionality are different in Cloud versus Data Cent
 
 draw.io for Confluence Cloud has a several additional features based on Atlassian's Cloud-only functionality.
 
-**Set data regions or lockdown data transmission** with configuration options. Similar to Atlassian's data residency options in Cloud, you can set your ``dataGovernance`` region to EU or NA in the draw.io configuration for the features that use the draw.io servers (listed below). If you want to prevent all data traffic apart from between the your browser and your Atlassian instance server, set ``lockdown`` in the draw.io configuraton.
+**Lockdown data transmission** with configuration options. If you want to prevent all data traffic apart from between the your browser and your Atlassian instance server, set ``lockdown`` in the draw.io configuraton.
 
 **Access all draw.io diagrams in your instance** via the contents list on the left.  You need to publish the diagram to the page, and publish the page once for the diagram to appear in this list.
 <br /><img src="/assets/img/blog/confluence-cloud-list-drawio-diagrams.png" style="width=100%;max-width:400px;height:auto;" alt="See all of the draw.io diagrams in the instance on one page in Confluence Cloud">

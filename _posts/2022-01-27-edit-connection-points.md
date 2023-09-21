@@ -47,3 +47,7 @@ Alternatively, make sure no connection points are selected, then click _Add_.
 
 You can also add and edit connection points on [complex custom shapes](/doc/faq/shape-complex-create-edit.html) using the same steps as above. For example:
 <br /><img src="/assets/img/blog/connection-points-edit-custom-shape.png" style="width=100%;max-width:250px;height:auto;" alt="Edit the connection points visually, even on a custom shape with draw.io">
+
+
+
+**Note:** If you don't see connection points when you hover over a custom shape, check the [Connection Points option in the _Arrange_ tab of the format panel](/doc/faq/connection-points-hide.html) is enabled.

@@ -27,9 +27,7 @@ The online draw.io editor at app.diagrams.net is delivered via Cloudflare edge d
 
 Wherever possible we use serverless (AWS Lambda) functionality to reduce the attack surface of the endpoints.
 
-draw.io has server endpoints in three regions: one in the EU (in Frankfurt, Germany) and one in the US (in Northern Virginia). By default, invoking each of the above functions will use the server endpoint that is nearest to the Cloudflare data center that the request entered via. That is, geolocation is not performed on your IP address to determine the endpoint.
-
-However, you can force the endpoint locations, rather than rely on entering the Cloudflare network at the right place. Specifying ``dataGovernance`` region in the editor configuration to ``EU`` or ``US`` ensures draw.io uses your preferred server endpoint. 
+draw.io server endpoints are all in the EU (in Frankfurt, Germany).
 
 
 **Data transmission lockdown**
@@ -42,10 +40,9 @@ Additionally, you can use the ``lockdown`` toggle in the editor configuration to
 
 1. Select _Extras > Configuration_ to customise draw.io.
 <br /><img src="/assets/img/blog/extras-configuration-menu.png" style="width=100%;max-width:300px;height:auto;" alt="Access the draw.io configuration via Extras > Configuration">
-2. Add the following [JSON (JavaScript Object Notation)](http://www.json.org/) string: ``"dataGovernance": "EU"`` or ``"dataGovernance": "US"``.
-3. To restrict data transmission to between your browser and your storage location, add the following JSON string: ``"lockdown": true"``. Note the dataGovernance value is ignored with lockdown set to true.
+2. To restrict data transmission to between your browser and your storage location, add the following JSON string: ``"lockdown": true"``.
 <br /><img src="/assets/img/blog/edit-configuration-data-governance-lockdown.png" style="width=100%;max-width:300px;height:auto;" alt="Set which draw.io server region to use and restrict data transmission to between browser and storage location only in the editor configuration JSON code">
-4. Click _Apply_ to save your changes, and then reload the draw.io editor (refresh the browser page).
+3. Click _Apply_ to save your changes, and then reload the draw.io editor (refresh the browser page).
 
 
 ## Data residency in Atlassian Cloud
@@ -54,14 +51,5 @@ Additionally, you can use the ``lockdown`` toggle in the editor configuration to
 The architectures for draw.io for Confluence and Jira Cloud are identical to those used with draw.io. However, you can set the data governance rules centrally for all users on your Confluence instance.
 
 If you are using the draw.io apps for Confluence or Jira Cloud, [Atlassian lets you additionally set your **data residency** region](https://confluence.atlassian.com/cloud/manage-data-residency-976763149.html) to choose where your data or _in-scope product content_ resides. That means the content of your instance and associated metadata will be stored on servers in that region when it is at rest.
-
-An administrator can set the server endpoint in the draw.io app Configuration in the administration settings via the JSON string.
-<br /><img src="/assets/img/blog/confluence-cloud-data-governance-lockdown-configuration.png" style="width=100%;max-width:600px;height:auto;" alt="Set which draw.io server endpoint region to use and restrict data transmission to between browser and Confluence Cloud in the draw.io app configuration JSON code">
-
-You can also vote for our existing server endpoint deployments, or submit your own endpoint location request at the issue tracker:
-
-- [Endpoint for Brazil](https://github.com/jgraph/drawio/issues/1815)
-- [Endpoint for India](https://github.com/jgraph/drawio/issues/1816)
-- [Endpoint for Japan](https://github.com/jgraph/drawio/issues/1817)
 
 [See how to configure draw.io in Confluence Cloud](/doc/drawio-confluence-cloud.html)

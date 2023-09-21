@@ -8,7 +8,7 @@ tags: [features, Atlassian]
 categories: [features,atlassian,trust]
 ---
 
-The draw.io app in Confluence allows administrators to configure a wide range of options, from data governance settings to match your instance, default palettes and shape/connector styles for consistency across teams, to custom libraries and custom templates. 
+The draw.io app in Confluence allows administrators to configure a wide range of options, from default palettes and shape/connector styles for consistency across teams, to custom libraries and custom templates. 
 
 This is all done by editing a JSON string in the draw.io app configuration.
 
@@ -18,25 +18,12 @@ This is all done by editing a JSON string in the draw.io app configuration.
 4. When you are done, click _Save_.
 
 Administrator can configure these options in the draw.io app for Confluence Cloud:
-- [Set a data governance region](#set-a-data-governance-region)
 - [Set default styles in draw.io](#set-default-styles-in-drawio)
   - [Set default colours](#set-default-colours)
   - [Set default shape, connector and text styles](#set-default-shape-connector-and-text-styles)
   - [Set default fonts](#set-default-fonts)
 - [Set default draw.io shape libraries](#set-default-drawio-shape-libraries)
 - [Set up custom templates in Confluence Cloud](#set-up-custom-templates-in-confluence-cloud)
-
-## Set a data governance region
-
-When using Confluence Cloud or Jira Cloud, set the region where you want the instance data to reside via your organisation administration (``Security > Data residency``). 
-
-You can set the draw.io app server endpoint to the EU (default) or the US.
-
-Add one of the following to the JSON string:
-* ``"dataGovernance": "EU"`` 
-* ``"dataGovernance": "US"`` 
-
-<img src="/assets/img/blog/confluence-cloud-data-governance-lockdown-configuration.png" style="width=100%;max-width:400px;height:auto;" alt="Access the draw.io configuration via Extras > Configuration">
 
 **Tip:** Set ``"lockdown": true`` in the editor configuration to ensure data transmission is directly between the user's browser and the Atlassian Confluence or Jira instance.
 
