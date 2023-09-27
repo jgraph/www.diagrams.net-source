@@ -9,7 +9,7 @@ categories: [use-cases]
 ---
 
 If you are learning a language, you need tools to help you make sense of the grammar. Especially when you come across sentences that are carefully constructed to be as confusing as possible. That's where sentence trees come in handy.
-<br /><img src="/assets/img/blog/sentence-tree-horse-example.png" style="width=100%;max-width:500px;height:auto;" alt="Sentence diagrams and Reed-Kellogg diagrams are easy to draw in draw.io">
+<br />[<img src="/assets/img/blog/sentence-tree-horse-example.png" style="width=100%;max-width:500px;height:auto;" alt="Sentence diagrams and Reed-Kellogg diagrams are easy to draw in draw.io">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&page=2&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fsentence-trees.drawio)
 
 A sentence tree, or sentence diagram, visualises the structure of a sentence. It shows the relationships and dependencies between words and parts of a sentence. 
 
@@ -26,7 +26,7 @@ We'll use two simple sentences before we get into the fun examples.
 1. **Employees in our local office arrive before ten.**
 2. **The students are pleased with their good results.**
 
-<img src="/assets/img/blog/sentence-tree-reed-kellogg.png" style="width=100%;max-width:500px;height:auto;" alt="Sentence diagrams are easy to create in draw.io">
+[<img src="/assets/img/blog/sentence-tree-reed-kellogg.png" style="width=100%;max-width:500px;height:auto;" alt="Sentence diagrams are easy to create in draw.io">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&page=0&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fsentence-trees.drawio)
 
 Use the [waypoint shape](/blog/waypoint-shape.html) as an anchor on connector lines. Search for ``waypoint`` in the shapes panel.
 <br /><img src="/assets/img/blog/sentence-tree-draw.gif" style="width=100%;max-width:400px;height:auto;" alt="Use a waypoint shape to draw a Reed-Kellogg sentence diagram">
@@ -51,7 +51,7 @@ Perhaps a more easily readable style of sentence diagram uses a [parse tree](htt
 On first reading, most parse "The old man" together, where old is an adjective, and man the subject (noun). But the rest of the sentence is missing a verb. 
 
 It's easier to see the clear meaning visually in a sentence tree - old is the subject (noun), and man the verb.
-<br /><img src="/assets/img/blog/sentence-tree-types.png" style="width=100%;max-width:600px;height:auto;" alt="Sentence trees are constructed to show either a constituency relation (left) or dependency relation (right)">
+<br />[<img src="/assets/img/blog/sentence-tree-types.png" style="width=100%;max-width:600px;height:auto;" alt="Sentence trees are constructed to show either a constituency relation (left) or dependency relation (right)">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&page=1&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fsentence-trees.drawio)
 
 There are two different ways to draw a sentence tree based on the competing theories of sentence logic - the binary constituency relation tree (left) and dependency relation tree (right). 
 
@@ -73,15 +73,15 @@ Sentence trees are ideal to analyse sentences that are typically designed to loo
 
 * **The horse raced past the post fell.**
 
-<img src="/assets/img/blog/sentence-tree-horse-example.png" style="width=100%;max-width:500px;height:auto;" alt="Sentence trees are constructed to explain grammatically complicated sentences">
+[<img src="/assets/img/blog/sentence-tree-horse-example.png" style="width=100%;max-width:500px;height:auto;" alt="Sentence trees are constructed to explain grammatically complicated sentences">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&page=2&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fsentence-trees.drawio)
 
 * **The blind person picked up the hammer and saw.**
 
-<img src="/assets/img/blog/sentence-tree-blind-example.png" style="width=100%;max-width:500px;height:auto;" alt="Sentence trees are constructed to explain grammatically complicated sentences">
+[<img src="/assets/img/blog/sentence-tree-blind-example.png" style="width=100%;max-width:500px;height:auto;" alt="Sentence trees are constructed to explain grammatically complicated sentences">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&page=2&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fsentence-trees.drawio)
 
 * **The complex houses married and single soldiers and their families.**
 
-<img src="/assets/img/blog/sentence-tree-soldiers-example.png" style="width=100%;max-width:500px;height:auto;" alt="Sentence trees are constructed to explain grammatically complicated sentences">
+[<img src="/assets/img/blog/sentence-tree-soldiers-example.png" style="width=100%;max-width:500px;height:auto;" alt="Sentence trees are constructed to explain grammatically complicated sentences">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&page=2&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fsentence-trees.drawio)
 
 The examples above are known as [garden path sentences](https://en.wikipedia.org/wiki/Garden-path_sentence). You think you understand what the start of the sentence says, but then it stops abruptly and you have to look again and alter your understanding so that the sentence makes sense as a whole. The sentence _leads you up the garden path following a false scent_.
 
@@ -89,7 +89,7 @@ Some can be nigh impossible to understand, even for native speakers, especially 
 
 * **Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo.**
 
-<img src="/assets/img/blog/sentence-tree-buffalo-example.png" style="width=100%;max-width:600px;height:auto;" alt="Sentence trees are constructed to explain grammatically complicated sentences">
+[<img src="/assets/img/blog/sentence-tree-buffalo-example.png" style="width=100%;max-width:600px;height:auto;" alt="Sentence trees are constructed to explain grammatically complicated sentences">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&page=3&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fsentence-trees.drawio)
 
 Buffalo has three meanings in this sentence: 
 * Place name: Buffalo, New York
@@ -98,7 +98,7 @@ Buffalo has three meanings in this sentence:
 
 You would read this as: Bison from Buffalo that other Buffalo bison bully, also bully Buffalo bison.
 
-This example is identical in structure to another with one word used as a noun, verb and place name, this time, the town of Police in Poland. The italicised words can be omitted and the sentence remains correct.
+This example is identical in structure to another with one word used as a noun, verb and place name, this time, [the town of Police in Poland](https://app.diagrams.net/?lightbox=1&highlight=0000ff&page=4&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fsentence-trees.drawio). The italicised words can be omitted and the sentence remains correct.
 
 Police police _(that other)_ Police police police _(also)_ police Police police.
 
