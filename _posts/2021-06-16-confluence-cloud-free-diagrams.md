@@ -78,17 +78,16 @@ The draw.io diagram editor is easy to use and powerful. The [draw.io app in Conf
 <br /><img src="/assets/img/blog/drawio-confluence-cloud-demo.gif" style="max-width:100%;height:auto;" alt="Create your diagram from shapes, connectors and text, and add styles">
 1. Instead of exporting your diagram, click _Publish_ to save your new diagram, or _Save & Exit_ to save an existing diagram, then publish your Confluence page.
 
-## Unlock additional draw.io features for larger teams
+## License draw.io for larger teams
 
 The price of the draw.io app is very affordable in Confluence Cloud. See the [tier-price comparison](/blog/gliffy-confluence-cloud-prices.html) when migrating from Confluence Server to Confluence Cloud with draw.io.
 
-If you have started a free trial in your team of more than 10 users and let the license expire, you would have noticed that the app continues to work, minus a few features.
+If you have started a free trial in your team of more than 10 users and let the license expire, you will need to purchase draw.io to continue diagramming in your instance.
 
-When you [license the draw.io app for your larger Confluence Cloud instance](https://marketplace.atlassian.com/apps/1210933/draw-io-diagrams-for-confluence?hosting=cloud&tab=overview), you will continue to enjoy the features covered in the post above, in addition to the following:
+[Licensing the draw.io app for your larger Confluence Cloud instance](https://marketplace.atlassian.com/apps/1210933/draw-io-diagrams-for-confluence?hosting=cloud&tab=overview) allows you to receive product support and use all of draw.io's features, including those listed below.
 
-* Receive product support.
 * Import and export .vsdx files.
-* Drag and drop diagram files into the editor to import them instead of using the menu.
+* Drag and drop diagram files into the editor.
 * Add multiple pages to a diagram.
 * Export to PDF files and print diagrams.
 * Use math typesetting.
@@ -97,7 +96,6 @@ When you [license the draw.io app for your larger Confluence Cloud instance](htt
 * Use the search feature to find shapes.
 * Use the collaborative editing functionality to simultaneously edit a diagram with your teammates.
 * Work with the diagram file's revision history. 
-* Create more than 100 diagrams per Confluence Cloud instance.
 * Display an older version of the diagram when viewing a page.
 * Import PlantUML or Mermaid code to automatically create a diagram. 
 * Import CSV data with formatting options to automatically create a diagram.
