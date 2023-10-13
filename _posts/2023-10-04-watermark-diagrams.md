@@ -9,11 +9,13 @@ categories: [features, shapes, layers]
 ---
 
 Watermarks are used widely in photography, illustrations and diagrams. You can add a watermark to a draw.io diagram in a number of ways - using a locked shape or image, a locked layer in the foreground or background that contains the watermark, or a watermark on a separate [diagram page used as a background image](/doc/faq/background-diagram.html).
-<br /><img src="/assets/img/blog/watermark-infographic-example.svg" style="width=100%;max-width:600px;height:auto;" alt="You can even add links to watermarks in your draw.io diagrams if you export them to SVG">
+<br /><img src="/assets/img/blog/watermark-infographic-example.svg" style="width=100%;max-width:500px;height:auto;" alt="You can even add links to watermarks in your draw.io diagrams if you export them to SVG">
 
 When the watermark is in the diagram itself, you don't need to edit the exported image before you publish it in your product documentation, online or in a presentation. 
 
 Consultancies typically add their watermark to floorplans, network and cloud architecture designs, and other types of planning diagrams, while business and marketing teams apply watermarks to infographics and presentations. 
+
+**Tip:** Open the examples below to see how they appear in the viewer. Click on the pen icon in the toolbar to open a copy of the diagram in the draw.io editor. 
 
 ## Use a locked shape as a watermark
 
@@ -32,9 +34,13 @@ Right click on the watermark and select _Lock/Unlock_ from the context menu. Alt
 
 **Note:** While you can change the shape properties of any image or shape to not be _Resizeable_ or _Moveable_ this does not prevent cloning or connectors being attached. It is better to lock the watermark to prevent anyone from accidentally working with it.
 
+[Open this example in draw.io](https://app.diagrams.net/?lightbox=1&highlight=0000ff&page=0&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fwatermark-three-examples.drawio)
+
 ## Add a watermark layer over your diagram
 
 A second way to watermark your diagrams is to add it to a layer that is placed on top of all the other layers in your diagram. 
+
+[Learn more about working with layers in draw.io](/doc/layers.html)
 
 1. Select the _View_ tool on the left of the toolbar and select "Layers" to open the Layers dialog, or press ``Ctrl+Shift+L``.
 <br /><img src="/assets/img/blog/watermark-layers-dialog.png" style="width=100%;max-width:300px;height:auto;" alt="Change the opacity of all shapes and images in your watermark to make it more or less obvious">
@@ -45,7 +51,7 @@ A second way to watermark your diagrams is to add it to a layer that is placed o
 <br /><img src="/assets/img/blog/watermark-floorplan-layers.gif" style="width=100%;max-width:600px;height:auto;" alt="A locked shape in draw.io cannot be cloned or connected to, while non-moveable and non-resizeable can (via shape properties)">
 5. Finally, click on the padlock icon to the left of the watermark layer to lock it and prevent anyone from editing it by mistake. The layer name will turn red when locked.
 
-[Learn more about working with layers in draw.io](/doc/layers.html)
+[Open this example in draw.io](https://app.diagrams.net/?lightbox=1&highlight=0000ff&page=1&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fwatermark-three-examples.drawio)
 
 ## Use a diagram page as a background
 
@@ -58,6 +64,8 @@ You can have multiple pages in your draw.io diagrams and use one of these diagra
 
 The watermark page will be converted to an image and placed as the background of your current diagrma page. 
 <br /><img src="/assets/img/blog/watermark-background-image.gif" style="width=100%;max-width:600px;height:auto;" alt="Open the background image settings and select the diagram page you want to use as the background">
+
+[Open this example in draw.io](https://app.diagrams.net/?lightbox=1&highlight=0000ff&page=2&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fwatermark-three-examples.drawio)
 
 This watermark on the background of your diagram cannot be selected or modified, and all of the shapes in the diagram will be placed _over_ the watermark. You may need to alter the opacity or placement to ensure your watermark is clearly visible. 
 
