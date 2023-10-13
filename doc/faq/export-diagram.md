@@ -9,6 +9,7 @@ You can export your diagrams to various types of images, files of different type
 
 * ``.drawio`` and ``.xml`` save file formats contain your full diagram, and can be opened in draw.io.
 * ``.png``, ``.svg`` and ``.jpeg`` are image file formats that you can use in documents, presentation slides or on web pages.
+* ``.webp`` is an image file format designed for small file sizes for web pages.
 * ``.html`` creates HTML code which embeds your diagram on a web page.
 * ``.pdf`` generates a PDF document.
 
@@ -20,9 +21,9 @@ If you have set a [background colour](/doc/faq/background-colour.html) or [backg
 
 ## Export your diagram to an image
 
-You can export the current drawing canvas to an image: PNG, JPEG or SVG. JPEG are most commonly used in web pages. PNG and SVG images are scalable (resizeable) and work well in documents and presentation slides.
+You can export the current drawing canvas to an image: PNG, JPEG or SVG. JPEG are most commonly used in web pages. PNG and SVG images are scalable (resizeable) and work well in documents and presentation slides. SVG images support [animated connectors](/doc/faq/connector-animate.html). 
 
-1. Select _File > Export as_ then choose the image format you want to generate - _PNG_, _JPEG_, or _SVG_.
+1. Select _File > Export as_ then choose the image format you want to generate - _PNG_, _JPEG_, WebP, or _SVG_.
 <br /><img src="/assets/img/blog/file-export-image.png" style="width=100%;max-width:300px;height:auto;" alt="Select File > Export then choose the image format you want to export your diagram to">
 1. Each image format will offer you slightly different options, see below for details. Select the options you want, then click _Export_.
 
@@ -42,6 +43,13 @@ JPEG image files cannot contain your diagram data - only an image version of the
    * Change the [JPEG export options](/doc/faq/export-to-jpeg.html) to suit your requirements.
    * If you only want to export the shapes and connectors that are currently selected, enable the _Selection only_ checkbox.
    <br /><img src="/assets/img/blog/export-jpeg-options.png" style="width=100%;max-width:200px;height:auto;" alt="Choose the export settings for the JPEG image">
+
+**Export as a WebP**
+
+WebP image files cannot contain your diagram data - only an image version of the page you are exporting.
+   * Change the [WebP export options](/doc/faq/export-to-WebP.html) to suit your requirements.
+   * If you only want to export the shapes and connectors that are currently selected, enable the _Selection only_ checkbox.
+   <br /><img src="/assets/img/blog/export-webp-options.png" style="width=100%;max-width:200px;height:auto;" alt="Choose the export settings for the JPEG image">
 
 **Export as a SVG**
 
@@ -69,7 +77,7 @@ When you export your diagram to a PDF file, you can include a copy of your diagr
 
 1. Select _File > Export As > VSDX (beta)_.
 2. Enter a _Filename_, then click on one of the save locations, or click _Download_ to save the .vsdx file to your device.
-<br /><img src="/assets/img/blog/save-as-vsdx.png" style="width=100%;max-width:200px;height:auto;" alt="Export your diagram as a VSDX, and choose where to save the exported VSDX file">
+<br /><img src="/assets/img/blog/export-vsdx-options.png" style="width=100%;max-width:200px;height:auto;" alt="Export your diagram as a VSDX, and choose where to save the exported VSDX file">
 
 Depending on your browser, you may be prompted to open it with a default program, or simply save the file.
 
@@ -115,5 +123,6 @@ When exporting your diagram to a URL, the diagram data is encoded in the link an
    * Change the _Zoom_ percentage, set a _Width_ and _Height_ for the resulting image/PDF file.
    * Change the _DPI_ setting to output a higher quality image.
    * Set a _Transparent_ background and change the _Border Width_.
+   * Enable _Grid_ if you want to include the drawing canvas grid.
 <br /><img src="/assets/img/blog/export-settings-pdf.png" style="width=100%;max-width:200px;height:auto;" alt="Change the advanced export settings when exporting PDF and image files">
 2. Click _Export_ to create a file of the format you chose, then select a location to save the file.
