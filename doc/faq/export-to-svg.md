@@ -18,6 +18,8 @@ categories: [Export]
    <br /><img src="/assets/img/blog/export-svg-options.png" style="width=100%;max-width:200px;height:auto;" alt="Choose the export settings for the SVG image">
 3. Click _Export_ and select the location to save your SVG file.
 
+**Tip:** If your diagram contains [animated connectors](/doc/faq/connector-animate.html), the connectors in the SVG image will also be animated. 
+
 ## Troubleshooting 
 
 If you want to add your exported SVG diagram to an online platform that does not support foreign objects in SVG files, you can [disable _Text Formatting_ and _Word Wrap_](/blog/diagrams-in-wordpress.html) on all text elements in your diagram.

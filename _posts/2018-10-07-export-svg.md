@@ -14,6 +14,8 @@ SVG or Scalable Vector Graphics is a file format that defines vector-graphics us
 
 To make sure your SVG diagram displays correctly when embedding it in an online platform that does not support foreign objects in SVG files (like WordPress), [disable _Text Formatting_ and _Word Wrap_ on all text elements in your diagram](/blog/diagrams-in-wordpress.html).
 
+**Tip:** If your diagram has [animated connectors](/doc/faq/connector-animate.html), make sure you export it to a SVG file to preserve this animation. 
+
 ## Prepare your diagram for export
 
 1. Right-click on an empty spot of the drawing canvas, and click on _Select All_ in the context menu to select everything in your diagram (or press ``Ctrl+A`` on Windows, ``Cmd+A`` on MacOS).
