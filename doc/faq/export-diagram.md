@@ -23,7 +23,7 @@ If you have set a [background colour](/doc/faq/background-colour.html) or [backg
 
 You can export the current drawing canvas to an image: PNG, JPEG or SVG. JPEG are most commonly used in web pages. PNG and SVG images are scalable (resizeable) and work well in documents and presentation slides. SVG images support [animated connectors](/doc/faq/connector-animate.html). 
 
-1. Select _File > Export as_ then choose the image format you want to generate - _PNG_, _JPEG_, WebP, or _SVG_.
+1. Select _File > Export as_ (or just _Export As_ from the [Simple mode](/blog/change-editor-mode.html) menu) then choose the image format you want to generate - _PNG_, _JPEG_, _WebP_, or _SVG_.
 <br /><img src="/assets/img/blog/file-export-image.png" style="width=100%;max-width:300px;height:auto;" alt="Select File > Export then choose the image format you want to export your diagram to">
 1. Each image format will offer you slightly different options, see below for details. Select the options you want, then click _Export_.
 
