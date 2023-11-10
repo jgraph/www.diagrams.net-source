@@ -59,7 +59,7 @@ Take the time to record when symptoms appear and what caused them. This is incre
 
 There are many other types of diagrams that may be useful, especially if you are attending a doctor's consultation online. 
 
-A chart of blood pressure values, or weight over time. If you use a smart blood pressure monitor, export the graph from your monitoring app as an image and drag it onto the drawing canvas in draw.io. 
+A chart of blood pressure values, or weight over time. If you use a smart blood pressure monitor, export the graph from your monitoring app as an image and [drag the image onto the drawing canvas in draw.io](/doc/faq/add-images.html). 
 
 Or, track it yourself directly in draw.io using a _Pool_ shape from the _Advanced_ shape library and the [_Waypoint_ shape](/blog/waypoint-shape.html) (via a [shape search](/doc/faq/shape-search.html)) for each value. 
 <br /><img src="/assets/img/blog/medical-diagrams-blood-pressure-chart.gif" style="width=100%;max-width:400px;height:auto;" alt="Add your name, date of birth, and the date you updated each diagram on the three labels of a plain connector">
