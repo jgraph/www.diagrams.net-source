@@ -36,7 +36,7 @@ Doctors may find it more helpful to see how diagnoses are related if you are unl
 
 ## Timelines and symptom cycles
 
-To show when symptoms started and how they have progressed, or how symptoms appear to worsen or get better in cycles, a timeline or a [gantt chart](/blog/gantt-charts.html) is ideal. 
+To show when symptoms started and how they have progressed, or how symptoms appear to worsen or get better in cycles, a [timeline](/blog/timeline-diagrams.html) or a [gantt chart](/blog/gantt-charts.html) is ideal. 
 <br /><img src="/assets/img/blog/medical-diagrams-timeline.png" style="width=100%;max-width:500px;height:auto;" alt="A symptom graph noting common long covid symptoms - see it in a glance rather than a long spoken explanation">
 
 You could also use such a symptom timeline to show how a medication change has impacted symptoms - important when trialling which medication has the most positive effect. 
@@ -62,17 +62,17 @@ There are many other types of diagrams that may be useful, especially if you are
 A chart of blood pressure values, or weight over time. If you use a smart blood pressure monitor, export the graph from your monitoring app as an image and [drag the image onto the drawing canvas in draw.io](/doc/faq/add-images.html). 
 
 Or, track it yourself directly in draw.io using a _Pool_ shape from the _Advanced_ shape library and the [_Waypoint_ shape](/blog/waypoint-shape.html) (via a [shape search](/doc/faq/shape-search.html)) for each value. 
-<br /><img src="/assets/img/blog/medical-diagrams-blood-pressure-chart.gif" style="width=100%;max-width:400px;height:auto;" alt="Add your name, date of birth, and the date you updated each diagram on the three labels of a plain connector">
+<br /><img src="/assets/img/blog/medical-diagrams-blood-pressure-chart.gif" style="width=100%;max-width:400px;height:auto;" alt="Create a graph with the waypoint and pool shapes in draw.io">
 
-A [labelled photograph or illustration](/blog/label-any-diagram.html.html) showing exactly where the symptom occurs, or a [freehand sketch](/blog/freehand-drawing.html.html). The example below uses shapes from the draw.io library (search for ``user``) with basic shapes on top filled with the [sketch style](/doc/faq/sketch-style-fill-patterns.html) to indicate where different types of headache pain is located.
-<br /><img src="/assets/img/blog/medical-diagrams-headaches.png" style="width=100%;max-width:400px;height:auto;" alt="Add your name, date of birth, and the date you updated each diagram on the three labels of a plain connector">
+A [labelled photograph or illustration](/blog/label-any-diagram.html) showing exactly where the symptom occurs, or a [freehand sketch](/blog/freehand-drawing.html). The example below uses shapes from the draw.io library (search for ``user``) with basic shapes on top filled with the [sketch style](/doc/faq/sketch-style-fill-patterns.html) to indicate where different types of headache pain is located.
+<br /><img src="/assets/img/blog/medical-diagrams-headaches.png" style="width=100%;max-width:400px;height:auto;" alt="Label any illustration to visually demonstrate your symptoms">
 
 
 **Organise and update your medical diagrams**
 
 Turnover of staff and short leaves of absence in medical clinics has increased in recent years. Which means, you will likely not see one doctor regularly. That makes it more important for you as the patient to be able to explain your medical history quickly to any new doctor - diagrams will help you do this.
 
-Include your name, date of birth and the date you updated the diagram on each page - this helps doctors associate a health record with a patient. Use a [plain connector with three labels](/doc/faq/labels-add.hml) as it is easy to copy.
+Include your name, date of birth and the date you updated the diagram on each page - this helps doctors associate a health record with a patient. Use a [plain connector with three labels](/doc/faq/connectors.html) as it is easy to copy.
 <br /><img src="/assets/img/blog/medical-diagrams-name-date-connector.png" style="width=100%;max-width:400px;height:auto;" alt="Add your name, date of birth, and the date you updated each diagram on the three labels of a plain connector">
 
 **More diagramming tips for patients**
