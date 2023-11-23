@@ -212,6 +212,8 @@ This configuration produces the following _More Shapes_ dialog when combined wit
 
 * ``emptyDiagramXml/emptyLibraryXml``: Defines the XML for blank diagrams and libraries (6.5.4 and later).
 
+* ``selectParentLayer``: true - Selects the parent layer for the current selection (22.1.4 and later). Default is false.
+
 * ``defaultEdgeLength``: Defines the default length for new connectors (7.2.4 and later).
 
 * ``defaultPageVisible``: Defines whether the page is initially visible (true/false).
