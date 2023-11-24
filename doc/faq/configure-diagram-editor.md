@@ -190,7 +190,7 @@ This configuration produces the following _More Shapes_ dialog when combined wit
 
 * ``sidebarWidth``: Specifies the initial width of the sidebar.
 
-* ``updateDefaultStyle``: Whether the default styles should be updated when styles are changed. Default is true.
+* ``updateDefaultStyle``: Whether the default styles should be updated when styles are changed. Default is false.
 
 * ``sidebarTitles``: Specifies if titles in the sidebar should be visible. Default is false.
 
@@ -211,6 +211,8 @@ This configuration produces the following _More Shapes_ dialog when combined wit
 * ``simpleLabels``: true - Disables word wrap and complex formatting for labels by default to avoid foreignObjects in the SVG output (14.5.9 and later).
 
 * ``emptyDiagramXml/emptyLibraryXml``: Defines the XML for blank diagrams and libraries (6.5.4 and later).
+
+* ``selectParentLayer``: true - Selects the parent layer for the current selection (22.1.4 and later). Default is false.
 
 * ``defaultEdgeLength``: Defines the default length for new connectors (7.2.4 and later).
 

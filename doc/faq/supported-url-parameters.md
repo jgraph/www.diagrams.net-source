@@ -34,6 +34,7 @@ The following URL parameters are supported by the online version of the draw.io 
 * ``grid=1``: Sets the default grid enabled to true.
 * ``nav=1``: Enables folding in chromeless mode.
 * ``layers=1``: Adds layer control in chromeless mode
+* ``layer-ids=id1 id2...``: Space-separated list of layer IDs to show. If not specified, all layers are shown.
 * ``close=1``: Shows the _Close_ button in chromeless mode which closes the window when selected.
 * ``rev=id``: Selects a specific revision of a Google Drive or Dropbox file.
 * ``pv=0``: Sets the default ``pageVisible`` to ``false``.
