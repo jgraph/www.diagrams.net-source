@@ -206,6 +206,8 @@ This configuration produces the following _More Shapes_ dialog when combined wit
 
 * ``pageFormat``: Defines the default page format, eg. ``"pageFormat": {"width": 1169, "height": 1654}`` for DIN A3, with inches * 10 for width and height (15.0.0 and later).
 
+* ``defaultGridSize``: Defines the default grid size for new diagrams (22.1.5 and later). Default is 10.
+
 * ``gridSteps``: Defines the number of minor grid steps (14.3.2 and later).
 
 * ``simpleLabels``: true - Disables word wrap and complex formatting for labels by default to avoid foreignObjects in the SVG output (14.5.9 and later).
