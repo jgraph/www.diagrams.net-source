@@ -168,6 +168,8 @@ This configuration produces the following _More Shapes_ dialog when combined wit
 
 * ``enableCustomLibraries``: Specifies if the open and new library functions are enabled (``true`` or ``false``, the default is ``true``).
 
+* ``expandLibraries``: Specifies if libraries are expanded by default (``true`` or ``false``, the default is ``true``) (22.1.6 and later).
+
 * ``templateFile``: Defines the URL of the source file for the _Templates_ dialog (multiple ``<template>`` tags are allowed).
 <br />**Note:** The XML type declaration is required if this file is downloaded via the proxy server, using the [``cors`` URL parameter](/doc/faq/supported-url-parameters.html) (9.2.5 and later).
 
