@@ -37,7 +37,7 @@ Change which diagram page and layers are displayed in an embedded diagram via th
 
 ## Related
 
-Diagrams in the .drawio file format that are stored on [OneDrive](/doc/faq/embed-diagram-onedrive-confluence-cloud.md) and [Google Drive](/doc/faq/embed-diagram-googledrive-confluence-cloud.md) can also be embedded in Confluence Cloud.
+Diagrams in the .drawio file format that are stored on [OneDrive](/doc/faq/embed-diagram-onedrive-confluence-cloud.html) and [Google Drive](/doc/faq/embed-diagram-googledrive-confluence-cloud.html) can also be embedded in Confluence Cloud.
 
 * [Edit an embedded diagram in Confluence Cloud](/doc/faq/confluence-cloud-edit-embedded-diagram.html)
 * [Make a copy of a diagram in Confluence Cloud](/doc/faq/confluence-cloud-copy-diagram.html)

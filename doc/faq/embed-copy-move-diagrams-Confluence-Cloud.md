@@ -38,7 +38,7 @@ You can select which layers and pages are shown each time you embed a diagram, m
 
 [Learn how to embed and reuse diagrams, and select which layers and pages to display](/doc/faq/confluence-cloud-embed-diagram.html)
 
-Diagrams in the .drawio file format that are stored on [OneDrive](/doc/faq/embed-diagram-onedrive-confluence-cloud.md) and [Google Drive](/doc/faq/embed-diagram-googledrive-confluence-cloud.md) can also be embedded in Confluence Cloud.
+Diagrams in the .drawio file format that are stored on [OneDrive](/doc/faq/embed-diagram-onedrive-confluence-cloud.html) and [Google Drive](/doc/faq/embed-diagram-googledrive-confluence-cloud.html) can also be embedded in Confluence Cloud.
 
 ## Related
 

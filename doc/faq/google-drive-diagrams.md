@@ -45,7 +45,7 @@ To allow non-Google users to see your diagram, you can [publicly publish it](/do
 
 All changes made to your diagrams are automatically saved to your Google Drive, and you can see these changes in the [versions of your diagrams](/doc/faq/google-drive-revision-history.html) - you'll see who made what change and when.
 
-You can [rename, copy and move your diagram files stored in Google Drive](google-drive-rename-copy-move-diagrams.md) via the _File_ menu in the draw.io editor. 
+You can [rename, copy and move your diagram files stored in Google Drive](/doc/faq/google-drive-rename-copy-move-diagrams.html) via the _File_ menu in the draw.io editor. 
 
 
 ### Return to Google Drive from the draw.io editor
