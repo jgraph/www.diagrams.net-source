@@ -2,7 +2,7 @@
 layout: post
 author: draw.io
 slug: types-of-technical-diagrams
-date: 2023-12-06 09:10:00
+date: 2023-12-08 09:10:00
 title: The many types of technical diagrams
 tags: [use-cases]
 categories: [features, use-cases]
