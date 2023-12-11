@@ -168,6 +168,8 @@ This configuration produces the following _More Shapes_ dialog when combined wit
 
 * ``enableCustomLibraries``: Specifies if the open and new library functions are enabled (``true`` or ``false``, the default is ``true``).
 
+* ``appendCustomLibraries``: Specifies if custom libraries should appear after built-in libraries (``true`` or ``false``, the default is ``false``) (22.1.7 and later).
+
 * ``expandLibraries``: Specifies if libraries are expanded by default (``true`` or ``false``, the default is ``true``) (22.1.6 and later).
 
 * ``templateFile``: Defines the URL of the source file for the _Templates_ dialog (multiple ``<template>`` tags are allowed).
