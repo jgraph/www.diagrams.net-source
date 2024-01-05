@@ -19,7 +19,7 @@ Tree diagrams are used to show hierarchies, to categorise something or show deci
 * All elements, except the root node have a **parent** node. The elements that are one step lower down the hierarchy from an element are its **children**.
 * If an element has no children, it is a **leaf** node - is the end of a branch. 
 * **Sibling** nodes share a parent node. 
-* You can follow branches toward the root node to find an elements' **ancestors**, or in the opposite direction toward the leaf nodes to find its **descendents**
+* You can follow branches toward the root node to find an elements' **ancestors**, or in the opposite direction toward the leaf nodes to find its **descendants**
 
 ## Draw a tree diagram in draw.io
 
