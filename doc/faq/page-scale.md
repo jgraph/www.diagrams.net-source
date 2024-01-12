@@ -5,7 +5,7 @@ faq: true
 categories: [Features]
 ---
 
-Changing the scale of the page will change the size of your diagram when you print it or [export it to a PDF](/doc/faq/export-to-pdf.md). 
+Changing the scale of the page will change the size of your diagram when you print it or [export it to a PDF](/doc/faq/export-to-pdf.html). 
 
 1. With nothing selected in your diagram, ensure the _Page View_ checkbox is enabled in the format panel on the right.
 2. Select _View > Page Scale_ from the menu.

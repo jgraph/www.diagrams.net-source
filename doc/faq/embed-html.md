@@ -13,15 +13,14 @@ Select _File > Embed_.
 ## Embed a diagram using HTML
 
 1. Select _File > Embed > HTML_ to open the HTML options dialog.
-2. Select from the following [embed HTML options](/doc/faq/embed-html-options.html)
-  ). When you've finished setting the options, click on _Create_.
+2. Select from the following [embed HTML options](/doc/faq/embed-html-options.html), then click on _Create_.
   * Include a copy of your diagram in the HTML or use the public link to your original diagram file.
   * Choose whether you want Links to open in the current window or in a new window.
   * Choose whether to zoom in or out.
   * Select you want to include all pages and/or layers.
   * If you want to display the diagram in a lightbox, choose what should happen when a user clicks on the edit icon.
   <br /><img src="/assets/img/blog/embed-html.png" style="width=100%;max-width:300px;height:auto;" alt="Generate a HTML code version of your diagram">
-3. Copy the generated HTML code and paste it into your webpage.
+1. Copy the generated HTML code and paste it into your webpage.
 <br /><img src="/assets/img/blog/diagram-html.png" style="width=100%;max-width:300px;height:auto;" alt="Copy the generated HTML code">
 
 When you load the webpage in your browser, the diagram will appear with a toolbar, if you have used the default settings.
@@ -47,7 +46,7 @@ IFrames use the draw.io lightbox and centre the diagram in the page. If you have
 * [Use diagrams in Google Docs](/blog/diagrams-google-docs.html)
 * [Embed a diagram into Google Sites](/doc/faq/embed-diagrams-google-sites.html)
 * [Embed diagrams from Google Drive into Confluence](/doc/faq/embed-diagram-googledrive-confluence-cloud.html)
-* [Embed diagrams from OneDrive into Confluence](/doc/faq/embed-diagram-onedrive-confluence-cloud.md.html)
+* [Embed diagrams from OneDrive into Confluence](/doc/faq/embed-diagram-onedrive-confluence-cloud.html)
 * [Embed a diagram as an SVG image](/doc/faq/embed-svg.html)
 * [Embed diagrams into GitHub pages](/blog/embed-diagrams-github-markdown.html)
 * [Simple draw.io embedding walk-through][/blog/embedding-walkthrough.html]
