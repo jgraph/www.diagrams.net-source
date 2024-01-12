@@ -5,7 +5,7 @@ slug: charts-in-drawio
 date: 2023-11-24 09:10:00
 title: Can you draw graphs and charts in draw.io?
 tags: [use-cases]
-categories: [features, use-cases,]
+categories: [features, use-cases]
 ---
 
 draw.io is not a spreadsheet program - there are no figures from which to draw charts and graphs automatically. But there _are plenty of useful shapes_ in draw.io, so you can easily create attractive charts and graphs for presentations and infographics. 
