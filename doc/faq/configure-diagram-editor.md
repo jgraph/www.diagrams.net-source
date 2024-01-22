@@ -252,15 +252,29 @@ This configuration produces the following _More Shapes_ dialog when combined wit
 
 * ``maxImageSize``: Defines the maximum width or height of the image, where the lowest value is used. Default is _520_.
 
-* ``oneDriveInlinePicker``: Specifies if the inline picker for OneDrive should be used. Default is true if inlinePicker URL parameter isn't used.
+* ``oneDriveInlinePicker``: Specifies if the inline picker for OneDrive should be used. Default is ``true`` if inlinePicker URL parameter isn't used.
 
-* ``settingsName``: Specifies a name for storing user settings, usually in embed mode, in the form .{name}-config, in local storage.
+* ``settingsName``: Specifies a name for storing user settings, usually in embed mode, in the form ``.{name}-config``, in local storage.
 
-* ``shareCursorPosition``: Specifies the default value for shared cursors in real-time collaboration. Default is true.
+* ``shareCursorPosition``: Specifies the default value for shared cursors in real-time collaboration. Default is ``true``.
 
-* ``showRemoteCursors``: Specifies the default value for showing remote cursors in real-time collaboration. Default is true.
+* ``showRemoteCursors``: Specifies the default value for showing remote cursors in real-time collaboration. Default is ``true``.
 
-* ``enableCssDarkMode``: Specifies if CSS should be used for [dark mode](/blog/dark-mode-diagrams.html). Default is true.
+* ``enableCssDarkMode``: Specifies if CSS should be used for [dark mode](/blog/dark-mode-diagrams.html). Default is ``true``.
+
+* ``replaceSvgDataUris``: Specifies if data URIs should be replaced with SVG sub-trees in SVG export. Default is ``true``.
+
+* ``foreignObjectImages``: Specifies if foreignObject alternate content should be replaced with an image of the HTML text. Default is ``true``.
+
+## Experimental ChatGPT support
+
+[Help for experimental ChatGPT support](https://github.com/jgraph/drawio/discussions/4044)
+
+* ``gptApiKey``: Specifies the ChatGPT API key. Default is ``null``.
+
+* ``gptModel``: ChatGPT model to be used. Default is ``gpt-3.5-turbo``.
+
+* ``gptUrl``: API endpoint for ChatGPT requests. Default is ``https://api.openai.com/v1/chat/completions``.
 
 ## Additional options for Confluence Server and Data Center
 
