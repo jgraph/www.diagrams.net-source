@@ -172,12 +172,18 @@ This configuration produces the following _More Shapes_ dialog when combined wit
 
 * ``expandLibraries``: Specifies if libraries are expanded by default (``true`` or ``false``, the default is ``true``) (22.1.6 and later).
 
-* ``templateFile``: Defines the URL of the source file for the _Templates_ dialog (multiple ``<template>`` tags are allowed).
-<br />**Note:** The XML type declaration is required if this file is downloaded via the proxy server, using the [``cors`` URL parameter](/doc/faq/supported-url-parameters.html) (9.2.5 and later).
+* ``templateFile``: Defines the URL of the source file for the _Templates_ dialog (multiple ``<template>`` and ``<clibs>`` tags are allowed). [Example](https://app.diagrams.net/templates/index.xml)
+<br />**Note:** The XML type declaration is required if this file is downloaded via the proxy server, using the [``cors`` URL parameter](/doc/faq/supported-url-parameters.html) (9.2.5 and later). The ``subsection``, ``preview``, ``tags`` and ``name`` attributes are optional. Default for ``name`` is ``url`` and default for ``preview`` is ``url`` with the ``xml`` extension replaced by ``png``, ``tags`` is a semicolon separated list of search terms (eg. ``tags="classDiagram;Classes"``), ``libs`` is a semicolon separated list of built-in libraries (eg. ``libs="general;basic;arrows"``) and the optional ``clibs`` attribute is either a file descriptor for a custom library (eg. ``clibs="Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2F%2Farista.xml"``) or a reference to a ``clibs`` entry (eg. ``clibs="example"``):
 
 ```
 <?xml version="1.0"?>
-<templates><template section="Title" url="http://example.com/diagram.xml" title="Diagram" preview="https://example.com/diagram.png" libs="general"/></templates>
+<templates>
+  <clibs name="example">
+    <add>Uhttps://jgraph.github.io/drawio-libs/libs/integration/additional_or_support.xml</add>
+    <add>Uhttps://jgraph.github.io/drawio-libs/libs/integration/ai_machine_learning.xml</add>
+  </clibs>
+  <template section="Title" subsection="Subtitle" url="http://example.com/diagram.xml" title="Diagram" name="Tooltip" preview="https://example.com/diagram.png" libs="general;basic" clibs="example" tags="term1;term2" />
+</templates>
 ```
 
 * ``css``: Defines a string with CSS rules to be used to configure the draw.io user interface. For example, to change the background colour of the menu bar, use the following: ``{"css": ".geMenubarContainer { background-color: #c0c0c0 !important; } .geMenubar { background-color: #c0c0c0 !important; }"}`` (6.5.2 and later).
@@ -246,15 +252,29 @@ This configuration produces the following _More Shapes_ dialog when combined wit
 
 * ``maxImageSize``: Defines the maximum width or height of the image, where the lowest value is used. Default is _520_.
 
-* ``oneDriveInlinePicker``: Specifies if the inline picker for OneDrive should be used. Default is true if inlinePicker URL parameter isn't used.
+* ``oneDriveInlinePicker``: Specifies if the inline picker for OneDrive should be used. Default is ``true`` if inlinePicker URL parameter isn't used.
 
-* ``settingsName``: Specifies a name for storing user settings, usually in embed mode, in the form .{name}-config, in local storage.
+* ``settingsName``: Specifies a name for storing user settings, usually in embed mode, in the form ``.{name}-config``, in local storage.
 
-* ``shareCursorPosition``: Specifies the default value for shared cursors in real-time collaboration. Default is true.
+* ``shareCursorPosition``: Specifies the default value for shared cursors in real-time collaboration. Default is ``true``.
 
-* ``showRemoteCursors``: Specifies the default value for showing remote cursors in real-time collaboration. Default is true.
+* ``showRemoteCursors``: Specifies the default value for showing remote cursors in real-time collaboration. Default is ``true``.
 
-* ``enableCssDarkMode``: Specifies if CSS should be used for [dark mode](/blog/dark-mode-diagrams.html). Default is true.
+* ``enableCssDarkMode``: Specifies if CSS should be used for [dark mode](/blog/dark-mode-diagrams.html). Default is ``true``.
+
+* ``replaceSvgDataUris``: Specifies if data URIs should be replaced with SVG sub-trees in SVG export. Default is ``true``.
+
+* ``foreignObjectImages``: Specifies if foreignObject alternate content should be replaced with an image of the HTML text. Default is ``true``.
+
+## Experimental ChatGPT support
+
+[Help for experimental ChatGPT support](https://github.com/jgraph/drawio/discussions/4044)
+
+* ``gptApiKey``: Specifies the ChatGPT API key. Default is ``null``.
+
+* ``gptModel``: ChatGPT model to be used. Default is ``gpt-3.5-turbo``.
+
+* ``gptUrl``: API endpoint for ChatGPT requests. Default is ``https://api.openai.com/v1/chat/completions``.
 
 ## Additional options for Confluence Server and Data Center
 

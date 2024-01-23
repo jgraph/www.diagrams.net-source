@@ -7,11 +7,9 @@ categories: [Confluence Cloud, Gliffy, Import]
 
 As an administrator, you can convert all of the Gliffy diagrams in your Confluence Cloud instance into draw.io diagrams with one click.
 
-1. Go to the Confluence Settings in your Cloud instance.
-2. Select on _draw.io Gliffy Import_ in the left menu.
-3. Click on the _Start Import_ button and wait for the import to complete.
-
-<img src="/assets/img/blog/confluence-cloud-start-gliffy-import.png" style="width=100%;max-width:400px;height:auto;" alt="Start the Gliffy mass import to draw.io diagrams in Confluence Cloud">
+1. Go to the draw.io add-on > Gliffy Mass Import in your Cloud instance administration.
+2. Click _Start Import_ and wait for the import to complete. If you want to mass import diagrams in specific spaces, select them from the _Filter by spaces_ list.
+<br /><img src="/assets/img/blog/confluence-cloud-start-gliffy-import.png" style="width=100%;max-width:500px;height:auto;" alt="Start the Gliffy mass import to draw.io diagrams in Confluence Cloud">
 
 **Important**
 
@@ -22,9 +20,9 @@ As an administrator, you can convert all of the Gliffy diagrams in your Confluen
 
 ## Gliffy to draw.io c​onversion log
 
-You'll see a running log of the conversion. Copy this long once it is finished so you can check page and diagram content if errors occurred.
+You'll see a running log of the conversion. Click _Download_ to save the report once it is finished so you can check the page and diagram content if errors occurred.
 
-<img src="/assets/img/blog/confluence-cloud-gliffy-import-log.png" style="width=100%;max-width:400px;height:auto;" alt="Log of the Gliffy mass import to draw.io in Confluence Cloud">
+<img src="/assets/img/blog/confluence-cloud-gliffy-import-log.png" style="width=100%;max-width:500px;height:auto;" alt="Log of the Gliffy mass import to draw.io in Confluence Cloud">
 
 No data is lost in this conversion process - a new page version will be created where Gliffy macros are replaces with draw.io macros containing the converted diagram. The original Gliffy diagram files are still attached to their page and unchanged.
 

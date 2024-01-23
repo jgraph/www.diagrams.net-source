@@ -24,6 +24,6 @@ The embedded diagrams and files in Confluence will no longer be able to be displ
 
 When you reinstall the draw.io app for Confluence Cloud, as long as the connection with OneDrive is still authorised, your diagrams and files will be displayed again, no further steps necessary.
 
-**Tip:** You can also embed [diagrams from Google Drive](/doc/faq/embed-diagram-googledrive-confluence-cloud.html), [from other Confluence pages](/doc/faq/embed-copy-move-diagrams-confluence-cloud.md), and [from OneDrive in Jira issues](/doc/faq/embed-diagram-onedrive-jira-cloud.html)
+**Tip:** You can also embed [diagrams from Google Drive](/doc/faq/embed-diagram-googledrive-confluence-cloud.html), [from other Confluence pages](/doc/faq/embed-copy-move-diagrams-confluence-cloud.html), and [from OneDrive in Jira issues](/doc/faq/embed-diagram-onedrive-jira-cloud.html)
 
 <img src="/assets/img/blog/embed-diagrams-confluence-cloud.png" style="max-width:100%;height:auto;" alt="Embedded diagrams in draw.io for Confluence Cloud">

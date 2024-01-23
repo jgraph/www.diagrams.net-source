@@ -4,8 +4,8 @@ author: draw.io
 slug: watermark-diagrams
 date: 2023-10-04 09:54:00
 title: Three ways to add watermarks to draw.io diagrams
-tags: [shapes, features, layers]
-categories: [features, shapes, layers]
+tags: [shapes, features]
+categories: [features, shapes]
 ---
 
 Watermarks are used widely in photography, illustrations and diagrams. You can add a watermark to a draw.io diagram in a number of ways - using a locked shape or image, a locked layer in the foreground or background that contains the watermark, or a watermark on a separate [diagram page used as a background image](/doc/faq/background-diagram.html).

@@ -134,7 +134,7 @@ Now that you have completed your AWS architecture diagram, you can share it with
 
 You can also share a copy your diagram with colleagues without having to share the file itself. Select _File > Publish > Link_ and draw.io will encode your diagram in a long generated link.
 
-[Learn more about publishing your diagram as a link](doc/faq/publish-diagram-as-link.md)
+[Learn more about publishing your diagram as a link](doc/faq/publish-diagram-as-link.html)
 
 ### Export your AWS diagram
 
