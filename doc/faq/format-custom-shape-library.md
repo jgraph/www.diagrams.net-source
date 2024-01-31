@@ -51,7 +51,7 @@ If you want to store these compressed by default, set ``compressXml=true`` in th
 
 **Compress an mxGraphModel XML property**
 
-To compress the XM property, use the [draw.io conversion tool](https://jgraph.github.io/drawio-tools/tools/convert.html). 
+To compress the XML property, use the [draw.io conversion tool](https://jgraph.github.io/drawio-tools/tools/convert.html). 
 
 The example above when compressed looks like: 
 ```

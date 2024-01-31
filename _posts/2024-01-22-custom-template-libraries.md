@@ -65,12 +65,6 @@ Open the draw.io ``clibs`` parameter and the URI-encoded URL to open the custom 
 
 ## Related
 
-**Can I make draw.io include custom template libraries?**
+To troubleshoot problems with custom library files, refer to the [draw.io custom library file format](/doc/faq/format-custom-shape-library.html).
 
-Yes - the [file format that is used for custom shape libraries](/doc/faq/format-custom-shape-library.html) is also used to store the template diagrams for each template category. In the next post, we'll show you how to configure draw.io to customise the templates available in the template library.
-
-**Create and use custom libraries in Confluence Cloud**
-
-As a draw.io user in Confluence, you can work with custom libraries on your local device as described above. To share custom libraries with others in your team or organisation, you'll need to add them to the instance as an administrator. 
-
-[See how to configure draw.io to use custom libraries](/doc/faq/custom-libraries-confluence-cloud.html)
+If you use draw.io in Confluence, to share custom libraries with others in your team or organisation, you'll need to add them to the instance as an administrator. [See how to configure draw.io to use custom libraries](/doc/faq/custom-libraries-confluence-cloud.html)

@@ -7,20 +7,24 @@ categories: [Confluence Cloud, Customisation]
 
 Custom templates can speed up diagramming and ensure users diagram with a consistent style.
 
-Custom template libraries are stored in the draw.io config space and accessed through the draw.io Configuration in the Confluence Cloud administration settings. Administrators can organise custom templates into categories and make them available to their users whenever they create a new diagram.
+Custom template libraries are stored in the draw.io Configurations space. Administrators can organise custom templates into categories and make them available to their users whenever they create a new diagram.
 
-**Important:** Administrators must [set appropriate **read** (Add) permissions for the draw.io config space](/doc/faq/confluence-drawio-config-space-permissions.html) in the Confluence instance so that all draw.io users can access these custom libraries.
+**Important:** Administrators must [set appropriate **read** (Add) permissions for the draw.io Configurations space](/doc/faq/confluence-drawio-config-space-permissions.html) in the Confluence instance so that all draw.io users can access these custom templates.
 
 ### Add a custom template diagram to Confluence Cloud
 
-1. Go to the Confluence Settings. In the _Atlassian Marketplace_ section on the left, click on _draw.io Configuration_.
+1. As an administrator, go to your instance's administration area. Under the _draw.io add-on_ section, select _Configuration_.
 2. Go to the _Custom Templates_ tab, then click on the _Templates page_ link.
 <br /><img src="/assets/img/blog/open-custom-templates-confluence-cloud-admin.png" style="width=100%;max-width:400px;height:auto;" alt="Go to the Templates page via the draw.io Configuration in Confluence Cloud">
-3. Add a child page to this Templates page to create a new template category, or edit a child page to add a new template to that category. Make sure _draw.io Configurations_ is selected in the drop down list to ensure your template is available to everyone. Then click _Create_.
-<br /><img src="/assets/img/blog/add-custom-template-library-confluence-cloud.png" style="width=100%;max-width:400px;height:auto;" alt="Add a new category to store custom template diagrams in Confluence Cloud">
-4. Add your template diagrams to this new page and save it.
+1. Add a child page to this Templates page to create a new template category, or edit a child page to add a new template to that category. Make sure _draw.io Configurations_ is selected in the drop down list to ensure your template is available to everyone. Then click _Create_.
+<br /><img src="/assets/img/blog/add-custom-template-library-confluence-cloud.png" style="width=100%;max-width:300px;height:auto;" alt="Add a new category to store custom template diagrams in Confluence Cloud">
+1. Add your template diagrams to this new page and save it.
+<br /><img src="/assets/img/blog/custom-template-library-confluence-cloud-publish.png" style="width=100%;max-width:500px;height:auto;" alt="Publish the page with the diagram macros to add a new template diagram category in draw.io for Confluence Cloud">
 
-There may be a small delay before the new templates are available in the template library.
+**Note:** There may be a small delay before the new custom templates are available in the template library.
+
+The custom template categories are listed in the contents under _Templates_ on the left in the draw.io Configurations space. 
+<br /><img src="/assets/img/blog/custom-templates-confluence-cloud.png" style="width=100%;max-width:500px;height:auto;" alt="Custom templates are in the draw.io Configurations space in Confluence Cloud">
 
 ### Use a custom template diagram in Confluence Cloud
 
@@ -30,17 +34,18 @@ There may be a small delay before the new templates are available in the templat
 
 ### Delete custom templates from Confluence Cloud
 
-1. Go to the Confluence Settings. In the _Atlassian Marketplace_ section on the left, click on _draw.io Configuration_, click on the _Custom Templates_ tab and then on the _Templates page_ link to see all of the custom templates in your Confluence Cloud instance.
-2. Edit the page (category) that contains the template you want to delete and delete the draw.io macro, then publish the page.
-3. Go to the page attachments, click on the _draw.io Diagrams_ tab, and click on the _Delete_ link for the diagram that matches the macro that you just deleted.
-<br /><img src="/assets/img/blog/delete-custom-template-attachment-confluence-cloud.png" style="max-width:100%;height:auto;" alt="Delete the template diagram from the list of draw.io diagrams attached to that page">
+1. As an administrator, under the draw.io add-on section in your Confluence Cloud administration select _Configuration_, and then click on the _Templates page_ link to see all of the custom templates in your Confluence Cloud instance.
+2. Edit the page (category) that contains the template you want to delete and select and remove the draw.io macro that contains the template diagram, then publish the page (_Update_).
+<br /><img src="/assets/img/blog/custom-templates-confluence-cloud-delete.png" style="width=100%;max-width:400px;height:auto;" alt="Select and delete a draw.io diagram macro from a draw.io template category page in Confluence Cloud in the draw.io Configurations space">
+1. Go to the page attachments, click on the _Delete_ link for the ``.drawio`` diagram file and its ``.svg`` and ``.png`` preview images that matches the macro that you just deleted. There will be three files for each macro you deleted.
+<br /><img src="/assets/img/blog/delete-custom-template-attachment-confluence-cloud.png" style="max-width:100%;height:auto;" alt="Delete the template diagram and its preview images from the list of draw.io diagrams attached to that page">
 
 The template diagram you have just deleted will no longer be available in the template manager.
 
 ### Delete custom template categories from Confluence Cloud
 
-1. 1. Go to the Confluence Settings. In the _Atlassian Marketplace_ section on the left, click on _draw.io Configuration_, click on the _Custom Templates_ tab and then on the _Templates page_ link to see all of the custom templates in your Confluence Cloud instance.
+1. As an administrator, under the draw.io add-on section in your Confluence Cloud administration select _Configuration_, and then click on the _Templates page_ link to see all of the custom templates in your Confluence Cloud instance.
 2. Delete the page that matches the template category you want to remove.
 <br /><img src="/assets/img/blog/delete-custom-template-category-confluence-cloud.png" style="max-width:100%;height:auto;" alt="Delete a category and its custom template diagrams in Confluence Cloud">
 
-The custom template category and the diagrams it contained will no longer be available in the template manager.
+The custom template category and all of the custom template diagrams it contained will no longer be available in the template manager.
