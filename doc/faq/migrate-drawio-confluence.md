@@ -1,26 +1,34 @@
 ---
-title: Migrate draw.io from one Confluence Cloud instance to another
+title: Migrate draw.io from one Confluence instance to another by updating PageIDs
 layout: page
 faq: true
 categories: [Confluence Cloud]
 ---
 
-draw.io data in Confluence Cloud consists of two parts:
+draw.io data in Confluence consists of two parts:
 
 * attachments on the pages that contain the diagram data
 * draw.io macros in the pages that use the attachments
 
 draw.io macros either reference diagram attachments attached to that page (most commonly), or contain a ``Page ID`` which is the Confluence page ID that the diagram exists on.
 
-All draw.io attachments and macro are migrated as part of your standard Confluence migration. Our migration steps migrate no data.
+All draw.io diagram attachments and macros are migrated as part of your standard Confluence migration. Our migration steps migrate no diagram data.
 
-The issue when you migrate across Confluence Cloud instances is that ``Page IDs`` change. This migration step isn't a data migration step, it's, mainly, a "fix pageIDs" migration step.
+The issue when you migrate across Confluence instances is that ``Page IDs`` change. This migration step isn't a data migration step, it's, mainly, a "fix pageIDs" migration step.
 
 This affects:
 * **Diagrams with links on shapes** that link to a Confluence page, somewhere in your instance contain the ``Page ID`` of the target page. 
 * **Embedded diagrams using the draw.io embed macro** stores the ``Page ID`` of the page where the original diagram file is attached in the macro.
 
 When creating pages on a new instance, those Confluence ``Page IDs`` will change. Therefore, to update the links within diagrams and embed macros so they point to the right pages in the new instance, we must update all the ``Page IDs`` in diagram links and embedded diagram macros. 
+
+**Should I use this ``Page IDs`` method, or the new draw.io migration tool?**
+
+The [new draw.io migration tool](/blog/confluence-drawio-migration.html) in Confluence Data Center/Server 8.0 updates the macros in your server-side instance first, and avoid problems with inadequate permissions in your Cloud instance. We recommend you [use the new migration tool](/doc/faq/migrate-drawio-dc-server-confluence-cloud.html) if it's available in your DC/Server instance. 
+
+If you are migrating from an older version of Confluence, migrating from one Cloud instance to another, or have write permissions to your entire new Cloud instance and are currently using Confluence DC/Server 8.0, you can follow the steps below to export then import the ``Page IDs`` to migrate the draw.io diagrams in your instance. 
+
+## Migrating using the ``Page IDs`` method
 
 In the draw.io app administration, first _export_ the ``Page IDs`` from your source instance, and then in your target instance, _import_ the ``Page IDs`` via the draw.io app administration. 
 
