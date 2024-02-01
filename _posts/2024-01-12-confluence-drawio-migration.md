@@ -3,17 +3,23 @@ layout: post
 author: draw.io
 slug: confluence-drawio-migration
 date: 2024-01-12 09:54:00
-title: Migrating with draw.io from Confluence Data Center/Server to Confluence Cloud
+title: Migrating with draw.io from Confluence Data Center/Server 8.0 to Confluence Cloud
 tags: [features, Atlassian]
 categories: [features,atlassian]
 ---
 
 
-draw.io has updated the migration process for moving a Confluence Data Center/Server instance to Confluence Cloud with a macro to ensure diagrams are embedded and linked properly. 
+draw.io has updated the migration process for moving a Confluence Data Center/Server 8.0 instance to Confluence Cloud with a macro to ensure diagrams are embedded and linked properly. 
 
-Previously, the Confluence ``pageID`` was used when adding a links to diagrams and for embedding a diagram from one page to another. When a page is recreated in Confluence Cloud, it is assigned a different ``pageID``, often breaking in-diagram links and embedded diagrams. 
+The Confluence ``pageID`` is used when adding a links to diagrams and for embedding a diagram from one page to another. When a page is recreated in Confluence Cloud, it is assigned a different ``pageID``, often breaking in-diagram links and embedded diagrams.
 
 With draw.io's migration tool, diagram macros in your Data Center/Server instance will be updated to use ``SPACE/PAGENAME``.  
+
+**Should I use this new migration tool?**
+
+If, as an administrator, you have write permissions to the entire new Cloud instance, and you are using Confluence DC/Server 8.0 or older versions, or migrating from one Cloud instance to another, or using an older version of Confluence DC/Server you can use the ``Page IDs`` method to migrate draw.io diagrams to Cloud - [follow these instructions to export/import the ``Page IDs`` in the draw.io add-on settings](/doc/faq/migrate-drawio-confluence.html).
+
+If you are using Confluence Data Center/Server 8.0, and you _don't have full write permissions_ in your new Cloud instance, you will need to run this new migration tool, following the steps below.
 
 **Run the draw.io migrate tool on Data Center/Server**
 
