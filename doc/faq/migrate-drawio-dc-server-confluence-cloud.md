@@ -23,9 +23,12 @@ The draw.io migration tool doesn't migrate any data, it replaces the ``Page IDs`
 
 **Should I use this new drawio migration tool, or the import/export ``Page IDs`` method?**
 
-The [new draw.io migration tool](/blog/confluence-drawio-migration.html) in Confluence Data Center/Server 8.0 updates the macros in your server instance first, and avoid problems with inadequate permissions in your Cloud instance. We recommend you follow the steps below if you can see the draw.io migration tool in your DC/Server instance administration. 
+The [new draw.io migration tool](/blog/confluence-drawio-migration.html) in Confluence Data Center/Server 8.0 updates the macros in your server instance first, and avoids problems with inadequate permissions in your Cloud instance. We recommend you follow the steps below if you can see the draw.io migration tool in your DC/Server instance administration. 
 
-However, if you are migrating from an older version of Confluence DC/Server, migrating from one Cloud instance to another, or have write permissions to your entire new Cloud instance and are currently using Confluence DC/Server 8.0, you can [use the ``Page IDs`` method to migrate the draw.io diagrams in your instance]().
+If you prefer, you can [use the older ``Page IDs`` method](/doc/faq/migrate-drawio-confluence.html) if you are: 
+* migrating from an older version of Confluence DC/Server
+* migrating from one Cloud instance to another or from Cloud to DC/Server
+* you have write permissions to your entire new Cloud instance (rare) and want to migrate from the Confluence DC/Server 8.0 using this older method
 
 ## Use the draw.io migration tool to migrate your Confluence 8.0 DC/Server instance
 
