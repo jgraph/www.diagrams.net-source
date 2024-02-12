@@ -17,9 +17,12 @@ With draw.io's migration tool, diagram macros in your Data Center/Server instanc
 
 **Should I use this new migration tool?**
 
-If, as an administrator, you have write permissions to the entire new Cloud instance, and you are using Confluence DC/Server 8.0 or older versions, or migrating from one Cloud instance to another, or using an older version of Confluence DC/Server you can use the ``Page IDs`` method to migrate draw.io diagrams to Cloud - [follow these instructions to export/import the ``Page IDs`` in the draw.io add-on settings](/doc/faq/migrate-drawio-confluence.html).
+If you prefer, you can [use the older ``Page IDs`` method](/doc/faq/migrate-drawio-confluence.html) if you are: 
+* migrating from an older version of Confluence DC/Server
+* migrating from one Cloud instance to another or from Cloud to DC/Server
+* you have write permissions to your entire new Cloud instance (rare) and want to migrate from the Confluence DC/Server 8.0 using this older method
 
-If you are using Confluence Data Center/Server 8.0, and you _don't have full write permissions_ in your new Cloud instance, you will need to run this new migration tool, following the steps below.
+However, if you are using Confluence Data Center/Server 8.0, and you _don't have full write permissions_ in your new Cloud instance, you will need to run this new migration tool, following the steps below.
 
 **Run the draw.io migrate tool on Data Center/Server**
 

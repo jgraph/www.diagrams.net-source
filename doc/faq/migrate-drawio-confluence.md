@@ -24,9 +24,12 @@ When creating pages on a new instance, those Confluence ``Page IDs`` will change
 
 **Should I use this ``Page IDs`` method, or the new draw.io migration tool?**
 
-The [new draw.io migration tool](/blog/confluence-drawio-migration.html) in Confluence Data Center/Server 8.0 updates the macros in your server-side instance first, and avoid problems with inadequate permissions in your Cloud instance. We recommend you [use the new migration tool](/doc/faq/migrate-drawio-dc-server-confluence-cloud.html) if it's available in your DC/Server instance. 
+The [new draw.io migration tool](/blog/confluence-drawio-migration.html) in Confluence Data Center/Server 8.0 updates the macros in your server-side instance first, and avoids problems with inadequate permissions in your Cloud instance. We recommend you [use the new migration tool](/doc/faq/migrate-drawio-dc-server-confluence-cloud.html) if it's available in your DC/Server instance. 
 
-If you are migrating from an older version of Confluence, migrating from one Cloud instance to another, or have write permissions to your entire new Cloud instance and are currently using Confluence DC/Server 8.0, you can follow the steps below to export then import the ``Page IDs`` to migrate the draw.io diagrams in your instance. 
+Follow the ``Page ID`` migration steps below if you are: 
+* migrating from an older version of Confluence DC/Server
+* migrating from one Cloud instance to another, or from Cloud to DC/Server
+* you have write permissions to your entire new Cloud instance (rare) and want to migrate from the Confluence DC/Server 8.0 using this older method 
 
 ## Migrating using the ``Page IDs`` method
 
