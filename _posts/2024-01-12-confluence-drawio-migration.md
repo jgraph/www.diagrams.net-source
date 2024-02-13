@@ -3,13 +3,15 @@ layout: post
 author: draw.io
 slug: confluence-drawio-migration
 date: 2024-01-12 09:54:00
-title: Migrating with draw.io from Confluence Data Center/Server 8.0 to Confluence Cloud
+title: Migrating with draw.io from Confluence Data Center/Server to Confluence Cloud
 tags: [features, Atlassian]
 categories: [features,atlassian]
 ---
 
 
-draw.io has updated the migration process for moving a Confluence Data Center/Server 8.0 instance to Confluence Cloud with a macro to ensure diagrams are embedded and linked properly. 
+draw.io has updated the migration process for moving a Confluence Data Center/Server instance to Confluence Cloud with a macro to ensure diagrams are embedded and linked properly. 
+
+**Minimum versions:** The new migration tool is for draw.io 11.3.8 and later on Confluence DC/Server 7.x, and draw.io 12.2.0 and later on Confluence DC/Server 8.x.
 
 The Confluence ``pageID`` is used when adding a links to diagrams and for embedding a diagram from one page to another. When a page is recreated in Confluence Cloud, it is assigned a different ``pageID``, often breaking in-diagram links and embedded diagrams.
 
