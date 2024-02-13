@@ -50,6 +50,10 @@ Additionally, you can use the ``lockdown`` toggle in the editor configuration to
 
 The architectures for draw.io for Confluence and Jira Cloud are identical to those used with draw.io. However, you can set the data governance rules centrally for all users on your Confluence instance.
 
-If you are using the draw.io apps for Confluence or Jira Cloud, [Atlassian lets you additionally set your **data residency** region](https://confluence.atlassian.com/cloud/manage-data-residency-976763149.html) to choose where your data or _in-scope product content_ resides. That means the content of your instance and associated metadata will be stored on servers in that region when it is at rest.
+If you are using the draw.io apps for Confluence or Jira Cloud, [Atlassian lets you additionally set your **data residency** region](https://confluence.atlassian.com/cloud/manage-data-residency-976763149.html) to choose where your data or _in-scope product content_ resides. That means the content of your instance and associated metadata will be stored on servers in that region when it is at rest. Now, you can configure draw.io to match this.
 
-[See how to configure draw.io in Confluence Cloud](/doc/drawio-confluence-cloud.html)
+1. Go to the draw.io app configuration section in your Confluence Cloud settings.
+2. Add the following JSON string: ``"lockdown": true"`` to the configuration to restrict data transmission to between the browser and your Atlassian storage location.
+<br /><img src="/assets/img/blog/drawio-confluence-lockdown-config.png" style="width=100%;max-width:400px;height:auto;" alt="Configure draw.io for Confluence Cloud to lock down your diagram data to match your Atlassian data residency settings">
+
+Learn more about [data storage and flow of diagram data in draw.io for Confluence and Jira Cloud](/doc/faq/data-flow-confluence-jira-cloud.html) and see how to [administer draw.io in Confluence Cloud](/doc/drawio-confluence-cloud-admin.html).

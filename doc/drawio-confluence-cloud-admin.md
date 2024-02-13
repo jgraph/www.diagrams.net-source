@@ -16,6 +16,7 @@ On this page, you'll find instructions for the most common administration tasks 
 
 Jump to a section:
 - [Convert all Gliffy diagrams with the Gliffy mass import tool](#convert-all-gliffy-diagrams-with-the-gliffy-mass-import-tool)
+- [Lockdown diagram data](#lockdown-diagram-data)
 - [Customise draw.io for Confluence Cloud](#customise-drawio-for-confluence-cloud)
   - [Style draw.io to match your corporate image](#style-drawio-to-match-your-corporate-image)
   - [Provide shapes and corporate assets in custom libraries](#provide-shapes-and-corporate-assets-in-custom-libraries)
@@ -36,6 +37,15 @@ Administrators can convert all of the Gliffy diagrams in a Confluence Cloud inst
 
 [Learn how to use the Gliffy to draw.io mass import feature](/doc/faq/mass-import-gliffy-confluence-cloud.html)
 
+## Lockdown diagram data
+
+If your organisation gas strict data management requirements, such as those in regulated industries like finance or healthcare, you'll be familiar with [Atlassian's data residency settings](https://confluence.atlassian.com/cloud/manage-data-residency-976763149.html) to keep your data in one particular server region. Configure draw.io to match this.
+
+1. Go to the draw.io app configuration section in your Confluence Cloud settings.
+2. Add the following JSON string: ``"lockdown": true"`` to the configuration to restrict data transmission to between the browser and your Atlassian storage location.
+<br /><img src="/assets/img/blog/drawio-confluence-lockdown-config.png" style="width=100%;max-width:400px;height:auto;" alt="Configure draw.io for Confluence Cloud to lock down your diagram data to match your Atlassian data residency settings">
+
+Learn more about [data storage and flow of diagram data in draw.io for Confluence and Jira Cloud](/doc/faq/data-flow-confluence-jira-cloud.html)
 
 ## Customise draw.io for Confluence Cloud
 
