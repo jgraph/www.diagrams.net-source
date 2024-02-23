@@ -65,7 +65,6 @@ The draw.io apps for Confluence and Jira are available via the Atlassian Marketp
 
 The following integrations are not directly provided by the draw.io team.
 
-* [**Aha!:**](https://blog.aha.io/introducing-aha-mockups/) Develop project management mockups and flow diagrams, product roadmaps and marketing planning.
 * [**Bioiocons:**](https://bioicons.com/extensions/) Open-source icon libraries that work with the draw.io web app for life science illustrations and diagrams.
 * [**BookStack:**](https://www.bookstackapp.com/blog/beta-release-v0-20-0/) An open source information management system.
 * [**Docstell:**](https://docstell.com/) Docstell provide software documentation for developers.
