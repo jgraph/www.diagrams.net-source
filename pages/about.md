@@ -5,7 +5,7 @@ permalink: /about.html
 ---
 <img style="max-width:100%;height:auto;" src="/assets/img/blog/team-2018.jpg" alt="Team">
 
-draw.io is an technology stack for building diagramming applications, and the world’s most widely used browser-based end-user diagramming software.
+draw.io is a technology stack for building diagramming applications, and the world’s most widely used browser-based end-user diagramming software.
 
 draw.io is a registered trademark of JGraph Ltd and draw.io AG. JGraph Ltd is a company registered in England, draw.io AG is a company registered in Switzerland. Jointly, these companies develop and own the software, run the diagrams.net and draw.io sites and own the diagrams.net and draw.io brands.
 
