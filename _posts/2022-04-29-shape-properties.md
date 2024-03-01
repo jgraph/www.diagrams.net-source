@@ -105,5 +105,8 @@ If you can't find a shape in any of the shape libraries to suit your needs, you 
 
 Automatically number shapes with the [Enumerate shape property](/blog/number-shapes.html).
 
+Add and [customise a shadow](/blog/shape-shadows.html) on shapes, connectors and text via the shape properties.
+<br /><img src="/assets/img/blog/shape-shadow-properties.png" style="width=100%;max-width:400px;height:auto;" alt="Set the colour, opacity, size and amount of blur on shape shadows in draw.io">
+
 Right click on a shape and select _Edit Connection Points_ to use the visual editor and [change the connection points on a shape](/blog/edit-connection-points.html).
 <br /><img src="/assets/img/blog/connection-points-delete.png" style="width=100%;max-width:200px;height:auto;" alt="Delete connection points on a shape in the visual editor with draw.io">
