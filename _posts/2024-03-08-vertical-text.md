@@ -22,7 +22,10 @@ Here's how all four of the writing directions would look in both English and Jap
 
 <img src="/assets/img/blog/text-writing-direction-all.png" style="width=100%;max-width:600px;height:auto;" alt="Examples of the four Writing Direction settings on English and Japanese text in a draw.io diagram"> 
 
-**Tip:** Choosing _Automatic_ as the writing direction will orient text from left-to-right, unless it is in a language that is only read from right to left (such as Arabic).
+**Tip:** Choosing _Automatic_ as the writing direction will orient text from left-to-right, unless it is in a language that is only read from right to left (such as Arabic). 
+
+You will notice more of a difference in text alignment when you mix scripts, for example, Arabic and Latin characters.
+<br /><img src="/assets/img/blog/text-writing-direction-arabic-example.png" style="width=100%;max-width:400px;height:auto;" alt="The change in alignment using right to left as the writing direction is more obvious with mixed scripts, such as English and Arabic"> 
 
 ## Writing direction vs vertical text
 

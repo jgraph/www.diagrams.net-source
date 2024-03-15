@@ -14,14 +14,21 @@ Google Drive is a popular cloud platform for storing and sharing files. It's ide
 After you have selected Google Drive as your [storage location for diagram files](/doc/faq/storage-location-select.html), you may be prompted to authorise draw.io to allow access to the files stored there.
 
 1. Click _Authorise_, then log into your Google Drive account.
-2. Click _Allow_ to grant draw.io permission to _Add itself to Google Drive_.
-3. Click _Allow_ to grant permission to _View and manage Google Drive files and folders that you have opened or created with this app_.
-4. Click _Allow_ to confirm your choices.
+2. Choose the Google account you want to save your diagram to, and log in if Google prompts you to. 
+<br /><img src="/assets/img/blog/google-drive-drawio-signin.png" style="width=100%;max-width:300px;height:auto;" alt="Grant permission for draw.io to access your Google Drive files">
+<br />**Note:** You are not signing in to draw.io - you are signing into your Google Drive account via draw.io.
+1. Click _Select all_ to allow draw.io to save and read diagram files from your Google Drive account. 
 <br /><img src="/assets/img/blog/google-drive-permissions.png" style="width=100%;max-width:300px;height:auto;" alt="Grant permission for draw.io to access your Google Drive files">
 
 [Learn about the permissions draw.io needs for Google Drive and Google Workplace](/doc/faq/gsuite-permissions.html)
 
 **Note:** If you sign out of your Google Drive account, you will be prompted to sign back in when your diagram is saved, but you won't need to authorise draw.io again. If you are having trouble, follow these steps to [fix connection issues with draw.io in Google Drive](/doc/faq/google-drive-connection-problems.html).
+
+**draw.io for Google Drive on Google Workspace Marketplace**
+
+If you prefer to manage app installations via the Google Workspace Marketplace, [install the draw.io app for Google Drive](https://workspace.google.com/marketplace/app/drawio/671128082532). 
+
+Uninstalling this app via Google Marketplace will remove access permissions to your Google Drive account, even if you have also signed into Google Drive via the draw.io editor, and you will need to re-sign-in and re-authorise to continue working with the diagram files stored there.
 
 1. Once you are logged into Google Drive, and you have authorised draw.io to use your account, go to [app.diagrams.net/?mode=google](https://app.diagrams.net/?mode=google) to start diagramming.
 2. Click _Create New Diagram_ to start a new diagram, or _Open Existing Diagram_ to browse to a diagram file stored in your Google Drive account and open it.
