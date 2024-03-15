@@ -47,10 +47,16 @@ Select a connector, then use the options and advanced properties in the _Style_ 
 **Shadow** and **Sketch**  - Add a ``Shadow`` to your connector, or make your connector look roughly hand-drawn with ``Sketch``.
 <br /><img src="/assets/img/blog/style-tab-shadow-sketch.png" style="width=100%;max-width:350px;height:auto;" alt="Style your connector using the options in the Style tab in the format panel on the right in draw.io">
 
+**Flow animation** - [Animate the connector](/doc/faq/connector-animate.html) to show the direction of the flow. 
+<br /><img src="/assets/img/blog/style-tab-flow-animation.png" style="width=100%;max-width:350px;height:auto;" alt="Animate connectors in draw.io via the Style tab">
+
 **Additional connector properties**
 
-Edit the values in the property list at the bottom of the _Style_ tab to change additional connector style options.
+Edit the values in the property list at the bottom of the _Style_ tab to change additional connector style options. 
 <br /><img src="/assets/img/blog/connector-properties.png" style="width=100%;max-width:300px;height:auto;" alt="Manually style your connector using key=value pairs in the Edit Style dialog">
+
+Choose between different [connector animation styles](/blog/connector-animation-styles.html) and change the speed of the animation via the connector animation _Properties_.
+<br /><img src="/assets/img/blog/flow-animation-properties.png" style="width=100%;max-width:500px;height:auto;" alt="Set a variety of flow timings on animated connectors in draw.io via the connector Properties in the Style tab">
 
 ### Set a default connector style
 

@@ -5,16 +5,21 @@ faq: true
 categories: [Integrations,Google]
 ---
 
-Use the free [draw.io add-on for Google Docs](https://gsuite.google.com/u/0/marketplace/app/drawio_diagrams_for_docs/224440279306?hl=en&pann=docs_addon_widget) to embed your diagrams into your documents. When you make changes to your diagram, you need to update them inside your document to see the changes.
+Use the free [draw.io add-on for Google Docs](https://workspace.google.com/marketplace/app/drawio/224440279306) to embed your diagrams into your documents. When you make changes to your diagram, you need to update them inside your document to see the changes.
+
+**Tip:** draw.io apps for Google Workspace are also available for [Google Drive](/doc/faq/google-drive-install-drawio.html) and [Google Slides](/doc/faq/google-slides-drawio-install.html).
 
 ## Install the draw.io Google Docs add-on
 
-1. Open a Google document, or create a new document. Click _Add-ons > Get Add-ons_.
-2. Search for ``draw.io`` and click on the [_diagrams.net Diagrams for Docs_](https://gsuite.google.com/u/0/marketplace/app/drawio_diagrams_for_docs/224440279306?hl=en&pann=docs_addon_widget) add-on. It uses the online version of the draw.io editor.
-<br /><img src="/assets/img/blog/diagrams-docs-google-marketplace.png" style="width=100%;max-width:400px;height:auto;" alt="Install the diagrams for Docs add-on from the Google Marketplace">
+1. Go to the [draw.io app for Google Docs in the Google Workspace Marketplace](https://workspace.google.com/marketplace/app/drawio/224440279306), and click _Install_.
+<br /><img src="/assets/img/blog/diagrams-docs-google-marketplace.png" style="width=100%;max-width:500px;height:auto;" alt="Install the diagrams for Docs add-on from the Google Marketplace">
+1. Click _Continue_, then choose the account you want to install draw.io into, and sign in or click _Continue_, if prompted by Google. 
+<br /><img src="/assets/img/blog/google-drive-drawio-install-start.png" style="width=100%;max-width:200px;height:auto;" alt="Install the draw.io app for Google Docs via the Google Workspace Marketplace">
 3. [Grant draw.io permission to access your Google Documents](/doc/faq/gsuite-permissions) and the files you have stored on Google Drive.
 <br /><img src="/assets/img/blog/diagrams-docs-grant-permission.png" style="width=100%;max-width:200px;height:auto;" alt="Grant permission for draw.ioto access your Google Drive files and Google Docs">
-4. Start using the add-on via the _Add-ons > diagrams.net for Docs_ submenu.
+<br />Google will now install the draw.io for Drive app.
+1. Click _Done_ to close the installer. 
+<br /><img src="/assets/img/blog/google-docs-drawio-install-finish.png" style="width=100%;max-width:200px;height:auto;" alt="Install the draw.io app for Google Drive via the Google Workspace Marketplace">
 
 **Note:** Your diagram data is only ever stored in your browser and on your Google Drive account.
 
