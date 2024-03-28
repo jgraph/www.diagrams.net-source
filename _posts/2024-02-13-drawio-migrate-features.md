@@ -19,7 +19,7 @@ You can configure draw.io to match this and lock down your diagram data so it wo
 **As an administrator**
 
 1. Go to the _draw.io app Configuration_ section in your Confluence Cloud settings.
-2. Add the following JSON string: ``"lockdown": true"`` to the configuration.
+2. Add the following JSON string: ``"lockdown": true`` to the configuration.
 <br /><img src="/assets/img/blog/drawio-confluence-lockdown-config.png" style="width=100%;max-width:400px;height:auto;" alt="Configure draw.io for Confluence Cloud to lock down your diagram data to match your Atlassian data residency settings">
 
 [Learn about the flow of diagram data in draw.io for Confluence and Jira Cloud](/doc/faq/data-flow-confluence-jira-cloud.html)
