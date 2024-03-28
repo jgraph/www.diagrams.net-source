@@ -40,7 +40,7 @@ Additionally, you can use the ``lockdown`` toggle in the editor configuration to
 
 1. Select _Extras > Configuration_ to customise draw.io.
 <br /><img src="/assets/img/blog/extras-configuration-menu.png" style="width=100%;max-width:300px;height:auto;" alt="Access the draw.io configuration via Extras > Configuration">
-2. To restrict data transmission to between your browser and your storage location, add the following JSON string: ``"lockdown": true"``.
+2. To restrict data transmission to between your browser and your storage location, add the following JSON string: ``"lockdown": true``.
 <br /><img src="/assets/img/blog/edit-configuration-data-governance-lockdown.png" style="width=100%;max-width:300px;height:auto;" alt="Set which draw.io server region to use and restrict data transmission to between browser and storage location only in the editor configuration JSON code">
 3. Click _Apply_ to save your changes, and then reload the draw.io editor (refresh the browser page).
 
