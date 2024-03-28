@@ -3,13 +3,15 @@ layout: post
 author: draw.io
 slug: drawio-monday
 date: 2024-03-27 09:54:00
-title: Add draw.io diagram and boards to your Monday Workspace
+title: Add draw.io diagrams and boards to your Monday Workspace
 tags: [integrations]
 categories: [integrations]
 ---
 
-[Monday](https://monday.com) is a popular work management and sales CRM platform. You can now add draw.io diagrams to your team's Monday boards to collaborate on diagrams visually. Your diagram files are stored directly in your Monday Workspace.
+[Monday](https://monday.com) is a popular work management and sales CRM platform. With the draw.io integration, you can add diagrams to your team's Monday boards to collaborate on diagrams visually. Your diagram files are stored directly in your Monday Workspace.
 <br /><img src="/assets/img/blog/monday-drawio-diagram.png" style="width=100%;max-width:500px;height:auto;" alt="Add diagrams and boards to your Monday Workspaces with the draw.io integration">
+
+**Note:** The draw.io integration is currently awaiting approval to be accepted into the Monday Marketplace. 
 
 The draw.io integration for Monday Workspaces is fully featured, with the same shape libraries, templates, and advanced tools that you are used to using in the draw.io online editor at [app.diagrams.net](https://app.diagrams.net). 
 
@@ -69,3 +71,10 @@ The full draw.io editor with the shape libraries and format panel will open and 
 If you are new to diagramming, follow [this tutorial to create and style a simple flowchart in draw.io](/doc/getting-started-basic-flow-chart.html). 
 
 **Tip:** Skip ahead to the section where you add shapes to the drawing canvas, as you are storing your diagram files directly in your Monday Workspace.
+
+## Collaborate with shared cursors
+
+When two or more people edit the same draw.io diagram or board in Monday, they will see each other's cursors, what they select, and any changes they make to the diagram, all in real time. 
+
+In the example below, two users are logged into different browsers - you can see the changes and movements made by one user are visible to the other. 
+<br /><img src="/assets/img/blog/monday-collaboration.mp4" style="width=100%;max-width:600px;height:auto;" alt="When two or more people are editing the same draw.io diagram in Monday, you'll see their cursors and what changes they make to the diagram in real time">
