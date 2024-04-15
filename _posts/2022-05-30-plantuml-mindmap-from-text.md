@@ -15,7 +15,7 @@ Mindmaps are useful to quickly capture ideas, and are easy to draw in draw.io an
 
 PlantUML allows you to create a wide range of diagrams from a human-readable text description. Originally, it supported various types of UML diagrams. PlantUML has been expanded to include general purpose [mindmaps](https://plantuml.com/de/mindmap-diagram), concept diagrams and flows, and even Gantt charts for project management. 
 
-Mindmaps in PlantUML are enclosed in the ``@startmindmap`` and ``@endmindmap`` tags which tell the renderer to lay the diagram out as a mindmap.
+Mindmaps in PlantUML are enclosed in the ``@startmindmap`` and ``@endmindmap`` tags which tell the renderer to lay the diagram out as a mindmap. PlantUML functionality in only available in online versions of draw.io, not draw.io Desktop or draw.io for Confluence/Jira DC, for example.
 
 **Use the arithmetic notation for mindmaps in draw.io**
 * Right-side topics and branches are written with a plus (``+``), the left side is written with a minus (``-``). 

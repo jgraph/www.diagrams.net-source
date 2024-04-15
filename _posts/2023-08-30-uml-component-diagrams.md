@@ -120,7 +120,7 @@ In earlier versions of the UML specification, components referred to the files a
 
 ## Component diagrams from text with PlantUML
 
-You can also generate [UML component diagrams from PlantUML](https://plantuml.com/component-diagram) text in draw.io. Note that you have limited styling options as the generated diagram is an SVG image, and the lollipop-socket notation is not available.
+You can also generate [UML component diagrams from PlantUML](https://plantuml.com/component-diagram) text in draw.io.  PlantUML functionality in only available in online versions of draw.io, not draw.io Desktop or draw.io for Confluence/Jira DC, for example. Note that you have limited styling options as the generated diagram is an SVG image, and the lollipop-socket notation is not available.
 1. Select _Arrange > Insert from > Advanced > PlantUML_ or click on the ``+`` in the toolbar and select _Advanced > PlantUML_.
 2. Click _Insert_ to generate the diagram as an SVG image and add it to the drawing canvas. 
 3. Double click on the PlantUML diagram again to open the dialog and edit the text, should you need to change something. 

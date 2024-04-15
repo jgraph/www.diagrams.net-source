@@ -37,7 +37,7 @@ To recreate the entities, you'll need to delete the existing entities and their 
 <br />
 ## Software diagrams from PlantUML
 
-PlantUML is a syntax for drawing UML diagrams from plain text descriptions.
+PlantUML is a syntax for drawing UML diagrams from plain text descriptions. PlantUML functionality in only available in online versions of draw.io, not draw.io Desktop or draw.io for Confluence/Jira DC, for example.
 
 1. Click _Arrange > Insert > Advanced > PlantUML_.
 <br /><img src="/assets/img/blog/mindmap-plantuml-example1-insert.png" style="width=100%;max-width:300px;height:auto;" alt="Generate a mindmap from text in draw.io by inserting PlantUML in arithmetic notation via Arrange > Insert > Advanced > PlantUML">
