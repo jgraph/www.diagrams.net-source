@@ -91,7 +91,7 @@ The label on the connector / transition usually follows the format ``trigger [gu
 
 ## Create a UML state diagram in PlantUML
 
-You can define a state diagram in text, and draw.io will generate the diagram for you. 
+You can define a state diagram in text, and draw.io will generate the diagram for you. PlantUML functionality in only available in online versions of draw.io, not draw.io Desktop or draw.io for Confluence/Jira DC, for example.
 
 1. Click _Arrange > Insert > Advanced > PlantUML_ to open the text entry.
 2. Enter the PlantUML description of your state machines in the textbox, and click _Apply_. The diagram editor will convert this to a SVG representation on the canvas. Double-click on this to edit the PlantUML again. 
