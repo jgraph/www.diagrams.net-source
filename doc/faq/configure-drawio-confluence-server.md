@@ -14,6 +14,8 @@ You can configure a number of settings for the draw.io backend in Confluence Ser
 
 ## Supported key=value settings
 
+* ``pollingInterval``: Set the number of seconds between polls where the draw.io editor looks for and synchronises changes made to a diagram by other users. Collaborative editing is available in draw.io for Confluence DC 8.x.
+
 * ``externaliconsearch``: Set a flag to enable or disable the use of the external image search service for icons in the draw.io editor. The default is ``1`` (enabled).
 
 * ``customlibs``: Toggle the custom libraries feature on or off. The default is ``1`` (enabled).
