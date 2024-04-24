@@ -8,10 +8,10 @@ tags: [features, Atlassian]
 categories: [features,atlassian]
 ---
 
-Collaborative editing has long been possible in draw.io for Confluence Cloud. Now, you and your team can edit the same diagram and see each other's changes in real time in draw.io for Confluence Data Center (version 8.x). 
+Collaborative editing has long been possible in draw.io for Confluence Cloud. From the draw.io for Confluence DC release 13.0, you and your team will be able to edit the same diagram and see each other's changes.
 <br /><img src="/assets/img/blog/confluence-dc-collaborative-editing.gif" style="width=100%;max-width:600px;height:auto;" alt="Collaborative editing is available in draw.io for Confluence DC (version 8.x)">
 
-Collaborative editing works in both the draw.io Diagram macro and the draw.io Board macro in Confluence DC.
+Collaborative editing works in both the draw.io Diagram macro and the draw.io Board macro in Confluence DC. Note the collaboration isn't real-time, we need to ensure a slower update rate is stable and causes no performance issues in the first release.
 
 ## Real-time multi-user diagramming
 
@@ -48,7 +48,7 @@ If your Confluence DC users find that changes appear in diagrams they are editin
 
 1. Go to the administration area of your Confluence DC instance. 
 2. Go to the _Configuration_ tab in the _draw.io Add-on Configuration_ section. 
-3. Add the following line to the _UI Configuration_: ``"pollingInterval": 10``
+3. Add the following line to the _UI Configuration_: ``"pullingInterval": 10``
 4. Click _Save changes_ to update the draw.io configuration.
 <br /><img src="/assets/img/blog/confluence-dc-polling-interval.png" style="width=100%;max-width:400px;height:auto;" alt="Set a faster polling interval for collaborative editing in Confluence DC 8.x via the app configuration in your Confluence administration">
 
