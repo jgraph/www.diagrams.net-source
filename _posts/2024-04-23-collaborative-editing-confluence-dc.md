@@ -50,7 +50,7 @@ If your Confluence DC users find that changes appear in diagrams they are editin
 2. Go to the _Configuration_ tab in the _draw.io Add-on Configuration_ section. 
 3. Add the following line to the _UI Configuration_: ``"pullingInterval": 10``
 4. Click _Save changes_ to update the draw.io configuration.
-<br /><img src="/assets/img/blog/confluence-dc-polling-interval.png" style="width=100%;max-width:400px;height:auto;" alt="Set a faster polling interval for collaborative editing in Confluence DC 8.x via the app configuration in your Confluence administration">
+<br /><img src="/assets/img/blog/confluence-dc-pulling-interval.png" style="width=100%;max-width:400px;height:auto;" alt="Set a faster polling interval for collaborative editing in Confluence DC 8.x via the app configuration in your Confluence administration">
 
 In this example, we have set the polling interval to 10 seconds. 
 
