@@ -195,7 +195,7 @@ This configuration produces the following _More Shapes_ dialog when combined wit
 
 * ``zoomWheel``: Specifies if the mouse wheel is used for zoom without any modifiers (true/false, 15.0.6 and later). Default is false.
 
-* ``zoomFactor``: Defines the zoom factor for mouse wheel and trackpad zoom. Default is 1.2 (14.7.0 and later).
+* ``zoomFactor``: Defines the zoom factor for mouse wheel and trackpad zoom. Value must be >1. Default is 1.2 (14.7.0 and later).
 
 * ``darkColor``: Defines the background color for dark mode. Default is #2A2A2A.
 
