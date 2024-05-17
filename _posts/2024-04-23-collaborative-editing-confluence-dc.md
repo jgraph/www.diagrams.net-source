@@ -44,11 +44,11 @@ Because draw.io [merges all the changes made to a diagram](/blog/gliffy-vs-drawi
 
 ## Increase the synchronisation speed
 
-If your Confluence DC users find that changes appear in diagrams they are editing together too slowly, an administrator can increase the speed that changes are pulled to your editor in the draw.io app configuration, by specifying the number of seconds between each pull. 
+If your Confluence DC users find that changes appear in diagrams they are editing together too slowly, an administrator can increase the polling speed in the draw.io app configuration, by specifying the number of seconds between each poll. 
 
 1. Go to the administration area of your Confluence DC instance. 
 2. Go to the _Configuration_ tab in the _draw.io Add-on Configuration_ section. 
-3. Add the following line to the _UI Configuration_: ``"pullingInterval": 10``
+3. Add the following line to the _UI Configuration_: ``"pollingInterval": 10``
 4. Click _Save changes_ to update the draw.io configuration.
 <br /><img src="/assets/img/blog/confluence-dc-pulling-interval.png" style="width=100%;max-width:400px;height:auto;" alt="Set a faster polling interval for collaborative editing in Confluence DC 8.x via the app configuration in your Confluence administration">
 
