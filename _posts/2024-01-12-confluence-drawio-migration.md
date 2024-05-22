@@ -18,7 +18,7 @@ With draw.io's migration tool, diagram macros in your Data Center/Server instanc
 
 **Should I use this new migration tool?**
 
-We recommend that you [use the older ``Page IDs`` method](/doc/faq/migrate-drawio-confluence.html), now that Atlassian supports "mass permission change" in Cloud, but especially if you are: 
+We recommend that you [use the older ``Page IDs`` method](/doc/faq/migrate-drawio-confluence.html), now that [Atlassian supports bulk space permissions editing in Cloud](https://jira.atlassian.com/browse/CONFCLOUD-1053), but especially if you are: 
 * migrating from an older version of Confluence DC/Server
 * migrating from one Cloud instance to another or from Cloud to DC/Server
 * you have write permissions to your entire new Cloud instance (rare) and want to migrate from the Confluence DC/Server 8.0 using this older method

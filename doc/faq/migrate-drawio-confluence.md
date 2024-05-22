@@ -24,7 +24,7 @@ When creating pages on a new instance, those Confluence ``Page IDs`` will change
 
 **Should I use this ``Page IDs`` method, or the new draw.io migration tool?**
 
-With Atlassian's update to support "mass permission change" in Confluence, we now recommend you [use the older ``Page IDs`` method](/doc/faq/migrate-drawio-confluence.html), especially if you are: 
+Now that [Atlassian supports bulk space permissions editing in Cloud](https://jira.atlassian.com/browse/CONFCLOUD-1053), we recommend you [use the older ``Page IDs`` method](/doc/faq/migrate-drawio-confluence.html), especially if you are: 
 * migrating from an older version of Confluence DC/Server
 * migrating from one Cloud instance to another or from Cloud to DC/Server
 * you have write permissions to your entire new Cloud instance and want to migrate from the Confluence DC/Server 8.0 using this older method.
