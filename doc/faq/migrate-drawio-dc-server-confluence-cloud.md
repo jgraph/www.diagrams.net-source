@@ -23,14 +23,14 @@ The draw.io migration tool doesn't migrate any data, it replaces the ``Page IDs`
 
 **Should I use this new drawio migration tool, or the import/export ``Page IDs`` method?**
 
-The [new draw.io migration tool](/blog/confluence-drawio-migration.html) in Confluence Data Center/Server updates the macros in your server instance first, and avoids problems with inadequate permissions in your Cloud instance. We recommend you follow the steps below if you can see the draw.io migration tool in your DC/Server instance administration. 
-
-**Minimum versions:** The new migration tool is for draw.io 11.3.8 and later on Confluence DC/Server 7.x, and draw.io 12.2.0 and later on Confluence DC/Server 8.x.
-
-If you prefer, you can [use the older ``Page IDs`` method](/doc/faq/migrate-drawio-confluence.html) if you are: 
+Now that [Atlassian supports bulk space permissions editing in Cloud](https://jira.atlassian.com/browse/CONFCLOUD-1053), we recommend you [use the older ``Page IDs`` method](/doc/faq/migrate-drawio-confluence.html), especially if you are: 
 * migrating from an older version of Confluence DC/Server
 * migrating from one Cloud instance to another or from Cloud to DC/Server
-* you have write permissions to your entire new Cloud instance (rare) and want to migrate from the Confluence DC/Server 8.0 using this older method
+* you have write permissions to your entire new Cloud instance and want to migrate from the Confluence DC/Server 8.0 using this older method.
+
+The [new draw.io migration tool](/blog/confluence-drawio-migration.html) in Confluence Data Center/Server may be more convenient for some administrators. It updates the macros in your server instance first, and avoids problems with inadequate permissions in your Cloud instance, but may cause problems if pages are renamed during migration. 
+
+**Minimum versions:** The new migration tool works with draw.io 11.3.8 and later on Confluence DC/Server 7.x, and draw.io 12.2.0 and later on Confluence DC/Server 8.x.
 
 ## Use the draw.io migration tool to migrate your Confluence DC/Server instance
 

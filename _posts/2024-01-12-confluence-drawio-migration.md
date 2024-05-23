@@ -8,8 +8,7 @@ tags: [features, Atlassian]
 categories: [features,atlassian]
 ---
 
-
-draw.io has updated the migration process for moving a Confluence Data Center/Server instance to Confluence Cloud with a macro to ensure diagrams are embedded and linked properly. 
+draw.io has updated the migration process for moving a Confluence Data Center/Server instance to Confluence Cloud with a macro to ensure diagrams are embedded and linked properly, providing no Confluence pages are renamed in the migration process. 
 
 **Minimum versions:** The new migration tool is for draw.io 11.3.8 and later on Confluence DC/Server 7.x, and draw.io 12.2.0 and later on Confluence DC/Server 8.x.
 
@@ -19,12 +18,12 @@ With draw.io's migration tool, diagram macros in your Data Center/Server instanc
 
 **Should I use this new migration tool?**
 
-If you prefer, you can [use the older ``Page IDs`` method](/doc/faq/migrate-drawio-confluence.html) if you are: 
+We recommend that you [use the older ``Page IDs`` method](/doc/faq/migrate-drawio-confluence.html), now that [Atlassian supports bulk space permissions editing in Cloud](https://jira.atlassian.com/browse/CONFCLOUD-1053), but especially if you are: 
 * migrating from an older version of Confluence DC/Server
 * migrating from one Cloud instance to another or from Cloud to DC/Server
 * you have write permissions to your entire new Cloud instance (rare) and want to migrate from the Confluence DC/Server 8.0 using this older method
 
-However, if you are using Confluence Data Center/Server 8.0, and you _don't have full write permissions_ in your new Cloud instance, you will need to run this new migration tool, following the steps below.
+However, if you are using Confluence Data Center/Server 8.0, and you will not rename Confluence pages as part of the migration process, you may find this new migration tool convenient. Follow the steps below.
 
 **Run the draw.io migrate tool on Data Center/Server**
 

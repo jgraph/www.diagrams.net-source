@@ -38,10 +38,10 @@ Even when using the simple [draw.io board macro in Confluence](/blog/online-whit
 
 ## Migration and import tools
 
-If you choose at some point to migrate to Cloud from DC/Server, use the [new draw.io migration tool](/blog/confluence-drawio-migration.html) in your old DC instance to make sure all in-diagram links and embedded diagrams work in your new instance. 
-<br /><img src="/assets/img/blog/confluence-server-cloud-migration.png" style="width=100%;max-width:400px;height:auto;" alt="Start the Confluence DC/Server to Cloud migration preparation for draw.io diagrams in the administration area via draw.io add-on > Configuration > Cloud Migration">
+If you choose at some point to migrate to Cloud from DC/Server, to maintain diagram links and embedded diagrams we recommend using the [PageID export/import method](doc/faq/migrate-drawio-confluence.html), now that Atlassian supports 'mass permission change'.
 
-When migrating the other way - from Cloud to Data Center - you can also maintain diagram links using the [PageID export/import method](doc/faq/migrate-drawio-confluence).
+You may find the [new draw.io migration tool](/blog/confluence-drawio-migration.html) more convenient to use in your old DC instance, but it may have issues if you rename pages during the migration process. 
+<br /><img src="/assets/img/blog/confluence-server-cloud-migration.png" style="width=100%;max-width:400px;height:auto;" alt="Start the Confluence DC/Server to Cloud migration preparation for draw.io diagrams in the administration area via draw.io add-on > Configuration > Cloud Migration">
 
 draw.io makes it easy to migrate and import from other diagramming tools in Confluence DC.
 * [Import all your Gliffy diagrams in your instance](/doc/faq/mass-import-gliffy-confluence-server) as a Confluence administrator. 
