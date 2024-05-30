@@ -110,12 +110,13 @@ path: /trust/
 
     8.4	  We may use your Contact Details, Technical and Profile Data to form a view on what we think you may want or need, or what may be of interest to you. This is how we decide which products, services and offers may be relevant for you (we call this marketing). 
 
-    8.5	  You will receive marketing communications from us if you have requested information from us or purchased products or services from us or if you provided us with your details when you entered a competition or registered for a promotion and, in each case, you have not opted out of receiving that marketing.
+  
+    8.5	You will not receive marketing communications from us.
 
-    8.6	  We will get your express opt-in consent before we share your personal data with any company for marketing purposes.
+    8.6	We will not share your personal data with any company for marketing purposes.
 
-    8.7	  You can ask us to stop sending you marketing messages at any time by emailing us AND/OR logging into our website checking or unchecking relevant boxes to adjust your marketing preferences or by following the opt-out links on any marketing message sent to you or by contacting us at any time.
-
+    8.7	Should we ever change this policy so that we may send you marketing communication, you will be able to ask us to stop sending you marketing messages at any time by emailing us AND/OR logging into our website checking or unchecking relevant boxes to adjust your marketing preferences or by following the opt-out links on any marketing message sent to you or by contacting us at any time.
+    
     8.8	  Where you opt out of receiving these marketing messages, this will not apply to personal data provided to us as a result of a product/service purchase, warranty registration, product/service experience or other transactions.
 
     8.9	  We use your personal data for the following reasons:
