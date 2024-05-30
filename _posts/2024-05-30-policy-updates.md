@@ -2,7 +2,7 @@
 layout: post
 author: draw.io
 slug: policy-updates
-date: 2200-04-01 09:43:00
+date: 2024-05-30 09:43:00
 title: Privacy policy updates
 tags: [data protection]
 categories: [trust, features]
@@ -26,7 +26,7 @@ draw.io runs on Windows, macOS and Linux - [download the draw.io Desktop install
 
 ## Configure data transmission lockdown
 
-Set [``"lockdown": true``](/blog/data-governance-lockdown.html) in the editor configuration. Lockdown options only apply to cloud based draw.io versions.
+Set [``"lockdown": true``](/blog/data-governance-lockdown.html) in the editor configuration. Lockdown options only apply to cloud-based draw.io versions.
 
 This will disable data transmission apart from directly between your browser where you are editing your diagram, and the [cloud platform or location](/doc/faq/storage-location-select.html) you have chosen to store the diagram file. 
 
