@@ -28,9 +28,7 @@ In order to serve the app.diagrams.net online application, it needs to know your
 
 If an error happens (software always causes errors), an error report is sent to our servers with the line of code in the draw.io application where the error occurred. These error reports never contain any diagram data or personal information.
 
-All [privacy and security processes and measures are fully documented on GitHub](https://github.com/jgraph/security-privacy-legal)
-
-<a href="https://github.com/jgraph/security-privacy-legal"><img src="/assets/img/blog/security-privacy-legal-github.png" style="max-width:100%;height:auto;" alt="draw.io's versioned security, privacy and legal documentation on GitHub"></a>
+Our [updated privacy policy is available on GitHub](https://github.com/jgraph/www.diagrams.net-source/blob/release/trust/index.md)
 
 ## Offline and secure diagramming with the desktop app
 
