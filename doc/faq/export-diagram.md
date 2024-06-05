@@ -71,7 +71,7 @@ When you export your diagram to a PDF file, you can include a copy of your diagr
 2. Change the [PDF export settings](/doc/faq/export-to-pdf.html) to suit your requirements, then click _Export_.
 <br /><img src="/assets/img/blog/export-pdf-options.png" style="width=100%;max-width:200px;height:auto;" alt="Change the export settings when exporting to a PDF">
 
-**Tip:** If _File > Export as > PDF_ throws an error, you can try _File > Print, click on _All pages_ then on Print.  Finally, in the printer settings dialog that appears, choose _Print to PDF_ or _Save as PDF_.
+**Tip:** If _File > Export as > PDF_ throws an error, you can try _File > Print_, click on _All Pages_ then on _Print_.  Finally, in the printer settings dialog that appears, choose _Print to PDF_ or _Save as PDF_.
 
 ## Export to a VSDX file
 
