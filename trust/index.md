@@ -179,6 +179,9 @@ path: /trust/
 
     11.4   Where you have a password which enables you to use our services, you are responsible for keeping this password complex, secure, and confidential.
 
+    11.5 All our software is designed and reviewed, through code reviews, to check that personal information, other than that contained within diagrams, is never sent to our servers. Where diagram data is sent to servers for temporary processing, that will be documented publicly.
+
+
 
 12.	   Retention of your Data
 
