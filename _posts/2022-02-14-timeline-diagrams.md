@@ -36,8 +36,8 @@ Most items in the infographic shape library are a collection of shapes and label
 
 There are two _horizontal roadmaps_ with different styles, as well as a _bar graph_ that are well suited to use as a timeline or milestone diagram in a presentation or when planning projects using [draw.io as your team's online whiteboard](/blog/sketch-online-whiteboard.html). 
 
-[<img src="/assets/img/blog/timeline-infographic-shapes-horizontal.png" style="width=100%;max-width:650px;height:auto;" alt="Use the horizontal roadmap shapes from the Infographic shape library in draw.io">](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Ftimeline-infographic-shapes-horizontal.drawio)
-<br />[_Open these horizontal timelines in our diagram viewer_](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Ftimeline-infographic-shapes-horizontal.drawio)
+[<img src="/assets/img/blog/timeline-infographic-shapes-horizontal.png" style="width=100%;max-width:650px;height:auto;" alt="Use the horizontal roadmap shapes from the Infographic shape library in draw.io">](https://app.diagrams.net/?lightbox=1&page=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Ftimeline-infographic-shapes-horizontal.drawio)
+<br />[_Open these horizontal timelines in our diagram viewer_](https://app.diagrams.net/?lightbox=1&highlight=0000ff&page=1&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fexamples%2Ftimeline-infographic-shapes-horizontal.drawio)
 
 Some others in the Infographic library that work well as a horizontal timeline when you edit their label text include the following: _list_, _circular dial list_, _percentage list_ and the _roll_.
 

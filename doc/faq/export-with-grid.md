@@ -5,7 +5,7 @@ faq: true
 categories: [Features]
 ---
 
-The diagram editor grid is not included when you print a diagram. But you can include it when you [export a diagram](/doc/faq/export-diagram.html) to an image format or a PDF file. 
+The diagram editor grid is not included when you print a diagram. But you can include it when you [export a diagram](/doc/faq/export-diagram.html) to an image format or a [PDF file](/doc/faq/export-to-pdf.html). 
 
 1. Select _File > Export as_, then select one of the image formats (_PNG_, _JPEG_, or _SVG_) or _PDF_.
 2. Enable the _Grid_ checkbox in the export settings dialog, then click _Export_.
