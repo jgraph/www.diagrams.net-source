@@ -396,5 +396,3 @@ You can create a link to configure the online version of draw.io by clicking on 
 **Note:** If you need to support Microsoft Edge or IE11 then you'll need to stay under 2,025 character hashes.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CVpvbALlgmg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-If you don't want to code the configuration by hand, use this [third-party app to create the draw.io configuration for fonts, colours and default styles](https://drawio-config.herokuapp.com/).
