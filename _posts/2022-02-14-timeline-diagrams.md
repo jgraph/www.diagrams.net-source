@@ -57,7 +57,7 @@ There are also several timeline and roadmap templates in the _Business_ section 
 1. Open a new diagram to see the [template library](/blog/template-diagrams.html), or select _Arrange > Insert > Template_ in the draw.io editor.
 2. Select the _Business_ section on the left, and scroll to the bottom of the the section. Click on the magnifying glass to see a larger preview of any template. 
 <br /><img src="/assets/img/blog/timeline-templates-preview.png" style="width=100%;max-width:350px;;height:auto;" alt="draw.io provides you with a variety of timeline templates in the Business category - click on the magnifying glass on any template to see a larger preview">
-3. Select a template, then click _Insert_ to add it to the drawing canvs. 
+3. Select a template, then click _Insert_ to add it to the drawing canvas. 
 
 ## Embed your timeline in your presentation or document
 
