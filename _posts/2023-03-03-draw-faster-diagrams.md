@@ -69,9 +69,9 @@ You can draw intricate doodles with the freehand tool, especially on mobile devi
 
 ## Use the smart template generator
 
-1. Select _Arrange > Insert > Template_ from the menu, and choose the _Smart Templates_ category on the left. 
-2. Enter a descriptive phrase for your diagram, select the type of diagram you want to create from the drop down list, and click _Generate_. You can re-generate the diagram as many times as you like - it will likely be different every time. 
-<br /><img src="/assets/img/blog/template-library-diagram-generator.png" style="width=100%;max-width:300px;height:auto;" alt="Generate a diagram from a text description via the template library dialog, or when you create a new diagram at draw.io">
+1. Select _Arrange > Insert > Template_ from the menu, and click on _Generate_ in the template library dialog.
+2. Enter a descriptive phrase for your diagram, and press ``Enter`` or click _OK_. Click the pencil to re-generate the diagram as many times as you like - it will likely be different every time. 
+<br /><img src="/assets/img/blog/diagram-generator-template-library.gif" style="width=100%;max-width:500px;height:auto;" alt="Generate a diagram from a text description via the template library dialog, or when you create a new diagram at draw.io">
 3. Once you are happy with the preview, click _Insert_ to add it to the drawing canvas. 
 
 [Learn more about smart generated templates with draw.io](/blog/smart-diagram-generation.html)
