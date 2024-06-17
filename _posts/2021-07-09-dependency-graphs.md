@@ -47,14 +47,20 @@ To document an existing complex system, it is easier to [insert a text descripti
 
 ### Dependency graph templates
 
-Dependency graph (PERT diagram) templates are available in the Business section of the draw.io template library. 
+Dependency graph (PERT diagram) templates are available in the _Business_ section of the draw.io template library. 
 
 1. Create a new diagram in the online draw.io editor at [app.diagrams.net](https://app.diagrams.net) to see the template library. Alternatively, click _Arrange > Insert > Template_ to open the template library dialog. 
 2. Select the _Business_ category on the left. Click on the magnifying glass in the top right of a template on the right to see a larger preview. 
 3. Select a template, then click _Create_ or _Insert_ to add it to the drawing canvas. 
 <br /><img src="/assets/img/blog/pert-diagram-template-insert.png" style="width=100%;max-width:400px;height:auto;" alt="Insert a PERT diagram template in draw.io">
 
-
+You can also [generate a custom smart template](/blog/smart-diagram-generation.html) from a text description of your situation.
+1. Click _Arrange > Insert > Template_ or create a new diagram then click on _Generate_.
+2. Enter your text description and press ``Enter`` or click _OK_. Include the text ``dependency graph`` to limit the smart generator to apprpriate diagram types.
+3. Click on the magnifying glass to see a larger preview of the generated diagram. 
+<br /><img src="/assets/img/blog/dependency-flow-smart-template-generate.png" style="width=100%;max-width:400px;height:auto;" alt="Generate a smart template from a text description of your process to draw a flow with those dependencies">
+4. Click on the pencil in the top left to regenerate the diagram - there can be endless variations. 
+5. Click _Insert_ or _Create_ to add the generated template to the drawing canvas.
 
 ## diagrams.net website dependency graph
 

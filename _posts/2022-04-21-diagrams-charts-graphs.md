@@ -57,9 +57,14 @@ To complicate matters even more, maps, models and plans are also words used to r
 Our draw.io apps come with many templates, [organised into categories in the template library](/blog/template-diagrams.html) roughly corresponding to the terms described above. 
 <br /><img src="/assets/img/blog/template-library-preview.png" style="width=100%;max-width:600px;height:auto;" alt="Hover over a template in draw.io to see a larger preview of it">
 
-1. Select _Arrange > Insert > Template_ to open the template manager. 
+1. Select _Arrange > Insert > Template_ to open the template library. 
 2. Browse the categories on the left and select a template on the right. Click on the magnifying glass to see a larger preview. 
 3. Click _Insert_ to add it to the drawing canvas. 
+
+**Tip:** You can also generate a custom smart template from a text description of your particular diagram via the draw.io template library. Either click on _Generate_ in the _Basic_ section of the library, or go to the _Smart Templates_ section. 
+
+[Learn more about smart diagram generation in draw.io](blog/smart-diagram-generation.html)
+
 
 ## Shapes for different types of diagrams
 

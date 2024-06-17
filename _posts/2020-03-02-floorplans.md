@@ -89,8 +89,9 @@ In the layers dialog:
 
 If you want to create an office floorplan, you may find the floorplan templates in draw.io a useful foundation.
 
-1. When you create a new diagram, in the template library dialog, select the _Other_ category on the left.
-2. Select the floorplan template, then click _Create_.
+1. Create a new diagram, or click _Arrange > Insert > Template_ or _+ > Template_ to open the template library dialog.
+2. Select the _Other_ category on the left. 
+3. Select the floorplan template, then click _Create_.
 
 <img src="/assets/img/blog/floorplans-office-template.png" alt="Start with the office floorplan template in draw.io" style="width=100%;max-width:400px;height:auto;" >
 
