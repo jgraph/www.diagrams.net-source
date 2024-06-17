@@ -11,15 +11,21 @@ categories: [features, import, templates]
 When you create a new diagram with the [draw.io web editor](https://app.diagrams.net), you can now choose to use our new smart diagram generator instead of one of our existing templates. Describe your diagram in a text phrase, and the tool will generate a diagram based on what it parses. For example, this entity relationship model was generated from the phrase "a customer purchases a product from a web store".
 <br /><img src="/assets/img/blog/diagram-generator-template-library.png" style="width=100%;max-width:500px;height:auto;" alt="Generate diagrams of many different types from a text description via the template library in draw.io">
 
-As these smart generated diagrams have not been vetted by a human, there are no guarantees it will useful as a template or a starting point. But the generated diagram can serve as inspiration, or a starting point from which you can draw the diagram you actually need.
+As these smart generated template diagrams have not been vetted by a human, there are no guarantees it will useful as a template for your particular diagram. But the generated diagram can serve as inspiration, or a starting point from which you can draw the diagram you actually need.
 
 **Tip:** You can generate endless variations of a diagram from the same phrase.
 
 ## Generate a diagram in draw.io
 
 1. Create a new diagram - go to [our online diagram editor](https://app.diagrams.net) - or click on ``+`` in the toolbar and select _Template_ to insert a generated diagram.
-2. Select _Smart template_ on the left.
-3. Enter a basic description of your diagram in the text field. 
+2. Click on the _Generate_ box in the template library. 
+3. Enter a basic description of your diagram in the text field, and press ``Enter`` or click _OK_.
+4. Click _Insert_ or _Create_ to add it to the drawing canvas. 
+<br /><img src="/assets/img/blog/diagram-generator-template-library.gif" style="width=100%;max-width:500px;height:auto;" alt="Generate diagrams of many different types from a text description via the template library in draw.io">
+
+Alternatively, you can choose different types of diagrams and see different generated variations of the diagram in the _Smart Templates_ section. 
+1. Create a new diagram - go to [our online diagram editor](https://app.diagrams.net) - or click on ``+`` in the toolbar and select _Template_ to insert a generated diagram.
+2. Go to the _Smart Templates_ section on the left of the template library.
 <br /><img src="/assets/img/blog/template-library-diagram-generator.png" style="width=100%;max-width:300px;height:auto;" alt="Generate a diagram from a text description via the template library dialog, or when you create a new diagram at draw.io">
 1. Select the diagram type that you want to generate from the drop down list, then click _Generate_ and wait for the preview to appear. 
 <br /><img src="/assets/img/blog/diagram-generator-select-type.png" style="width=100%;max-width:300px;height:auto;" alt="Select the type of diagram that you want to generate in the template library in draw.io">

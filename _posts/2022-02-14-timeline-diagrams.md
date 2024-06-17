@@ -59,6 +59,9 @@ There are also several timeline and roadmap templates in the _Business_ section 
 <br /><img src="/assets/img/blog/timeline-templates-preview.png" style="width=100%;max-width:350px;;height:auto;" alt="draw.io provides you with a variety of timeline templates in the Business category - click on the magnifying glass on any template to see a larger preview">
 3. Select a template, then click _Insert_ to add it to the drawing canvas. 
 
+Alternatively, click on _Generate_, enter a description of your situation and generate a custom smart template. Add ``roadmap diagram`` or ``timeline`` to ensure it generates a suitable type of diagram. 
+<br /><img src="/assets/img/blog/roadmap-generate.gif" style="width=100%;max-width:500px;;height:auto;" alt="Use the Smart Template generator to automatically generate a custom roadmap or timeline diagram from a text description">
+
 ## Embed your timeline in your presentation or document
 
 There are many integrations of draw.io. Those which JGraph develops are branded draw.io. These apps and add-ons work in a range of platforms - Google, Microsoft, Atlassian and more.

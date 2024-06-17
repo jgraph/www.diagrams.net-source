@@ -34,7 +34,9 @@ To use a [Google font](https://fonts.google.com), all you need to know is Google
 3. Click on the _Google Fonts_ radio button, type the name of the Google font in the _Font Name_ text field, then click _Apply_.
    <br /><img src="/assets/img/blog/use-google-font-example.png" style="width=100%;max-width:300px;height:auto;" alt="Enter the name of a new Google font">
 
+### How to use Google font weights
 
+To use a specific weights for a Google font, you can specify the weights in the URL of the font in the Web Fonts section. For example, to use the ``Roboto Condensed`` Google font with a weight of 200 (normal) and 900 (bold), you would enter ``Roboto Condensed`` for Font Name and ``https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@200;900`` for Font URL in the Web Fonts section.
 
 ## How to use a web font stored externally
 
