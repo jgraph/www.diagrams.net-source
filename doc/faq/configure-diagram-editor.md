@@ -257,6 +257,9 @@ This configuration produces the following _More Shapes_ dialog when combined wit
 
 [Help for experimental ChatGPT support](https://github.com/jgraph/drawio/discussions/4044)
 
+* ``enableChatGpt``: Specifies if ChatGPT should be enabled (eg. for using templates). Default is ``true``
+only on app.diagrams.net.
+
 * ``gptApiKey``: Specifies the ChatGPT API key. Default is ``null``.
 
 * ``gptModel``: ChatGPT model to be used. Default is ``gpt-3.5-turbo``.
