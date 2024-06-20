@@ -253,11 +253,13 @@ This configuration produces the following _More Shapes_ dialog when combined wit
 
 * ``foreignObjectImages``: Specifies if foreignObject alternate content should be replaced with an image of the HTML text. Default is ``true``.
 
+* ``enableAnimations``: Specifies if animations should be enabled (eg. flow animations on edges). Default is ``true``.
+
 ## Experimental ChatGPT support
 
 [Help for experimental ChatGPT support](https://github.com/jgraph/drawio/discussions/4044)
 
-* ``enableChatGpt``: Specifies if ChatGPT should be enabled (eg. for using templates). Default is ``true``
+* ``enableChatGpt``: Specifies if ChatGPT should be enabled (eg. for creating templates). Default is ``true``
 only on app.diagrams.net.
 
 * ``gptApiKey``: Specifies the ChatGPT API key. Default is ``null``.
