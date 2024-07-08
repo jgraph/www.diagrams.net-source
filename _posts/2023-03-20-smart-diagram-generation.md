@@ -68,7 +68,6 @@ In draw.io, there are many different ways to generate diagrams automatically fro
 * [CSV data into diagrams](/blog/insert-from-csv.html) - with formatting information to create flowcharts, mindmaps, org charts, directed graphs and more.
 
 
-<br />
 ## Troubleshooting generated diagrams
 
 Some diagram types lend themselves more naturally to text descriptions. Flow charts, sequence diagrams and mind maps are easier to generate than git graphs from a text description. 
@@ -80,3 +79,7 @@ This feature uses a third party service to parse your phrase, and it can get som
 * Click _Try Again_ if the generation tool times out.
   
 * If the keywords in your phrase cannot be adequately parsed to generate a diagram, you may receive an "Diagram not found" error. Try another descriptive phrase and regenerate your diagram.
+
+## Smart templates in draw.io for Confluence and Jira
+
+[Smart templates are disabled by default](/doc/faq/confluence-cloud-enable-smart-templates.html) if you are using the draw.io apps for Confluence or Jira Cloud. Ask your administrator to enable  this option in the draw.io configuration.
