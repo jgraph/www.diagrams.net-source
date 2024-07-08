@@ -19,6 +19,8 @@ Smart template diagrams are a good start for simpler types of diagrams, such as 
 
 **Important:** As with all AI or smart content generation tools, you should not include any sensitive information - don't include any private, personal and confidential business information in any query you write.
 
+[Smart templates are disabled by default](/doc/faq/confluence-cloud-enable-smart-templates.html) if you are using the draw.io apps for Confluence or Jira Cloud. Ask your administrator to enable  this option in the draw.io configuration.
+
 ## Generate a smart template diagram
 
 **Open the template library:** Click _Arrange > Insert > Template_ or create a new diagram to open the template library dialog. If you use Simple mode or the Sketch editor theme, click on ``+`` in the toolbar and select _Template_.
