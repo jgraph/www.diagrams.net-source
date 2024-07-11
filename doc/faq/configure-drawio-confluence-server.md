@@ -5,12 +5,14 @@ faq: true
 categories: [Confluence Data Center and Server, Customisation]
 ---
 
-You can configure a number of settings for the draw.io backend in Confluence Server. These settings are entered as a list of ``key=value`` pairs.
+You can configure a number of settings for the draw.io backend in Confluence Server. These settings are entered as a list of ``key=value`` pairs. 
 
 1. As an administrator, click on the gear icon, then select _General configuration_.
 2. Under the _draw.io add-on_ section in the left panel, click on _Configuration_.
 3. Click on the _Configuration_ tab.
-4. Paste your configuration in the _Server Configuration_ field, then click _Save changes_.
+4. Paste your configuration in the **_Add-on Configuration_ field**, then click _Save changes_.
+
+As these particular configuration settings not available in the web version of draw.io, use the second configuration field - the _Add-on Configuration_ for the Confluence-specific settings. 
 
 ## Supported key=value settings
 
@@ -46,6 +48,6 @@ If external images are embedded into the diagrams, that are hosted cross-domain 
 
 The default is ``0`` (external calls enabled).
 
-For example, several of these settings have been added to the _Server Configuration_ field.
+For example, several of these settings have been added to the _Add-on Configuration_ field.
 
 <img src="/assets/img/blog/server-settings-drawio-confluence-server.png" style="max-width:100%;height:auto;" alt="Configure the Server Settings for draw.io in Confluence Server">

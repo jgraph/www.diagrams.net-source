@@ -45,6 +45,9 @@ Our [repository on Github](https://github.com/jgraph/drawio-libs) contains a sel
 
 Follow any [link from the ``draw.io-libs`` repository](https://github.com/jgraph/drawio-libs) to open that custom library in the draw.io editor.
 
+**Important:** Make sure you click on _Raw_ in Github to get the link to the custom library file contents, rather than the GitHub wrapper. 
+<br /><img src="/assets/img/blog/custom-libraries-github-raw.png" style="width=100%;max-width:500px;height:auto;" alt="Click on Raw to see the custom library file contents and use this URL to open the library in draw.io">
+
 **DevSecOps**
 
 For modelling security and operations in development pipelines, GitHub users djschleen and aquasecurity have created some custom libraries that work well together: [pipeline shapes](https://github.com/djschleen/devsecops-architecture-tools) with stages, bends and forks in various colours; and vendor and product logos for [software and service components for cloud security](https://github.com/aquasecurity/cloudsec-icons) stages.
