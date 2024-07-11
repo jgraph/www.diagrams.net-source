@@ -42,18 +42,20 @@ This is the same process followed by the [collaborative editing function in draw
 
 Because draw.io [merges all the changes made to a diagram](/blog/gliffy-vs-drawio.html), and does not overwrite the attachment with the most recent saved state from one user, you won't lose any data when you are editing a diagram as a team. 
 
-## Increase the synchronisation speed
+## Change the synchronisation speed and auto-save interval
 
-If your Confluence DC users find that changes appear in diagrams they are editing together too slowly, an administrator can increase the polling speed in the draw.io app configuration, by specifying the number of seconds between each poll. 
+If your Confluence DC users find that changes appear in diagrams they are editing together too slowly, an administrator can increase the polling speed in the draw.io app configuration, by specifying the number of seconds between each poll in the _Add-on Configuration_ field. 
+
+Also, you can shorten the time between auto-saving the diagram. A shorter interval will mean more attachment versions of diagrams will be created and added to a Confluence page.
 
 1. Go to the administration area of your Confluence DC instance. 
 2. Go to the _Configuration_ tab in the _draw.io Add-on Configuration_ section. 
-3. Add the following line to the _UI Configuration_: ``"pollingInterval": 10``
+3. Add the following lines to the _Add-on Configuration_ text field: ``pollingInterval=10000`` and ``maxAutoSaveDelay=5000``
 4. Click _Save changes_ to update the draw.io configuration.
 <br /><img src="/assets/img/blog/confluence-dc-polling-interval.png" style="width=100%;max-width:400px;height:auto;" alt="Set a faster polling interval for collaborative editing in Confluence DC 8.x via the app configuration in your Confluence administration">
 
-In this example, we have set the polling interval to 10 seconds. 
+In the example above, we have set the polling interval to 10 seconds (which is 10,000 milliseconds). 
 
 **Note:** If you collaborate on extremely large and complex diagrams, you may need to set a longer polling interval. 
 
-[See how to configure the draw.io editor](/doc/faq/configure-diagram-editor.html)
+[See how to configure the draw.io editor for Confluence DC](/doc/faq/configure-drawio-confluence-server.html)
