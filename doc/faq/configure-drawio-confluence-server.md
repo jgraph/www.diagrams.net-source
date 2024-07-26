@@ -36,8 +36,6 @@ As these particular configuration settings not available in the web version of d
 
 * ``disableplaceholders``: When set to ``1`` placeholders are disabled across draw.io diagrams. By default placeholders are enabled, this flag is for companies with strict personal information controls that want to avoid accidental leaking of PII like name of last editor. Since 9.8.0
 
-* ``vsdurl``: You cannot convert ``.vsd`` and ``.vss`` files on the Confluence Server instance itself. Note the entire diagram file is sent to our servers, which have our usual strict security policies applied. Contact your draw.io support channel for the URL to use.
-
 * ``emf2png``: Our external servers can also be used to convert ``.vsd`` and ``.vsdx`` diagrams that contain EMF images to prevent some converted shapes displaying as black rectangles with crosses. You cannot convert EMF images on the Confluence Server instance. Contact your draw.io support channel for the URL to use. Only the EMF image is sent to our servers, which have our usual strict security policies applied.
 
 * ``serveroffline``: Set a flag to enable or disable the use of any external services from the Confluence server(s). These are extended icon search and cross-domain proxy load. 
