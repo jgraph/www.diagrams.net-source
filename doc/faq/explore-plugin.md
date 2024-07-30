@@ -1,51 +1,24 @@
 ---
-title: Step through your diagram using the explore plugin
+title: Step through your diagram using the explore function
 layout: page
 faq: true
 categories: [Plugins]
 ---
 
-_This plugin should be used as-is, as an unsupported example for developers._
-
-The explore plugin allows you to step through your diagram from the point of view of a shape (or a node) in your diagram. When you explore from a shape, you can click on the paths away from and to that shape, without the distraction of the rest of your potentially complex diagram.
+The explore function allows you to step through your diagram from the point of view of a shape (or a node) in your diagram. When you explore from a shape, you can click on the paths away from and to that shape, without the distraction of the rest of your potentially complex diagram.
 
 This is useful for exploring complex organisation charts, mind maps, UML class diagrams, flow charts and more.
 
-[More information about draw.io plugins](/doc/faq/plugins.html)
-
-## Load the explore plugin
-
-* To create a new diagram in our online editor with the plugin already loaded, go to [https://app.diagrams.net/?splash=0&p=ex](https://app.diagrams.net/?splash=0&p=ex)
+[Here is an example.](https://viewer.diagrams.net/?highlight=0000ff&edit=_blank&nav=1#R7Z1td9o4GoZ%2FTT5mjiW%2Ff0xIaHq23eZsutOd%2BaYYAZoYzBjTNPPrVwabYD3GxGBbCKuzZ1sECNB96e3WI%2BnKHMx%2BfYrJYvo1GtHwChujX1fm3RXG2PdM%2Flea8palWIa3SZnEbLRJM94Tntg%2FdJOI8tQVG9FllrZJSqIoTNiimBhE8zkNkkIaiePotfiycRSOCgkLMqGFr5EmPAUkpOBlP9gomW5SPXvn1Q%2BUTab5JyMje2ZG8hdnCcspGUWvO0nm%2FZU5iKMo2fxr9mtAw7T0iuUy3PPs9ovFdJ585A1P0c3UpPHnf%2F51m9w9kMVw9f336yyXnyRcZT%2F4K5nNSJh95eQtLweeFy9y%2FuD2dcoS%2BrQgQfrMK5edp02TWcgfIf7P7c80%2BINxNE%2BGZMbCVP4HGv6kCQtI9kQmNs5fOIjCKF5%2Fmjlc%2F%2BHpJGSTOU8L%2BI%2BkcZp9EkcvWynM9K0sDHfeihzfX6dvXpk%2FM4%2Fm6ZfPfi6NE%2FprbzmirTqcaxrNaBK%2F8Zdkb7AN5zd786Yc6hzW13dCUC77dJeOPJFkVE62ub8Lx%2F%2BRaVdDRwx0%2FDxfpvVBWR2Hhuca9j4dJzEZMfr%2BWc3JiwxP1Bd50vU1gb63LB6pq%2B69ZzsWbrGWIsezipXUt2WLaAERh2w5VVfE1pta5CO%2FIKJrSRfRhjWRBLzAGFFXSNd0AuK1Whv9Ym1ESH6f6cDquJpPmLoyVneZTciILNA3Ysv9TXqldKGUYfTKS01ZLVvvIG0LiVKeQZ30gJA3cziIjaPVfERHmVRCyY1tMrb3Nmaw4AtK7xCwT8sdzZHTjBa%2BLVYr0%2F6gFFZbSvhAibsoXEzZvJ4ajnV7e7%2BX47NUwzTFmmHaJS2c2aUaec3cbcrmo5vU4NhXmg4o9N0h207RvutnCAWKtwVKR7lNsq84%2BXeLVnFAq36Ek3W5CYknNKl6ZblAMQ1Jwn4Wv0nzZY2aKetx3h2fd1ljqWWNmynrbXd53mVtSi1rs1dtiCW1rK1myprPzAY33tmXNXJcqaVtN1bam3nweZe2LbWs4bQZFj4vj6fsYVb6R%2BkxVKMHdSqHk8hDhcEkxk7ZhNkom2cZFePJ7AMfI5bOkN6dFsH2dOxiFpvfnb0L7ywXCRlhISMkZrQpFpDRGqptKZzAGZzTt8aZIqOHPW2s5uwkzqDl8IVFlz%2FLtQxxlmsZ0me50HS4D%2BliSup6QArqYQI9sCdbj9xw2tFjQHopRZkz2q0UMFLjE4vJeEwvXw7oVJctA3YrBwZy3EWTy5fCF6WQ30bB0Ii7aP5C3y5eDMsFzZR0MWCIwxca8Z80ung17DOsGjBW4SGKl5ffYzhwmVp%2BjwF9kz%2FpcwyjRi5ODA80U9InGhiaC5%2FIP%2FyNPagbPghfld9QwTk40OEIrweGpu1KJsXrufqY04OrrR4%2B%2FBTrlN2m2cMHWZ7wef6Rds81Alldd2v4YGgy9Bu2jQOmYWsDNhM6KP2GzdestcYatIj6zRrSsLUHGzTA%2Bg3bzp4%2BDVvTsEGPr%2BewVc%2FxNGynwAY9zJ7DhjVsrcEGLdqew7YnRFbD1gBs7YTuKQzbnhhhDVsDsLUTv6cwbHvCdjVsDcCmFxDKVhs1bK3ABhcQbmnNhUMFN6l6JQuHsjepWtBef4jiOb38LcMeOKXmw6cQtacGNKCHYc04LAWl8MGBUMiSLgUGUnyn8Ywll99O%2BSD4R34zBf3Lr2SesOXFi4EMBNop6WqUBCmS0dvzqmb8ropywANc5MtRcqLSKkloPO5B34EwqB%2FyW6uSg5FCWjNQUUktnDPsyKGN8jVa%2Fr1iSdQDQWDoqPxBLrQanhZsVHLW1OXJ4YLOw5UuR8lkfDV7DulzD6bkCNo4pvQWy4ZzciBEU17c0L4Z2rIObMh%2B1kEvrjq80gQtXJs%2BHBI%2FzhHy%2BKgNB%2ByHaxGoll04u8NoNyUwM6uj3TRnR3IGnZR%2Bc2ZVB7ppzo7krMMYNzU4O7AVWXN2HGcdhrepwRnWnLXBWYeRbWpwVh3Zpjk7krMOg9rU4Kw6qE1zdiRnHcazqcFZdTyb5uxIzjoMZVODs%2BpQNs3ZkZx1uA1eDc6qz1zQnB15y45eDihbQNScNc2ZXg8oWxnVnDXNGQac3ZNJ3YOjxoZHPaTWYrMt3OFmld2K0%2BlSswM980fGc695erOKYvj5MUZns%2B6fn%2BO9G4tPXl8uXwrLLdYL05VeL6D3OiRh0Id6YRuCGNIDxhxoUD4t1leT90ANXFQDm9LVgDbeUxLFPWimHFTUAjnStYBW1zAkMzaf1I1tVVAO1yp24KjsUNRu5YCO0COdT1Z1r3xUUQ3PEiqHL7tyuNA3%2BfYa9kAJv1gvsPRmyoXOwk34THjpLetu4FJQD0cY3dpIdjvlwhn4Iw1ZQHrQTrnCbUlW2bnm3aoB5%2BBPryQM%2BzC89exiW2UZ0tuqLqO7DO9%2BrZgMFzSj7vDdfLhSwvzM1O0grNU704QxRl5363qgCIlGXDGflh1QF7oLPWfsQMSNZqw%2BY11GdSnB2IFoG81Yfca6jOhSgrEDkTaasfqMdRnNpQRjB6JsNGP1GesykksJxg5E2GjGajPmQTey54wdiK7RjNVnrMsILhUYcw%2FstNWM1WcMa8ZKQqg0Y00y1uVObhUYczVjjTOmff6yRUHNWJOMaZ%2B%2FLBBAM9YkY9Dnf6RxMAWgXdo1zGAl35Ue%2F%2BWVHDVJghca05phR0rKIWxucEzpckDr%2BPtqfvn3xSMfFaMqHPk1AzqsT1NSN2hYQS2wYRa1sKXv%2BfGhE%2FljSuruv1JSC09ooqTHfvnQsbsldYMiVZQC2ULnjaVLAY2t%2Bx7023zoXFTCl95Z%2BND%2B%2Bfa2TOoeEK2kGMKY1pO%2B%2BcqHPsl%2FSM1rBRRUAvmCEr78fhu6Cd95sSeXr4UnjKE8X7oWcNY9IMmYLfsw7xbVkL4l0e%2FLTZlZk3T4wPRDlxeKe7VavbrQKtp62DzSaRP2CiAxn5adNr8vV2R%2BmLLqSDRN2VGUdRiLpgZl1bFomrJjKNv%2BdI1ZwaHUmDWMWYcRaUpg5ldHpGnMjsMMa8xKfGWNWcOYdRiXpgZm1XFpGrPjMOswNE0NzLDGrAXMOoxOUwOz6l3oGrPjMOtwI7oamFVvRNeYHYeZXgMoW6LSmDWMWcnl1UlMF0kUREGwqhm5Q7A%2FCmy1lv8c4dxkPvm2y8jpdAUQGdA2vw%2BmNGYBIzyZF07IeqCNGNSOpR9qjRB0mr%2BQIImeSfAWhn2oMa4QdshH3lh%2BjUHQmn1IDwFMhakda6WiLJ4oCzLPQRYMZLllYzbKZGGrWQ%2BUMcRmzJXfjJWc0piQxZS3Yb3p%2Bm1TrDG2fF06NMtusH83sCWN%2B7OW6eC4P2vY96qI7eJQPLW1Wxz5Y4GZ7dUKdUf%2BppgREnNqe%2ByPOjTMFEENa9TaQa1D00wN1Izq%2BAyN2tGodWicqYEaql7V1KgdjVqHEbRqoGZUBzdq1I5GDfqBf75NotlbECU1d4CPbTJe31Wp0EzNtJBwyyPi%2F8l3NzA0A5%2BCmC1Sdn7ELGHzSQ%2FEscUrOBH25EsD%2FcCbZdCfGmOCGmPKdzfyDrK4P5yNWG90wQ6oLJb0TbEIQzfw62o5jaOopj2roiSoRBLHPYPOBVqBX1gwpXVvNVJQEuM8awk0zG5jSkY86WsUji5eFh%2FctX0WfQr0lv6gZFlzH7mKclhw3OWeQ7sFHZh0rrJcRHHdS9EVFMU%2B05lKyeFh8Wo8rn1PvXqSIAMBTZB1DhUFTuoH07ckZpfflXAeoSbnEK9gwhk9EKOxM07tm%2BFaNxmeXtZrHvb08IGVCssUhMzP02jD0cNil%2Ffe4dU29UBe1xiLmbXt65nQpeg5bkjj1iJu0H%2FpOW64egOzxu0k3Lq8%2BEAN3A4EM2ncTsGtw9g5RXDDGrf2cOvyOgQ1cDsQaaJxOwW3Lm9AVgO36g3OGreTcOvyMmQ1cKve6KxxOwm3Lu9FVgO36g3PGreTcOvwWEpFcKs%2B%2FVTjdgpull5VKF2P1Li1gxtcVXicspCMOFBxVDd%2ByPDo%2BiY%2BdVYXHUMUwZd%2BNQ6yMBDljkxDVjfoUT05LFdc6%2FXlhw1Z0Jt%2BpMlq3gc9QPXgjab8%2BgHd2wEJkrob0RXUw4QxQ4YjXw9ob35fhWxx%2BXLA0Plt0UuUA9p%2FX3iXHly%2BHDDMEcnfXmJBe%2ByO8HIPWQ%2FGVyYM3sLnEFBnQRPpMVos3i5eEKsk6tQ%2FB0GgzfKJxs80vvxBlu2UbMA6gwBHG1oR3%2BJgWjvmVD1FHLh9AXtnUElsOFv%2FxOfqLAovv5a4JXsY5I%2B1bDhV%2F0%2B0rBspr6AacNsV79jPoIZ0GUdmePdr2WTYp9mg8rB9uiF0r5DI8wQh3wcILRioCBo8Qh4ftU8xyOkaCVm1bZ7a0IfoOWzWwZMnNWzHwtZlDJkasOmWrTXYuowgUwO26oBFDdsJsHUZP6YGbNXhihq2E2DrMnpMDdiqgxU1bCfA1mXsmBqwVYcqatiOh83pMnJMDdiqAxU1bCfA1uVudDVgqw5T1LCdABvWsJWtlmrY2oBNryCUrgNr2NqATa8glC5xa9jagM2uZCuKk2k0ieYkvH9PFQjZQYf%2BYsn%2F0uTfXDt7%2BEf2Kk5H%2FLb7XPo4f3LJf2YC6OVpQ5b%2BniyDLd%2FPYRS8bJKyF6Qf%2FhdNkrcMVbJKIp70%2FvW%2FRNEiex2oBAgT8myDCuMU6cd5bdh5Jx7at%2B6g2VqRK3KwWjh7PJqYhiRhP4vfpMaq%2Bn%2BXNP72%2FBcNUlJD8kzDvBFywiQrgwIxzt%2BrKH%2FierkurRv%2BAmwtfq2LJn%2Be%2F2uS%2Fv3l8%2B%2Bf%2F%2F0pz%2B45Pimz23ue11NDmeXZ8BLZ%2FMpN8iBknDdsPNA4i%2BII2fxlUyojkhCeKwmSdejm8K9l%2Btfgyt3JPmFJelDi9tPSL5E%2FuP%2B1CNcnW75%2Fl8H7g022y%2BJ77dtC7hTkwF%2FDX%2BDepf%2Bz1%2F%2B%2F%2FtIHWoJdFyZrO3ZahdcpS%2BjTgqzZfY3JoljzC%2BEnadkNyYyFaav2QMOfNGEBEaqTBavT5k%2F6s0M2mfO0gNceGpfVWWf9p7zOiscbpv%2FlH579oPVX5j%2BGzSff1w2DUWjW0FUjATG8c3ELzbvjWrBbyncuFLslu3a95Q93qm6tTgAutnyPKQxY4nmxxTJtnBunoaRx3YYq7aFhd2AjaO6aTkD2HmnZgLLYL%2FbbTm60HYpy2iY2H%2BbkwFWMb%2FGEzNmSJLXDylW8kNETBoEf1aS9yDMHev3fyMvFK4F9LA7IDelauNAKv2VxML14NSwTqCH%2FMHwXesVPjHcN8ZjGl99UWe%2B7K3JJPPmSQEf1kcbLdPZ0lX4TJ50qpWV2R3%2FSMFrM6LzmKfkKKmVjsfJ8uKtvUamSzcdsXjPAXEUxjLOrM2WXrMwuXwnLLlYKV%2F6V5C6MhR1M6TKZry6%2FlbKMohyeKV8OGC16S2kPhlvYOT8t4Pz%2BMVqEJL54MbaXLuXtlF%2ByLtCxGHCa%2FoOXMy%2BoSxcDF7tv15JfMTqMxZN6Be%2FW4ju82OZUx6ykcQZeQcdrs9VreNPlP%2FFIrGNv4k03Iwl5mV3fxetBH%2BImIEHdg4MUrP9Osf478seMXocRa8rU%2F%2BowIl3%2FT63%2F0GbpPXNudTSRZu5U5jqMX1OGuerOSjN3KnMdhrEpwxzWzLXKXIf74ZVhrnqTsmbuVOY63BavDHPVe5U1c6cy1%2BHueGWYq96yrJk7lbkON8krw1z1zmXN3KnMaX9%2Bz2KeZq4t5nzoz2vm9JpQu8zpdYg962SaudaYwz1h7qP76RA6RNw23C8XzTK8VonbNgxbSlwhl48TZ4h5WWJerRNnfgSwD2wu3d1bikqZfN8ZmmZy9M5Q13QGNx5gHMPleMd6fqa4CHLpjlHTsuy7hhvVPKTg%2BEb11D2j%2FGEcRckuMDFZTL9Go3T36P3%2FAQ%3D%3D#%7B%22pageId%22%3A%22e5zw-AxwUfIpcQjirBMC%22%7D)
 
 ## Explore a diagram
 
-Once you have loaded the explore plugin, right click on a shape to see the context menu, and select _Explore from here_, which should be at the bottom of the menu.
+Select a shape and click on the _Explore_ button in the Arrange tab.
+
+<img src="/assets/img/blog/explore-button.png" style="width=100%;max-width:400px;height:auto;" alt="Explore the diagram from the selected cell">
 
 This will open your diagram in the lightbox, showing on the shape you selected and its connected shapes.
 
-<img src="/assets/img/blog/explore-from-here.gif" style="max-width:100%;height:auto;" alt="Using the explore plugin to step through a complex org chart">
+To start exploring from a cell in the lightbox, add the following link to your cell:
 
-## Permanently load the plugin
-
-If you want to always be able to explore your diagrams like this, add the explore plugin to the plugins list to load it each time you create or edit a diagram.
-
-1. From the menu, select _Extras > Plugins_.
-<br /><img src="/assets/img/blog/extras-plugins.png" style="width=100%;max-width:400px;height:auto;" alt="Open the plugins list">
-2. Click _Add_.
-<br /><img src="/assets/img/blog/add-plugin.png"style="width=100%;max-width:200px;height:auto;" alt="Add a new plugin">
-3. Select ``ex`` in the drop-down list of built-in plugins, then click _OK_.
-<br /><img src="/assets/img/blog/add-explore-plugin.png" style="width=100%;max-width:200px;height:auto;" alt="Add the explore plugin">
-4. Click _Apply_.
-<br /><img src="/assets/img/blog/apply-add-explore-plugin.png" style="width=100%;max-width:200px;height:auto;" alt="Add the explore plugin">
-
-Reload your browser tab to load the plugin into the diagram editor.
-
-## Share a diagram so it can be explored
-
-By default, diagrams published to URLs do not load plugins.
-
-To allow someone to explore your diagram, when you publish a diagram to a URL (_File > Publish Link_), add the ``&p=ex`` URL parameter to the link before you share it (as highlighted in blue in the screenshot below).
-
-<img src="/assets/img/blog/share-link-explore-plugin.png" style="width=100%;max-width:400px;height:auto;" alt="Share a link to your diagram and enable the explore plugin">
-
-**Note:** Plugins work with the web version of draw.io ([app.diagrams.net](https://app.diagrams.net/)) or [our Docker image](/blog/diagrams-docker-app) if you want to run your own server. They do not work with draw.io for Confluence/Jira or with draw.io Desktop.
+    data:action/json,{"title":"Explore","actions":[{"explore":{}}]}
