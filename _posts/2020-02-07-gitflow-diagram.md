@@ -39,8 +39,8 @@ The example below shows you how to create and style a gitflow diagram and use de
 6. Clone and connect a few more versions to indicate at least a main version increase of your software, and an incremental version. Double click on each of the circles to change their label text.
 7. Clone and connect one more than you need. Then drag a rectangle from the shape library and hover over it until the black replace arrow appears. Drop the shape and it will automatically be resized and styled similarly to that circle.
 <br /><img src="/assets/img/blog/gitflow-replace-shape.png" style="width=100%;max-width:400px;height:auto;" alt="Drag a rectangle from the shape library and drop it on the final circle to replace it">
-8.  Resize the rectangle and change the label text to indicate this 'line' of versions is the master branch.
-<br /><img src="/assets/img/blog/gitflow-master-branch.png" style="width=100%;max-width:400px;height:auto;" alt="A master branch in a gitflow">
+8.  Resize the rectangle and change the label text to indicate this 'line' of versions is the main branch.
+<br /><img src="/assets/img/blog/gitflow-master-branch.png" style="width=100%;max-width:400px;height:auto;" alt="A main branch in a gitflow">
 
 ## Add a feature or a project branch
 

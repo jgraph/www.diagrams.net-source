@@ -27,7 +27,7 @@ You can [add custom libraries to the draw.io for Confluence app](/doc/faq/custom
 
 You can load a custom library hosted somewhere on the web by using a [URL parameter](/doc/faq/supported-url-parameters.html) when opening the draw.io editor. Add the ``clibs`` parameter and the address of the custom library with URL encoded characters.
 
-For example, to open the [templates.xml custom shape library](https://github.com/jgraph/drawio-libs/blob/master/libs/templates.xml) that is hosted on our GitHub in our online diagram editor, you would use the following URL:
+For example, to open the [templates.xml custom shape library](https://github.com/jgraph/drawio-libs/blob/main/libs/templates.xml) that is hosted on our GitHub in our online diagram editor, you would use the following URL:
 
 [``https://app.diagrams.net/?clibs=Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ftemplates.xml``](https://app.diagrams.net/?clibs=Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ftemplates.xml)
 
