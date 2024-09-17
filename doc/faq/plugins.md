@@ -21,7 +21,7 @@ To [permanently add plugins](/doc/faq/add-plugin.html), select a plugin from the
 
 **Note:** Plugins are not part of the core functionality of draw.io, they are intended as examples for developers to create additional functionality.
 
-The following plugins are available from the [draw.io GitHub repository](https://github.com/jgraph/drawio/tree/master/src/main/webapp/plugins).
+The following plugins are available from the [draw.io GitHub repository](https://github.com/jgraph/drawio/tree/dev/src/main/webapp/plugins).
 
 | **Filename** | **ID** | **Description** |
 |--------|----------|----------|
