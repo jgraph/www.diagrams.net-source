@@ -5,7 +5,7 @@ faq: true
 categories: [Import, Lucidchart]
 ---
 
-You can import diagrams from the Lucidchart JSON file format into ddraw.io. Lucidchart makes it difficult to obtain this data, so the easiest way to import your diagram is to copy and paste it from the Lucidchart editor to the draw.io editor.
+You can import diagrams from the Lucidchart JSON file format into draw.io. Lucidchart makes it difficult to obtain this data, so the easiest way to import your diagram is to copy and paste it from the Lucidchart editor to the draw.io editor.
 
 1. Open the diagram you wish to import in the Ludidchart editor.
 2. Select the entire diagram (``Ctrl+A`` on Windows, ``Cmd+A`` on macOS).

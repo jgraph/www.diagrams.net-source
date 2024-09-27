@@ -8,7 +8,7 @@ tags: [features]
 categories: [features]
 ---
 
-By using URL parameters with our online version of draw.io, you can add translation properties in the shapes themselves while you work in the diagram editor. You can switch languages in the editor via the _Extras_ menu. 
+By using URL parameters with our online version of draw.io, you can add translation properties in the shapes themselves while you work in the diagram editor. You can switch languages in the editor via the _Extras > Diagram Language_ in Classic mode, and via _Settings > Diagram Language_ if you use Simple mode.
 <br /><img src="/assets/img/blog/translate-hover-shape-data.png" style="width=100%;max-width:400px;height:auto;" alt="Translate labels on shapes and connectors directly in the draw.io editor">
 
 If you want to make a diagram available in multiple language, most diagramming applications require you to use separate files. Changes made to the original diagram require edits to multiple copies of a diagram. 
@@ -18,13 +18,18 @@ Translating directly in the diagram editor has a number of advantages:
 * Check that labels in different languages still fit, without having to understand the language.
 * Modify the diagram once - not separately for each language.
  
-## Enable diagram translation 
+## Diagram translation is enabled by default
+
+If switching the diagram language as described below doesn't work, make sure it is not disabled via the menu.
+<br /><img src="/assets/img/blog/diagram-language-disable.png" style="width=100%;max-width:400px;height:auto;" alt="If you can't switch the diagram language even though you have written labels in multiple languages, check that Diagram Language is not Disabled via the Extras or Settings menu">
+
+**Explicitly enable diagram translation**
 
 Add the ``translate-diagram=1`` [URL parameter](/doc/faq/supported-url-parameters.html) to the URL of our diagram editor, or go directly to the following link: 
 
 * [``https://app.diagrams.net/?ui=kennedy&translate-diagram=1``](https://app.diagrams.net/?ui=kennedy&translate-diagram=1)
 
-**Note:** This step is required to activate the translation features.
+Alternatively, add ``"translateDiagrams": true`` to the [draw.io editor configuration](doc/faq/configure-diagram-editor.html). 
 
 ## Translate labels on shapes and connectors
 When you have enabled the diagram translation feature via the URL parameter above, the original label is shown at the top of the _Edit Data_ dialog. 
@@ -51,6 +56,7 @@ In the diagram editor:
 1. Open the menu and select _Settings > Language_.
 2. Choose the language you want to use and refresh the browser tab.
 <br /><img src="/assets/img/blog/translate-diagram.gif" style="width=100%;max-width:600px;height:auto;" alt="Select Extras > Diagram Language and enter a two-letter language code to switch the diagram to another language using the shape properties for that language">
+<br />[_Open this example in the draw.io editor_](https://app.diagrams.net/?lightbox=0&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fmulti-language.drawio)
 
 The labels of shapes that have that language in their shape properties will update and display in that language. Any shapes that have not yet been translated will continue to display a label in the original language.
 
