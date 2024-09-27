@@ -25,21 +25,21 @@ Vulnerabilities are more easily represented visually using a few different diagr
 
 Threat modelling DFDs are similar to those used by system engineers, with a few additional shapes. Operational or infrastructure threat models (OTMs) are a specific type of data flow diagram, visualising how the independent, grouped, and shared components communicate with each other and external entities via connection pathways.
 
-<a href="https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=threat-modelling.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%dev%2Fblog%2Fthreat-modelling.drawio"><img src="/assets/img/blog/threat-modelling-data-flow.png" style="max-width:100%;height:auto;" alt="Example data flow diagram for threat modelling"></a>
+<a href="https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fthreat-modelling.drawio"><img src="/assets/img/blog/threat-modelling-data-flow.png" style="max-width:100%;height:auto;" alt="Example data flow diagram for threat modelling"></a>
 
 ### Process flow diagrams (PFDs)
 
 These are used by agile teams to build application threat models (ATMs). Agile software development teams can analyse their applications and features by critically examining the communication protocols used to connect the code’s building blocks together.
 
-<a href="https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&page=1&nav=1&title=threat-modelling.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%dev%2Fblog%2Fthreat-modelling.drawio"><img src="/assets/img/blog/threat-modelling-process-flow.png" style="max-width:100%;height:auto;" alt="Example process flow diagram for threat modelling"></a>
+<a href="https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&page=1&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fthreat-modelling.drawio"><img src="/assets/img/blog/threat-modelling-process-flow.png" style="max-width:100%;height:auto;" alt="Example process flow diagram for threat modelling"></a>
 
 ### Attack trees
 
 Hierarchical visualisations of one component or asset in your infrastructure allow you to explore how it might be attacked. They have been used for decades in the fields of defence and aerospace to analyse threats to their electronics systems, and are now becoming more popular in other fields. The lowest priority threats (with the least impact) are in the child leaf nodes, and the threats grow in priority as you traverse up through the parent nodes to the root of the tree.
 
-<a href="https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&page=2&nav=1&title=threat-modelling.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%dev%2Fblog%2Fthreat-modelling.drawio"><img src="/assets/img/blog/threat-modelling-attack-tree.png" style="max-width:100%;height:auto;" alt="Example attack tree diagram for threat modelling"></a>
+<a href="https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&pages=2&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fthreat-modelling.drawio"><img src="/assets/img/blog/threat-modelling-attack-tree.png" style="max-width:100%;height:auto;" alt="Example attack tree diagram for threat modelling"></a>
 
-[Open all of these diagrams in our online diagram viewer](https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=threat-modelling.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%dev%2Fblog%2Fthreat-modelling.drawio)
+[Open all of these diagrams in our online diagram viewer](https://viewer.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fjgraph%2Fdrawio-diagrams%2Fdev%2Fblog%2Fthreat-modelling.drawio)
 
 ## Enable the Threat Modeling shape library
 
